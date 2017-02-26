@@ -15,7 +15,7 @@ Sql scripts -- the sql code used to query, load or map the PDDI data in Relation
 terminology-mappings -- mappings of various PDDI data elements to DrugBank
                      -- the database dump of the relational DB used for mappings is saved under here.
                      -- As for the RDBMS, we used Sql server 2012. 
-Merged Dataset Location; 
+Merged Dataset Location: 
           --Less conservative dataset is saved under; https://code.google.com/p/swat-4-med-safety/source/browse/trunk/SW-DDI-catalog/drug-drug-interactions/analysis-results/CombinedDatasetNotConservative.csv.zip
           --More conservative dataset is saved under https://code.google.com/p/swat-4-med-safety/source/browse/trunk/SW-DDI-catalog/drug-drug-interactions/analysis-results/CombinedDatasetConservative.csv.zip
 
