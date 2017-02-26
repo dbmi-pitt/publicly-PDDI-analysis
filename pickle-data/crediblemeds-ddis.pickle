@@ -16,7 +16,7 @@ NsS'evidence'
 p8
 NsS'ddiPkMechanism'
 p9
-S'Concomitant blockade of cardiac potassium channels\r'
+S'Concomitant blockade of cardiac potassium channels'
 p10
 sS'whoAnnotated'
 p11
@@ -83,7 +83,7 @@ p40
 sg7
 Nsg8
 Nsg9
-S'Concomitant blockade of cardiac potassium channels\r'
+S'Concomitant blockade of cardiac potassium channels'
 p41
 sg11
 Nsg12
@@ -126,7 +126,7 @@ p47
 sg7
 Nsg8
 Nsg9
-S'Concomitant blockade of cardiac potassium channels\r'
+S'Concomitant blockade of cardiac potassium channels'
 p48
 sg11
 Nsg12
@@ -169,7 +169,7 @@ p54
 sg7
 Nsg8
 Nsg9
-S'Concomitant blockade of cardiac potassium channels\r'
+S'Concomitant blockade of cardiac potassium channels'
 p55
 sg11
 Nsg12
@@ -204,15 +204,15 @@ p58
 sa(dp59
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01211'
+S'http://bio2rdf.org/drugbank:DB00537'
 p60
 sg5
-S'http://bio2rdf.org/drugbank:DB00564'
+S'http://bio2rdf.org/drugbank:DB01118'
 p61
 sg7
 Nsg8
 Nsg9
-S'Inhibition of carbamazepine metabolism by CYP3A4\r'
+S'Concomitant blockade of cardiac potassium channels'
 p62
 sg11
 Nsg12
@@ -220,7 +220,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased carbamazepine concentrations and risk of carbamazepine toxicity'
+S'Increased risk of TdP and/or QTc prolongation on ECG'
 p63
 sg18
 g19
@@ -231,7 +231,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'CARBAMAZEPINE'
+S'AMIODARONE'
 p64
 sg28
 Nsg29
@@ -242,12 +242,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'CLARITHROMYCIN'
+S'CIPROFLOXACIN'
 p65
 sa(dp66
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00199'
+S'http://bio2rdf.org/drugbank:DB01211'
 p67
 sg5
 S'http://bio2rdf.org/drugbank:DB00564'
@@ -255,7 +255,7 @@ p68
 sg7
 Nsg8
 Nsg9
-S'Inhibition of carbamazepine metabolism by CYP3A4\r'
+S'Inhibition of carbamazepine metabolism by CYP3A4'
 p69
 sg11
 Nsg12
@@ -285,12 +285,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ERYTHROMYCIN'
+S'CLARITHROMYCIN'
 p72
 sa(dp73
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00976'
+S'http://bio2rdf.org/drugbank:DB00199'
 p74
 sg5
 S'http://bio2rdf.org/drugbank:DB00564'
@@ -298,7 +298,7 @@ p75
 sg7
 Nsg8
 Nsg9
-S'Inhibition of carbamazepine metabolism by CYP3A4\r'
+S'Inhibition of carbamazepine metabolism by CYP3A4'
 p76
 sg11
 Nsg12
@@ -328,20 +328,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'TELITHROMYCIN'
+S'ERYTHROMYCIN'
 p79
 sa(dp80
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00338'
+S'http://bio2rdf.org/drugbank:DB00976'
 p81
 sg5
-S'http://bio2rdf.org/drugbank:DB00758'
+S'http://bio2rdf.org/drugbank:DB00564'
 p82
 sg7
 Nsg8
 Nsg9
-S'Inhibition of clopidogrel (prodrug) metabolism to active metabolite by CYP2C19\r'
+S'Inhibition of carbamazepine metabolism by CYP3A4'
 p83
 sg11
 Nsg12
@@ -349,7 +349,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased concentrations of clopidogrel active metabolite and decreased antiplatelet effects'
+S'Increased carbamazepine concentrations and risk of carbamazepine toxicity'
 p84
 sg18
 g19
@@ -360,7 +360,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'CLOPIDOGREL'
+S'CARBAMAZEPINE'
 p85
 sg28
 Nsg29
@@ -371,20 +371,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'OMEPRAZOLE'
+S'TELITHROMYCIN'
 p86
 sa(dp87
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01211'
+S'http://bio2rdf.org/drugbank:DB00338'
 p88
 sg5
-S'http://bio2rdf.org/drugbank:DB00390'
+S'http://bio2rdf.org/drugbank:DB00758'
 p89
 sg7
 Nsg8
 Nsg9
-S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin\r'
+S'Inhibition of clopidogrel (prodrug) metabolism to active metabolite by CYP2C19'
 p90
 sg11
 Nsg12
@@ -392,7 +392,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased digoxin concentrations and risk of digoxin toxicity'
+S'Decreased concentrations of clopidogrel active metabolite and decreased antiplatelet effects'
 p91
 sg18
 g19
@@ -403,7 +403,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'DIGOXIN'
+S'CLOPIDOGREL'
 p92
 sg28
 Nsg29
@@ -414,12 +414,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'CLARITHROMYCIN'
+S'OMEPRAZOLE'
 p93
 sa(dp94
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00199'
+S'http://bio2rdf.org/drugbank:DB01211'
 p95
 sg5
 S'http://bio2rdf.org/drugbank:DB00390'
@@ -427,7 +427,7 @@ p96
 sg7
 Nsg8
 Nsg9
-S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin\r'
+S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin'
 p97
 sg11
 Nsg12
@@ -446,7 +446,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'DIGOXIN'
+S'DIGOXIN '
 p99
 sg28
 Nsg29
@@ -457,12 +457,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ERYTHROMYCIN'
+S'CLARITHROMYCIN  '
 p100
 sa(dp101
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00199'
 p102
 sg5
 S'http://bio2rdf.org/drugbank:DB00390'
@@ -470,7 +470,7 @@ p103
 sg7
 Nsg8
 Nsg9
-S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin\r'
+S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin'
 p104
 sg11
 Nsg12
@@ -500,20 +500,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'ERYTHROMYCIN   '
 p107
 sa(dp108
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p109
 sg5
-S'http://bio2rdf.org/drugbank:DB00390'
+S'http://bio2rdf.org/drugbank:DB00391'
 p110
 sg7
 Nsg8
 Nsg9
-S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin\r'
+S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin'
 p111
 sg11
 Nsg12
@@ -543,20 +543,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE    '
 p114
 sa(dp115
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p116
 sg5
-S'http://bio2rdf.org/drugbank:DB00390'
+S'http://bio2rdf.org/drugbank:DB00392'
 p117
 sg7
 Nsg8
 Nsg9
-S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin\r'
+S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin'
 p118
 sg11
 Nsg12
@@ -586,20 +586,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE    '
 p121
 sa(dp122
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01118'
+S'http://bio2rdf.org/drugbank:DB01263'
 p123
 sg5
-S'http://bio2rdf.org/drugbank:DB00641'
+S'http://bio2rdf.org/drugbank:DB00393'
 p124
 sg7
 Nsg8
 Nsg9
-S'Inhibition of metabolism of simvastatin/ lovastatin by CYP3A4\r'
+S'Inhibition of digoxin transport by P-glycoprotein resulting in reduced renal and nonrenal elimination of digoxin'
 p125
 sg11
 Nsg12
@@ -607,7 +607,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis'
+S'Increased digoxin concentrations and risk of digoxin toxicity'
 p126
 sg18
 g19
@@ -618,7 +618,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'SIMVASTATIN'
+S'DIGOXIN'
 p127
 sg28
 Nsg29
@@ -629,20 +629,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'AMIODARONE'
+S'POSACONAZOLE    '
 p128
 sa(dp129
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB01118'
 p130
 sg5
-S'http://bio2rdf.org/drugbank:DB01076'
+S'http://bio2rdf.org/drugbank:DB00641'
 p131
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of metabolism of simvastatin/ lovastatin by CYP3A4'
 p132
 sg11
 Nsg12
@@ -661,7 +661,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ATORVASTATIN'
+S'SIMVASTATIN'
 p134
 sg28
 Nsg29
@@ -672,12 +672,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'AMIODARONE'
 p135
 sa(dp136
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p137
 sg5
 S'http://bio2rdf.org/drugbank:DB01076'
@@ -685,7 +685,7 @@ p138
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p139
 sg11
 Nsg12
@@ -704,7 +704,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ATORVASTATIN'
+S'ATORVASTATIN CALCIUM'
 p141
 sg28
 Nsg29
@@ -715,20 +715,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE    '
 p142
 sa(dp143
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p144
 sg5
-S'http://bio2rdf.org/drugbank:DB01076'
+S'http://bio2rdf.org/drugbank:DB01077'
 p145
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p146
 sg11
 Nsg12
@@ -747,7 +747,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ATORVASTATIN'
+S'ATORVASTATIN CALCIUM'
 p148
 sg28
 Nsg29
@@ -758,20 +758,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p149
 sa(dp150
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p151
 sg5
-S'http://bio2rdf.org/drugbank:DB01076'
+S'http://bio2rdf.org/drugbank:DB01078'
 p152
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p153
 sg11
 Nsg12
@@ -790,7 +790,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ATORVASTATIN'
+S'ATORVASTATIN CALCIUM'
 p155
 sg28
 Nsg29
@@ -801,20 +801,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p156
 sa(dp157
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p158
 sg5
-S'http://bio2rdf.org/drugbank:DB01076'
+S'http://bio2rdf.org/drugbank:DB01079'
 p159
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p160
 sg11
 Nsg12
@@ -833,7 +833,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ATORVASTATIN'
+S'ATORVASTATIN CALCIUM'
 p162
 sg28
 Nsg29
@@ -844,20 +844,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p163
 sa(dp164
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00196'
 p165
 sg5
-S'http://bio2rdf.org/drugbank:DB01095'
+S'http://bio2rdf.org/drugbank:DB01080'
 p166
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p167
 sg11
 Nsg12
@@ -876,7 +876,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'FLUVASTATIN'
+S'ATORVASTATIN CALCIUM'
 p169
 sg28
 Nsg29
@@ -887,12 +887,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'FLUCONAZOLE'
 p170
 sa(dp171
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p172
 sg5
 S'http://bio2rdf.org/drugbank:DB01095'
@@ -900,7 +900,7 @@ p173
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p174
 sg11
 Nsg12
@@ -930,12 +930,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE'
 p177
 sa(dp178
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p179
 sg5
 S'http://bio2rdf.org/drugbank:DB01095'
@@ -943,7 +943,7 @@ p180
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p181
 sg11
 Nsg12
@@ -973,12 +973,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p184
 sa(dp185
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p186
 sg5
 S'http://bio2rdf.org/drugbank:DB01095'
@@ -986,7 +986,7 @@ p187
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p188
 sg11
 Nsg12
@@ -1016,12 +1016,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p191
 sa(dp192
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p193
 sg5
 S'http://bio2rdf.org/drugbank:DB01095'
@@ -1029,7 +1029,7 @@ p194
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p195
 sg11
 Nsg12
@@ -1059,20 +1059,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p198
 sa(dp199
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00196'
 p200
 sg5
-S'http://bio2rdf.org/drugbank:DB00227'
+S'http://bio2rdf.org/drugbank:DB01095'
 p201
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p202
 sg11
 Nsg12
@@ -1091,7 +1091,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'LOVASTATIN'
+S'FLUVASTATIN'
 p204
 sg28
 Nsg29
@@ -1102,12 +1102,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'FLUCONAZOLE'
 p205
 sa(dp206
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p207
 sg5
 S'http://bio2rdf.org/drugbank:DB00227'
@@ -1115,7 +1115,7 @@ p208
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p209
 sg11
 Nsg12
@@ -1145,12 +1145,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE'
 p212
 sa(dp213
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p214
 sg5
 S'http://bio2rdf.org/drugbank:DB00227'
@@ -1158,7 +1158,7 @@ p215
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p216
 sg11
 Nsg12
@@ -1188,12 +1188,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p219
 sa(dp220
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p221
 sg5
 S'http://bio2rdf.org/drugbank:DB00227'
@@ -1201,7 +1201,7 @@ p222
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p223
 sg11
 Nsg12
@@ -1231,12 +1231,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p226
 sa(dp227
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p228
 sg5
 S'http://bio2rdf.org/drugbank:DB00227'
@@ -1244,7 +1244,7 @@ p229
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p230
 sg11
 Nsg12
@@ -1274,20 +1274,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p233
 sa(dp234
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00196'
 p235
 sg5
-S'http://bio2rdf.org/drugbank:DB00175'
+S'http://bio2rdf.org/drugbank:DB00227'
 p236
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p237
 sg11
 Nsg12
@@ -1306,7 +1306,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'PRAVASTATIN'
+S'LOVASTATIN'
 p239
 sg28
 Nsg29
@@ -1317,12 +1317,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'FLUCONAZOLE'
 p240
 sa(dp241
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p242
 sg5
 S'http://bio2rdf.org/drugbank:DB00175'
@@ -1330,7 +1330,7 @@ p243
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p244
 sg11
 Nsg12
@@ -1360,12 +1360,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE'
 p247
 sa(dp248
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p249
 sg5
 S'http://bio2rdf.org/drugbank:DB00175'
@@ -1373,7 +1373,7 @@ p250
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p251
 sg11
 Nsg12
@@ -1403,12 +1403,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p254
 sa(dp255
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p256
 sg5
 S'http://bio2rdf.org/drugbank:DB00175'
@@ -1416,7 +1416,7 @@ p257
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p258
 sg11
 Nsg12
@@ -1446,12 +1446,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p261
 sa(dp262
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p263
 sg5
 S'http://bio2rdf.org/drugbank:DB00175'
@@ -1459,7 +1459,7 @@ p264
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p265
 sg11
 Nsg12
@@ -1489,20 +1489,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p268
 sa(dp269
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00196'
 p270
 sg5
-S'http://bio2rdf.org/drugbank:DB01098'
+S'http://bio2rdf.org/drugbank:DB00175'
 p271
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p272
 sg11
 Nsg12
@@ -1521,7 +1521,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'ROSUVASTATIN'
+S'PRAVASTATIN'
 p274
 sg28
 Nsg29
@@ -1532,12 +1532,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'FLUCONAZOLE'
 p275
 sa(dp276
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p277
 sg5
 S'http://bio2rdf.org/drugbank:DB01098'
@@ -1545,7 +1545,7 @@ p278
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p279
 sg11
 Nsg12
@@ -1575,12 +1575,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE'
 p282
 sa(dp283
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p284
 sg5
 S'http://bio2rdf.org/drugbank:DB01098'
@@ -1588,7 +1588,7 @@ p285
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p286
 sg11
 Nsg12
@@ -1618,12 +1618,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p289
 sa(dp290
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p291
 sg5
 S'http://bio2rdf.org/drugbank:DB01098'
@@ -1631,7 +1631,7 @@ p292
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p293
 sg11
 Nsg12
@@ -1661,12 +1661,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p296
 sa(dp297
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p298
 sg5
 S'http://bio2rdf.org/drugbank:DB01098'
@@ -1674,7 +1674,7 @@ p299
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p300
 sg11
 Nsg12
@@ -1704,20 +1704,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p303
 sa(dp304
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01167'
+S'http://bio2rdf.org/drugbank:DB00196'
 p305
 sg5
-S'http://bio2rdf.org/drugbank:DB00641'
+S'http://bio2rdf.org/drugbank:DB01098'
 p306
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p307
 sg11
 Nsg12
@@ -1736,7 +1736,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'SIMVASTATIN'
+S'ROSUVASTATIN'
 p309
 sg28
 Nsg29
@@ -1747,12 +1747,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ITRACONAZOLE'
+S'FLUCONAZOLE'
 p310
 sa(dp311
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01026'
+S'http://bio2rdf.org/drugbank:DB01167'
 p312
 sg5
 S'http://bio2rdf.org/drugbank:DB00641'
@@ -1760,7 +1760,7 @@ p313
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p314
 sg11
 Nsg12
@@ -1790,12 +1790,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOCONAZOLE'
+S'ITRACONAZOLE'
 p317
 sa(dp318
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01263'
+S'http://bio2rdf.org/drugbank:DB01026'
 p319
 sg5
 S'http://bio2rdf.org/drugbank:DB00641'
@@ -1803,7 +1803,7 @@ p320
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p321
 sg11
 Nsg12
@@ -1833,12 +1833,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'POSACONAZOLE'
+S'KETOCONAZOLE'
 p324
 sa(dp325
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01263'
 p326
 sg5
 S'http://bio2rdf.org/drugbank:DB00641'
@@ -1846,7 +1846,7 @@ p327
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p328
 sg11
 Nsg12
@@ -1876,12 +1876,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'POSACONAZOLE'
 p331
 sa(dp332
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB00582'
 p333
 sg5
 S'http://bio2rdf.org/drugbank:DB00641'
@@ -1889,7 +1889,7 @@ p334
 sg7
 Nsg8
 Nsg9
-S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p335
 sg11
 Nsg12
@@ -1919,20 +1919,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'VORICONAZOLE'
 p338
 sa(dp339
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01156'
+S'http://bio2rdf.org/drugbank:DB00196'
 p340
 sg5
-S'http://bio2rdf.org/drugbank:DB00675'
+S'http://bio2rdf.org/drugbank:DB00641'
 p341
 sg7
 Nsg8
 Nsg9
-S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6\r'
+S'Inhibition of simvastatin/ lovastatin metabolism by CYP3A4'
 p342
 sg11
 Nsg12
@@ -1940,7 +1940,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
+S'Increased simvastatin/ lovastatin concentrations and risk of myopathy/ rhabdomyolysis'
 p343
 sg18
 g19
@@ -1951,7 +1951,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'TAMOXIFEN'
+S'SIMVASTATIN'
 p344
 sg28
 Nsg29
@@ -1962,12 +1962,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'BUPROPION'
+S'FLUCONAZOLE'
 p345
 sa(dp346
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00476'
+S'http://bio2rdf.org/drugbank:DB01156'
 p347
 sg5
 S'http://bio2rdf.org/drugbank:DB00675'
@@ -1975,7 +1975,7 @@ p348
 sg7
 Nsg8
 Nsg9
-S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6\r'
+S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6'
 p349
 sg11
 Nsg12
@@ -1983,7 +1983,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
+S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with \xef\xbf\xbdnormal\xef\xbf\xbd CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
 p350
 sg18
 g19
@@ -2005,12 +2005,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'DULOXETINE'
+S'BUPROPION'
 p352
 sa(dp353
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00472'
+S'http://bio2rdf.org/drugbank:DB00476'
 p354
 sg5
 S'http://bio2rdf.org/drugbank:DB00675'
@@ -2018,7 +2018,7 @@ p355
 sg7
 Nsg8
 Nsg9
-S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6\r'
+S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6'
 p356
 sg11
 Nsg12
@@ -2026,7 +2026,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
+S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with \xef\xbf\xbdnormal\xef\xbf\xbd CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
 p357
 sg18
 g19
@@ -2048,12 +2048,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUOXETINE'
+S'DULOXETINE'
 p359
 sa(dp360
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00715'
+S'http://bio2rdf.org/drugbank:DB00472'
 p361
 sg5
 S'http://bio2rdf.org/drugbank:DB00675'
@@ -2061,7 +2061,7 @@ p362
 sg7
 Nsg8
 Nsg9
-S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6\r'
+S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6'
 p363
 sg11
 Nsg12
@@ -2069,7 +2069,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with normal CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
+S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with \xef\xbf\xbdnormal\xef\xbf\xbd CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
 p364
 sg18
 g19
@@ -2091,20 +2091,20 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'PAROXETINE'
+S'FLUOXETINE'
 p366
 sa(dp367
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01118'
+S'http://bio2rdf.org/drugbank:DB00715'
 p368
 sg5
-S'http://bio2rdf.org/drugbank:DB00682'
+S'http://bio2rdf.org/drugbank:DB00675'
 p369
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of activation of tamoxifen (prodrug) to its major active metabolite by CYP2D6'
 p370
 sg11
 Nsg12
@@ -2112,7 +2112,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased warfarin concentrations and bleeding risk'
+S'Decreased clinical effectiveness of tamoxifen (decreased disease-free survival); people with \xef\xbf\xbdnormal\xef\xbf\xbd CYP2D6 activity (extensive metabolizers) would be at risk of this interaction'
 p371
 sg18
 g19
@@ -2123,7 +2123,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-S'WARFARIN'
+S'TAMOXIFEN'
 p372
 sg28
 Nsg29
@@ -2134,12 +2134,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'AMIODARONE'
+S'PAROXETINE'
 p373
 sa(dp374
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00196'
+S'http://bio2rdf.org/drugbank:DB01118'
 p375
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2147,7 +2147,7 @@ p376
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of warfarin metabolism by CYP2C9'
 p377
 sg11
 Nsg12
@@ -2177,12 +2177,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUCONAZOLE'
+S'AMIODARONE'
 p380
 sa(dp381
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01110'
+S'http://bio2rdf.org/drugbank:DB00196'
 p382
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2190,7 +2190,7 @@ p383
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of warfarin metabolism by CYP2C9'
 p384
 sg11
 Nsg12
@@ -2220,12 +2220,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'MICONAZOLE'
+S'FLUCONAZOLE'
 p387
 sa(dp388
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00582'
+S'http://bio2rdf.org/drugbank:DB01110'
 p389
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2233,7 +2233,7 @@ p390
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of warfarin metabolism by CYP2C10'
 p391
 sg11
 Nsg12
@@ -2263,12 +2263,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'VORICONAZOLE'
+S'MICONAZOLE'
 p394
 sa(dp395
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00564'
+S'http://bio2rdf.org/drugbank:DB00582'
 p396
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2276,7 +2276,7 @@ p397
 sg7
 Nsg8
 Nsg9
-S'Induction of warfarin metabolism\r'
+S'Inhibition of warfarin metabolism by CYP2C11'
 p398
 sg11
 Nsg12
@@ -2284,7 +2284,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Decreased warfarin concentrations and warfarin effects'
+S'Increased warfarin concentrations and bleeding risk'
 p399
 sg18
 g19
@@ -2306,12 +2306,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'CARBAMAZEPINE'
+S'VORICONAZOLE'
 p401
 sa(dp402
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01241'
+S'http://bio2rdf.org/drugbank:DB00564'
 p403
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2319,7 +2319,7 @@ p404
 sg7
 Nsg8
 Nsg9
-S'Not established\r'
+S'Induction of warfarin metabolism'
 p405
 sg11
 Nsg12
@@ -2327,7 +2327,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased warfarin effect and bleeding risk'
+S'Decreased warfarin concentrations and warfarin effects'
 p406
 sg18
 g19
@@ -2349,12 +2349,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'GEMFIBROZIL'
+S'CARBAMAZEPINE'
 p408
 sa(dp409
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01039'
+S'http://bio2rdf.org/drugbank:DB01241'
 p410
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2362,7 +2362,7 @@ p411
 sg7
 Nsg8
 Nsg9
-S'Not established\r'
+S'Not established'
 p412
 sg11
 Nsg12
@@ -2392,12 +2392,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FENOFIBRATE'
+S'GEMFIBROZIL'
 p415
 sa(dp416
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00482'
+S'http://bio2rdf.org/drugbank:DB01039'
 p417
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2405,7 +2405,7 @@ p418
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'Not established'
 p419
 sg11
 Nsg12
@@ -2413,7 +2413,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Additive risk of bleeding'
+S'Increased warfarin effect and bleeding risk'
 p420
 sg18
 g19
@@ -2435,12 +2435,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'CELECOXIB'
+S'FENOFIBRATE'
 p422
 sa(dp423
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00586'
+S'http://bio2rdf.org/drugbank:DB00482'
 p424
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2448,7 +2448,7 @@ p425
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p426
 sg11
 Nsg12
@@ -2478,12 +2478,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'DICLOFENAC'
+S'CELECOXIB'
 p429
 sa(dp430
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00861'
+S'http://bio2rdf.org/drugbank:DB00586'
 p431
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2491,7 +2491,7 @@ p432
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p433
 sg11
 Nsg12
@@ -2521,12 +2521,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'DIFLUNISAL'
+S'DICLOFENAC'
 p436
 sa(dp437
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00749'
+S'http://bio2rdf.org/drugbank:DB00861'
 p438
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2534,7 +2534,7 @@ p439
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p440
 sg11
 Nsg12
@@ -2564,12 +2564,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ETODOLAC'
+S'DIFLUNISAL'
 p443
 sa(dp444
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00573'
+S'http://bio2rdf.org/drugbank:DB00749'
 p445
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2577,7 +2577,7 @@ p446
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p447
 sg11
 Nsg12
@@ -2607,12 +2607,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FENOPROFEN'
+S'ETODOLAC'
 p450
 sa(dp451
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00712'
+S'http://bio2rdf.org/drugbank:DB00573'
 p452
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2620,7 +2620,7 @@ p453
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p454
 sg11
 Nsg12
@@ -2650,12 +2650,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLURBIPROFEN'
+S'FENOPROFEN'
 p457
 sa(dp458
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01050'
+S'http://bio2rdf.org/drugbank:DB00712'
 p459
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2663,7 +2663,7 @@ p460
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p461
 sg11
 Nsg12
@@ -2693,12 +2693,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'IBUPROFEN'
+S'FLURBIPROFEN'
 p464
 sa(dp465
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00328'
+S'http://bio2rdf.org/drugbank:DB01050'
 p466
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2706,7 +2706,7 @@ p467
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p468
 sg11
 Nsg12
@@ -2736,12 +2736,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'INDOMETHACIN'
+S'IBUPROFEN'
 p471
 sa(dp472
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01009'
+S'http://bio2rdf.org/drugbank:DB00328'
 p473
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2749,7 +2749,7 @@ p474
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p475
 sg11
 Nsg12
@@ -2779,12 +2779,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOPROFEN'
+S'INDOMETHACIN'
 p478
 sa(dp479
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00465'
+S'http://bio2rdf.org/drugbank:DB01009'
 p480
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2792,7 +2792,7 @@ p481
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p482
 sg11
 Nsg12
@@ -2822,12 +2822,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'KETOROLAC'
+S'KETOPROFEN'
 p485
 sa(dp486
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00784'
+S'http://bio2rdf.org/drugbank:DB00465'
 p487
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2835,7 +2835,7 @@ p488
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p489
 sg11
 Nsg12
@@ -2865,12 +2865,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'MEFENAMIC ACID'
+S'KETOROLAC'
 p492
 sa(dp493
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00814'
+S'http://bio2rdf.org/drugbank:DB00784'
 p494
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2878,7 +2878,7 @@ p495
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p496
 sg11
 Nsg12
@@ -2908,12 +2908,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'MELOXICAM'
+S'MEFENAMIC ACID'
 p499
 sa(dp500
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00461'
+S'http://bio2rdf.org/drugbank:DB00814'
 p501
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2921,7 +2921,7 @@ p502
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p503
 sg11
 Nsg12
@@ -2951,12 +2951,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'NABUMETONE'
+S'MELOXICAM'
 p506
 sa(dp507
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00788'
+S'http://bio2rdf.org/drugbank:DB00461'
 p508
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -2964,7 +2964,7 @@ p509
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p510
 sg11
 Nsg12
@@ -2994,12 +2994,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'NAPROXEN'
+S'NABUMETONE'
 p513
 sa(dp514
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00991'
+S'http://bio2rdf.org/drugbank:DB00788'
 p515
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3007,7 +3007,7 @@ p516
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p517
 sg11
 Nsg12
@@ -3037,12 +3037,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'OXAPROZIN'
+S'NAPROXEN'
 p520
 sa(dp521
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00554'
+S'http://bio2rdf.org/drugbank:DB00991'
 p522
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3050,7 +3050,7 @@ p523
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p524
 sg11
 Nsg12
@@ -3080,12 +3080,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'PIROXICAM'
+S'OXAPROZIN'
 p527
 sa(dp528
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00605'
+S'http://bio2rdf.org/drugbank:DB00554'
 p529
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3093,7 +3093,7 @@ p530
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p531
 sg11
 Nsg12
@@ -3123,12 +3123,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'SULINDAC'
+S'PIROXICAM'
 p534
 sa(dp535
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00500'
+S'http://bio2rdf.org/drugbank:DB00605'
 p536
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3136,7 +3136,7 @@ p537
 sg7
 Nsg8
 Nsg9
-S'Antiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. Some individual NSAIDs may also alter the pharmacokinetics of warfarin\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p538
 sg11
 Nsg12
@@ -3166,12 +3166,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'TOLMETIN'
+S'SULINDAC'
 p541
 sa(dp542
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01095'
+S'http://bio2rdf.org/drugbank:DB00500'
 p543
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3179,7 +3179,7 @@ p544
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9 is proposed\r'
+S'\xef\xbf\xbdAntiplatelet effects and GI erosion associated with NSAIDs and the anticoagulant effect of warfarin. \xef\xbf\xbdSome individual NSAIDs may also alter the pharmacokinetics of warfarin'
 p545
 sg11
 Nsg12
@@ -3187,7 +3187,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased warfarin concentrations and bleeding risk'
+S'Additive risk of bleeding'
 p546
 sg18
 g19
@@ -3209,12 +3209,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'FLUVASTATIN'
+S'TOLMETIN'
 p548
 sa(dp549
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00227'
+S'http://bio2rdf.org/drugbank:DB01095'
 p550
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3222,7 +3222,7 @@ p551
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9 is proposed\r'
+S'Inhibition of warfarin metabolism by CYP2C9 is proposed'
 p552
 sg11
 Nsg12
@@ -3252,12 +3252,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'LOVASTATIN'
+S'FLUVASTATIN'
 p555
 sa(dp556
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01098'
+S'http://bio2rdf.org/drugbank:DB00227'
 p557
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3265,7 +3265,7 @@ p558
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9 is proposed\r'
+S'Inhibition of warfarin metabolism by CYP2C9 is proposed'
 p559
 sg11
 Nsg12
@@ -3295,12 +3295,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'ROSUVASTATIN'
+S'LOVASTATIN'
 p562
 sa(dp563
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00641'
+S'http://bio2rdf.org/drugbank:DB01098'
 p564
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3308,7 +3308,7 @@ p565
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9 is proposed\r'
+S'Inhibition of warfarin metabolism by CYP2C9 is proposed'
 p566
 sg11
 Nsg12
@@ -3338,12 +3338,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'SIMVASTATIN'
+S'ROSUVASTATIN'
 p569
 sa(dp570
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01015'
+S'http://bio2rdf.org/drugbank:DB00641'
 p571
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3351,7 +3351,7 @@ p572
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of warfarin metabolism by CYP2C9 is proposed'
 p573
 sg11
 Nsg12
@@ -3381,12 +3381,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'SULFAMETHOXAZOLE'
+S'SIMVASTATIN'
 p576
 sa(dp577
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00916'
+S'http://bio2rdf.org/drugbank:DB01015'
 p578
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3394,7 +3394,7 @@ p579
 sg7
 Nsg8
 Nsg9
-S'Inhibition of warfarin metabolism by CYP2C9\r'
+S'Inhibition of warfarin metabolism by CYP2C9'
 p580
 sg11
 Nsg12
@@ -3424,12 +3424,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'METRONIDAZOLE'
+S'SULFAMETHOXAZOLE/TRIMETHOPRIM  '
 p583
 sa(dp584
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00451'
+S'http://bio2rdf.org/drugbank:DB00916'
 p585
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3437,7 +3437,7 @@ p586
 sg7
 Nsg8
 Nsg9
-S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed\r'
+S'Inhibition of warfarin metabolism by CYP2C9'
 p587
 sg11
 Nsg12
@@ -3445,7 +3445,7 @@ Nsg13
 Nsg14
 Nsg15
 Nsg16
-S'Increased bleeding risk'
+S'Increased warfarin concentrations and bleeding risk'
 p588
 sg18
 g19
@@ -3467,12 +3467,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'LEVOTHYROXINE'
+S'METRONIDAZOLE'
 p590
 sa(dp591
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB00279'
+S'http://bio2rdf.org/drugbank:DB00451'
 p592
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3480,7 +3480,7 @@ p593
 sg7
 Nsg8
 Nsg9
-S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed\r'
+S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed'
 p594
 sg11
 Nsg12
@@ -3510,12 +3510,12 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'LIOTHYRONINE'
+S'LEVOTHYROXINE'
 p597
 sa(dp598
 g2
 Nsg3
-S'http://bio2rdf.org/drugbank:DB01583'
+S'http://bio2rdf.org/drugbank:DB00279'
 p599
 sg5
 S'http://bio2rdf.org/drugbank:DB00682'
@@ -3523,7 +3523,7 @@ p600
 sg7
 Nsg8
 Nsg9
-S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed\r'
+S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed'
 p601
 sg11
 Nsg12
@@ -3553,6 +3553,49 @@ Nsg33
 Nsg34
 Nsg35
 Nsg36
-S'LIOTRIX'
+S'LIOTHYRONINE'
 p604
+sa(dp605
+g2
+Nsg3
+S'http://bio2rdf.org/drugbank:DB01583'
+p606
+sg5
+S'http://bio2rdf.org/drugbank:DB00682'
+p607
+sg7
+Nsg8
+Nsg9
+S'An accelerated depletion of vitamin K-dependent clotting factors as a result of thyroid hormone administration has been proposed'
+p608
+sg11
+Nsg12
+Nsg13
+Nsg14
+Nsg15
+Nsg16
+S'Increased bleeding risk'
+p609
+sg18
+g19
+sg20
+Nsg21
+Nsg22
+Nsg23
+Nsg24
+Nsg25
+Nsg26
+S'WARFARIN'
+p610
+sg28
+Nsg29
+Nsg30
+Nsg31
+Nsg32
+Nsg33
+Nsg34
+Nsg35
+Nsg36
+S'LIOTRIX '
+p611
 sa.

@@ -3,7 +3,8 @@
 # Authors: Serkan Ayvaz, Richard D Boyce 
 #
 # September 2014
-# 
+
+# modified: Feb 25, 2017 by Serkan Ayvaz
 
 """
 
@@ -20,7 +21,7 @@ import time
 sys.path = sys.path + ['.']
 from PDDI_Model import getPDDIDict
 
-CREDIBLEMEDS_DATA = "../PDDI-Datasets/Crediblemeds/credibleMeds-listing-09202014.txt"
+CREDIBLEMEDS_DATA = "../PDDI-Datasets/Crediblemeds/credibleMeds-listing-02262017.txt"
 
 def credibleMeds_Pickle_Generator():
     # open the CREDIBLEMEDS data file and parse it incrementally
