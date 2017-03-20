@@ -659,5 +659,35 @@ TODO (04/04/2014):
 
 - Bring in Hassanzadeh's mappings once tested and re-export the mappings
 
+------------------------------------------------------------
+French DDI Referrals
+------------------------------------------------------------
+
+Date retrieved: Dec 17, 2016
+
+* Dataset and Source Location
+ The dataset was developed by  national drugs institute (ANSM). It can be found at:
+ http://ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses/(offset)/0
+
+
+
+The Drugbank Mappings of the dataset was kindly provided by Dr. Sebastien Cossin in December 2016.
+
+* Following are the descriptions for fields used in the FrenchDB drug Interactions:
+# mol2 : drug1
+# mol1 : drug2
+# prota2 : drug2 or therapeutic class of drug2
+# prota1 : drug1 or class of drug1
+# description_interaction : DDI description (associated sometimes with action to be taken)
+# mecanisme : mecanism
+# niveau : level of severity  
+# DB1 : DB code of drug1
+# DB2 : DB code of drug2
+ 
+The initials in Severity level(niveau) column refer to: 
+  # CI (contre indiquee) : Contraindicated
+  # AD (association deconseillee) : avoid if possible
+  # PE (precaution d'emploi) : precaution for use, mainly pharmacocinetic interaction
+  # PC (prendre en compte) : take into account, mainly pharmacodynamic interaction
 
 
