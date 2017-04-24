@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>420-PIRFENIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIRFENIDONE" rxcui="88221">
+<ATC code="L04AX05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of pirfenidone with signs of overdose</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

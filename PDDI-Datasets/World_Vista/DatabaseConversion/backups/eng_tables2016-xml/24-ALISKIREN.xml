@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia, renal insufficiency, increase of mortality due to cardio vascular disease </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-for patients with diabetes or renal insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>The plasma concentrations of aliskiren increase by nearly 5 times and increase of the risk of its undesirable effects. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia, of renal insufficiency, of increase of mortality from cardio vascular disease</DESCRIPTION>
+<SEVERITY>Contraindication </SEVERITY>
+<COMMENT>-for patients with diabetes or renal insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>The plasma concentrations of aliskiren increase by nearly 6 times and increase of the risk of its undesirable effects. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the aliskiren when grapefruit is consumed</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of aliskiren and increase of the risk of its undesirable effects.
+
+</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SACUBITRIL" rxcui="1656328">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With patients who have diabetes or renal insufficiency, increase of the undesirable effects such as hypotension, hyperkalemia</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>24-ALISKIREN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of aliskiren and increase of the risk of its undesirable effects.
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

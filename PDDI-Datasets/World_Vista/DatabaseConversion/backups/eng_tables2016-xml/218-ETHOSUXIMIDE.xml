@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>218-ETHOSUXIMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ETHOSUXIMIDE" rxcui="4135">
+<ATC code="N03AD51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of ethosuximide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage of the ethosuximide and possible increase of its dosage.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

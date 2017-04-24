@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANDROGENS" code="A14AA0" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the androgen and as a result of its effectiveness, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the administrations of these substances together and 1 to 2 weeks after the inducer is discontinued.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ARIPIPRAZOLE" rxcui="89013">
+<ATC code="N05AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the aripiprazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the aripiprazole during the administration of these substances together and 1 to 2 weeks after the inducer is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BEDAQUILINE" rxcui="1364504">
+<ATC code="J04AK05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of bedaquiline due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BORTEZOMIB" rxcui="358258">
+<ATC code="L01XX32" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the cytotoxic due to increase of its metabolism by the inducer, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CABAZITAXEL" rxcui="996051">
+<ATC code="L01CD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the cytotoxic due to increase of its metabolism by the inducer, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--in its use as a hormonal contraceptive: use instead another method of contraception in particular a barrier type, during the length of the time these substances are administered together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DACLATASVIR" rxcui="1606218">
+<ATC code="J05AX14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of daclatasvir due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-with the rifampicin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DASABUVIR" rxcui="1597381">
+<ATC code="J05AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the dasabuvir by the inducer.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DISOPYRAMIDE" rxcui="3541">
+<ATC code="C01BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the disopyramide by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly adjustment of the disopyramide during the administration of these substances together and 1 to 2 weeks after the inducer is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the cytotoxic due to increase of its metabolism by the inducer, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DOLUTEGRAVIR" rxcui="1433868">
+<ATC code="J05AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of dolutegravir due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of resistance to the class of integrase inhibitors</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of eribuline by the inducer.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Decrease of the contraceptive effectiveness, due to increase of the hepatic metabolism of the hormonal contraceptive by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used during the treatment with these substances together and a cycle following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HYDROCORTISONE" rxcui="5492">
+<ATC code="A01AC03" />
+<ATC code="A07EA02" />
+<ATC code="D07XA01" />
+<ATC code="H02AB09" />
+<ATC code="S01BA02" />
+<ATC code="S01CB03" />
+<ATC code="S02BA01" />
+<ATC code="D07AC16" />
+<ATC code="D07CA01" />
+<ATC code="S01CA03" />
+<ATC code="S02CA03" />
+<ATC code="S03CA04" />
+<ATC code="D07BA04" />
+<ATC code="S01BB01" />
+<ATC code="D07AB11" />
+<ATC code="D07AB02" />
+<ATC code="D07BB04" />
+<ATC code="R01AD60" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the hydrocortisone (increase of its metabolism); the consequences are serious when the hydorcortisone is administered in replacement therapy or in case of transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the hydrocortisone during the time it is taken with the enzymatic inducer and after the enzymatic inducer is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations and of the effectiveness of the immunosuppressant, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase the dosage of the immunosuppressant according to tests of the blood concentrations. Reduce the dosage after the inducer is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IRINOTECAN" rxcui="51499">
+<ATC code="L01XX19" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Probable decrease of the plasma concentrations of the active metabolite of the irinotecan, with risk of failure of the cytotoxic treatment</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ISAVUCONAZOLE" rxcui="1720882">
+<ATC code="J02AC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of isavuconazole due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of itraconazole, with risk of loss of effectiveness, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IVACAFTOR" rxcui="1243041">
+<ATC code="R07AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of the ivacaftor, with risk of loss of effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the lurasidone due to increase of its hepatic metabolism by the inducer.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MACITENTAN" rxcui="1442132">
+<ATC code="C02KX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of macitentan due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In the absence of co-administration with a strong inhibitor of CYP3A4, decrease of the concentrations of maraviroc by the inducer.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The dose of maraviroc must be increased to 600mg twice a day in this situation. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of methadone with risk of appearance of a withdrawal syndrome, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase the frequency of the doses of methadone (2 to 3 times a day instead of a single dose per day).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MIANSERIN" rxcui="6929">
+<ATC code="N06AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the mianserin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease, possibly very large depending on the inducer, of the plasma concentrations of the olaparib due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the bitherapy due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA55" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the oxycodone due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Possible adjustment of the dosage of oxycodone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Decrease of the contraceptive effectiveness of the hormonal contraceptive, due to increase of its hepatic metabolism by the inducer. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used during the length of time that the two substances are administered together and one cycle following.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE PROGESTOGENS, COMBINED WITH AN ESTROGEN OR NOT" code="G03-003" /></DRUG2>
+<DESCRIPTION>Decrease of the effectiveness of the progestogen</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the hormonal treatment during the administration of the anticonvulsant inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="REGORAFENIB" rxcui="1312397">
+<ATC code="L01XE21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the regorafenib due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Significant decrease of the plasma concentrations of rilpivirine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SERTRALINE" rxcui="36437">
+<ATC code="N06AB06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the treatment by the antidepressant </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SIMEPREVIR" rxcui="1482790">
+<ATC code="J05AE14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of simeprevir due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="SOFOSBUVIR" rxcui="">
+<ATC code="J05AX15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of sofosbuvir due to decrease of its intestinal absorption by the enzymatic inducer.</DESCRIPTION>
+<SEVERITY>Contraindication </SEVERITY>
+<COMMENT>--wth the rifampicin </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TENEFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tenofovir alafenamide due to decrease of its absorption by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administration of these together cannot be avoided, clinical monitoring during the administration and 1 to 2 weeks after the inducer is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the vermurafenib, with lower effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VISMODEGIB" rxcui="1242987">
+<ATC code="L01XX43" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of vismodegib due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>284-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VORTIOXETINE" rxcui="1455099">
+<ATC code="N06AX26" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the vortioxetine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the administration with the inducer and 1 to 2 weeks after the inducer is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

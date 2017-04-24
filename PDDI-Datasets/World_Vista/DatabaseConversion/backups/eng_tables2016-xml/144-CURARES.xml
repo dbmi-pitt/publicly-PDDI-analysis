@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>144-CURARES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CURARES" code="M03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarization at the end of anesthesia</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>144-CURARES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CURARES" code="M03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="COLISTIN" rxcui="2709">
+<ATC code="J01XB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of the curarization at the end of anesthesia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>144-CURARES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CURARES" code="M03A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="LINCOSANIDES" code="J01FF0" /></DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarisation at the end of anesthesia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>144-CURARES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CURARES" code="M03A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POLYMYXIN B" rxcui="8536">
+<ATC code="A07AA05" />
+<ATC code="J01XB02" />
+<ATC code="S01AA18" />
+<ATC code="S02AA11" />
+<ATC code="S03AA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is admininstered by parenteral and/or peritoneal route before, during, or after the curarizing agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarisation at the end of anesthesia.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

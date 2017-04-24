@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS " code="NO6DA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>0</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ambenonium" rxnorm="623">
+<ATC code="N07AA30" />
+</DRUG>
+<DRUG name="Donepezil" rxnorm="135447">
+<ATC code="N06DA02" />
+</DRUG>
+<DRUG name="Galantamine" rxnorm="4637">
+<ATC code="N06DA04" />
+</DRUG>
+<DRUG name="Neostigmine" rxnorm="7315">
+<ATC code="N07AA01" />
+<ATC code="S01EB06" />
+</DRUG>
+<DRUG name="Pyridostigmine" rxnorm="9000">
+<ATC code="N07AA02" />
+</DRUG>
+<DRUG name="Rivastigmine" rxnorm="183379">
+<ATC code="N06DA03" />
+</DRUG>
+</CLASS>

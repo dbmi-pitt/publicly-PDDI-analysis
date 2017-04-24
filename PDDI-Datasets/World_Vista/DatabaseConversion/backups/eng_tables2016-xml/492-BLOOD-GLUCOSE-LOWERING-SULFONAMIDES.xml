@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OF INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Antabuse effect, especially for glibenclamide, glipizide, tolbutamide. Increase of the hypoglycemic reaction (inhibition of the compensation reactions) that can make possible the onset of hypoglycemic coma</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia: decrease or increase of the need for the blood glucose lowering sufonamide, due to decrease or increase of the secretion of endogenous glucagon</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce self-monitoring of blood glucose and adjust the dosage of the blood glucose lowering sulfonamide if needed during the treatment with the somatostatin analog. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-2 MIMETICS or BETA 2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG2>
+<DESCRIPTION>Elevation of the glycemia by the beta-2 mimetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce blood and urine monitoring. Possibly change to insulin if the situation requires. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>All the beta blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self-monitoring of blood glucose, especially at the beginning of treatment. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>All the beta blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self-monitoring of blood glucose, especially at the beginning of the treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="CHLORPROMAZINE" rxcui="">
+<ATC code="N05AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With large doses (100mg per day of chlorpromazine): elevation of the glycemia (decrease of the release of the insulin) </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self-monitoring of blood glucose. Possibly adjust the dosage of the neuroleptic during the treatment and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the plasma concentrations of the antidiabetique</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Diabetes inducing effect of the danazol</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of the substances together cannot be avoided, inform the patient and reinforce self-monitoring of blood glucose. Possibly adjust the dosage of the antidiabetic during the treatment with the danazol and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the half life of the sulfonamide with possible onset of manifestations of hypoglymemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the sulfonamide during the treatment with the fluconazole. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>The use of an ACE inhibitor can lead to an increase of the hypoglycemic effect in diabetic patients treated with glucose lowering sulfonamides. The onset of hypoglycemic difficulties seems exceptional (improvement of the tolerance for glucose that would have the result of a reduction of the need for the glucose lowering sulfonamides)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce self -monitoring of blood glucose.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>492-BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG1>
+<DRUG2>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the miconazole by general route or oral gel: increase of the hypoglycemic effect with possible onset of hypoglycemic manifestations, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

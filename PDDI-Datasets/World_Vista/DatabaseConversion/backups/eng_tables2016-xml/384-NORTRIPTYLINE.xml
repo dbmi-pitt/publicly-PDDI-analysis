@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>384-NORTRIPTYLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NORTRIPTYLINE" rxcui="7531">
+<ATC code="N06AA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the nortriptyline due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the nortriptyline during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

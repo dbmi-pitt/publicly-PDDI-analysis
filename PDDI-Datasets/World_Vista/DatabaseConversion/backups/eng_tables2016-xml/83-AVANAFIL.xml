@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>83-AVANAFIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AVANAFIL" rxcui="1291301">
+<ATC code="G04BE10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the avanafil, with risk of hypotension</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

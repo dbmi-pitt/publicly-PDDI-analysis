@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>35</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+<ATC code="C07AB57" />
+</DRUG>
+<DRUG name="Carvedilol" rxnorm="20352">
+<ATC code="C07AG02" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+</CLASS>

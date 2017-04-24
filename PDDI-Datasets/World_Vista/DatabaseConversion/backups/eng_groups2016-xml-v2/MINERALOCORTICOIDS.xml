@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MINERALOCORTICOIDS" code="H02AA0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>94</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Desoxycortone" rxnorm="3256">
+<ATC code="H02AA03" />
+</DRUG>
+<DRUG name="Fludrocortisone" rxnorm="4452">
+<ATC code="H02AA02" />
+<ATC code="S01CA06" />
+<ATC code="S02CA07" />
+<ATC code="S03CA05" />
+</DRUG>
+</CLASS>

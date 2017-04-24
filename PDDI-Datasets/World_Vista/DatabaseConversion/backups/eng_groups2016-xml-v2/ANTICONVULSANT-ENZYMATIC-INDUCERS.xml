@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>16</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Carbamazepine" rxnorm="2002">
+<ATC code="N03AF01" />
+</DRUG>
+<DRUG name="Fosphenytoin" rxnorm="72236">
+<ATC code="N03AB05" />
+</DRUG>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Phenytoin" rxnorm="8183">
+<ATC code="N03AB02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+</CLASS>

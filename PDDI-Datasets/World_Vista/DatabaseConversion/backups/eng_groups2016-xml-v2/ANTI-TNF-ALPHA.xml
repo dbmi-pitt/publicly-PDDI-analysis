@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>26</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Adalimumab" rxnorm="327361">
+<ATC code="L04AB04" />
+</DRUG>
+<DRUG name="Certolizumab pegol" rxnorm="709271">
+<ATC code="L04AB05" />
+</DRUG>
+<DRUG name="Etanercept " rxnorm="214555">
+<ATC code="L04AB01" />
+</DRUG>
+<DRUG name="Golimumab" rxnorm="819300">
+<ATC code="L04AB06" />
+</DRUG>
+<DRUG name="Infliximab" rxnorm="191831">
+<ATC code="L04AB02" />
+</DRUG>
+</CLASS>

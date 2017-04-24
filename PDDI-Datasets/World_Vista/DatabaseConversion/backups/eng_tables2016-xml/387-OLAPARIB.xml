@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the amiodarone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, limit the dose of olaparib to 200 mg twice a day with the amiodarone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the diltiazam</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, limit the dose of olaparib to 200 mg twice a day. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the fluconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, limit the dose of olaparib to 200 mg twice a day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease, possibly very large depending on the inducer, of the plasma concentrations of the olaparib due to increase of its hepatique metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="InJ02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the inhibitor </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, limit the dose of olaparib to 150mg twice a day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>387-OLAPARIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasm concentrations of olaparib by the verapamil. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, limit the dose of olaparid to 200 mg twice a day.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

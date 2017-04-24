@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>320-LOMITAPIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LOMITAPIDE" rxcui="1364479">
+<ATC code="C10AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lomitapide due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>320-LOMITAPIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LOMITAPIDE" rxcui="1364479">
+<ATC code="C10AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the lomitapide</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

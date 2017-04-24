@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="METHEMOGLOBINIZING MEDICATIONS" code="CO-DO-RO">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acetylsulfafurazol" rxnorm="">
+</DRUG>
+<DRUG name="Benzocaine" rxnorm="1399">
+<ATC code="C05AD03" />
+<ATC code="D04AB04" />
+<ATC code="N01BA05" />
+<ATC code="R02AD01" />
+</DRUG>
+<DRUG name="Dapsone" rxnorm="3108">
+<ATC code="D10AX05" />
+<ATC code="J04BA02" />
+</DRUG>
+<DRUG name="Flutamide " rxnorm="4508">
+<ATC code="L02BB01" />
+</DRUG>
+<DRUG name="Metoclopramide" rxnorm="6915">
+<ATC code="A03FA01" />
+</DRUG>
+<DRUG name="Prilocaine" rxnorm="8686">
+<ATC code="N01BB04" />
+<ATC code="N01BB54" />
+</DRUG>
+<DRUG name="Nitroprusside [sodium (nitroprussiate de) in the French list]" rxnorm="7476">
+<ATC code="C02DD01" />
+</DRUG>
+<DRUG name="Sulfadiazine" rxnorm="10171">
+<ATC code="J01EC02" />
+<ATC code="J01EE06" />
+<ATC code="J01EE02" />
+</DRUG>
+<DRUG name="Sulfadoxine" rxnorm="10173">
+</DRUG>
+<DRUG name="Sulfafurazole" rxnorm="10207">
+<ATC code="J01EB05" />
+<ATC code="S01AB02" />
+</DRUG>
+<DRUG name="Sulfaguanidine" rxnorm="10174">
+<ATC code="A07AB03" />
+</DRUG>
+<DRUG name="Sulfamethizole " rxnorm="10179">
+<ATC code="B05CA04" />
+<ATC code="D06BA04" />
+<ATC code="J01EB02" />
+<ATC code="S01AB01" />
+</DRUG>
+<DRUG name="Sulfamethoxazole" rxnorm="10180">
+<ATC code="J01EC01" />
+<ATC code="J01EE01" />
+</DRUG>
+</CLASS>

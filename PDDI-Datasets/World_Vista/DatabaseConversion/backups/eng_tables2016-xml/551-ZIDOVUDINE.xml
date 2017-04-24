@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="A01AB04" />
+<ATC code="A07AA07" />
+<ATC code="G01AA03" />
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously:
+
+increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent CBC.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DAPSONE" rxcui="3108">
+<ATC code="J04BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent CBC</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCYTOSINE" rxcui="4451">
+<ATC code="J02AX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent CBC</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GANCICLOVIR" rxcui="4678">
+<ATC code="S01AD09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Stop the zidovudine temporarily; CBC, and reintroduce, if possible, the zidovudine in weak doses.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="J05AR07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>551-ZIDOVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially hematological ones, of the zidovudine due to decrease of its metabolism by the valproic acid</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring. A CBC checking for anemia should be done during the course of the first two months of the administration of these substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

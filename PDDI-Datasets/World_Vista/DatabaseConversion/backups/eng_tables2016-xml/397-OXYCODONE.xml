@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>397-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+<ATC code="N02AA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the oxycodone due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Possible adjustment of the dosage of oxycodone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>397-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+<ATC code="N02AA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the oxycodone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of oxycodone during the length of the treatment with the enzyme inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>397-OXYCODONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+<ATC code="N02AA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the oxycodone due to increase of its metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Possible adjustment of the dosage of the oxycodone</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

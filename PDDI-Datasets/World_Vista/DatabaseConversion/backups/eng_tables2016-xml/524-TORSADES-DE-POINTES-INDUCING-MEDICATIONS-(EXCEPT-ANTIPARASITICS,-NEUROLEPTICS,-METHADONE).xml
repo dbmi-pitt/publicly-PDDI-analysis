@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>524-TORSADES-DE-POINTES-INDUCING-MEDICATIONS-(EXCEPT-ANTIPARASITICS,-NEUROLEPTICS,-METHADONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TORSADES DE POINTES INDUCING MEDICATIONS (EXCEPT ANTIPARASITICS, NEUROLEPTICS, METHADONE)" code="C01B" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

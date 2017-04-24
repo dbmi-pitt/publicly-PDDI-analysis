@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>322-LOSARTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LOSARTAN" rxcui="52175">
+<ATC code="C09CA01" />
+<ATC code="C09DB06" />
+<ATC code="C09DA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the losartan, due to inhibition of the formation of its active metabolite by the fluconazole</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

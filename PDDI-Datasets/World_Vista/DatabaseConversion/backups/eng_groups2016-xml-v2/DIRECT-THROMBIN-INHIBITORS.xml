@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DIRECT THROMBIN INHIBITORS" code="BO1AE">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Argatroban" rxnorm="15202">
+<ATC code="B01AE03" />
+</DRUG>
+<DRUG name="Bivalirudin" rxnorm="60819">
+<ATC code="B01AE06" />
+</DRUG>
+</CLASS>

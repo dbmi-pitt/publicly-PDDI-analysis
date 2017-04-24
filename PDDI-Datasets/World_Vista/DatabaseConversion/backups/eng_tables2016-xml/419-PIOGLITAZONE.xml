@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>419-PIOGLITAZONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG2>
+<DESCRIPTION>Risk of hyypoglycemia or hyperglycemia: decrease or increase of the need for glitazone, due to decrease of increase of the secretion of endogenous glucagon</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase self monitoring of blood glucose and adjust if needed the dosage of the glitazone during the treatment with the somatostatin analog</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>419-PIOGLITAZONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the glitazone due to decrease of its hepatic metabolism by the gemfibrozil</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>419-PIOGLITAZONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the glitazone due to increase of its metabolism by the rifampcin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the glitazone during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THALIDOMIDE" rxcui="10432">
+<ATC code="L04AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>480-STAVUDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="05AR07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

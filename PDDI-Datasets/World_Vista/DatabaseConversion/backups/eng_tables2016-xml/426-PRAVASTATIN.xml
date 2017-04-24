@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>426-PRAVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRAVASTATIN" rxcui="42463">
+<ATC code="C10AA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD05" />
+<ATC code="A02BD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentration of the pravastatin by the clarithromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the treatment with the antibiotic</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>426-PRAVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRAVASTATIN" rxcui="42463">
+<ATC code="C10AA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the erythromycin administered by oral route: increase of the plasma concentration of the pravastatin by the erythromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the treatment with the antibiotic.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

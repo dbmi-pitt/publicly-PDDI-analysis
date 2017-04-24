@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>275-IBRUTINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IBRUTINIB" rxcui="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ibrutinib due to decrease of its hepatic metabolism by the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and reduction of the dose of ibrutinib to 140 mg per day during the length of time these medications are administered together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>275-IBRUTINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IBRUTINIB" rxcui="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ibrutinib due to decrease of its hepatic metabolism by the diltiazem</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and reduction of the dose of ibrutinib to 140 mg/day during the length of time these medications are administered together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>275-IBRUTINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IBRUTINIB" rxcui="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of irutinib due to decrease of its hepatic metabolism by the verapamil</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and reduction of the dose of ibrutinib to 140mg per day during the length of time these medications are administered together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

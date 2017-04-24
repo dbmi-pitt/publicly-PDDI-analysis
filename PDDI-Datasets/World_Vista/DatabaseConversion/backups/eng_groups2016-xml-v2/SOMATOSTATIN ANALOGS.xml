@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Lanreotide" rxnorm="68092">
+<ATC code="H01CB03" />
+</DRUG>
+<DRUG name="Octreotide" rxnorm="7617">
+<ATC code="H01CB02" />
+</DRUG>
+<DRUG name="Pasireotide" rxnorm="1364105">
+<ATC code="H01CB05" />
+</DRUG>
+</CLASS>

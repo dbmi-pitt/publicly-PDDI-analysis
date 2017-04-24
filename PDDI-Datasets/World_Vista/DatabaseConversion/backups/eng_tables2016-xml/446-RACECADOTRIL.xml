@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>446-RACECADOTRIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RACECADOTRIL" rxcui="16738">
+<ATC code="A07XA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the angioedema type. </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-in case of previous angioedema while taking ACE inhibitors</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

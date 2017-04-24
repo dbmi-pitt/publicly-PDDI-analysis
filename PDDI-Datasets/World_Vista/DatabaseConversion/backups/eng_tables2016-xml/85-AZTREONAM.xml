@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>85-AZTREONAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZTREONAM" rxcui="1272">
+<ATC code="J01DF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to decrease of the plasma concentrations of the valproic acid</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosage of the anticonvulsant during the treatment with the antibiotic and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

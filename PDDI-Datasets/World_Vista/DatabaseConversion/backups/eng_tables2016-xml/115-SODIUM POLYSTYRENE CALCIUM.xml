@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>115-SODIUM POLYSTYRENE CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SODIUM POLYSTYRENE CALCIUM" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SORBITOL" rxcui="9945">
+<ATC code="A06AD18" />
+<ATC code="A06AG07" />
+<ATC code="B05CX02" />
+<ATC code="V04CC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the resin administered by oral and rectal routes: risk of colonic necrosis, possibly fatal</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

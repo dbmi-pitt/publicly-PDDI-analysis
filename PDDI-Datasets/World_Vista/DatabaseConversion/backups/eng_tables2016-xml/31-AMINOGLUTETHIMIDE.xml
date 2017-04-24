@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>31-AMINOGLUTETHIMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMINOGLUTETHIMIDE" rxcui="677">
+<ATC code="L02BG01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Described for warfarin and acenocoumarol. 
+
+Decrease of the effect of the vitamin K antagonist, due to increase of its hepatic metabolism by the aminoglutethimide
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist during the treatment with aminoglutethimide and two weeks after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>31-AMINOGLUTETHIMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMINOGLUTETHIMIDE" rxcui="677">
+<ATC code="L02BG01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effectiveness of the dexamethasone, due to increase of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjustment of the dosage of the dexamethasone. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

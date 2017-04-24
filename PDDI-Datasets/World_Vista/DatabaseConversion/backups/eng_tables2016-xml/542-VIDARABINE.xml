@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>542-VIDARABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VIDARABINE" rxcui="11194">
+<ATC code="J05AB03" />
+<ATC code="S01AD06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALLOPURINOL" rxcui="519">
+<ATC code="M04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of neurological disorders (trembling, confusion) due to partial inhibition of the metabolism of the antiviral</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

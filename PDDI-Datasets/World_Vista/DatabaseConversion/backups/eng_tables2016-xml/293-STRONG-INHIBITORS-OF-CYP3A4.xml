@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of constriction of the coronary arteries or of those of the extremities (ergotism), or of rapid elevation of blood pressure.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the opioid analgesic when there is treatment with a strong inhibitor of CYP3A4</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ALFUZOSIN" rxcui="17300">
+<ATC code="G04CA01" />
+<ATC code="G04CA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the alfuzosin and of its undesirable effects</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ALRRAZOLAM" rxcui="596">
+<ATC code="N05BA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the sedative effect of the alprazolam</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the calcium channel blockers, most often of the hypotension type, especially in older patients.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and dosage adjustment during the treatment with the enzyme inhibitor and after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="URINARY ANTISPASMODICS" code="DFST" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with darifenacine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="APIXABAN" rxcui="1364430">
+<ATC code="B01AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the apixaban by the inhibitor, with increased risk of bleeding</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="BEDAQUILINE" rxcui="1364504">
+<ATC code="J04AK05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of bedaquiline due to decrease of its hepatic metabolism by the inhibitor.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If taking these medications together is necessary, more frequent EKG and monitoring of the transaminases are recommended.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="BORTEZOMIB" rxcui="358258">
+<ATC code="L01XX32" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially neurological, of the bortezomib due to decrease of its metabolism.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the bortezomib during the length of the treatment with the enzyme inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of the undesirable effects of the bosentan, especially of hepatic attacks, due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the administration of these together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="BRENTUXIMAB" rxcui="1147320">
+<ATC code="L01XC12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the active metabolite of the brentuximab, with risk of neutropenia</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="CABAZITAXEL" rxcui="996051">
+<ATC code="L01CD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable dose dependent effects of the cabazitaxel due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the cabazitaxel during the treatment with the enzyme inhibitor</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="V03AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the cobicistat or of the inhibitor of CYP3A4</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>To know the risks and levels of severity of each interaction,consult the specific authorization for sale to the public ("Authorisation de la Mise sur le Marche" a French document) for each one of them.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DACLATASVIR" rxcui="1606218">
+<ATC code="J05AX14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of daclatasvir by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The dose of daclatasvir should be decreased to 30mg once a day when it is administered with the inhibitor. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DAPOXETINE" rxcui="69394">
+<ATC code="G04BX14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially of the vertigo or syncope type. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DISOPYRAMIDE" rxcui="3541">
+<ATC code="C01BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of the undesirable effects of the disopyramide due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of disopyramide.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable dose-dependent effects of the docetaxel due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the docetaxel during the treatment with the enzyme inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DOMPERIDONE" rxcui="3626">
+<ATC code="A03FA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of domperidone due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of dronedarone due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the eplerenone by the inhibitor and of its undesirable effects, especially hyperkalemia</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH51" />
+<ATC code="N02AB03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the opioid analgesic&#39;s effect of respiratory depression due to slight decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the opioid analgesic when there is also treatment with a strong inhibitor of CYP3A4.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increaese of the plasma concentrations of idelalisib due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="TYPE 5 PHOSPHODIESTERASE INHIBITORS" code="G04BE" /></DRUG2>
+<DESCRIPTION>Increase (very large for avanafil and vardenafil) of the plasma concentrations of the type 5 phospodiesterase inhibitor, with risk of hypotension (severe with vardenafil)</DESCRIPTION>
+<SEVERITY>Contraindication - Not recommended - Precaution for use</SEVERITY>
+<COMMENT>To know the risks and levels of severity for each type 5 phospodiesterase inhibitor, consult the specific authorization for sale to the public ("Authorisation de la Mise sur le Marche" a French document) for each one of them.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the protease inhibitor boosted by ritonavir or of the inhibitor of CYP3A4 </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>To know the risks and levels of severity for each protease inhibitor boosted by ritonavir with the strong inhibitors of CYP3A4, consult the specific authorization for sale to the public ("Authorisation de la Mise sur le Marche" a French document) for each one of them.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tyrosine kinase inhibitor due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with axitinib, bosutinib, ceritinib, cobimetinib, dabrafenib, dasatinib, nilotinib, sunitinib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="IRINOTECAN" rxcui="51499">
+<ATC code="L01XX19" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the irinotecan due to increase of the plasma concentrations of its active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ISAVUCONAZOLE" rxcui="1720882">
+<ATC code="J02AC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of isavuconazole due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with the ketoconazole</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ivabradine and consequently of its undesirable effects (inhibition of its hepatic metabolism by the inhibitor).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="IVACAFTOR" rxcui="1243041">
+<ATC code="R07AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of ivacaftor, with risks of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reduce the dose by a fourth, that is 150 mg every other day. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="LOMITAPIDE" rxcui="1364479">
+<ATC code="C10AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lomitapide due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of lurasidone due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of maraviroc by the inhibitor.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The dose of maraviroc must be decreased to 150 mg twice a day when administered with this inhibitor. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="METHYLPREDNISOLONE" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route, increase of the plasma concentration of the corticoid due to decrease of its hepatic metabolism by the in inhibitor, with risk of appearance of a cushings syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the olaparib due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If admininstering these together cannot be avoided, limit the dose of olaparib to 150 mg twice a day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ombitsavir + paritaprevir combination due to decrease of its hepatic metabolism by the inhibitor.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>--except with ritonavir</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="OXYCODONE" rxcui="7804">
+<ATC code="N02AA05" />
+<ATC code="N02AA55" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the oxycodone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of oxycodone during the length of the treatment with the enzyme inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="PANOBINOSTAT" rxcui="1603350">
+<ATC code="L01XX42" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially cardiac ones, of the panobinostat due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. Possible adjustment of the dosage of the panobinostat</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk increase of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of quetiapine, with risk of overdose</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the quinine, especially ventricular arrhythmias and neurosensory disorders (cinchonism).</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with the protease inhibitors</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of ranolazine due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="REGORAFENIB" rxcui="1312397">
+<ATC code="L01XE21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of regorafenib due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="RIOCIGUAT" rxcui="1439816">
+<ATC code="C02KX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of riociquat due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of rivaroxaban, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="SIMEPREVIR" rxcui="1482790">
+<ATC code="J05AE14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of simeprevir due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects specific to each substrate, with frequently severe consequences</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="SUFENTANIL" rxcui="56795">
+<ATC code="N01AH03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the opioid analgesic when there is also treatment with a strong inhibitor of CYP3A4.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially of the cardiac arrhythmia type. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>with the patient who has severe renal or hepatic insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ticagrelor due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="TRASTUZUMAB EMTANSINE" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the DM1, a componant element of the trastuzumab emtansine, due to inhibition of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Bradycardia and/or disorders of atrioventricular conduction, due to decrease of the hepatic metabolism of the verapamil by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. If there is reason for it, adjustment of the dosage of the verapamil during the treatment with the inhibitor, and after it is stopped, if the situation requires. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ZOLPIDEM" rxcui="39993">
+<ATC code="N05CF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Slight increase of the sedative effect of the zolpidem</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>293-STRONG-INHIBITORS-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG1>
+<DRUG2>
+<DRUG name="ZOPICLONE" rxcui="40001">
+<ATC code="N05CF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Slight increase of the sedative effect of the zopiclone</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

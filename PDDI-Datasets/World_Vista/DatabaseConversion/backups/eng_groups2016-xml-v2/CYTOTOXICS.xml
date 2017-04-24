@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CYTOTOXICS" code="L01">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>48</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Altretamine" rxnorm="5296">
+<ATC code="L01XX03" />
+</DRUG>
+<DRUG name="Amsacrine" rxnorm="739">
+<ATC code="L01XX01" />
+</DRUG>
+<DRUG name="Asparaginase" rxnorm="1156">
+<ATC code="L01XX02" />
+</DRUG>
+<DRUG name="Azacitidine" rxnorm="1251">
+</DRUG>
+<DRUG name="Azathioprine" rxnorm="1256">
+<ATC code="L04AX01" />
+</DRUG>
+<DRUG name="Bendamustine" rxnorm="134547">
+<ATC code="L01AA09" />
+</DRUG>
+<DRUG name="Bleomycin" rxnorm="1622">
+<ATC code="L01DC01" />
+</DRUG>
+<DRUG name="Bortezomib" rxnorm="358258">
+<ATC code="L01XX32" />
+</DRUG>
+<DRUG name="Busulfan" rxnorm="1828">
+<ATC code="L01AB01" />
+</DRUG>
+<DRUG name="Cabazitaxel" rxnorm="996051">
+<ATC code="L01CD04" />
+</DRUG>
+<DRUG name="Capecitabine" rxnorm="194000">
+<ATC code="L01BC06" />
+</DRUG>
+<DRUG name="Carboplatin" rxnorm="40048">
+<ATC code="L01XA02" />
+</DRUG>
+<DRUG name="Carmustine" rxnorm="2105">
+<ATC code="L01AD01" />
+</DRUG>
+<DRUG name="Chlorambucil" rxnorm="2346">
+<ATC code="L01AA02" />
+</DRUG>
+<DRUG name="Cisplatin" rxnorm="2555">
+<ATC code="L01XA01" />
+</DRUG>
+<DRUG name="Cladribine" rxnorm="44157">
+<ATC code="L01BB04" />
+</DRUG>
+<DRUG name="Clofarabine" rxnorm="44151">
+<ATC code="L01BB06" />
+</DRUG>
+<DRUG name="Cyclophosphamide" rxnorm="3002">
+<ATC code="L01AA01" />
+</DRUG>
+<DRUG name="Cytarabine" rxnorm="3041">
+<ATC code="L01BC01" />
+</DRUG>
+<DRUG name="Dacarbazine" rxnorm="3098">
+<ATC code="L01AX04" />
+</DRUG>
+<DRUG name="Dactinomycin" rxnorm="3100">
+<ATC code="L01DA01" />
+</DRUG>
+<DRUG name="Daunorubicin" rxnorm="3109">
+<ATC code="L01DB02" />
+</DRUG>
+<DRUG name="Decitabine" rxnorm="15657">
+<ATC code="L01BC08" />
+</DRUG>
+<DRUG name="Dexrazoxane" rxnorm="42736">
+<ATC code="V03AF02" />
+</DRUG>
+<DRUG name="Docetaxel" rxnorm="72962">
+<ATC code="L01CD02" />
+</DRUG>
+<DRUG name="Doxorubicin" rxnorm="3639">
+<ATC code="L01DB01" />
+</DRUG>
+<DRUG name="Epirubicin" rxnorm="3995">
+<ATC code="L01DB03" />
+</DRUG>
+<DRUG name="Eribulin" rxnorm="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+<DRUG name="Estramustine" rxnorm="4089">
+<ATC code="L01XX11" />
+</DRUG>
+<DRUG name="Etoposide" rxnorm="4179">
+<ATC code="L01CB01" />
+</DRUG>
+<DRUG name="Fludarabine" rxnorm="24698">
+<ATC code="L01BB05" />
+</DRUG>
+<DRUG name="Fluorouracile" rxnorm="4492">
+<ATC code="L01BC01" />
+<ATC code="L01BC02" />
+<ATC code="L01BC03" />
+<ATC code="L01BC06" />
+</DRUG>
+<DRUG name="Fotemustine " rxnorm="25287">
+<ATC code="L01AD05" />
+</DRUG>
+<DRUG name="Gemcitabine" rxnorm="12574">
+<ATC code="L01BC05" />
+</DRUG>
+<DRUG name="Gimeracil" rxnorm="">
+</DRUG>
+<DRUG name="Hydroxycarbamide" rxnorm="5552">
+<ATC code="L01XX05" />
+</DRUG>
+<DRUG name="Idarubicin" rxnorm="5650">
+<ATC code="L01DB06" />
+</DRUG>
+<DRUG name="Ifosfamide" rxnorm="5657">
+<ATC code="L01AA06" />
+</DRUG>
+<DRUG name="Irinotecan" rxnorm="51499">
+<ATC code="L01XX19" />
+</DRUG>
+<DRUG name="Lomustine" rxnorm="6466">
+<ATC code="L01AD02" />
+</DRUG>
+<DRUG name="Melphalan" rxnorm="6718">
+<ATC code="L01AA03" />
+</DRUG>
+<DRUG name="Mercaptopurine" rxnorm="103">
+<ATC code="L01BB02" />
+</DRUG>
+<DRUG name="Methotrexate" rxnorm="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+<DRUG name="Mitomycin c" rxnorm="632">
+<ATC code="L01DC03" />
+</DRUG>
+<DRUG name="Mitoxantrone" rxnorm="7005">
+<ATC code="L01DB07" />
+</DRUG>
+<DRUG name="Nelarabine" rxnorm="">
+<ATC code="L01BB07" />
+</DRUG>
+<DRUG name="Oteracil" rxnorm="">
+</DRUG>
+<DRUG name="Oxaliplatin" rxnorm="32592">
+<ATC code="L01XA03" />
+</DRUG>
+<DRUG name="Paclitaxel" rxnorm="56946">
+<ATC code="L01CD01" />
+<ATC code="L01CD03" />
+</DRUG>
+<DRUG name="Pentostatin" rxnorm="8011">
+<ATC code="L01XX08" />
+</DRUG>
+<DRUG name="Pipobroman" rxnorm="8347">
+<ATC code="L01AX02" />
+</DRUG>
+<DRUG name="Pixantrone" rxnorm="">
+<ATC code="L01DB11" />
+</DRUG>
+<DRUG name="Procarbazine" rxnorm="8702">
+<ATC code="L01XB01" />
+</DRUG>
+<DRUG name="Raltitrexed" rxnorm="196239">
+<ATC code="L01BA03" />
+</DRUG>
+<DRUG name="Streptozocin" rxnorm="10114">
+<ATC code="L01AD04" />
+</DRUG>
+<DRUG name="Tegafur " rxnorm="4582">
+<ATC code="L01BC03" />
+</DRUG>
+<DRUG name="Temozolomide" rxnorm="37776">
+<ATC code="L01AX03" />
+</DRUG>
+<DRUG name="Thiotepa" rxnorm="10473">
+<ATC code="L01AC01" />
+</DRUG>
+<DRUG name="Tioguanine" rxnorm="10485">
+<ATC code="L01BB03" />
+</DRUG>
+<DRUG name="Topotecan" rxnorm="57308">
+<ATC code="L01XX17" />
+</DRUG>
+<DRUG name="Vinblastine" rxnorm="11198">
+<ATC code="L01CA01" />
+</DRUG>
+<DRUG name="Vincristine" rxnorm="11202">
+<ATC code="L01CA02" />
+</DRUG>
+<DRUG name="Vindesine" rxnorm="11204">
+<ATC code="L01CA03" />
+</DRUG>
+<DRUG name="Vinflunine" rxnorm="194315">
+<ATC code="L01CA05" />
+</DRUG>
+<DRUG name="Vinorelbine" rxnorm="39541">
+<ATC code="L01CA04" />
+</DRUG>
+</CLASS>

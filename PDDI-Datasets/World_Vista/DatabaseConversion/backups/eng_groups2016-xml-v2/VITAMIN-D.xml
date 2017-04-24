@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="VITAMIN D" code="A11CC">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>159</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfacalcidol" rxnorm="12062">
+<ATC code="A11CC03" />
+</DRUG>
+<DRUG name="Calcitriol " rxnorm="1894">
+<ATC code="A11CC04" />
+<ATC code="D05AX03" />
+</DRUG>
+<DRUG name="Cholecalciferol " rxnorm="2418">
+<ATC code="A11CC05" />
+<ATC code="M05BB03" />
+<ATC code="M05BB05" />
+<ATC code="M05BB04" />
+</DRUG>
+<DRUG name="Ergocalciferol" rxnorm="4018">
+<ATC code="A11CC01" />
+</DRUG>
+</CLASS>

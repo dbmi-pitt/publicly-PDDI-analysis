@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity, especially hematological, of the methotrezate (decrease of its renal clearance by the acetylsalicylic acid)</DESCRIPTION>
+<SEVERITY>With doses of methotrexate > 20 mg/week</SEVERITY>
+<COMMENT>Contraindication  with acetylsalicylic acid used in anatalgic, antipyretic, or anti-inflammatory doses</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACITRETIN" rxcui="16818">
+<ATC code="D05BB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the hepatoxicity of the methotrexate</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together is judged necessary, strengthen liver function testing </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate (decrease of the renal clearance of the methotrexate by the NSAIs).</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with the phenylbutazone, regardless of the dose of methotrexate and for all the forms of phenylbutazone, including topical. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the methotrexate due to decrease of its elimination</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--with the methotrexate in doses > 20mg /week</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity of the methotrexate and of the ciclosporin with increase of the creatinemia: reciprocal decrease of the clearances of the two medications</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosages of ciclosporin and of methotrexate. Adjustment of the dosage if necessary during the administration of the two together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity of the methotrexate due to inhibition of its renal tubular secretion by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PENICILLINS" code="J01C" /></DRUG2>
+<DESCRIPTION>Increase of the effects and of the hematological toxicity of the methothrexate: inhibition of the renal tubular secretion of the methotrexate by the penicillins</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROBENECID" rxcui="8698">
+<ATC code="M04AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity of the methotrexate: inhibition of the renal tubular secretion of the methotrexate by the probenecid</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTIBACTERIAL SULFONAMIDES" code="JO1E" /></DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Concentration dosage of methotrexate. Adjustment of the dosage if necessary during the time of the administration of the substances together and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>345-METHOTREXATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate (decrease of its renal excretion as well as inhibition of the dihydrofolate reductase)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

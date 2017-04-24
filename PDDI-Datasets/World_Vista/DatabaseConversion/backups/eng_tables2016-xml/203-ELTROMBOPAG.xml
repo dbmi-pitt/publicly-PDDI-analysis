@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>203-ELTROMBOPAG.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ELTROMBOPAG" rxcui="711942">
+<ATC code="B02BX05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the statins, due to inhibition of their hepatic recapture</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the statin.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

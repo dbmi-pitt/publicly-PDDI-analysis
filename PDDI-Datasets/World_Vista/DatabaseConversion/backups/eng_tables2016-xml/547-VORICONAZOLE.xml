@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes, due to possible decrease of the metabolism of the amiodarone. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG, and possible adjustment of the dosage of the amiodarone. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>--for carbamazepine, phenobarbital, primidone: Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the inducer
+
+--for phenytoin, fosphenytoin: Large decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the phenytoin, for one thing; and increase of the plasma concentrations of the phenytoin due to decrease of its hepatic metabolism by the voriconazole, for another. </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--for carbamazepine, phenobarbital, primidone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with voriconazole and a week after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES " code="D07AC-001" /></DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route:
+
+increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the voriconazole, with risk of appearance of Cushing&#146;s syndrome even of adrenal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dexamthasone due to decrease of its hepatic metabolism by the enzyme inhibitor, with risk of appearance of Cushing&#146;s syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the efavirenz</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strict clinical monitoring and adjustment of the dosage of the voriconazole and of the efavirenz during the administration of the two together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GLIPIZIDE" rxcui="4821">
+<ATC code="A10BB07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the glipizide at the origin of potentially severe hypoglycemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the blood glucose lowering sulfonamide during and after the treatment with voriconazole.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism by the voriconazole. </DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+<COMMENT>--with the everolimus, the sirolimus, and the temsirolimus</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Very large reduction of the concentrations of the antifungal due to increase of its metabolism by the ritonavir, with risk of failure of the treatment</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Significant reduction of the concentrations of voriconazole, with risk of loss of its therapeutic effect</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the nevirapine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of the substances together cannot be avoided, strict clinical monitoring and possible adjustment of the dosage of the voriconazole during the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the rifabutin for one thing, and risk of increase of the undesirable effects (uveitis) of the rifabutin for another. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of the substances together is judged necessary, clinical monitoring and adjustment of the dosage of the voriconazole (generally doubled) during the treatment with the rifabutin. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration dependent) of the rhabdomyolysis type due to decrease of the hepatic metabolism of the simvastatin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>547-VORICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

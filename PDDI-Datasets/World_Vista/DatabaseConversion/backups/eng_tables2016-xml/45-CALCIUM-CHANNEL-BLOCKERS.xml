@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>45-CALCIUM-CHANNEL-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Not recommended:</SEVERITY>
+<COMMENT>with the nimodipine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>45-CALCIUM-CHANNEL-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IDELALISIB " rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the calcium channel blockers, of the orthostatic hypotension sort, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the calcium channel blocker during the treatment with idelalisib and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>45-CALCIUM-CHANNEL-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the calcium channel blockers, most often of the hypotension type, especially in older patients.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and dosage adjustment during the treatment with the enzymatic inhibitor and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>45-CALCIUM-CHANNEL-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>with the nimodipine</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

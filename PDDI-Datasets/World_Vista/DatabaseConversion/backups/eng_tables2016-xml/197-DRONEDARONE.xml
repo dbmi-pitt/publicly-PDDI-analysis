@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of dronedarone due to increase of its metabolism, without significant modification of the active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the dronedarone and a week after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Depression of autoregulation (excessive bradycardia) and disorders of atrioventricular conduction. In addition, increase of the digoxinemia due to decrease of the metabolism of the digoxin. Clinical monitoring and EKG. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Reduce the doses of digoxin by half. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of bradycardia or of atrioventricular block, especially with older patients. Furthermore, slight increase of the concentrations of dronedarone due to decrease of its metabolism by the calcium channel blocker</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Start the treatment with the calcium channel blocker with minimum recommended dosages, and adjust the doses according to the EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the docetaxel due to decrease of its metabolism.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the docetaxel during the treatment with the enzyme inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FIDAXOMICIN" rxcui="1111103">
+<ATC code="A07AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of fidaxomicin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Large increase of the blood concentrations of the immunosuppressant due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Large increase of the concentrations of drodedarone due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of dronedarone due to increase of its metabolism, without significant modification of the active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of dronedarone due to inhibition of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of bradycardia or of atrioventricular block, especially with older patients. Furthermore, slight increase of the concentrations of dronedarone due to decrease of its metabolism by the quinidine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Start the treatment with the quinidine at the minimum recommended dosages, and adjust the doses according to the EKG. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of dronedarone due to increase of its metabolism, without significant modification of the active metabolite.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the simvastatin)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>197-DRONEDARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of bradycardia or of atrioventricular block, especially with older patients. Furthermore, slight increase of the concentrations of dronedarone due to decrease of its metabolism by the calcium channel blocker</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Start the treatment by the calcium channel blocker with the lowest recommended dosages, and adjust the doses according to the EKG. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

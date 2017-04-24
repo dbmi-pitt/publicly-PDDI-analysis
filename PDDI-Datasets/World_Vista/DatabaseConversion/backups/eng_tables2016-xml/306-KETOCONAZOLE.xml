@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib due to increase of its absorption by the ketoconazole.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the ketoconazole be administered as far from the afatinib as possible, preferably at an interval of 6 or 12 hours away from doses of the afatinib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the gastric pH by the antisecretory</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the gastric pH by the anitsecretory</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES " code="D07AC-001" /></DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the ketoconazole, with risk of appearance of Cushings syndrome, even adrenal insufficiency </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of buprenorphine due to decrease of its hepatic metabolism, with risk of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buprenorphine during the treatment with the inhibitor and, if the situation requires, after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dexamethasone due to decrease of its hepatic metabolism by the enzyme inhibitor, with risk of appearance of Cushings syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EBASTINE" rxcui="23796">
+<ATC code="R06AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias with predisposed patients (congenital long QT syndrome)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of elvitegravir due to decrease of its metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With the elvitegravir combined with cobicistat, clinical monitoring. Limit the maximum dose of ketoconazole to 200 mg/day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FIDAXOMICIN" rxcui="1111103">
+<ATC code="A07AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fidaxomicine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Very large increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If these substances are administered together, strict monitoring of the renal function, blood concentration dosage of the immunosuppressant, and possible adjustment of the dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of ketoconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Space the doses of the two anti-infectives at lease 12 hours apart. Monitor plasma concentrations of the ketoconazole and possibly adjust its dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LERCANIDIPINE" rxcui="135056">
+<ATC code="C08CA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects, especially edema, due to decrease of the hepatic metabolism of the dihydropyridine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the medication tending to cause torsades de pointes. If administering the substances together cannot be avoided, testing of the QT beforehand, and EKG monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIZOLASTINE" rxcui="61455">
+<ATC code="R06AX25" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of nevirapine due to decrease of its hepatic metabolism by the ketoconazole for one thing, and decrease of the plasma concentrations of the ketoconazole due to increase of its hepatic metabolism by the nevirapine, for another thing</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of nintedanib due to increase of its absorption by the ketoconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the two anti-infectives (enzymatic induction by the rifampicin and decrease of the intestinal absorption by the azole antifungal)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SALMETEROL" rxcui="36117">
+<ATC code="R03AK06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of salmeterol due to decrease of its hepatic metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolisis type (decrease of the hepatic metabolism of the cholesterol lowering substance)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use a statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENEFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration with the ketoconazole, the dose of tenofovir alafenamide must be limited to 10 mg per day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of vanlafaxine with risk of overdose </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>306-KETOCONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG2>
+<DESCRIPTION>Increase of the neurotoxicity of the antimitotic, due to decrease of its hepatic metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

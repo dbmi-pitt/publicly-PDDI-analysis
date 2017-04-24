@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>With the other non steroidal anti-inflammatory drugs: increase of the risk of causing ulcers and digestive hemorrhage </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of digestive system ulceration and hemorrhage</DESCRIPTION>
+<SEVERITY>Not recommended with</SEVERITY>
+<COMMENT>-anti-inflammatory doses of acetylsalicylic acid (>=1gr per dose and/or >=3gr per day)</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Acute renal insufficiency with patients at risk (older patient, dehydration, treatment with diuretics, changes in renal function), due to decrease of the glomerular filtration (inhibition of the vasodilator prostaglandins due to the non-steroidal anti-inflammatories). These effects are generally reversible. In addition, reduction of the antihypertensive effect. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment and regularly while these substances are administered together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG2>
+<DESCRIPTION>Increase of the oral anticoagulant&#146;s risk of hemorrhage (irritation of the gastroduodenal mucosa by the non-steroidal anti-inflammatories)
+
+</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-with phenylbutazone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>Reduction of the antihypertensive effect (inhibition of the vasodilating prostaglandins by the non steroidal anti-inflammatories and fluid retention with the phenylbutazone</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the nephrotoxic effects, especially with older patients.
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor renal function at the beginning of the treatment with the NSAI</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of causing ulcers and digestive hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="DIURETICS" code="C0E-001" /></DRUG2>
+<DESCRIPTION>Acute renal insufficiency with the patient at risk (older patient and/or dehydrated one) due to decrease of the glomerular filtration (inhibition of the vasodilator prostaglandins due to the NSAIs). Furthermore, reduction of the antihypertensive effect</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the start of treatment</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of ulceration and of gastrointestinal hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage (irritation of the gastroduodenal mucosa by the NSAIs)
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, strict clinical monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (PREVENTIVE DOSES)" code="B01AB-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENTS)" code="B01AB-003" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage (irritation of the gastroduodenal mucosa by the NSAIs)
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, strict clinical monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES)" code="B01AB-004" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Acute renal insufficiency with patients at risk (older patients, dehydrated ones, those taking diuretics, those with altered renal function) due to decrease of the glomerular filtration (inhibition of the vasodilating prostaglandins due to the NSAIs). These effects are generally reversible. Furthermore, reduction of the antihypertensive effect.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment and regularly during the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSR1s)" code="NO6AB" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia that can reach toxic values (decrease of the renal excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, monitor the lithemia strictly and adjust the dosage of the lithium during the treatment with the substances together and after the NSAI is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate (decrease of the renal clearance of the methotrexate by the NSAIs).</DESCRIPTION>
+<SEVERITY>Contraindication </SEVERITY>
+<COMMENT>-with the phenylbutazone, regardless of the dose of methotrexate and for all the forms of phenylbutazone, including topical. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="PEMETREXED" rxcui="68446">
+<ATC code="L01BA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the pemetrexed (decrease of its renal clearance by the NSAIs)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of weak to moderate renal function</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the nephrotoxic effects, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the renal function at the beginning of treatment with the NSAI</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61-NON-STEROIDAL-ANTI-INFLAMMATORY-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AF07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the nephrotoxicity of the tenofovir, especially with large doses of the anti-inflammatory or in the presence of factors of risk of renal insufficiency</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>When these are administered together, monitor renal function.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

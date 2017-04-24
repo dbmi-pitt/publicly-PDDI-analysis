@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>248-GLINIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLINIDES" code="A10BX-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, and, especially at the beginning of treatment, reinforce self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>248-GLINIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLINIDES" code="A10BX-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, and reinforce, especially at the beginning of treatment, self-monitoring of blood glucose.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

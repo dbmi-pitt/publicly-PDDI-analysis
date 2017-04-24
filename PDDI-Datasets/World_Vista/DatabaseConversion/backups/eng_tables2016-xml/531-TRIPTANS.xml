@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>531-TRIPTANS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRIPTANS" code="N02CC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of arterial hypertension, of constriction of coronary arteries
+
+</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait 6 to 24 hours, depending on the triptan, between taking it and the ergot alkaloid.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>531-TRIPTANS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRIPTANS" code="N02CC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

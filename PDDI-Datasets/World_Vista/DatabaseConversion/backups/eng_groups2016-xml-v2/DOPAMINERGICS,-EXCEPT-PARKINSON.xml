@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DOPAMINERGICS, EXCEPT PARKINSON" code="G02CB-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>55</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Cabergoline" rxnorm="47579">
+<ATC code="G02CB03" />
+<ATC code="N04BC06" />
+</DRUG>
+<DRUG name="Quinagolide" rxnorm="76887">
+<ATC code="G02CB04" />
+</DRUG>
+</CLASS>

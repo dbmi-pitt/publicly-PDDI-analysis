@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NEPHROTOXIC MEDICATIONS
+" code="J01-J05">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aciclovir" rxnorm="281">
+<ATC code="D06BB03" />
+<ATC code="J05AB01" />
+<ATC code="S01AD03" />
+</DRUG>
+<DRUG name="Diatrizoic acid [acide amidotrizoique in the French table]" rxnorm="1546223">
+<ATC code="V08AA01" />
+</DRUG>
+<DRUG name="Clodronic Acid" rxnorm="3350">
+<ATC code="M05BA02" />
+</DRUG>
+<DRUG name="Ioxaglic acid" rxnorm="1426458">
+<ATC code="V08AB03" />
+</DRUG>
+<DRUG name="Ioxitalamic acid" rxnorm="">
+<ATC code="V08AA05" />
+</DRUG>
+<DRUG name="Adefovir" rxnorm="16521">
+</DRUG>
+<DRUG name="Amikacin " rxnorm="641">
+<ATC code="D06AX12" />
+<ATC code="J01GB06" />
+<ATC code="S01AA21" />
+</DRUG>
+<DRUG name="Amphotericin B " rxnorm="732">
+<ATC code="A01AB04" />
+<ATC code="A07AA07" />
+<ATC code="G01AA03" />
+<ATC code="J02AA01" />
+</DRUG>
+<DRUG name="Carboplatin" rxnorm="40048">
+<ATC code="L01XA02" />
+</DRUG>
+<DRUG name="Ciclosporin " rxnorm="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+<DRUG name="Cisplatin" rxnorm="2555">
+<ATC code="L01XA01" />
+</DRUG>
+<DRUG name="Colistin " rxnorm="2709">
+<ATC code="A07AA10" />
+<ATC code="J01XB01" />
+</DRUG>
+<DRUG name="Foscarnet" rxnorm="33562">
+<ATC code="J05AD01" />
+</DRUG>
+<DRUG name="Ganciclovir " rxnorm="4678">
+<ATC code="J05AB06" />
+<ATC code="S01AD09" />
+</DRUG>
+<DRUG name="Gentamicin" rxnorm="142438">
+<ATC code="D06AX07" />
+<ATC code="J01GB03" />
+<ATC code="S01AA11" />
+<ATC code="S02AA14" />
+<ATC code="S03AA06" />
+</DRUG>
+<DRUG name="Ifosfamide" rxnorm="5657">
+<ATC code="L01AA06" />
+</DRUG>
+<DRUG name="Iobitridol" rxnorm="87639">
+<ATC code="V08AB11" />
+</DRUG>
+<DRUG name="Iodixanol" rxnorm="27729">
+<ATC code="V08AB09" />
+</DRUG>
+<DRUG name="Iohexol" rxnorm="5956">
+<ATC code="V08AB02" />
+</DRUG>
+<DRUG name="Iomeprol" rxnorm="">
+<ATC code="V08AB10" />
+</DRUG>
+<DRUG name="Iopamidol" rxnorm="5966">
+<ATC code="V08AB04" />
+</DRUG>
+<DRUG name="Iopromide" rxnorm="27781">
+<ATC code="V08AB05" />
+</DRUG>
+<DRUG name="Ioversol " rxnorm="27792">
+<ATC code="V08AB07" />
+</DRUG>
+<DRUG name="Isepamicin" rxnorm="51522">
+<ATC code="J01GB11" />
+</DRUG>
+<DRUG name="Methotrexate " rxnorm="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+<DRUG name="Netilmicin" rxnorm="7337">
+<ATC code="J01GB07" />
+<ATC code="S01AA23" />
+</DRUG>
+<DRUG name="Oxaliplatin" rxnorm="32592">
+<ATC code="L01XA03" />
+</DRUG>
+<DRUG name="Pentamidine " rxnorm="7994">
+<ATC code="P01CX01" />
+</DRUG>
+<DRUG name="Spectinomycin" rxnorm="270">
+<ATC code="J01XX04" />
+</DRUG>
+<DRUG name="Streptomycin " rxnorm="10109">
+<ATC code="A07AA04" />
+<ATC code="J01GA" />
+<ATC code="J01GA01" />
+<ATC code="J04AM01" />
+<ATC code="S01AA15" />
+</DRUG>
+<DRUG name="Streptozocin" rxnorm="10114">
+<ATC code="L01AD04" />
+</DRUG>
+<DRUG name="Tacrolimus" rxnorm="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+<ATC code="L04AD02" />
+</DRUG>
+<DRUG name="Teicoplanin" rxnorm="57021">
+<ATC code="J01XA02" />
+</DRUG>
+<DRUG name="Tenofovir disoproxil" rxnorm="300195">
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AF07" />
+<ATC code="J05AR03" />
+</DRUG>
+<DRUG name="Tobramycin" rxnorm="10627">
+<ATC code="J01GB01" />
+<ATC code="S01AA12" />
+</DRUG>
+<DRUG name="Valaciclovir" rxnorm="73645">
+<ATC code="J05AB11" />
+</DRUG>
+<DRUG name="Valganciclovir" rxnorm="275891">
+<ATC code="J05AB14" />
+</DRUG>
+<DRUG name="Vancomycin" rxnorm="11124">
+<ATC code="A07AA09" />
+<ATC code="J01XA01" />
+</DRUG>
+</CLASS>

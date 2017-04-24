@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22-ALFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With cimetidine used in doses greater than or equal to 800mg/day: increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of the alfentanil when administered with the cimetidine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22-ALFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of the alfentanil when administered with the diltiazem. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22-ALFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of the alfentanil when administered with the erythromycin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22-ALFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of the alfentanil when administered with the fluconazole</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22-ALFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFENTANIL" rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use </SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the opioid analgesic when administered with a strong inhibitor of CYP3A4.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

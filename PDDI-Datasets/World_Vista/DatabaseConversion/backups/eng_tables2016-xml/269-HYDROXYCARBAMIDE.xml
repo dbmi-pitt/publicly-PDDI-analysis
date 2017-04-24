@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>269-HYDROXYCARBAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROXYCARBAMIDE " rxcui="5552">
+<ATC code="L01XX05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>When indicated for a patient with drepanocytosis (sickle cell anemia), theoretical risk of general fatal vaccine disease. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Administering these together should be considered only if the benefits are estimated to be higher than the this risk.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

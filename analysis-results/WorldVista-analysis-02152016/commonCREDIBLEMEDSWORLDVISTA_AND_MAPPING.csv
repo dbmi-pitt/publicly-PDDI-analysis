@@ -1,0 +1,4 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00218    object:AMIODARONE precipitant: MOXIFLOXACIN 	CredibleMeds Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00675-http://bio2rdf.org/drugbank:DB00476    object:TAMOXIFEN precipitant: DULOXETINE 	CredibleMeds Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00675-http://bio2rdf.org/drugbank:DB00715    object:TAMOXIFEN precipitant: PAROXETINE 	CredibleMeds Evidence: None 	World-Vista Evidence: None 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>86-BACLOFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BACLOFEN" rxcui="1292">
+<ATC code="M03BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of hypotonia</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>86-BACLOFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BACLOFEN" rxcui="1292">
+<ATC code="M03BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of aggravation of the Parkinson&#146;s syndrome or of undesirable central effects (visual hallucinations, confusion, headaches)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

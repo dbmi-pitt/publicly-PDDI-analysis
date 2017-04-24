@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CITRATES" code="V09HX">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>43</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Gallium (67 Ga) citrate" rxnorm="272758">
+<ATC code="V09HX01" />
+</DRUG>
+<DRUG name="Trimagnesium dicitrate" rxnorm="">
+</DRUG>
+<DRUG name="Potassium citrate" rxnorm="54993">
+<ATC code="A12BA02" />
+</DRUG>
+<DRUG name="Sodium citrate" rxnorm="56466">
+<ATC code="B05CB02" />
+</DRUG>
+<DRUG name="Diacid sodium citrate " rxnorm="">
+</DRUG>
+</CLASS>

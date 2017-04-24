@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>356-MIDODRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDODRINE" rxcui="6963">
+<ATC code="C01CA17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (increase of the bradycardia inducing effect of the midodrine) and disorders of atrioventricular conduction</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strengthen clinical monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>356-MIDODRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDODRINE" rxcui="6963">
+<ATC code="C01CA17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Hypertensive crises (inhibition of the metabolism of the pressor amines). Because of the length of action of the MAOI, this interaction is still possible two weeks after the MAOI is stopped.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

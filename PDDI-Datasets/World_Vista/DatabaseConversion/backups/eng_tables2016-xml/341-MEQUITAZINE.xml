@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DULOXETINE" rxcui="72625">
+<ATC code="N06AX21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>341-MEQUITAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

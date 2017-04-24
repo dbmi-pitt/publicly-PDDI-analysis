@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Greater increase of the creatinemia than with tacrolimus alone (synergy of the nephrotoxic effects of the two substances)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of tacrolimus due to inhibition of its metabolism by the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of tacrolimus, testing of the renal function, and adjustment of the dosage of tacrolimus during its administration with the amiodarone and when the amiodarone is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="A01AB04" />
+<ATC code="A07AA07" />
+<ATC code="G01AA03" />
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered by IV route: greater increase of the creatinemia than with tacrolimus alone (synergy of the nephrotoxic effects of the two substances)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Risk of addition of the nephrotoxic effects, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor renal function at the beginning of treatment with the NSAI.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+<ATC code="D10AF51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of the immunosuppressant, with risk of loss of immunosuppressive activity. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforced testing of the blood dosages of tacrolimus and possible increase of its dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of dabigatran</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the tacrolimus due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the tacrolimus and adjustment of its dosage during the administration with the danazol and after it is stopped, with testing of the renal function.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of tacrolimus and of the creatinemia, due to inhibition of the hepatic metabolism of the tacrolimus by the josamycin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LANSOPRAZOLE" rxcui="17128">
+<ATC code="A02BC03" />
+<ATC code="A02BD07" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the tacrolimus</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the tacrolimus, testing of the renal function, and adjustment of the dosage during the administration of the two substances together and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OMEPRAZOLE" rxcui="7646">
+<ATC code="A02BC01" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the tacrolimus</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the tacrolimus, testing of the renal function, and adjustment of the dosage during the administration of the substances together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POTASSIUM" rxcui="8588">
+<ATC code="A12BA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Essentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+<COMMENT>Avoid administering these substances together unless there is preexisting hypokalemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>501-TACROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the tacrolimus (decrease of its hepatic metabolism by the verapamil)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of the renal function, and adjustment of the dosage during the administration of the medications together and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

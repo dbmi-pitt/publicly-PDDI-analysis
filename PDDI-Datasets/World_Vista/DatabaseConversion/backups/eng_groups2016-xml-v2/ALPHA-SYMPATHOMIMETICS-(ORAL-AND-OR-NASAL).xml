@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ALPHA-SYMPATHOMIMETICS (ORAL AND/OR NASAL)" code="R01AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>6</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Etilefrine" rxnorm="4169">
+<ATC code="C01CA01" />
+</DRUG>
+<DRUG name="Midodrine" rxnorm="6963">
+<ATC code="C01CA17" />
+</DRUG>
+<DRUG name="Naphazoline" rxnorm="7247">
+<ATC code="R01AA08" />
+<ATC code="R01AB02" />
+<ATC code="S01GA01" />
+</DRUG>
+<DRUG name="Oxymetazoline" rxnorm="7812">
+<ATC code="R01AA05" />
+<ATC code="R01AB07" />
+<ATC code="S01GA04" />
+</DRUG>
+<DRUG name="Phenylephrine" rxnorm="8163">
+<ATC code="C01CA06" />
+<ATC code="R01AA04" />
+<ATC code="R01AB01" />
+<ATC code="R01BA03" />
+<ATC code="S01FB01" />
+<ATC code="S01GA05" />
+</DRUG>
+<DRUG name="Synephrine" rxnorm="10288">
+</DRUG>
+<DRUG name="Tetryzoline" rxnorm="37935">
+<ATC code="R01AA06" />
+<ATC code="R01AB03" />
+<ATC code="S01GA02" />
+</DRUG>
+<DRUG name="Tuaminoheptane" rxnorm="179753">
+<ATC code="R01AA11" />
+<ATC code="R01AB08" />
+</DRUG>
+</CLASS>

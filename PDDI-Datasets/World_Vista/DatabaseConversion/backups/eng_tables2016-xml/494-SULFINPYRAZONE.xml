@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>494-SULFINPYRAZONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SULFINPYRAZONE" rxcui="10205">
+<ATC code="M04AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin due to increase of its metabolism by the sulfinpyrazone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Testing of blood concentrations of ciclosporin and possible adjustment of its dosage during the treatment with sulfinpyrazone and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

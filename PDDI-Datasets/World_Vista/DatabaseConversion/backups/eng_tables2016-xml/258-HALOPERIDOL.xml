@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>258-HALOPERIDOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOPERIDOL" rxcui="5093">
+<ATC code="N05AD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Clinical monitoring and, if needed, adjustment of the dosage during the treatment with the carbamazepine and after it is stopped</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, adjustment of the dosage during the treatment with the carbamazepine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>258-HALOPERIDOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOPERIDOL" rxcui="5093">
+<ATC code="N05AD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the haloperidol and of its therapeutic effectiveness, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, adjustment of the dosage during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

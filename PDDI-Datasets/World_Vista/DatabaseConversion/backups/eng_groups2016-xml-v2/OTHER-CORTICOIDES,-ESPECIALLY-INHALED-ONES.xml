@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>113</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Budesonide" rxnorm="19831">
+<ATC code="A07EA06" />
+<ATC code="D07AC09" />
+<ATC code="R01AD05" />
+<ATC code="R03BA02" />
+</DRUG>
+<DRUG name="Ciclesonide" rxnorm="274964">
+<ATC code="R01AD13" />
+<ATC code="R03BA08" />
+</DRUG>
+<DRUG name="Fluticasone" rxnorm="41126">
+<ATC code="D07AC17" />
+<ATC code="R01AD08" />
+<ATC code="R03BA05" />
+</DRUG>
+<DRUG name="Mometasone" rxnorm="108118">
+<ATC code="D07AC13" />
+<ATC code="D07XC03" />
+<ATC code="R01AD09" />
+<ATC code="R03BA07" />
+</DRUG>
+</CLASS>

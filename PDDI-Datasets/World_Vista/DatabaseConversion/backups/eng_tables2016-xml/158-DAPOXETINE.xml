@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>158-DAPOXETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DAPOXETINE" rxcui="69394">
+<ATC code="G04BX14" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially of the vertigo or syncope type</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>158-DAPOXETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DAPOXETINE" rxcui="69394">
+<ATC code="G04BX14" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MEDICATIONS AT THE ORIGIN OF ORTHOSTATIC HYPOTENSION" code="N05AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially of the vertigo and fainting type</DESCRIPTION>
+<SEVERITY>Nor recommended</SEVERITY>
+<COMMENT>-with the type 5 phosphodiesterase inhibitors </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

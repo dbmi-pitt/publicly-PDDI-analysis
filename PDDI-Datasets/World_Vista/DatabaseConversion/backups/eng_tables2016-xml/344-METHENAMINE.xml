@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>344-METHENAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHENAMINE" rxcui="6832">
+<ATC code="J01XX05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SULFAMETHIZOLE" rxcui="10179">
+<ATC code="B05CA04" />
+<ATC code="J01EB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Precipitation of crystals in the urinary tract (due to the acidification of the urine)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

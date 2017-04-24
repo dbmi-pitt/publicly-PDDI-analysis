@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIPURINES" code="ANTIPUR">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>25</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Azathioprine " rxnorm="1256">
+<ATC code="L04AX01" />
+</DRUG>
+<DRUG name="Mercaptopurine " rxnorm="103">
+<ATC code="L01BB02" />
+</DRUG>
+</CLASS>

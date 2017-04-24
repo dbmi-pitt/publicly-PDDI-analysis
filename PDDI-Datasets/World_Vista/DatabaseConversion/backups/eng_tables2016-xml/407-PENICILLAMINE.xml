@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>407-PENICILLAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENICILLAMINE" rxcui="7975">
+<ATC code="M01CC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the penicillamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the penicillamine (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

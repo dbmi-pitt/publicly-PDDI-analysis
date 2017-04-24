@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dienogest" rxnorm="22968">
+</DRUG>
+<DRUG name="Estradiol" rxnorm="4083">
+<ATC code="G03CA03" />
+</DRUG>
+<DRUG name="Ethinylestradiol" rxnorm="4124">
+<ATC code="G03AA15" />
+<ATC code="G03AB07" />
+<ATC code="G03AA09" />
+<ATC code="G03AB05" />
+<ATC code="G03AA12" />
+<ATC code="G03CA01" />
+<ATC code="L02AA03" />
+<ATC code="G03AA01" />
+<ATC code="G03AA10" />
+<ATC code="G03AB06" />
+<ATC code="G03AA07" />
+<ATC code="G03AB03" />
+<ATC code="G03AA03" />
+<ATC code="G03AB02" />
+<ATC code="G03AA08" />
+<ATC code="G03AA04" />
+<ATC code="G03AB01" />
+<ATC code="G03AA13" />
+<ATC code="G03AA05" />
+<ATC code="G03AB04" />
+<ATC code="G03AA11" />
+<ATC code="G03AA06" />
+<ATC code="G03AA02" />
+</DRUG>
+</CLASS>

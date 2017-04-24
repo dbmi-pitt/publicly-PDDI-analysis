@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ALUMINUM (SALTS)" code="A02AD0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>7</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aluminum Hydroxide / magnesium carbonate" rxnorm="17384">
+</DRUG>
+<DRUG name="Hydrotalcite" rxnorm="27221">
+<ATC code="A02AD04" />
+</DRUG>
+<DRUG name="Magaldrate" rxnorm="29151">
+<ATC code="A02AD02" />
+<ATC code="A02AF01" />
+</DRUG>
+</CLASS>

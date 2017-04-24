@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SPERMICIDES" code="R02AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>132</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Benzalkonium" rxnorm="1378">
+<ATC code="D08AJ01" />
+<ATC code="D09AA11" />
+<ATC code="R02AA16" />
+<ATC code="R02AA10" />
+</DRUG>
+<DRUG name="Cetalkonium" rxnorm="">
+</DRUG>
+<DRUG name="Nonoxynol-9" rxnorm="53750">
+</DRUG>
+</CLASS>

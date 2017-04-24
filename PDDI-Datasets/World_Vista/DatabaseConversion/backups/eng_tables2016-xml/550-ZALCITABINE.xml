@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of pancreatitis and of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and monitoring of the amylasemia. Do not administer these substances together if the amylasemia is at the high range of normal. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GANCICLOVIR" rxcui="4678">
+<ATC code="S01AD09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the two medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LAMIVUDINE" rxcui="68244">
+<ATC code="J05AF05" />
+<ATC code="J05AR02" />
+<ATC code="J05AR07" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="J05AR07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to inhibition of the phosphorylation reaction at the origin of the active metabolites </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>550-ZALCITABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THALIDOMIDE" rxcui="10432">
+<ATC code="L04AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

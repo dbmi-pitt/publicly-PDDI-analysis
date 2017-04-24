@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>400-PANOBINOSTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PANOBINOSTAT" rxcui="1603350">
+<ATC code="L01XX42" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially cardiac ones, of the panobinostat due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. Possible adjustment of the dosage of the panobinostat</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

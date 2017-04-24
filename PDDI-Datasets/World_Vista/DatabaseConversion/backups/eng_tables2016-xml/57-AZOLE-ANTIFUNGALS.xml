@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>57-AZOLE-ANTIFUNGALS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>57-AZOLE-ANTIFUNGALS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmia, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If it is possible, interrupt the azole antifungal. If administering the substances together cannot be avoided, testing of the QT before the beginning of the treatment and EKG monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>57-AZOLE-ANTIFUNGALS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use with:</SEVERITY>
+<COMMENT>-midazolam IV route</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

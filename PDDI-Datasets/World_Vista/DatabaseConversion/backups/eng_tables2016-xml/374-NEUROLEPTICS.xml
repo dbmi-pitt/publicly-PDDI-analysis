@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>374-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NEUROLEPTICS" code="N05AA-003" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Vasidilator effect and risk of hypotension, especially orthostatic (additive effect)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>374-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NEUROLEPTICS" code="N05AA-003" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of neuropsychic signs evocative of a neuroleptic malignant syndrome or of lithium poisoning</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>374-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NEUROLEPTICS" code="N05AA-003" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

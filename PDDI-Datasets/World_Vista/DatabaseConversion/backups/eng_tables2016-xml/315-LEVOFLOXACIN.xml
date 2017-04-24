@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>315-LEVOFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVOFLOXACINE" rxcui="82122">
+<ATC code="S01AE05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administrations of these substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

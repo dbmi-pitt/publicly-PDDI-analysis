@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the telithromycin, with risk of failure of the antibiotic treatment, due to increase of its hepatic metabolism by the inducerr</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol lowering medication</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dexamethasone due to decrease of its hepatic metabolism by the enzyme inhibitor, with risk of appearance of Cushings syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the dogoxinemia during the treatment with the telithromycin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Very large increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>When these are taken together, strict testing of the renal function, blood concentration dosage of the immunosuppressant and possible adjustment of the dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially of cardiac arrhythmia type</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>with the patient with severe renal or hepatic insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the telithromycin, with risk of failure of the antibiotic treatment, due to increase of the hepatic metabolism of the telithromycin by the St Johns wort</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIZOLASTINE" rxcui="61455">
+<ATC code="R06AX25" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmia, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the telithromycin, with risk of failure of the antibiotic treatment, due to increase of the hepatic metabolism of the telithromycin by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol lowering drug). </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>506-TELITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the antimitotic due to decrease of its hepatic metabolism by the telithromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring. Possibly, use another antibiotic.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

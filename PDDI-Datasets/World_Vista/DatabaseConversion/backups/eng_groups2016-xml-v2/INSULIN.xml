@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="INSULIN" code="A10A">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76</SOURCE_FILE>
+</SOURCE>
+<DRUG name="The names for codes do not correspond exactly with the names given in the French document for various kinds of insulin. Below are all the RxNorm and ATC codes for insulin on RxNav and the WHO ATC/DDD lists." rxnorm="5856">
+<ATC code="A10A" />
+<ATC code="A10AB" />
+<ATC code="A10AC" />
+<ATC code="A10AD" />
+<ATC code="A10AE" />
+<ATC code="A10AF" />
+<ATC code="A10AB01" />
+<ATC code="A10AB02" />
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+<ATC code="A10AB03" />
+<ATC code="A10AB05" />
+<ATC code="A10AE06" />
+<ATC code="A10AD06" />
+<ATC code="A10AB06" />
+<ATC code="A10AB04" />
+<ATC code="A10AC04" />
+<ATC code="A10AD04" />
+</DRUG>
+</CLASS>

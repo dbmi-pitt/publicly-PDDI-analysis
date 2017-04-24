@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="GLIPTINS" code="A10B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>64</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Linagliptin" rxnorm="1100699">
+<ATC code="A10BH05" />
+<ATC code="A10BD11" />
+</DRUG>
+<DRUG name="Saxagliptin" rxnorm="857974">
+<ATC code="A10BD10" />
+<ATC code="A10BH03" />
+</DRUG>
+<DRUG name="Sitagliptin" rxnorm="593411">
+<ATC code="A10BD07" />
+<ATC code="A10BD12" />
+<ATC code="A10BH01" />
+</DRUG>
+<DRUG name="Vildagliptin" rxnorm="596554">
+<ATC code="A10BD08" />
+<ATC code="A10BH02" />
+</DRUG>
+</CLASS>

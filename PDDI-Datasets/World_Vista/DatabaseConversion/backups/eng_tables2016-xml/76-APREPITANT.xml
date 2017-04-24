@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of very large decrease of the concentrations of aprepitant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the aprepitant</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Adjustment of the dosage of the vitamin K antagonist during and after the administration of the medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HA01" />
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the cyproterone with risk of lower contraceptive effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>--In its use as a homonal contraceptive. Use a reliable contraceptive method, additional or alternative during the time these medications are taken together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the estrogen-progestin or of the progestin, with risk of lower contraceptive effectiveness. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Chose another contraceptive method, in particular a barrier type, during the time these medications are taken together and a cycle following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IFOSFAMIDE" rxcui="5657">
+<ATC code="L01AA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the neurotoxicity of the ifosfamide</DESCRIPTION>
+<SEVERITY>Take into account  </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of aprepitant due to decrease of its hepatic metabolism by the itraconazole. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>(Except for IUD), decrease of the concentrations of progestin, with risk of lower contraceptive effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Choose another method of contraception, in particular a barrier type, during the administration of these medications together and a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>76-APREPITANT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" >
+<ATC code="9384" />
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the concentrations of aprepitant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

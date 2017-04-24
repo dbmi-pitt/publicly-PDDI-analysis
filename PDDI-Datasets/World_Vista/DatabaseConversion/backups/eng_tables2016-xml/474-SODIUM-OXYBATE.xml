@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>474-SODIUM-OXYBATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SODIUM OXYBATE" rxcui="9899">
+<ATC code="N01AX11" />
+<ATC code="N07XX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OF INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase by the alcohol of the sedative effect of these substances. The alteration of vigilence can make driving vehicles or operating machinery dangerous</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>65</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Betamethasone" rxnorm="1514">
+<ATC code="A07EA04" />
+<ATC code="C05AA05" />
+<ATC code="D07AC01" />
+<ATC code="H02AB01" />
+<ATC code="R01AD06" />
+<ATC code="R03BA04" />
+<ATC code="S01BA06" />
+<ATC code="S01CB04" />
+<ATC code="S02BA07" />
+<ATC code="S03BA03" />
+<ATC code="D07CC01" />
+<ATC code="S01CA05" />
+<ATC code="S03CA06" />
+<ATC code="D07BC01" />
+<ATC code="S01BB04" />
+</DRUG>
+<DRUG name="Budesonide" rxnorm="19831">
+<ATC code="A07EA06" />
+<ATC code="D07AC09" />
+<ATC code="R01AD05" />
+<ATC code="R03BA02" />
+</DRUG>
+<DRUG name="Cortisone" rxnorm="2878">
+<ATC code="H02AB10" />
+<ATC code="S01BA03" />
+</DRUG>
+<DRUG name="Cortivazol" rxnorm="21660">
+<ATC code="H02AB17" />
+</DRUG>
+<DRUG name="Dexamethasone" rxnorm="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+</DRUG>
+<DRUG name="Methylprednisolone" rxnorm="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07AC14" />
+<ATC code="D07CA02" />
+<ATC code="S01CA08" />
+<ATC code="H02BX01" />
+</DRUG>
+<DRUG name="Prednisolone" rxnorm="8638">
+<ATC code="A07EA01" />
+<ATC code="C05AA04" />
+<ATC code="D07AA03" />
+<ATC code="D07BA01" />
+<ATC code="D07CA03" />
+<ATC code="D07XA02" />
+<ATC code="H02AB06" />
+<ATC code="R01AD02" />
+<ATC code="S01BA04" />
+<ATC code="S01BB02" />
+<ATC code="S01CB02" />
+<ATC code="S02BA03" />
+<ATC code="S03BA02" />
+<ATC code="S01CA02" />
+<ATC code="S02CA01" />
+<ATC code="S03CA02" />
+<ATC code="V03AB05" />
+</DRUG>
+<DRUG name="Prednisone" rxnorm="8640">
+<ATC code="A07EA03" />
+<ATC code="H02AB07" />
+</DRUG>
+<DRUG name="Tetracosactide" rxnorm="2890">
+<ATC code="H01AA02" />
+</DRUG>
+<DRUG name="Triamcinolone" rxnorm="10759">
+<ATC code="A01AC01" />
+<ATC code="C05AA12" />
+<ATC code="D07AB09" />
+<ATC code="D07XB02" />
+<ATC code="H02AB08" />
+<ATC code="R01AD11" />
+<ATC code="R03BA06" />
+<ATC code="S01BA05" />
+<ATC code="D07CB01" />
+<ATC code="S02CA04" />
+<ATC code="D07BB03" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>460-RIVAROXABAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of rivaroxaban, with risk of decrease of the therapeutic effect
+
+.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>460-RIVAROXABAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the rivaroxaban by the fluconazole, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>460-RIVAROXABAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of rivaroxaban, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>460-RIVAROXABAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of rivaroxaban, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

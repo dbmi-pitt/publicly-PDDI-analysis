@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TORSADES DE POINTES INDUCING MEDICATIONS (EXCEPT ANTIPARASITICS, NEUROLEPTICS, METHADONE)" code="C01B">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>144</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amiodarone " rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Arsenic trioxide" rxnorm="18330">
+<ATC code="L01XX27" />
+<ATC code="G01AB" />
+<ATC code="P01AR" />
+<ATC code="P01CD" />
+</DRUG>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Domperidone" rxnorm="3626">
+<ATC code="A03FA03" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Erythromycin" rxnorm="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Hydroxyzine" rxnorm="5553">
+<ATC code="N05BB01" />
+</DRUG>
+<DRUG name="Mequitazine " rxnorm="29528">
+<ATC code="R06AD07" />
+</DRUG>
+<DRUG name="Mizolastine " rxnorm="61455">
+<ATC code="R06AX25" />
+</DRUG>
+<DRUG name="Moxifloxacin" rxnorm="139462">
+<ATC code="J01MA14" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Piperaquine" rxnorm="1430959">
+<ATC code="P01BF05" />
+</DRUG>
+<DRUG name="Prucalopride" rxnorm="278774">
+<ATC code="A06AX05" />
+</DRUG>
+<DRUG name="Quinidine " rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Spiramycin " rxnorm="9991">
+<ATC code="J01FA02" />
+<ATC code="J01RA04" />
+</DRUG>
+<DRUG name="Toremifene" rxnorm="38409">
+<ATC code="L02BA02" />
+</DRUG>
+<DRUG name="Vandetanib" rxnorm="1098413">
+<ATC code="L01XE12" />
+</DRUG>
+<DRUG name="Vincamine" rxnorm="11201">
+<ATC code="C04AX07" />
+</DRUG>
+</CLASS>

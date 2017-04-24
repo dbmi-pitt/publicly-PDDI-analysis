@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MEDICATIONS THAT LOWER THE EPILEPTIC THRESHOLD" code="N05AA-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>89</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alimemazine" rxnorm="10825">
+<ATC code="R06AD01" />
+</DRUG>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Amoxapine" rxnorm="722">
+</DRUG>
+<DRUG name="Bupropion " rxnorm="42347">
+</DRUG>
+<DRUG name="Camphora" rxnorm="323578">
+<ATC code="C01EB02" />
+</DRUG>
+<DRUG name="Chloroquine " rxnorm="2393">
+<ATC code="P01BA01" />
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Cineole" rxnorm="">
+<ATC code="R05CA13" />
+</DRUG>
+<DRUG name="Ciprofloxacin " rxnorm="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Clomipramine" rxnorm="2597">
+<ATC code="N06AA04" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Dosulepin" rxnorm="3634">
+<ATC code="N06AA16" />
+</DRUG>
+<DRUG name="Doxepin" rxnorm="3638">
+<ATC code="N06AA12" />
+</DRUG>
+<DRUG name="Droperidol" rxnorm="3648">
+<ATC code="N05AD08" />
+</DRUG>
+<DRUG name="Enoxacin" rxnorm="3925">
+<ATC code="J01MA04" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Eucalyptus" rxnorm="319781">
+</DRUG>
+<DRUG name="Eugenol" rxnorm="4186">
+</DRUG>
+<DRUG name="Fampridine" rxnorm="897018">
+<ATC code="N07XX07" />
+</DRUG>
+<DRUG name="Fluoxetine" rxnorm="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Fluvoxamine" rxnorm="42355">
+</DRUG>
+<DRUG name="Haloperidol " rxnorm="5093">
+<ATC code="N05AD01" />
+</DRUG>
+<DRUG name="Imipramine" rxnorm="5691">
+<ATC code="N06AA02" />
+</DRUG>
+<DRUG name="Levofloxacin" rxnorm="82122">
+<ATC code="J01MA12" />
+<ATC code="S01AE05" />
+</DRUG>
+<DRUG name="Levomenthol" rxnorm="236388">
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Lomefloxacin" rxnorm="28872">
+<ATC code="J01MA07" />
+<ATC code="S01AE04" />
+</DRUG>
+<DRUG name="Maprotiline" rxnorm="6646">
+<ATC code="N06AA21" />
+</DRUG>
+<DRUG name="Mefloquine" rxnorm="6694">
+<ATC code="P01BF02" />
+<ATC code="P01BC02" />
+</DRUG>
+<DRUG name="Mint" rxnorm="1372004">
+</DRUG>
+<DRUG name="Racemic menthol" rxnorm="">
+</DRUG>
+<DRUG name="Moxifloxacin" rxnorm="139462">
+<ATC code="J01MA14" />
+<ATC code="S01AE07" />
+</DRUG>
+<DRUG name="Niaouli" rxnorm="1309375">
+</DRUG>
+<DRUG name="Norfloxacin" rxnorm="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+<DRUG name="Ofloxacine" rxnorm="7623">
+<ATC code="J01MA01" />
+<ATC code="S01AE01" />
+<ATC code="S02AA16" />
+</DRUG>
+<DRUG name="Oxomemazine" rxnorm="234528">
+<ATC code="R06AD08" />
+</DRUG>
+<DRUG name="Paroxetine" rxnorm="32937">
+<ATC code="N06AB05" />
+</DRUG>
+<DRUG name="Pefloxacin" rxnorm="7960">
+<ATC code="J01MA03" />
+</DRUG>
+<DRUG name="Pimozide " rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Pipamperone" rxnorm="33739">
+<ATC code="N05AD05" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Promethazine" rxnorm="8745">
+<ATC code="V03AB05" />
+<ATC code="D04AA10" />
+<ATC code="R06AD02" />
+</DRUG>
+<DRUG name="Propericiazine" rxnorm="8766">
+<ATC code="N05AC01" />
+</DRUG>
+<DRUG name="Sertraline" rxnorm="36437">
+<ATC code="N06AB06" />
+</DRUG>
+<DRUG name="Terpine" rxnorm="">
+</DRUG>
+<DRUG name="Terpineol" rxnorm="1368180">
+</DRUG>
+<DRUG name="Terpinol" rxnorm="">
+</DRUG>
+<DRUG name="Thymol" rxnorm="10553">
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+</DRUG>
+<DRUG name="Trimipramine" rxnorm="10834">
+<ATC code="N06AA06" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nintedanib by decrease of its absorption by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the erythromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the ritonavir boosted protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the itraconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the ketoconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nintedanib by decrease of its absorption by the St Johns wort</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Decrease if the plasma concentrations of the nintedanib by decrease of its absorption by the phenytoin or the fosphenytoin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nintedanib by decrease of its absorption by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>382-NINTEDANIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib by increase of its absorption by the verapamil.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

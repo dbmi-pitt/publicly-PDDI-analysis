@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ABIRATERONE" rxcui="1100072">
+<ATC code="L02BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the abiraterone, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the afatinib due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together and 1 to 2 weeks after they are stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the inducer, with risk of reduction of its effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring of the therapeutic response and possible adjustment of the dosage of the albendazole during the treatment with the enzymatic inducer and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="CALCIUM CHANNEL BLOCKERS" code="CO8CA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+<COMMENT>--with nimodipine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the antiarrythmic (increase of its hepatic metabolism). 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly monitoring of the plasma concentration of the antiarrythmic. If needed, adjustment of the dosage of the antiarrythmic during the treatment with the rifampicin and after it is stopped (risk of overdose of the antiarrythmic)</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the rifampicin. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the rifampicin and a week after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="APIXABAN" rxcui="1364430">
+<ATC code="B01AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the apixaban by the rifampicin, with risk of decrease of the therapeutic effect.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the concentrations of aprepitant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of atorvastastatin, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of atorvaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, regular clinical and biological monitoring, especially at the beginning of treatment with the two medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease, large for the rifampicin, of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the buspirone due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the buspirone during the treatment with rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the carbamazepine due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations and adjustment of the dosage of the carbamazepine during the treatment with the rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARVEDILOL" rxcui="">
+<ATC code="C07AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the carvedilol, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and adjustment of the dosage of the carvedilol during the treatment with the rifampicin. When the rifampicin is stopped, risk of large increase of the plasma concentrations of carvedilol imposing a reduction of the dosage and strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and risk of lower effectiveness of the clarithromycin, especially with HIV patients, due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the antipsychotic treatment (decrease of the plasma concentrations of clozapine due to increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible increase of the dosage of the clozapine during the treatment with the rifampicin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the cobicistat due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of deferasirox</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the ferritinemia during and after the treatment with the enzymatic inducer. If needed, adjustment of the dosage of deferasirox.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DELAMANID" rxcui="1344662">
+<ATC code="J04AK06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of delamanid due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the concentrations of dronedarone due to increase of its metabolism, without significant modification of the active metabolite.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the efavirenz due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EXEMESTANE" rxcui="258494">
+<ATC code="L02BG06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the exemestane due to increase of its hepatic metabolism by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N02AB03" />
+<ATC code="N01AH51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of fentanyl due to increase of its hepatic metabolism by the rifampicin.
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose another opioid.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the fluconazole due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the rifampicin; the consequences are particularly great in patients with Addisons disease treated with hydrocortisone and in cases of transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the corticoids during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOPERIDOL" rxcui="5093">
+<ATC code="N05AD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the haloperidol and of its therapeutic effectiveness, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, adjustment of the dosage during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of clinically low thyroid in patients with already low thyroid, due to increase of the metabolism of the T3 and of the T4.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of serum concentrations of T3 and T4 and adjustment, if needed, of the dosage of the thyroid hormones during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HYDROXYCHLOROQUINE" rxcui="5521">
+<ATC code="P01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lower therapeutic effect of the hydroxychloroquine, due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoringand possible adjustment of the dosage of the hydroxychloroquine during the treatment with rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of idelalisib due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the protease inhibitor, due to increase of its hepatic metabolism by the rifampicin.
+
+For the combination (saquinavir + ritonavir):
+
+risk of severe hepatocellular toxicity</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Until additional data with the ritonavir boosted inhibitors is available.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the tyrosine kinase inhibitor, due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hepatoxicity of the isoniazid (increase of the formation of toxic metabolites of the isoniazid)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring of this classic combination. In case of hepatitis, stop the isoniazid.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the ivabradine, due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the ivabradine during the administration of the two substances together and after the rifampicin is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the two anti-infectives (enzymatic induction by the rifampicin and decrease of the intestinal absorption by the azole antifungal)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of ledipasvir due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LINEZOLIDE" rxcui="190376">
+<ATC code="J01XX08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the linezolide due to increase of its hepatic metabolism by the rifampicin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible increase of the dosage of the linezolide during the treatment with the rifampicin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the beta blocking agent (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METRONIDAZOLE" rxcui="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the metronidazole due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of metronidazole during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of absence of effect of the midazolam, with very large decrease of its plasma concentrations, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MINERALOCORTICOIDS" code="H02AA0" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the rifampicin; the consequences are particularly great in persons with Addison&#39;s disease treated with the hydrocortisone and in cases of organ transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the corticoids during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MONTELUKAST" rxcui="88249">
+<ATC code="R03DC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the montelukast due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the antiasthmatic during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MORPHINE" rxcui="7052">
+<ATC code="A07DA52" />
+<ATC code="N02AA01" />
+<ATC code="N02AA51" />
+<ATC code="N02AG01" />
+<ATC code="R05DA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the morphine and of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the morphine during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nevirapine due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NIMODIPINE" rxcui="7426">
+<ATC code="C08CA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the calcium channel blocker due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the calcium channel blocker during the treatment with the rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nintedanib due to decrease of its absorption by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease (up to two thirds) of the concentrations of perampanel</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BG03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the glitazone due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the glitazone during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the two anti-infectives (enzymatic induction by the rifampicin and decrease of the intestinal absorption by the azole antifungal)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PRAZIQUANTEL" rxcui="8628">
+<ATC code="P02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the praziquantal, with risk of failure of the treatment, due to increase of the hepatic metabolism of the praziquantel by the rifampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propafanone, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. If there is reason for it, adjustment of the dosage of the propafenone during the administration of the two substances together and after the rifampicin is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the beta-blocking agent (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of quetiapine due to increase of its hepatic metabolism by the inducer, with risk of ineffectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of loss of the effectiveness of the quinine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RALTEGRAVIR" rxcui="719872">
+<ATC code="J05AX08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the raltegravir by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, doubling the dose of raltegravir can be considered</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the concentrations of ranolazine. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIVAROXABAN" rxcui="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of rivaroxaban, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of simvastatin, due to increase of its hepatic metabolism by the rifampicin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the concentrations of telaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the telithromycin, with risk of failure of the anti-infective treatment, due to increase of the hepatic metabolism of the telithromycin by the rifampicin. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tenofovir alafenamide due to decrease of its absorption by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together and 1 to 2 weeks after the rifampicin is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the terbinafine, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the terbinafine during the treatment with the rifampicin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the theophylline (increase of its metabolism by enzymatic induction)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, monitoring of the theophyllinemia. Adjust, if there is reason to, the dosage of the theophylline during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TIAGABINE" rxcui="31914">
+<ATC code="N03AG06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tiagabine due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>An increase of the dosage of the tiagabine can prove necessary in cases where it is administered with the rifampicin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of ticagrelor due to increase of its hepatic metabolism by the rifampicin, with risk of decrease of the therapeutic effect. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the inducer.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a therapeutic alternative that is little or not at all metabolized.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to increase of the hepatic metabolism of the valproate by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possible adjustment of the dosage of the anticonvulsant during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of vitamin D more marked than in the absence of the treatment with the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Concentration dosage of vitamin D and supplementation if necessary.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZOLPIDEM" rxcui="39993">
+<ATC code="N05CF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the zolpidem due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. Possibly use another hypnotic.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>456-RIFAMPICIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZOPICLONE" rxcui="40001">
+<ATC code="N05CF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the zopiclone due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. Possibly use another hypnotic.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

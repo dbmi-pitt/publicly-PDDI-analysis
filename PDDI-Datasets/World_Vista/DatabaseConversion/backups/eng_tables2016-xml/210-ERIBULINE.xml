@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the ciclosporin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the clarithromycin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of eribuline by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the ritonavir.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of eribuline by the St John&#39;s wort.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>210-ERIBULINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the verapamil. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

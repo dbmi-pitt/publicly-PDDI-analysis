@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>29</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Fluconazole" rxnorm="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+<DRUG name="Itraconazole" rxnorm="28031">
+<ATC code="J02AC02" />
+</DRUG>
+<DRUG name="Ketoconazole " rxnorm="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+<DRUG name="Posaconazole " rxnorm="282446">
+<ATC code="J02AC04" />
+</DRUG>
+<DRUG name="Voriconazole " rxnorm="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</CLASS>

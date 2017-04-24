@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANDROGENS" code="A14AA0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>10</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Androstanolone" rxnorm="10031">
+<ATC code="A14AA01" />
+<ATC code="G03BB02" />
+</DRUG>
+<DRUG name="Norethandrolone" rxnorm="7513">
+<ATC code="A14AA09" />
+</DRUG>
+<DRUG name="Testosterone" rxnorm="10379">
+<ATC code="G03BA03" />
+<ATC code="G03EA02" />
+</DRUG>
+</CLASS>

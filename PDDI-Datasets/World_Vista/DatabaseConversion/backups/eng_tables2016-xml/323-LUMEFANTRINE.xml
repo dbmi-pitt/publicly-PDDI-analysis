@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>323-LUMEFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the substance tending to cause torsades de pointes. If administering the two together cannot be avoided, testing of the QT before hand and EKG monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>323-LUMEFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the substance tending to cause torsades de pointes. If administering the substances together cannot be avoided, testing of the QT beforehand and EKG monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>323-LUMEFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>323-LUMEFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the substance tending to cause torsades de pointes. If administering the substances together cannot be avoided, testing of the QT beforehand and EKG monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>323-LUMEFANTRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the substance tending to cause torsades de pointes. If administering the substances together cannot be avoided, testing of the QT beforehand and EKG monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

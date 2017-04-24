@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>462-ROSUVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ROSUVASTATIN" rxcui="301542">
+<ATC code="C10AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, or of nephrotoxicity, due to decrease of the metabolism of the rosuvastatin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>462-ROSUVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ROSUVASTATIN" rxcui="301542">
+<ATC code="C10AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the rosuvastatin due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

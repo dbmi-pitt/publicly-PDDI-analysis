@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>101-BRADYCARIA-INDUCING-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BRADYCARIA INDUCING DRUGS" code="C0N0S0" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER BRADYCARIA INDUCING DRUGS" code="C0N0S0" /></DRUG2>
+<DESCRIPTION>Risk of excessive bradycardia (addition of the effects)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>101-BRADYCARIA-INDUCING-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BRADYCARIA INDUCING DRUGS" code="C0N0S0" /></DRUG1>
+<DRUG2>
+<DRUG name="FINGOLIMOD" rxcui="1012892">
+<ATC code="L04AA27" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the bradycardia inducing effects which can have fatal consequences. The beta-blocking agents are even more at risk since they inhibit the adrenergic compensation mechanisms</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring and sustained EKG during the 24 hours following the first dose.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>101-BRADYCARIA-INDUCING-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BRADYCARIA INDUCING DRUGS" code="C0N0S0" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

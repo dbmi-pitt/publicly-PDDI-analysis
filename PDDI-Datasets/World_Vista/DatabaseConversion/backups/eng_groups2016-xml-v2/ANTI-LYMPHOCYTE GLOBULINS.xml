@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>20</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Antilymphocyte immunoglobulin (horse)" rxnorm="1431182">
+<ATC code="L04AA03" />
+</DRUG>
+<DRUG name="Antilymphocyte immunoglobulin (rabbit) " rxnorm="1429944">
+<ATC code="L04AA04" />
+</DRUG>
+</CLASS>

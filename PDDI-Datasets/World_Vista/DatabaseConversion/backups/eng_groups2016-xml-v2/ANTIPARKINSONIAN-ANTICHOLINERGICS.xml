@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIPARKINSONIAN ANTICHOLINERGICS" code="N04AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>22</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Biperiden" rxnorm="1589">
+<ATC code="N04AA02" />
+</DRUG>
+<DRUG name="Trihexyphenidyl" rxnorm="10811">
+<ATC code="N04AA01" />
+</DRUG>
+<DRUG name="Tropatepine" rxnorm="38876">
+<ATC code="N04AA12" />
+</DRUG>
+</CLASS>

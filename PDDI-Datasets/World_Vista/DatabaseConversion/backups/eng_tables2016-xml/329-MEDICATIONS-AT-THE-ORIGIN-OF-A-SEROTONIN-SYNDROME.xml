@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>329-MEDICATIONS-AT-THE-ORIGIN-OF-A-SEROTONIN-SYNDROME.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MEDICATIONS AT THE ORIGIN OF A SEROTONIN SYNDROME" code="N06A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER MEDICATIONS AT THE ORIGIN OF A SEROTONIN SYNDROME" code="N06A-002" /></DRUG2>
+<DESCRIPTION>Risk of appearance or of increased severity of a serotonin syndrome in case of administering any of these medications with any of the others.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

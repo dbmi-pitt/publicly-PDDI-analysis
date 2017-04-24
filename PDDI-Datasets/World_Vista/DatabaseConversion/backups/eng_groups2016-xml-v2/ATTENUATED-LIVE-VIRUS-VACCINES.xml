@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>28</SOURCE_FILE>
+</SOURCE>
+<DRUG name="BCG Vaccine" rxnorm="1344">
+<ATC code="L03AX03" />
+</DRUG>
+<DRUG name="Rotavirus Vaccine, Live Attenuated" rxnorm="805573">
+<ATC code="J07BH01" />
+</DRUG>
+<DRUG name="Yellow Fever Vaccine" rxnorm="89890">
+<ATC code="J07BL" />
+<ATC code="J07BL01" />
+</DRUG>
+<DRUG name="Measles vaccine" rxnorm="235574">
+<ATC code="J07BD" />
+<ATC code="J07BD01" />
+<ATC code="J07BD51" />
+<ATC code="J07BD52" />
+<ATC code="J07BD53" />
+<ATC code="J07BD54" />
+</DRUG>
+<DRUG name="Mumps vaccine" rxnorm="68487">
+<ATC code="J07BE" />
+<ATC code="J07BE01" />
+</DRUG>
+<DRUG name="Rubella vaccine" rxnorm="9486">
+<ATC code="J07BJ" />
+<ATC code="J07BJ01" />
+</DRUG>
+<DRUG name="Varicella-Zoster Virus" rxnorm="11131">
+<ATC code="J07BK01" />
+</DRUG>
+<DRUG name="Live Attenuated Influenza Vaccine [LAIV] " rxnorm="">
+<ATC code="J07BB03" />
+</DRUG>
+</CLASS>

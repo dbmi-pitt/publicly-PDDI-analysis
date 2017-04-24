@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>403-PEFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PEFLOXACIN" rxcui="7960">
+<ATC code="J01MA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

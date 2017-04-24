@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>366-MORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MORPHINE" rxcui="7052">
+<ATC code="A07DA52" />
+<ATC code="N02AA01" />
+<ATC code="N02AA51" />
+<ATC code="N02AG01" />
+<ATC code="R05DA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the morphine and of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the morphine during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

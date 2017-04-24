@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>422-POLYMYXIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="POLYMYXIN B" rxcui="8536">
+<ATC code="A07AA05" />
+<ATC code="J01XB02" />
+<ATC code="S01AA18" />
+<ATC code="S02AA11" />
+<ATC code="S03AA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Addition of the nephrotoxic effects
+
+.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strict monitoring with an indisputable bacteriological justification</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>422-POLYMYXIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="POLYMYXIN B" rxcui="8536">
+<ATC code="A07AA05" />
+<ATC code="J01XB02" />
+<ATC code="S01AA18" />
+<ATC code="S02AA11" />
+<ATC code="S03AA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="CURARES" code="M03A-001" /></DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarization at the end of anesthesia</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

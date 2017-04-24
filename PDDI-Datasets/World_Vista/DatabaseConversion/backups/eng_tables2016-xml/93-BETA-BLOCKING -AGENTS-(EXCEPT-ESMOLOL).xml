@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="HALOGENATED HYDROCARBON ANESTHETICS" code="N01AB0-001" /></DRUG2>
+<DESCRIPTION>Reduction of the compensatory cardiovascular reactions by the beta-blocking agents. The beta-adrenergic inhibition can be elevated during the surgical procedure by the beta-mimetics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>As a general rule, do not stop the treatment with the beta-blocking agent and, in any case, avoid stopping it abruptly. Inform the anesthesiologist of this treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="CENTRAL ANTIHYPERTENSIVES" code="C02AC-001" /></DRUG2>
+<DESCRIPTION>Large increase of blood pressure in cases of sudden discontinuation of the treatment with the central hypertensive</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid stopping the treatment with the central antihypertensive abruptly. Clinical monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Reduction of the antihypertensive effect (inhibition of the vasodilator prostaglandins by the non steroidal anti-inflammatories and fluid retention with the phenylbutazone)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002" /></DRUG2>
+<DESCRIPTION>Hypotension, heart failure in patients with latent or uncontrolled cardiac insufficiency (addition of the negative inotropic effects). The beta-blocking agent can furthermore minimize the sympathetic reflex reaction brought into play in the case of excessive hemodynamic repercussion </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and heart failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>The administration of these medications together should only be done under clinical monitoring and strict EKG, in particular with older patients or at the beginning of treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: increase of the antihypertensive effect
+
+
+
+</DESCRIPTION>
+<SEVERITY>Take into account  </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="GLINIDES" code="A10BX-001" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, and, especially at the beginning of treatment, reinforce self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="GLIPTINS" code="A10B-001" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and, especially at the beginning of treatment, reinforce self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="INSULIN  " rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and, especially at the beginning of treatment, reinforce self-monitoring of blood glucose.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With lidocaine administered by IV route: increase of the plasma concentrations of lidocaine with possibility of undesirable neurological and cardiac effects (decrease of the hepatic clearance of the lidocaine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly testing of the plasma concentrations of lidocaine during the administration of the substances together and after the beta-blocking agent is stopped. Adjustment, if needed, of the dosage of the lidocaine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self-monitoring of blood glucose, especially at the beginning of treatment.  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>93-BETA-BLOCKING -AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and heart failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>The administration of these medications together should only be undertaken under strict clinical monitoring and EKG, in particular with older patients or at the beginning of treatment. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

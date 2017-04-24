@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>360-MITOMYCIN C.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MITOMYCIN C" rxcui="632">
+<ATC code="L01DC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the pulmonary toxicity of the mitomycin and of the vinca-alkaloids</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

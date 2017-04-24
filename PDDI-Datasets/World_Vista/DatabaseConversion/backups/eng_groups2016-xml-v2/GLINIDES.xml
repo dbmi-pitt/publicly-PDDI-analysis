@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="GLINIDES" code="A10BX-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>63</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Nateglinide" rxnorm="274332">
+<ATC code="A10BX03" />
+</DRUG>
+<DRUG name="Repaglinide" rxnorm="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</CLASS>

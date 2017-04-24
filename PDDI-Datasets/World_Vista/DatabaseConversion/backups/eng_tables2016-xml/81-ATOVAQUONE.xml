@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>81-ATOVAQUONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of atovaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>81-ATOVAQUONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Decrease, possibly very large, of the plasma concentrations of the atovaquone due to increase of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>81-ATOVAQUONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate decrease of the plasma concentrations of atovaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>81-ATOVAQUONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of atovaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

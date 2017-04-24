@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CENTRAL ANTIHYPERTENSIVES" code="C02AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+</DRUG>
+<DRUG name="Guanfacine " rxnorm="40114">
+<ATC code="C02AC02" />
+</DRUG>
+<DRUG name="Methyldopa" rxnorm="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+<DRUG name="Moxonidin" rxnorm="30257">
+</DRUG>
+<DRUG name="Rilmenidine" rxnorm="55679">
+<ATC code="C02AC06" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>59-CENTRAL-ANTIHYPERTENSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CENTRAL ANTIHYPERTENSIVES" code="C02AC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>Large increase of blood pressure in cases of sudden termination of the treatment with the central antihypertensive</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid ending treatment with the central antihypertensive abruptly. Clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>59-CENTRAL-ANTIHYPERTENSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CENTRAL ANTIHYPERTENSIVES" code="C02AC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Central decrease of the sympathetic tone and vasodilator effect of the central antihypertensives, dangerous in case of heart failure treated with a beta-blocking agent and vasodilator</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

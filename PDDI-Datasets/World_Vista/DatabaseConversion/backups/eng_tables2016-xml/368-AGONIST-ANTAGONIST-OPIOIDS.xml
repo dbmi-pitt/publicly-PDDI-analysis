@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>368-AGONIST-ANTAGONIST-OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="STEP II OPIOID ANALGESICS" code="N02A-003" /></DRUG2>
+<DESCRIPTION>Decrease of the antalgic effect due to competitive blocking of the receptors, with risk of appearance of a withdrawal syndrome. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>368-AGONIST-ANTAGONIST-OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="STEP III OPIOID ANALGESICS" code="N02A-002" /></DRUG2>
+<DESCRIPTION>Decrease of the antalgic effect due to competitive blocking of the receptors, with risk of appearance of a withdrawal syndrome</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>368-AGONIST-ANTAGONIST-OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="TRUE MORPHINE ANTITUSSIVES" code="R0GDA0-002" /></DRUG2>
+<DESCRIPTION>Decrease of the antalgic or antitussive effect of the opioid, due to competitive blocking of the receptors, with risk of appearance of a withdrawal syndrome</DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>368-AGONIST-ANTAGONIST-OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N02AC52" />
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the effect of the methadone due to competitive blocking of the receptors</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>368-AGONIST-ANTAGONIST-OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="PARTIAL AGONIST OPIOIDS" code="PARAG" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the antalgic effect and/or of appearance of a withdrawal syndrome</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

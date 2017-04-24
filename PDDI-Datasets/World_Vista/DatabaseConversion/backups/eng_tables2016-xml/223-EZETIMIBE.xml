@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>223-EZETIMIBE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EZETIMIBE" rxcui="341248">
+<ATC code="C10BA05" />
+<ATC code="C10AX09" />
+<ATC code="C10BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For one thing, increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type, due to increase of the concentrations of ezetimibe; for another thing, possible increase of the concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>223-EZETIMIBE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EZETIMIBE" rxcui="341248">
+<ATC code="C10BA05" />
+<ATC code="C10AX09" />
+<ATC code="C10BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FENOFIBRATE" rxcui="8703">
+<ATC code="C10AB05" />
+<ATC code="C10BA03" />
+<ATC code="C10BA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of gallstones due to increase of the biliary excretion of cholesterol</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

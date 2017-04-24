@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>464-RUFINAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RUFINAMIDE" rxcui="69036">
+<ATC code="N03AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Moderate decrease of the concentrations of ethinylestradiol</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Another contraceptive method, in particular a barrier type, should be used. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>464-RUFINAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RUFINAMIDE" rxcui="69036">
+<ATC code="N03AF03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Possible increase of the concentrations of rufinamide, especially with children who weigh less than 30 kg.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With children who weigh less than 30 kg: do not exceed the total dose of 600mg/day after the period of titration. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

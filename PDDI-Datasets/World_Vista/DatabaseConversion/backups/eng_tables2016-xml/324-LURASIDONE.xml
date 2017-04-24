@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>324-LURASIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the lurasidone due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>324-LURASIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of lurasidone due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRANDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>324-LURASIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the lurasidone due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>324-LURASIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAGEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lurasidone due to decrease of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

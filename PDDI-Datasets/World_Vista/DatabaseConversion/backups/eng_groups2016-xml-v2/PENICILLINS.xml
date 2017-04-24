@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PENICILLINS" code="J01C">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>116</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amoxicillin" rxnorm="723">
+<ATC code="J01CA04" />
+<ATC code="J01CR02" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD03" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+<ATC code="A02BD04" />
+</DRUG>
+<DRUG name="Ampicillin" rxnorm="733">
+<ATC code="J01CA01" />
+</DRUG>
+<DRUG name="Benethamine-penicillin" rxnorm="">
+</DRUG>
+<DRUG name="Benzylpenicillin" rxnorm="7980">
+<ATC code="J01CE01" />
+<ATC code="S01AA14" />
+</DRUG>
+<DRUG name="Cloxacillin" rxnorm="2625">
+<ATC code="J01CF02" />
+</DRUG>
+<DRUG name="Oxacillin" rxnorm="7773">
+<ATC code="J01CF04" />
+</DRUG>
+<DRUG name="Phenoxymethylpenicillin" rxnorm="7984">
+<ATC code="J01CE02" />
+</DRUG>
+<DRUG name="Piperacillin" rxnorm="8339">
+<ATC code="J01CA12" />
+<ATC code="J01CR05" />
+</DRUG>
+<DRUG name="Pivmecillinam" rxnorm="">
+<ATC code="J01CA08" />
+</DRUG>
+<DRUG name="Temocilline" rxnorm="37775">
+<ATC code="J01CA17" />
+</DRUG>
+<DRUG name="Ticarcillin" rxnorm="10591">
+<ATC code="J01CA13" />
+<ATC code="J01CR03" />
+</DRUG>
+</CLASS>

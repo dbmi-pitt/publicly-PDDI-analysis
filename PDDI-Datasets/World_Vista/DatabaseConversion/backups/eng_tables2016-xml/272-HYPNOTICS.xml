@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>272-HYPNOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HYPNOTICS" code="N05-R06" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER HYPNOTICS" code="N05-R06" /></DRUG2>
+<DESCRIPTION>Increase of central nervous system depression</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

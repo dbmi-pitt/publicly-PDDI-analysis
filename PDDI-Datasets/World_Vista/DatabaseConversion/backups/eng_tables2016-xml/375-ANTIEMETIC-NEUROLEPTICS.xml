@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>375-ANTIEMETIC-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIEMITIC NEUROLEPTICS" code="A03FA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="DOPAMINERGICS" code="N04B-002" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the dopaminergic and the neuropleptic</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use an antiemetic without extrapyramidal effects. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>375-ANTIEMETIC-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIEMITIC NEUROLEPTICS" code="A03FA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the levodopa and the neuroleptic</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use an antiemitic without extrapyramidal effects.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

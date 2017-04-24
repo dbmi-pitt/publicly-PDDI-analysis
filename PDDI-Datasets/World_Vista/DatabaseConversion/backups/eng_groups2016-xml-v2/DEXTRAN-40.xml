@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DEXTRAN 40" code="B05AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>50</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dextran" rxnorm="42635">
+<ATC code="B05AA05" />
+</DRUG>
+</CLASS>

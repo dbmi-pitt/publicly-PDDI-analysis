@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With acetylsalicyclic acid in anti-inflammatory doses (&gt;=1 gr per dose and/or &gt;= 3 gr per day) or for antalgic or antipyretic doses (&gt;=500 mg per dose and/or &lt;3 gr per day): increase of the risk of digestive ulceration and hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of deferasirox
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the ferritinemia during and after the treatment with the enzymatic inducer. If needed, adjustment of the dosage of deferasirox.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of causing ulcers and digestive hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of causing ulcers and digestive hemorrhage </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUSULFAN" rxcui="1828">
+<ATC code="L01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxocity of the bufulfan by decrease of its clearance by the deferasirox.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFERIPRONE" rxcui="11645">
+<ATC code="V03AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hyperchelation</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFEROXAMINE" rxcui="3131">
+<ATC code="V03AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hyperchelation</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of repaglinide due to inhibition of its hepatic metabolism by the deferasirox</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, strict clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>163-DEFERASIROX.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of deferasirox</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the ferritinemia during and after the treatment with the enzymatic inducer. If needed, adjust the dosage of deferasirox.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

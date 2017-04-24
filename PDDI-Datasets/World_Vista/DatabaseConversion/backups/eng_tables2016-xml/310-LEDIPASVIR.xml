@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Only when ledipasvir is combined with sofosbuvir, appearance of bradycardia, possibly abruptly, which can have fatal consequences.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, strict monitoring of patients is recommended, in particular during the first weeks of treatment with the ledipasvir/sofosbuvir combination (clinical monitoring and EKG).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the ledipasvir due to increase of its hepatic metabolism by the anticonvulsant enzymatic inducer.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the ledipasvir when the proton pump inhibitor is administered before the ledipasvir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the proton pump inhibitor and the ledipasvir be administered simultaneously </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the statin and of its undesirable effects of the rhabdomyolysis type</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with the rosuvastatin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of large decrease of the plasma concentrations of the ledipasvir due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the ledipasvir due to increase of its hepatic metabolism by the ripampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>310-LEDIPASVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AF07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>When administered with a protease inhibitor, increase of the plasma concentrations of the tenofovir by the ledipasvir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, especially of the renal function</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)" code="L01BC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>60</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Capecitabine" rxnorm="194000">
+<ATC code="L01BC06" />
+</DRUG>
+<DRUG name="Flourouracil " rxnorm="4492">
+<ATC code="L01BC01" />
+<ATC code="L01BC02" />
+<ATC code="L01BC03" />
+<ATC code="L01BC06" />
+</DRUG>
+<DRUG name="Gimeracil" rxnorm="">
+</DRUG>
+<DRUG name="Oteracil" rxnorm="">
+</DRUG>
+<DRUG name="Tegafur " rxnorm="4582">
+<ATC code="L01BC03" />
+</DRUG>
+</CLASS>

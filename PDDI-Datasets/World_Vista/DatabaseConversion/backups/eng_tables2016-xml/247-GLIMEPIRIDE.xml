@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>247-GLIMEPIRIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIMEPIRIDE" rxcui="25789">
+<ATC code="A10BB12" />
+<ATC code="A10BD06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>247-GLIMEPIRIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIMEPIRIDE" rxcui="25789">
+<ATC code="A10BB12" />
+<ATC code="A10BD06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the erythromycin.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

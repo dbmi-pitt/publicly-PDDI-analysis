@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>50-CLASS-IA-ANTIARRHYTHMICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the antiarrhythmic, due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and testing of the plasma concentrations; if needed, adjustment of the dosage of the antiarrhythmic during the treatment with the inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>50-CLASS-IA-ANTIARRHYTHMICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, auto- regulation, and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>50-CLASS-IA-ANTIARRHYTHMICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the antiarrhythmic (increase of its hepatic metabolism). 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly monitoring of the plasma concentrations of the antiarrhythmic. If needed, adjustment of the dosage of the antiarrhythmic during the treatment with the rifampicin and after it is stopped (risk of overdose of the antiarrhythmic)</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

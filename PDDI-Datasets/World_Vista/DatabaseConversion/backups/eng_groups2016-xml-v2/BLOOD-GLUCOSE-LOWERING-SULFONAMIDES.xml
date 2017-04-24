@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>38</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Glibenclamide" rxnorm="4815">
+<ATC code="A10BB01" />
+</DRUG>
+<DRUG name="Gliclazide" rxnorm="4816">
+<ATC code="A10BB09" />
+</DRUG>
+<DRUG name="Glimepiride" rxnorm="25789">
+<ATC code="A10BB12" />
+</DRUG>
+<DRUG name="Glipizide" rxnorm="4821">
+<ATC code="A10BB07" />
+</DRUG>
+</CLASS>

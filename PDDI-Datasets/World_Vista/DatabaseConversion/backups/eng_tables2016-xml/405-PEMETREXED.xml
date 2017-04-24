@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>405-PEMETREXED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PEMETREXED" rxcui="68446">
+<ATC code="L01BA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the pemetrexed (decrease of its renal clearance by the acetylsalicylic acid in anti-inflammatory doses).</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of weak to moderate renal function </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>405-PEMETREXED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PEMETREXED" rxcui="68446">
+<ATC code="L01BA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the pemetrexed (decrease of its renal clearance by the NSAIs)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--in case of weak to moderate renal function </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

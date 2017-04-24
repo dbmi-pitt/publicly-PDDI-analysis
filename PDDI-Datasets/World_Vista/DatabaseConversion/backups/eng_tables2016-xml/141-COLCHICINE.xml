@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine with potentially fatal consequences
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the colchicine and a week after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the undesirable neuromuscular effects and increase of the toxicity of the colchicine with risk of overdose due to inhibition of its elimination by the ciclosporin, espceially in cases of pre-existing renal insufficiency</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable muscular effects of these substances, and especially of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, particularly at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable muscular effects of these substances, and especially of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, especially at the beginning of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine, with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine, with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase od the plasma concentrations of the colchicine due to decrease of its hepatic metabolism by the therapy with ombitasvir + paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>-with patients having renal and/or hepatic insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PRISTINAMYCIN" rxcui="66958">
+<ATC code="J01FG01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine, with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the colchicine, due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>In particular with patients having renal and hepatic insufficiency.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141-COLCHICINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the colchicine, due to increase of its plasma concentrations by the verapamil</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

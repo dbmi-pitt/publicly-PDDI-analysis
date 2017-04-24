@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>174-DIAZEPAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the buspirone</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>174-DIAZEPAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: accrued risk of drowsiness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Warn the patients of the increase of risk when driving an automobile or using machinery. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>174-DIAZEPAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Unpredictable variations: the plasma concentrations of phenytoin can increase, with signs of overdose, but also decrease or remain stable.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>174-DIAZEPAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the diazepam, with risk of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and plasma dosage, when that is possible, of the anticonvulsant taken with the stiripentol and possible adjustment of the dosage of the anticonvulsant taken with it as well. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

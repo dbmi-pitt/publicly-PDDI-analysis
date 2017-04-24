@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>182-DIPYRIDAMOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THEINE" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: reduction of the vasodilator effect of the dipyridamole by the theine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid the consumption of theine based products during the 24 hours before myocardial perfusion imaging with dipyridamole</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>182-DIPYRIDAMOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: increase of the antihypertensive effect</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>182-DIPYRIDAMOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: reduction of the vasodilator effect of the dipyridamole by the caffeine </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Interrupt a caffeine based treatment at least 5 days before myocardial perfusion imaging with the dipyridamole and avoid consuming coffee, tea, chocolate, or cola during the 24 hours that precede the test. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>182-DIPYRIDAMOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: reduction of the vasodilator effect of the dipyridamole by the theophylline</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Interrupt a treatment with theophylline at lease 5 days before myocardial perfusion imaging with the dipyridamole.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>440-PYRAZINAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PYRAZINAMIDE" rxcui="8987">
+<ATC code="J04AK01" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Addition of the hepatotoxic effects.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

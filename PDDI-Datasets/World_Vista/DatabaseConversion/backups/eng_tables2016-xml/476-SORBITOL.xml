@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>476-SORBITOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SORBITOL" rxcui="9945">
+<ATC code="A06AD18" />
+<ATC code="A06AG07" />
+<ATC code="B05CX02" />
+<ATC code="V04CC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="The French document lists 'Catioresine Sulfo Calcique'" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the resin administered by oral and rectal route: risk of colonic necrosis, possibly fatal</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>476-SORBITOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SORBITOL" rxcui="9945">
+<ATC code="A06AD18" />
+<ATC code="A06AG07" />
+<ATC code="B05CX02" />
+<ATC code="V04CC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="The French document lists 'Catioresine Sulfo Sodique'" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the resin administered by oral and rectal route: risk of colonic necrosis, possibly fatal. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of INR. Possible adjustment of the dosage of the vitamin K antagonist.  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the blood concentrations of the ciclosporin and increase of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HA01" />
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In its indications such as anti-androgen, clinical monitoring and if possible adjustment of the dosage of the cyproterone during the administratin with the bosentan and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to increase of the hepatic metabolism of the hormonal contraceptive</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the length of time the two substances are administered together and for a cycle after.  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GLIBENCLAMIDE" rxcui="4815">
+<ATC code="A10BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduced effectiveness of the glibenclamide due to decrease of its plasma concentrations, because of the inducer effect of the bosentan. Furthermore, cases of hepotoxicity have been reported with these two substances administered together. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the glycemia, adjustment of the treatment if needed, and monitoring of the hepatic biological constants. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increased risk of the undesirable effects of the bosantan, especially hepatic attacks, due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the administration of these together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the hormonal contraceptive due to increase of its hepatic metabolism. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use an additional or alternative reliable method of contraception during the time these substances are administered together and one cycle following </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE PROGESTOGENS, COMBINED WITH AN ESTROGEN OR NOT" code="G03-003" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the progestogen</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the hormonal treatment during the administration of the bosentan and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>99-BOSENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease, large for the rifampicin, of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

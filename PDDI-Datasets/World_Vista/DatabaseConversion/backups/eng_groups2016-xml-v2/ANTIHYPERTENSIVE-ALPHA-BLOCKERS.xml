@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIHYPERTENSIVE ALPHA BLOCKERS" code="C02CA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>18</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Doxazosin" rxnorm="49276">
+<ATC code="C02CA04" />
+</DRUG>
+<DRUG name="Prazosin" rxnorm="8629">
+<ATC code="C02CA01" />
+<ATC code="C02LE01" />
+</DRUG>
+<DRUG name="Urapidil" rxnorm="39230">
+<ATC code="C02CA06" />
+</DRUG>
+</CLASS>

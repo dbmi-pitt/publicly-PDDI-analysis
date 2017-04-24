@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS" code="A07BC-A02AD">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>62</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Activated Charcoal" rxnorm="272">
+</DRUG>
+<DRUG name="Vegetal charcoal" rxnorm="">
+</DRUG>
+<DRUG name="Diosmectite" rxnorm="59346">
+<ATC code="A07BC05" />
+</DRUG>
+<DRUG name="Aluminum Hydoxide and Magnesium carbonate gel" rxnorm="17384">
+</DRUG>
+<DRUG name="Hydrotalcite" rxnorm="27221">
+<ATC code="A02AD04" />
+</DRUG>
+<DRUG name="Kaolin" rxnorm="6102">
+<ATC code="A07BC02" />
+</DRUG>
+<DRUG name="Lanthane" rxnorm="234416">
+<ATC code="V03AE03" />
+</DRUG>
+<DRUG name="Magaldrate" rxnorm="29151">
+<ATC code="A02AD02" />
+<ATC code="A02AF01" />
+</DRUG>
+<DRUG name="Magnesium Hydroxide" rxnorm="6581">
+<ATC code="A02AA04" />
+<ATC code="G04BX01" />
+</DRUG>
+<DRUG name="Magnesium Trisilicate" rxnorm="29170">
+</DRUG>
+<DRUG name="Monmectite" rxnorm="">
+</DRUG>
+<DRUG name="Povidone" rxnorm="1310706">
+<ATC code="A07BC03" />
+</DRUG>
+</CLASS>

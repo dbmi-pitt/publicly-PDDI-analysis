@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">  <head>    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>    <title>All Interactions with Maraviroc</title><link rel="stylesheet" href="css/insite.css" type="text/css"/><link rel="stylesheet" href="css/layout.css" type="text/css"/><link rel="stylesheet" href="css/topNav.css" type="text/css"/><!-- jquery javascript --><script type="text/javascript" src="script/jquery/load.js"><!--  --></script><script type="text/javascript" src="app-js/jquery.scrollTo.js"> </script><script type="text/javascript" src="app-js/jquery.cycle.js"> </script><script type="text/javascript" language="JavaScript">
+        function openWindow(url,name){
+            newWin = window.open(url,name,'status,toolbar,menubar,resizable,scrollbars,left=20,top=20,width=650,height=600')
+            newWin.focus()
+        }
+
+        function openXWindow(url,name){
+            newXWin = window.open(url,name)
+            newXWin.focus()
+        }
+
+		/* BASED ON NEC DEMO.XML */
+		   // REVEAL HIDDEN LOGIC QUESTION
+				function branchNext (event) {
+					$.log("BRANCHNEXT() :  enter");
+					var n = $(this).children("input:checked").size();
+
+					if (n)   {
+						 var reveal = "." + $($(this).children("input:checked")).attr("name") + "-" + $($(this).children("input:checked")).val();
+
+						 $(reveal).removeClass("hidden").addClass("question-revealed");
+					}
+			   }
+
+		// HIDE TO-BE-REVEALED LOGIC QUESTIONS
+			$(document).ready(function() { hideLogicQuestions($(document).children()[0]) });
+
+			function hideLogicQuestions (element) {
+				$.log("hideLogicQuestions() : enter");
+				$(".hidden-question").each(function() {
+					$(this).addClass("hidden").removeClass("question-revealed");
+				});
+		   }
+		/* END FROM NEC DEMO.XML */
+
+
+			function expand(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				/* CLOSE ALL SECTIONS AND RESET BUTTONS
+				$(".expandable", section).addClass("hidden");
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+				$(".expandAll", section).removeClass("hidden");
+				$(".collapseAll", section).addClass("hidden");
+				*/
+
+				// OPEN SPECIFIED SECTION AND UPDATE ITS BUTTONS
+				section.removeClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+
+				// $(this).siblings(".expandAll").addClass("hidden");
+				// $(this).siblings(".collapseAll").removeClass("hidden");
+			}
+			function collapse(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+
+				$(this).siblings(".collapseAll").addClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+			}
+
+			function expandAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.removeClass("hidden");
+				$(".expandable", section).removeClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".expand").addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+				$(this).siblings(".collapseAll").removeClass("hidden");
+
+				$(".expand", section).addClass("hidden");
+				$(".collapse", section).removeClass("hidden");
+			}
+			function collapseAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(".expandable", section).addClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".collapse").addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+			}
+
+
+			// connect the correct fuctions
+			function sconnect(element) {
+				$(".reveal-question", element).click(branchNext);
+
+				$(".expand", element).click(expand);
+				$(".expandAll", element).click(expandAll);
+				$(".collapse", element).click(collapse);
+				$(".collapseAll", element).click(collapseAll);
+			}
+
+			// load method for adding connections
+			$(document).ready(function() {
+				sconnect($(document).children()[0])
+			 });
+
+			 $(document).ready(function(){
+			 $('.carousel ul').cycle({'prev':'.previous','next':'.next','play':'.play','pause':'.pause'});
+			 $(".carousel-hidden").each(function () {
+			 $(this).removeClass("carousel-hidden");
+			 });
+			 });
+
+
+		</script><!--*********************************************************
+    *************************************************************
+    REPLACE GOOGLE ANALYTICS SCRIPT BEFORE PUBLISHING TO LIVESITE
+    You can find the script in google-analytics.js **************
+    *************************************************************
+    **********************************************************--><script type="text/javascript">
+   
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-19627862-1']);
+     _gaq.push(['_trackPageview']);
+   
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   
+</script></head><body><div class="floatpage"><div id="ucsf"><a href="http://ucsf.edu/"><img src="images/masthead/ucsf.gif" alt="University of California, San Francisco Logo"/></a><p>University of California, San Francisco | <a href="http://www.ucsf.edu/about-ucsf/">About UCSF</a> | <a href="http://www.ucsf.edu/ucsf/search">Search UCSF</a> | <a href="http://www.ucsfhealth.org/">UCSF Medical Center</a></p></div><div id="header"><div style="float:left;"><a href="InSite" style="display:block;"><img src="images/masthead/splash-logo-top.gif" alt="HIV InSite"/></a><h1 class="site-description" style="clear:both; width: 475px;">Comprehensive, up-to-date information on HIV/AIDS treatment and prevention from the University of California San Francisco</h1></div><div class="site-sub-navigation"><a href="InSite">Home</a> | <a href="InSite?page=pb-00-00">Patient/Public</a> | <a href="InSite?page=Audio">Audio</a> | <a href="InSite?page=News">News</a> | <a href="InSite?page=Links">Links</a></div><div class="sitesearch"><form action="search" method="get" id="search"><input type="hidden" name="page" value="sr-00-00"/><input type="hidden" name="post" value="1"/><label for="SearchEntry">Search</label><input type="text" size="28" name="SearchEntry" id="SearchEntry" aria-label="Search"/><input type="submit" id="I1" value="Search" style="margin-left: 5px;"/></form></div><div id="site-navigation"><ul><li class="site-navigation"><a href="InSite?page=KB">Knowledge Base</a></li><li class="site-navigation"><a href="InSite?page=Treatment">Treatment</a></li><li class="site-navigation"><a href="InSite?page=Prevention">Prevention</a></li><li class="site-navigation"><a href="InSite?page=Policy">Policy Analysis</a></li><li class="site-navigation"><a href="InSite?page=cr-00-00">Global Response</a></li></ul></div></div><div id="content-target"><div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><font face="Arial, Helvetica" size="-2"><a href="http://hivinsite.ucsf.edu/InSite">Home</a> &gt; <a href="http://hivinsite.ucsf.edu/InSite?page=Treatment">Treatment</a> &gt; <a href="InSite?page=ar-00-02">Interactions</a></font></td></tr><tr><td><img alt="" src="images/transparent.gif" border="0" height="10" width="1"/></td></tr></tbody></table><div class="pgtitle">Database of Antiretroviral Drug Interactions</div><img alt="" src="images/greyline.gif"/><br/><p style="margin-top:0;padding-top:0;" class="kbrsec1">All Interactions with Maraviroc (Selzentry)</p><table class="datatable" width="100%"><thead><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Maraviroc</th><th>Effect on Drug Levels</th><th>Effect on Maraviroc Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr></thead><tr><td valign="top" width="10%">Atazanavir<sup><a href="#2">2</a></sup><div>(ATV)(Reyataz)</div></td><td valign="top">300 mg QD with 100 mg ritonavir QD</td><td valign="top">300 mg BID</td><td valign="top">-</td><td valign="top">Maraviroc AUC: increased 388%; Cmax: increased 167%; Cmin: increased 567%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by atazanavir/ritonavir</td><td valign="top"><p>Decrease maraviroc dose to 150 mg BID</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Atazanavir<sup><a href="#2">2</a></sup><div>(ATV)(Reyataz)</div></td><td valign="top">400 mg QD</td><td valign="top">300 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 257%; Cmax: increased 109%; Cmin: increased 319%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by atazanavir</td><td valign="top"><p>Decrease maraviroc dose to 150 mg BID</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Darunavir<sup><a href="#631">631</a></sup><div>(DRV)(Prezista)</div></td><td valign="top">600 mg BID with 100 mg ritonavir BID</td><td valign="top">150 mg BID</td><td valign="top">-</td><td valign="top">Maraviroc AUC: increased 4.05 fold; Cmax: increased 2.29 fold; Cmin: increased 8.0 fold</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by darunavir/ritonavir</td><td valign="top"><p>No dose adjustment necessary; utilize maraviroc 150 mg BID when combined with darunavir/ritonavir</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Darunavir<sup><a href="#565">565</a></sup><div>(DRV)(Prezista)</div></td><td valign="top">800/100 mg BID</td><td valign="top">300 mg QD</td><td valign="top">Not studied</td><td valign="top">Maraviroc Cmin: increased 16%; Cmax: no significant change (when compared to maraviroc 300 mg BID without darunavir/ritonavir in separate control arm)</td><td valign="top">-</td><td valign="top">Inhibition of CYP450 3A4 by darunavir/ritonavir</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Efavirenz<sup><a href="#2">2</a></sup><div>(EFV)(Sustiva)</div></td><td valign="top">600 mg QD</td><td valign="top">100 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: decreased 45%; Cmax: decreased 51%; Cmin: decreased 45%</td><td valign="top">Decreased maraviroc effects</td><td valign="top">Induction of CYP450 3A4 by efavirenz</td><td valign="top"><p>Increase maraviroc dose to 600 mg BID</p><p class="warn"><b> </b></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Maraviroc</th><th>Effect on Drug Levels</th><th>Effect on Maraviroc Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Etravirine<sup><a href="#1">1</a></sup><div>(ETR)(Intelence)</div></td><td valign="top">200 mg BID</td><td valign="top">300 mg BID</td><td valign="top">No significant change</td><td valign="top">Maraviroc AUC: decreased 53%; Cmax: decreased 60%; Cmin: decreased 39%</td><td valign="top">-</td><td valign="top">Induction of CYP450 3A4 by etravirine</td><td valign="top"><p>Increase maraviroc to 600 mg BID when used with etravirine</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Etravirine<sup><a href="#631">631</a></sup><div>(ETR)(Intelence)</div></td><td valign="top">200 mg BID</td><td valign="top">300 mg BID</td><td valign="top">-</td><td valign="top">Maraviroc AUC: decreased 53%; Cmax: decreased 60%; Cmin: decreased 39%</td><td valign="top">Decreased maraviroc effects</td><td valign="top">Induction of CYP450 3A4 by etravirine</td><td valign="top"><p>Increase maraviroc to 600 mg BID when combined with etravirine</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Etravirine<sup><a href="#1">1</a></sup><div>(ETR)(Intelence)</div></td><td valign="top">200 mg BID with darunavir/ritonavir 600/100 mg BID</td><td valign="top">300 mg BID</td><td valign="top">No significant change on etravirine, darunavir or ritonavir pharmacokinetics</td><td valign="top">Maraviroc AUC: increased 210%; Cmax: increased 77%; Cmin: increased 430%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by darunavir/ritonavir</td><td valign="top"><p>Decrease maraviroc to 150 mg BID</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Etravirine<sup><a href="#631">631</a></sup><div>(ETR)(Intelence)</div></td><td valign="top">200 mg BID with darunavir/ritonavir 600/100 mg BID</td><td valign="top">150 mg BID</td><td valign="top">-</td><td valign="top">Maraviroc AUC: increased 3.10 fold; Cmax: increased 1.76 fold; Cmin: increased 5.27 fold</td><td valign="top">Increased maraviroc effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary; utilize maraviroc 150 mg BID when combined with etravirine AND darunavir/ritonavir</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Fosamprenavir<sup><a href="#657">657</a></sup><div>(FPV)(Lexiva)</div></td><td valign="top">1400 mg QD with ritonavir 100 mg QD</td><td valign="top">300 mg QD</td><td valign="top">Amprenavir AUC: decreased 30%; Cmax: decreased 29%; Cmin: decreased 15%; Ritonavir AUC: decreased 30%; Cmax: decreased 39%; Cmin: increased 2.66 fold</td><td valign="top">Maraviroc AUC: increased 2.26 fold; Cmax: increased 1.45 fold; Cmin: increased 1.80 fold</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>Dose adjustment not established</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Fosamprenavir<sup><a href="#657">657</a></sup><div>(FPV)(Lexiva)</div></td><td valign="top">700 mg BID with ritonavir 100 mg BID</td><td valign="top">300 mg BID</td><td valign="top">Amprenavir AUC: decreased 35%; Cmax: decreased 34%; Cmin: decreased 36% Ritonavir AUC: decreased 34%; Cmax: decreased 39%; Cmin: decreased 14%</td><td valign="top">Maraviroc AUC: increased 2.49 fold; Cmax: increased 1.52 fold; Cmin: increased 4.75 fold</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>Dose adjustment not established.</p><p class="warn"><b/></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Maraviroc</th><th>Effect on Drug Levels</th><th>Effect on Maraviroc Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Ketoconazole<sup><a href="#2">2</a></sup><div>(Nizoral)</div></td><td valign="top">400 mg QD</td><td valign="top">100 mg BID</td><td valign="top">-</td><td valign="top">Maraviroc AUC: increased 400%; Cmax: increased 238%; Cmin: increased 275%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by ketoconazole</td><td valign="top"><p>Reduce maraviroc dose to 150 mg BID when used with ketoconazole</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Lopinavir/ritonavir<sup><a href="#2">2</a></sup><div>(LPV/r)(Kaletra)</div></td><td valign="top">400 mg/100 mg BID</td><td valign="top">300 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 295%; Cmax: increased 97%; Cmin: increased 824%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by lopinavir/ritonavir</td><td valign="top"><p>Reduce maraviroc dose to 150 mg BID</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Lopinavir/ritonavir<sup><a href="#2">2</a></sup><div>(LPV/r)(Kaletra)</div></td><td valign="top">400 mg/100 mg BID with 600 mg efavirenz QD</td><td valign="top">300 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 153%; Cmax: increased 25%; Cmin: increased 529%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by lopinavir/ritonavir</td><td valign="top"><p>Decrease maraviroc dose to 150 mg BID</p><p class="warn"><b> </b></p></td></tr><tr><td valign="top" width="10%">Nevirapine<sup><a href="#2">2</a></sup><div>(NVP)(Viramune)</div></td><td valign="top">200 mg BID</td><td valign="top">300 mg</td><td valign="top">-</td><td valign="top">Maraviroc Cmax: increased 54%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>Increase maraviroc dose to 300 mg BID</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Raltegravir<sup><a href="#535">535</a></sup><div>(RAL)(Isentress)</div></td><td valign="top">400 mg Q12H</td><td valign="top">300 mg Q12H</td><td valign="top">Raltegravir AUC: decreased 37%; Cmin: decreased 28%; Cmax: decreased 33%</td><td valign="top">Maraviroc Cmin: decreased 21%; Cmax: decreased 20%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Rifampin<sup><a href="#2">2</a></sup><div>(Rifampicin)(Rifadin)</div></td><td valign="top">600 mg QD</td><td valign="top">100 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: decreased 63%; Cmax: decreased 67%; Cmin: decreased 78%</td><td valign="top">Decreased maraviroc effects</td><td valign="top">Induction of CYP450 3A4 by rifampin</td><td valign="top"><p>Do not coadminister</p><p class="warn"><i>Alternative Agents</i>: <br/><b>Rifabutin</b></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Maraviroc</th><th>Effect on Drug Levels</th><th>Effect on Maraviroc Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Ritonavir<sup><a href="#2">2</a></sup><div>(RTV)(Norvir)</div></td><td valign="top">100 mg BID</td><td valign="top">100 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 161%; Cmin: increased 355%; Cmax: increased 28%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by ritonavir</td><td valign="top"><p>-</p><p class="warn"><b> </b></p></td></tr><tr><td valign="top" width="10%">Saquinavir<sup><a href="#2">2</a></sup><div>(SQV)(Fortovase, Invirase)</div></td><td valign="top">1000 mg BID with ritonavir 100 mg BID</td><td valign="top">100 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 877%; Cmax: increased 378%; Cmin: increased 1030%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by saquinavir/ritonavir</td><td valign="top"><p>Decrease maraviroc dose to 150 mg BID</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Saquinavir<sup><a href="#2">2</a></sup><div>(SQV)(Fortovase, Invirase)</div></td><td valign="top">Saquinavir 1000 mg BID with 100 mg ritonavir BID with 600 mg efavirenz QD</td><td valign="top">100 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc AUC: increased 400%; Cmax: increased 126%; Cmin: increased 742%</td><td valign="top">Increased maraviroc effects</td><td valign="top">Inhibition of CYP450 3A4 by saquinavir/ritonavir</td><td valign="top"><p>Decrease maraviroc dose to 150 mg BID</p><p class="warn"><b> </b></p></td></tr><tr><td valign="top" width="10%">Tipranavir<sup><a href="#2">2</a></sup><div>(TPV)(Aptivus)</div></td><td valign="top">500 mg BID with 200 mg ritonavir BID</td><td valign="top">150 mg BID</td><td valign="top">- </td><td valign="top">Maraviroc Cmin: increased 80%;</td><td valign="top">- </td><td valign="top">- </td><td valign="top"><p>Increase maraviroc dose to 300 mg BID</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#bbbbbb"><td class="cellleft" colspan="8">"-" indicates that there are no data available
+                
+            </td></tr></table><table cellspacing="2" cellpadding="0" border="0"><tr><td valign="top" class="cellrightblue"><a name="1"> </a>1:</td><td class="cellleft">Davis J, Scholler-Gyure M, Kakuda TN, et al. An open randomized two period crossover study in 2 cohorts to investigate the effect of steady state TMC125 and the combination of TMC125/DRV/r on the steady state pharmacokinetics of oral maraviroc in healthy subjects [abstract P 4.3/02]. 11th European AIDS Conference; 2007 October 24-27; Madrid, Spain.</td></tr><tr><td valign="top" class="cellrightblue"><a name="2"> </a>2:</td><td class="cellleft">Selzentry [package insert]. New York, NY: Pfizer, Inc.; August 2012.</td></tr><tr><td valign="top" class="cellrightblue"><a name="535"> </a>535:</td><td class="cellleft">Andrews E, Glue P, Fang J, et al. Assessment of the pharmacokinetics of co-administered maraviroc and raltegravir. Brit J Clin Pharmacol 2010; 69: 51-7.</td></tr><tr><td valign="top" class="cellrightblue"><a name="565"> </a>565:</td><td class="cellleft">Taylor S, Dufty N, Watson J, et al. MVC 300 mg once daily + DRV/RTV 800/100 mg once daily provides MVC trough concntrations comparable to trough concentrations in HIV-1 patients taking MVC 300 mg twice daily  + TVD: implications for phase 3 studies [paper #636]. 18th Conference on Retroviruses and Opportunistic Infections,  Feb 27-March 2, 2011. Boston, MA.</td></tr><tr><td valign="top" class="cellrightblue"><a name="631"> </a>631:</td><td class="cellleft">Kakuda TN, Abel S, Davis J, et al. Pharmacokinetic interactions of maraviroc with darunavir-ritonavir, etravirine and etravirine-darunavir-ritonavir in healthy volunteers: results of two drug intaraction trials. Antimicrob Agent Chemother 2011; 55: 2290-96.</td></tr><tr><td valign="top" class="cellrightblue"><a name="657"> </a>657:</td><td class="cellleft">Vourvahis M, Plotka A, Mendes da Costa L, et al. Pharmacokinetic interaction between maraviroc and fosamprenavir/ritonavir: an open lbael, fixed sequence study in healthy volunteers [abstract P 12]. 13th International Workshop on Clinical Pharmacology of HIV Therapy; 2012. Barcelona, Spain.</td></tr></table></div></div><div class="footer"><p class="footerlinks"><a href="InSite?page=About">About</a> | <a href="InSite?page=SM">Site Map</a> | <a href="fb?page=Feedback">Feedback</a> | <a href="InSite?page=Subscribe">Subscribe</a> | <a href="InSite?page=Donate">Donate</a> | <a href="InSite?page=Disclaimer">Disclaimer</a></p><p class="copyright"><a href="http://chi.ucsf.edu/" target="OffSite"><img src="images/footer/chi.gif" alt="UCSF - Center for HIV Information"/></a> HIV InSite is a project of the UCSF Center for HIV Information. Copyright 2017, Regents of the University of California.</p></div></div></body></html>

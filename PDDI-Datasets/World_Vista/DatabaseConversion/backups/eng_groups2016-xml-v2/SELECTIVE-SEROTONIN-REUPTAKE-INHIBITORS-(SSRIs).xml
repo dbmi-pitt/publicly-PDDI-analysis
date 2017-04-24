@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>130</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Dapoxetine" rxnorm="69394">
+<ATC code="G04BX14" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Fluoxetine" rxnorm="4493">
+<ATC code="N06AB03" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Fluvoxamine" rxnorm="42355">
+</DRUG>
+<DRUG name="Paroxetine" rxnorm="32937">
+<ATC code="N06AB05" />
+</DRUG>
+<DRUG name="Sertraline" rxnorm="36437">
+<ATC code="N06AB06" />
+</DRUG>
+<DRUG name="Vortioxetine" rxnorm="1455099">
+<ATC code="N06AX26" />
+</DRUG>
+</CLASS>

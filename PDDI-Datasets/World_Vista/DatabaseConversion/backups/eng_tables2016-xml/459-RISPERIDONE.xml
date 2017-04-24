@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>459-RISPERIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RISPERIDONE" rxcui="35636">
+<ATC code="N05AX08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the active fraction of the risperidone and of its therapeutic effectiveness due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, adjustment of the dosage of the risperidone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>459-RISPERIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RISPERIDONE" rxcui="35636">
+<ATC code="N05AX08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the fluoxetine, with risk of increase of the undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, adjustment of the dosage of the risperidone. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>459-RISPERIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RISPERIDONE" rxcui="35636">
+<ATC code="N05AX08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the paroxetine, with risk of increase of the undesirable effects. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, adjustment of the dosage of the risperidone. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

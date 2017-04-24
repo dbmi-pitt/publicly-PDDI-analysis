@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DOPAMINERGICS" code="N04B-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amantadine" rxnorm="620">
+<ATC code="N04BB01" />
+</DRUG>
+<DRUG name="Apomorphine" rxnorm="1043">
+<ATC code="G04BE07" />
+<ATC code="N04BC07" />
+</DRUG>
+<DRUG name="Bromocriptine" rxnorm="1760">
+<ATC code="G02CB01" />
+<ATC code="N04BC01" />
+</DRUG>
+<DRUG name="Cabergoline" rxnorm="47579">
+<ATC code="G02CB03" />
+<ATC code="N04BC06" />
+</DRUG>
+<DRUG name="Entacapone " rxnorm="60307">
+<ATC code="N04BX02" />
+</DRUG>
+<DRUG name="Lisuride" rxnorm="6446">
+<ATC code="G02CB02" />
+<ATC code="N02CA07" />
+</DRUG>
+<DRUG name="Pergolide" rxnorm="8047">
+<ATC code="N04BC02" />
+</DRUG>
+<DRUG name="Piribedil " rxnorm="8353">
+<ATC code="N04BC08" />
+</DRUG>
+<DRUG name="Pramipexole" rxnorm="746741">
+<ATC code="N04BC05" />
+</DRUG>
+<DRUG name="Quinagolide" rxnorm="76887">
+<ATC code="G02CB04" />
+</DRUG>
+<DRUG name="Rasagiline " rxnorm="134748">
+<ATC code="N04BD02" />
+</DRUG>
+<DRUG name="Ropinirole" rxnorm="72302">
+<ATC code="N04BC04" />
+</DRUG>
+<DRUG name="Rotigotine" rxnorm="616739">
+<ATC code="N04BC09" />
+</DRUG>
+<DRUG name="Selegiline" rxnorm="9639">
+<ATC code="N04BD01" />
+</DRUG>
+<DRUG name="Tolcapone" rxnorm="72937">
+<ATC code="N04BX01" />
+</DRUG>
+</CLASS>

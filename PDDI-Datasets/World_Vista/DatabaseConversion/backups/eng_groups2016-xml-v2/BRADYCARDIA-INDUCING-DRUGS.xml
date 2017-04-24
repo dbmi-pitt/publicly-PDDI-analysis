@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BRADYCARDIA INDUCING DRUGS" code="C0N0S0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>39</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="Ambenonium" rxnorm="623">
+<ATC code="N07AA30" />
+</DRUG>
+<DRUG name="Amiodarone" rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+</DRUG>
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="Carvedilol" rxnorm="20352">
+<ATC code="C07AG02" />
+</DRUG>
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+</DRUG>
+<DRUG name="Crizotinib" rxnorm="1148495">
+<ATC code="L01XE16" />
+</DRUG>
+<DRUG name="Digoxin" rxnorm="3407">
+<ATC code="C01AA05" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Donepezil" rxnorm="135447">
+<ATC code="N06DA02" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Esmolol " rxnorm="49737">
+<ATC code="C07AB09" />
+</DRUG>
+<DRUG name="Fampridine" rxnorm="897018">
+<ATC code="N07XX07" />
+</DRUG>
+<DRUG name="Fingolimod" rxnorm="1012892">
+<ATC code="L04AA27" />
+</DRUG>
+<DRUG name="Galantamine" rxnorm="4637">
+<ATC code="N06DA04" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Ivabradine " rxnorm="77417">
+<ATC code="C01EB17" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Mefloquine" rxnorm="6694">
+<ATC code="P01BF02" />
+<ATC code="P01BC02" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+</DRUG>
+<DRUG name="Midodrine" rxnorm="6963">
+<ATC code="C01CA17" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Neostigmine" rxnorm="7315">
+<ATC code="N07AA01" />
+<ATC code="S01EB06" />
+</DRUG>
+<DRUG name="Pasireotide" rxnorm="1364105">
+<ATC code="H01CB05" />
+</DRUG>
+<DRUG name="Pilocarpine" rxnorm="8328">
+<ATC code="N07AX01" />
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Pyridostigmine" rxnorm="9000">
+<ATC code="N07AA02" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+<DRUG name="Rivastigmine" rxnorm="183379">
+<ATC code="N06DA03" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Thalidomide" rxnorm="10432">
+<ATC code="L04AX02" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+</DRUG>
+</CLASS>

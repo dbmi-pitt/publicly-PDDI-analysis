@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>328-MARAVIROC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Significant decrease of the concentrations of amprenavir that could lead to a loss of the virological response</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>328-MARAVIROC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>In the absence of the administration at the same time with a strong inhibitor of CYP3A4, decrease of the concentrations of maraviroc by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The dose of maraviroc must be increased to 600 mg twice a day in this situation. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>328-MARAVIROC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the concentrations of maraviroc by the inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The dose of maraviroc must be reduced to 150 mg twice a day if it is taken with this inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>328-MARAVIROC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of maraviroc that could lead to a loss of the virological response</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

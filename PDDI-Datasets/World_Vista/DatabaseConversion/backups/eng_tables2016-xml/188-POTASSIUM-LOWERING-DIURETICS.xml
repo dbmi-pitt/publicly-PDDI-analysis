@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>188-POTASSIUM-LOWERING-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of abrupt arterial hypotension and/or acute renal insufficiency at the beginning of or at an increase in the dosage of a treatment with an angiotensin II antagonist where there is pre-existing fluid depletion. 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With arterial hypertension, where there has been pre-existing diuretic treatment that has caused fluid depletion, it is necessary:</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>188-POTASSIUM-LOWERING-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of symptomatic hyponatremia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring. If possible, use another class of diuretics.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>188-POTASSIUM-LOWERING-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the creatinemia without modification of the blood concentrations of the ciclosporin, even in the absence of fluid depletion. Also risk of hyperuricemia and of complications such as gout</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>188-POTASSIUM-LOWERING-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>The rational choice of these medications, useful for some patients, does not exclude the onset of hypokalemia or, in particular with patients having renal insufficiency and diabetes, of hyperkalemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the kalemia, possibly EKG and, if there is reason to, reconsider the treatment. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>188-POTASSIUM-LOWERING-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Risk of abrupt arterial hypotension and/or renal insufficiency at the start of or when there is an increase of the dosage of the treatment with the ACE inihitor in cases of pre-existing fluid depletion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In arterial hypertension, when there is fluid depletion from previous treatment with a diuretic, it is necessary:</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

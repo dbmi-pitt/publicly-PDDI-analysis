@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfentanil " rxnorm="480">
+<ATC code="N01AH02" />
+</DRUG>
+<DRUG name="Apixaban" rxnorm="1364430">
+<ATC code="B01AF02" />
+</DRUG>
+<DRUG name="Atorvastatin" rxnorm="83367">
+<ATC code="C10AA05" />
+</DRUG>
+<DRUG name="Bortezomib " rxnorm="358258">
+<ATC code="L01XX32" />
+</DRUG>
+<DRUG name="Cabazitaxel " rxnorm="996051">
+<ATC code="L01CD04" />
+</DRUG>
+<DRUG name="Ciclosporin " rxnorm="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+<DRUG name="Dasatinib" rxnorm="475342">
+<ATC code="L01XE06" />
+</DRUG>
+<DRUG name="Dihydroergotamine" rxnorm="3418">
+<ATC code="N02CA01" />
+</DRUG>
+<DRUG name="Docetaxel" rxnorm="72962">
+<ATC code="L01CD02" />
+</DRUG>
+<DRUG name="Ergotamine" rxnorm="4025">
+<ATC code="N02CA02" />
+</DRUG>
+<DRUG name="Erlotinib" rxnorm="337525">
+<ATC code="L01XE03" />
+</DRUG>
+<DRUG name="Everolimus" rxnorm="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+<DRUG name="Gefitinib" rxnorm="328134">
+<ATC code="L01XE02" />
+</DRUG>
+<DRUG name="Halofantrine " rxnorm="50749">
+<ATC code="P01BX01" />
+</DRUG>
+<DRUG name="Imatinib" rxnorm="282388">
+<ATC code="L01XE01" />
+</DRUG>
+<DRUG name="Irinotecan " rxnorm="51499">
+<ATC code="L01XX19" />
+</DRUG>
+<DRUG name="Lapatinib" rxnorm="480167">
+<ATC code="L01XE07" />
+</DRUG>
+<DRUG name="Lumefantrine" rxnorm="847728">
+<ATC code="P01BF01" />
+</DRUG>
+<DRUG name="Midazolam" rxnorm="6960">
+<ATC code="N05CD08" />
+</DRUG>
+<DRUG name="Nilotinib" rxnorm="662281">
+<ATC code="L01XE08" />
+</DRUG>
+<DRUG name="Oxycodone" rxnorm="7804">
+<ATC code="N02AA05" />
+</DRUG>
+<DRUG name="Pazopanib" rxnorm="714438">
+<ATC code="L01XE11" />
+</DRUG>
+<DRUG name="Pimozide" rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Quetiapine " rxnorm="51272">
+<ATC code="N05AH04" />
+</DRUG>
+<DRUG name="Quinine " rxnorm="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA" />
+</DRUG>
+<DRUG name="Rivaroxaban" rxnorm="1114195">
+<ATC code="B01AF01" />
+</DRUG>
+<DRUG name="Simvastatin" rxnorm="36567">
+<ATC code="C10AA01" />
+</DRUG>
+<DRUG name="Sirolimus" rxnorm="35302">
+<ATC code="L04AA10" />
+</DRUG>
+<DRUG name="Sorafenib" rxnorm="495881">
+<ATC code="L01XE05" />
+</DRUG>
+<DRUG name="Sufentanil" rxnorm="56795">
+<ATC code="N01AH03" />
+</DRUG>
+<DRUG name="Sunitinib" rxnorm="357977">
+<ATC code="L01XE04" />
+</DRUG>
+<DRUG name="Tacrolimus" rxnorm="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+<DRUG name="Temsirolimus" rxnorm="657797">
+<ATC code="L01XE09" />
+</DRUG>
+<DRUG name="Ticagrelor " rxnorm="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+<DRUG name="Vinblastine" rxnorm="11198">
+<ATC code="L01CA01" />
+</DRUG>
+<DRUG name="Vincristine" rxnorm="11202">
+<ATC code="L01CA02" />
+</DRUG>
+<DRUG name="Vindesine" rxnorm="11204">
+<ATC code="L01CA03" />
+</DRUG>
+<DRUG name="Vinflunine" rxnorm="194315">
+<ATC code="L01CA05" />
+</DRUG>
+<DRUG name="Vinorelbine" rxnorm="39541">
+<ATC code="L01CA04" />
+</DRUG>
+</CLASS>

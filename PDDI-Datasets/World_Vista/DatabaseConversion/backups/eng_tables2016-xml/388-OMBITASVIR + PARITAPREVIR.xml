@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="FUSIDIC ACID" rxcui="4608">
+<ATC code="D06AX01" />
+<ATC code="D09AA02" />
+<ATC code="J01XC01" />
+<ATC code="S01AA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fusidic acid due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the vasoconstrictor alkaloid of ergot of rye due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="ALFUZOSIN" rxcui="17300">
+<ATC code="G04CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the alfuzosin due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the amiodarone due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the atorvastatin due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the colchicine due to decrease of its hepatic metabolism by the bitherapy.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>with patients having renal and/or hepatic insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="ETHINYLESTRADIOL" rxcui="4124">
+<ATC code="G03AA15" />
+<ATC code="G03AB07" />
+<ATC code="G03AA09" />
+<ATC code="G03AB05" />
+<ATC code="G03AA12" />
+<ATC code="G03CA01" />
+<ATC code="L02AA03" />
+<ATC code="G03AA01" />
+<ATC code="G03AA10" />
+<ATC code="G03AB06" />
+<ATC code="G03AA07" />
+<ATC code="G03AB03" />
+<ATC code="G03AA03" />
+<ATC code="G03AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hepatotoxicity</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the bitherapy due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the bitherapy due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>-except with the ritonavir</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the midazolam due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the pimozide due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the quetiapine due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the quinidine due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="SILDENAFIL" rxcui="136411">
+<ATC code="G04BE03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the sildenafil due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the simvastatin due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>388-OMBITASVIR + PARITAPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ticagrelor due to decrease of its hepatic metabolism by the bitherapy</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="">
+<ATC code="1191" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage due to addition of the platelet aggregation activities</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--except for validated indications for this combination in acute coronary syndromes.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of ticagrelor due to increase of its hepatic metabolism by the anticonvulsant enzymatic inducer, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of ticagrelor due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ticagrelor due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of large decrease of the plasma concentrations of ticagrelor due to increase of its hepatic metabolism by the St Johns wort, with decrease of its therapeutic effect.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ticagrelor due to decrease of its hepatic metabolism by the therapy with ombitasvir+paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the plasma concentrations of the antiagregant, with risk of increase of its undesirable effects, especially hemorrhagic ones</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of ticagrelor due to increase of its hepatic metabolism by the rifampicin, with risk of decrease of the therapeutic effect.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>520-TICAGRELOR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of ticagrelor due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

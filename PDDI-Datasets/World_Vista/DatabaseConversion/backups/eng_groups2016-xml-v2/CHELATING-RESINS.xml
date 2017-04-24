@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CHELATING RESINS" code="C10-V0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>42</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Catioresine sulfo sodique" >
+</DRUG>
+<DRUG name="Colesevelam" rxnorm="141626">
+<ATC code="C10AC04" />
+</DRUG>
+<DRUG name="Colestyramine" rxnorm="2447">
+<ATC code="C10AC01" />
+</DRUG>
+<DRUG name="Sevelamer" rxnorm="214824">
+<ATC code="V03AE02" />
+</DRUG>
+</CLASS>

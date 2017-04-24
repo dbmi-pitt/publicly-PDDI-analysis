@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>427-PRAZIQUANTEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRAZIQUANTEL" rxcui="8628">
+<ATC code="P02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the praziquantel, with risk of failure of the treatment due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>427-PRAZIQUANTEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRAZIQUANTEL" rxcui="8628">
+<ATC code="P02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the praziquantel, with risk of failure of the treatment, due to increase of the hepatic metabolism of the praziquantel by the dexamethasone.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Separate the administration of the two medications by at least a week.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>427-PRAZIQUANTEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRAZIQUANTEL" rxcui="8628">
+<ATC code="P02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the praziquantal, with risk of failure of the treatment, due to increase of the hepatic metabolism of the praziquantel by the rifampicin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

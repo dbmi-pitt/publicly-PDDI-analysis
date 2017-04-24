@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>62-ANTIPARASITICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPARASITICS THAT TEND TO INDUCE TORSADES DE POINTES" code="P01B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

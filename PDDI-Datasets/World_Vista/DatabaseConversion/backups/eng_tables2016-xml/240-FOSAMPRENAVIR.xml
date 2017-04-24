@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>240-FOSAMPRENAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase or of decrease of the effects of the A to take into account buprenorphine [sic], simultaneously by inhibition and acceleration of its metabolism by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>240-FOSAMPRENAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lower effectiveness of the amprenavir.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>240-FOSAMPRENAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MARAVIROC" rxcui="620216">
+<ATC code="J05AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Significant decrease of the concentrations of amprenavir that can lead to a loss of viralogical response</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>240-FOSAMPRENAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of methadone with risk of appearance of a withdrawal syndrome due to increase of its hepatic metabolism by the ampernavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and possible adjustment of the dosage of methadone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>240-FOSAMPRENAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lower effectiveness of the amprenavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

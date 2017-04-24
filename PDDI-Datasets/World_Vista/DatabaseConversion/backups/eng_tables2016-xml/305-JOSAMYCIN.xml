@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and. if needed, plasma dosage and possible reduction of the dosage of the carbamazepine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration with the macrolide and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DISOPYRAMIDE" rxcui="3541">
+<ATC code="C01BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the disopyramide: severe hypoglyclemia, lengthening of the QT interval, and serious ventricular arrhythmias, especially of the torsades de pointes type</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Regular clinical, biological and electrocardiographic testing.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EBASTINE" rxcui="23796">
+<ATC code="R06AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias in predisposed patients (congenital long QT syndrome)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the macrolide. If administering these substances together cannot be avoided, testing before hand of the QT and EKG monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ivabradine and consequently of its undesirable effects (inhibition of its hepatic metabolism by the josamycin).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SILDENAFIL" rxcui="136411">
+<ATC code="G04BE03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of sildenafil, with risk of hypotension</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Start the treatment with sildenafil at the minimun dose when it is administered with josamycin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of tacrolimus and of the creatinemia, due to inhibition of the hepatic metabolism of the tacrolimus by the josamycin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>305-JOSAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia, particularly with children</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

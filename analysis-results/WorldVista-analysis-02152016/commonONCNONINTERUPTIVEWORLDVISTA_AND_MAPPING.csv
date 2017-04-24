@@ -1,0 +1,70 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00814    object:Meloxicam precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01023-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Felodipine 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00749-http://bio2rdf.org/drugbank:DB00612    object:Etodolac precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00580-http://bio2rdf.org/drugbank:DB00612    object:Valdecoxib precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00443-http://bio2rdf.org/drugbank:DB06228    object:Rivaroxaban precipitant: Betamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00814    object:Lisinopril precipitant: Meloxicam 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB04743    object:Lisinopril precipitant: Nimesulide 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00796    object:Enalapril precipitant: Candesartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00788    object:Enalapril precipitant: Naproxen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00328    object:Lisinopril precipitant: Indomethacin 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB08822-http://bio2rdf.org/drugbank:DB00584    object:Enalapril precipitant: Azilsartan medoxomil 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00580    object:Lisinopril precipitant: Valdecoxib 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB08822    object:Lisinopril precipitant: Azilsartan medoxomil 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB04743    object:Nimesulide precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB01016    object:Glyburide precipitant: Lisinopril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00672    object:Chlorpropamide precipitant: Lisinopril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00482    object:Celecoxib precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB01124    object:Tolbutamide precipitant: Enalapril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00573    object:Enalapril precipitant: Fenoprofen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB06695-http://bio2rdf.org/drugbank:DB00959    object:Dabigatran etexilate precipitant: Methylprednisolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00328    object:Enalapril precipitant: Indomethacin 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00443-http://bio2rdf.org/drugbank:DB06695    object:Dabigatran etexilate precipitant: Betamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB06605-http://bio2rdf.org/drugbank:DB00959    object:Apixaban precipitant: Methylprednisolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00620-http://bio2rdf.org/drugbank:DB06605    object:Apixaban precipitant: Triamcinolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00796    object:Lisinopril precipitant: Candesartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00482    object:Lisinopril precipitant: Celecoxib 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00620-http://bio2rdf.org/drugbank:DB06695    object:Dabigatran etexilate precipitant: Triamcinolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00672    object:Chlorpropamide precipitant: Enalapril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Escitalopram 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00876-http://bio2rdf.org/drugbank:DB00722    object:Lisinopril precipitant: Eprosartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00814    object:Enalapril precipitant: Meloxicam 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00448-http://bio2rdf.org/drugbank:DB01026    object:Lansoprazole precipitant: Ketoconazole 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01234-http://bio2rdf.org/drugbank:DB06228    object:Rivaroxaban precipitant: Dexamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00749    object:Etodolac precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00959-http://bio2rdf.org/drugbank:DB06228    object:Rivaroxaban precipitant: Methylprednisolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00573-http://bio2rdf.org/drugbank:DB00489    object:Fenoprofen precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01029-http://bio2rdf.org/drugbank:DB00722    object:Lisinopril precipitant: Irbesartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00580-http://bio2rdf.org/drugbank:DB00584    object:Enalapril precipitant: Valdecoxib 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01023-http://bio2rdf.org/drugbank:DB00612    object:Bisoprolol precipitant: Felodipine 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00876    object:Enalapril precipitant: Eprosartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00712-http://bio2rdf.org/drugbank:DB00489    object:Flurbiprofen precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00580    object:Valdecoxib precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01234-http://bio2rdf.org/drugbank:DB06695    object:Dabigatran etexilate precipitant: Dexamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00328-http://bio2rdf.org/drugbank:DB00612    object:Indomethacin precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00712-http://bio2rdf.org/drugbank:DB00584    object:Enalapril precipitant: Flurbiprofen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00612-http://bio2rdf.org/drugbank:DB00814    object:Meloxicam precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01124-http://bio2rdf.org/drugbank:DB00722    object:Tolbutamide precipitant: Lisinopril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00620-http://bio2rdf.org/drugbank:DB06228    object:Rivaroxaban precipitant: Triamcinolone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB01016    object:Glyburide precipitant: Enalapril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00443-http://bio2rdf.org/drugbank:DB06605    object:Apixaban precipitant: Betamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01067-http://bio2rdf.org/drugbank:DB00584    object:Glipizide precipitant: Enalapril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00573-http://bio2rdf.org/drugbank:DB00612    object:Fenoprofen precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00612-http://bio2rdf.org/drugbank:DB00712    object:Flurbiprofen precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00722-http://bio2rdf.org/drugbank:DB00573    object:Lisinopril precipitant: Fenoprofen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00712-http://bio2rdf.org/drugbank:DB00722    object:Lisinopril precipitant: Flurbiprofen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00612-http://bio2rdf.org/drugbank:DB01175    object:Bisoprolol precipitant: Escitalopram 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00482    object:Enalapril precipitant: Celecoxib 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00788-http://bio2rdf.org/drugbank:DB00722    object:Lisinopril precipitant: Naproxen 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00328    object:Indomethacin precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04743-http://bio2rdf.org/drugbank:DB00612    object:Nimesulide precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00612-http://bio2rdf.org/drugbank:DB00482    object:Celecoxib precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB00749    object:Enalapril precipitant: Etodolac 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01067-http://bio2rdf.org/drugbank:DB00722    object:Glipizide precipitant: Lisinopril 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00749-http://bio2rdf.org/drugbank:DB00722    object:Lisinopril precipitant: Etodolac 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB06605-http://bio2rdf.org/drugbank:DB01234    object:Apixaban precipitant: Dexamethasone 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00788-http://bio2rdf.org/drugbank:DB00489    object:Naproxen precipitant: Sotalol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00584-http://bio2rdf.org/drugbank:DB04743    object:Enalapril precipitant: Nimesulide 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00612-http://bio2rdf.org/drugbank:DB00788    object:Naproxen precipitant: Bisoprolol 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01029-http://bio2rdf.org/drugbank:DB00584    object:Enalapril precipitant: Irbesartan 	ONC-NonInteruptive Evidence: None 	World-Vista Evidence: None 

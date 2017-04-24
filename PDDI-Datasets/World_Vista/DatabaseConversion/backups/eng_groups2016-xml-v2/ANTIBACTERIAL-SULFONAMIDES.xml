@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIBACTERIAL SULFONAMIDES" code="JO1E">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acetylsulfafurazol" rxnorm="">
+</DRUG>
+<DRUG name="Sulfadiazine" rxnorm="10171">
+<ATC code="J01EC02" />
+<ATC code="J01EE06" />
+<ATC code="J01EE02" />
+</DRUG>
+<DRUG name="Sulfadoxine" rxnorm="10173">
+</DRUG>
+<DRUG name="Sulfafurazole " rxnorm="10207">
+<ATC code="J01EB05" />
+<ATC code="S01AB02" />
+</DRUG>
+<DRUG name="Sulfaguanidine" rxnorm="10174">
+<ATC code="A07AB03" />
+</DRUG>
+<DRUG name="Sulfamethizole " rxnorm="10179">
+<ATC code="B05CA04" />
+<ATC code="D06BA04" />
+<ATC code="J01EB02" />
+<ATC code="S01AB01" />
+</DRUG>
+<DRUG name="Sulfamethoxazole" rxnorm="10180">
+<ATC code="J01EC01" />
+<ATC code="J01EE01" />
+</DRUG>
+</CLASS>

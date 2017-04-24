@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Atazanavir" rxnorm="343047">
+<ATC code="J05AE08" />
+</DRUG>
+<DRUG name="Darunavir" rxnorm="460132">
+<ATC code="J05AE10" />
+</DRUG>
+<DRUG name="Fosamprenavir" rxnorm="358262">
+<ATC code="J05AE07" />
+</DRUG>
+<DRUG name="Indinavir" rxnorm="114289">
+<ATC code="J05AE02" />
+</DRUG>
+<DRUG name="Lopinavir" rxnorm="195088">
+<ATC code="J05AR10" />
+</DRUG>
+<DRUG name="Ritonavir " rxnorm="85762">
+<ATC code="J05AE03" />
+</DRUG>
+<DRUG name="Saquinavir" rxnorm="83395">
+<ATC code="J05AE01" />
+</DRUG>
+<DRUG name="Tipranavir" rxnorm="190548">
+<ATC code="J05AE09" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>136</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amiodarone" rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Amisulpride" rxnorm="46303">
+<ATC code="N05AL05" />
+</DRUG>
+<DRUG name="French: Arsenieux, may be Arsenic trioxide; the codes for the latter are below" rxnorm="18330">
+<ATC code="L01XX27" />
+</DRUG>
+<DRUG name="Chloroquine" rxnorm="2393">
+<ATC code="P01BA01" />
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Cocaine" rxnorm="2653">
+<ATC code="N01BC01" />
+<ATC code="R02AD03" />
+<ATC code="S01HA01" />
+<ATC code="S02DA02" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Domperidone" rxnorm="3626">
+<ATC code="A03FA03" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Droperidol" rxnorm="3648">
+<ATC code="N05AD08" />
+</DRUG>
+<DRUG name="Erythromycin" rxnorm="4053">
+<ATC code="D10AF02" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Flupentixol" rxnorm="4495">
+<ATC code="N05AF01" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Halofantrine " rxnorm="50749">
+<ATC code="P01BX01" />
+</DRUG>
+<DRUG name="Haloperidol" rxnorm="5093">
+<ATC code="N05AD01" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+<ATC code="C01BA13" />
+</DRUG>
+<DRUG name="Hydroxychloroquine" rxnorm="5521">
+<ATC code="P01BA02" />
+</DRUG>
+<DRUG name="Hydroxyzine" rxnorm="5553">
+<ATC code="N05BB01" />
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Lumefantrine" rxnorm="847728">
+<ATC code="P01BF01" />
+</DRUG>
+<DRUG name="Mequitazine " rxnorm="29528">
+<ATC code="R06AD07:" />
+</DRUG>
+<DRUG name="Methadone " rxnorm="6813">
+<ATC code="N07BC02" />
+</DRUG>
+<DRUG name="Moxifloxacine" rxnorm="139462">
+<ATC code="J01MA14" />
+<ATC code="S01AE07" />
+</DRUG>
+<DRUG name="Pentamidine" rxnorm="7994">
+<ATC code="P01CX01" />
+</DRUG>
+<DRUG name="Pimozide" rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Pipamperone" rxnorm="33739">
+<ATC code="N05AD05" />
+</DRUG>
+<DRUG name="Piperaquine" rxnorm="1430959">
+<ATC code="P01BF05" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Prucalopride" rxnorm="278774">
+<ATC code="A06AX05" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Spiramycin" rxnorm="9991">
+<ATC code="J01FA02" />
+<ATC code="J01RA04" />
+</DRUG>
+<DRUG name="Sulpiride" rxnorm="10239">
+<ATC code="N05AL01" />
+</DRUG>
+<DRUG name="Tiapride" rxnorm="10588">
+<ATC code="N05AL03" />
+</DRUG>
+<DRUG name="Toremifene" rxnorm="38409">
+<ATC code="L02BA02" />
+</DRUG>
+<DRUG name="Vandetanib" rxnorm="1098413">
+<ATC code="L01XE12" />
+</DRUG>
+<DRUG name="Vincamine" rxnorm="11201">
+<ATC code="C04AX07" />
+</DRUG>
+<DRUG name="Zuclopenthixol" rxnorm="114176">
+<ATC code="N05AF05" />
+</DRUG>
+</CLASS>

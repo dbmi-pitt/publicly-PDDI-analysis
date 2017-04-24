@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>371-MYCOPHENOLATE-MOFETIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MYCOPHENOLATE MOFETIL" rxcui="7145">
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the mycophenolic acid by about a third, with potential risk of reduction of effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>371-MYCOPHENOLATE-MOFETIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MYCOPHENOLATE MOFETIL" rxcui="7145">
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the mycophenolic acid by about a third, with potential risk of reduction of effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>371-MYCOPHENOLATE-MOFETIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MYCOPHENOLATE MOFETIL" rxcui="7145">
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOPENICILLINS" code="J01CA" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the mycophenolic acid by about a third, with potential risk of reduction of effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>371-MYCOPHENOLATE-MOFETIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MYCOPHENOLATE MOFETIL" rxcui="7145">
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal.
+
+</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the treatment</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

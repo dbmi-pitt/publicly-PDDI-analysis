@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>12</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Azilsartan" rxnorm="1091643">
+<ATC code="C09CA09" />
+</DRUG>
+<DRUG name="Candesartan cilexetil" rxnorm="214354">
+<ATC code="C09CA06" />
+</DRUG>
+<DRUG name="Eprosartan" rxnorm="83515">
+<ATC code="C09CA02" />
+<ATC code="C09DA02" />
+</DRUG>
+<DRUG name="Irbesartan" rxnorm="83818">
+<ATC code="C09CA04" />
+<ATC code="C09DB05" />
+<ATC code="C09DA04" />
+</DRUG>
+<DRUG name="Losartan" rxnorm="52175">
+<ATC code="C09CA01" />
+<ATC code="C09DB06" />
+<ATC code="C09DA01" />
+</DRUG>
+<DRUG name="Olmesartan" rxnorm="321064">
+<ATC code="C09CA08" />
+<ATC code="C09DB02" />
+<ATC code="C09DA08" />
+<ATC code="C09DX03" />
+</DRUG>
+<DRUG name="Telmisartan" rxnorm="73494">
+<ATC code="C09CA07" />
+<ATC code="C09DB04" />
+<ATC code="C09DA07" />
+</DRUG>
+<DRUG name="Valsartan" rxnorm="69749">
+<ATC code="C09CA03" />
+<ATC code="C09DX02" />
+<ATC code="C09DB01" />
+<ATC code="C09DA03" />
+<ATC code="C09DX01" />
+</DRUG>
+</CLASS>

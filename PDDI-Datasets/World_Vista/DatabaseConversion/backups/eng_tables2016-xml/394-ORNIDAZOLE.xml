@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>394-ORNIDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORNIDAZOLE" rxcui="7701">
+<ATC code="G01AF06" />
+<ATC code="J01XD03" />
+<ATC code="P01AB03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)" code="L01BC-001" /></DRUG2>
+<DESCRIPTION>Increase of the toxicity of the fluorouracil due to decrease of its clearance</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

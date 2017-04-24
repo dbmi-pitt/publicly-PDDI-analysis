@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>401-PARACETAMOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PARACETAMOL" rxcui="161">
+<ATC code="N02BE01" />
+<ATC code="N02BE51" />
+<ATC code="N02BE71" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage when taking paracetamol in maximal doses (4g/day) for at least 4 days</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the paracetamol and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

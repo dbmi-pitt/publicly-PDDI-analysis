@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>224-FELBAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine. In addition, decrease of the plasma concentrations of felbamate due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosages of the two anticonvulsants.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>224-FELBAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the felbamate and increase of the plasma concentrations of the phenobarbital, with risk of overdose.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenobarbital with adjustment of the dosage if needed. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>224-FELBAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FELBAMATE " rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with risk of overdose, due to inhibition of its metabolism by the felbamate</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of phenytoin, and if needed, adjustment of its dosage during the treatment with the felbamate.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>224-FELBAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the valproic acid, with risk of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possible adjustment of the dosage of the valproate or of the valpromide during the treatment with the felbamate and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

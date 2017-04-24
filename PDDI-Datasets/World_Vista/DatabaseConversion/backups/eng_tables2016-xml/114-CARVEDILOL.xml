@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>114-CARVEDILOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARVEDILOL" rxcui="20352">
+<ATC code="C07AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the concentrations of the carvedilol, which can be dangerous in the case of treatment for heart failure due to decrease of its hepatic metabolism by the cimetidine</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use another gastric H2 receptor antagonist. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>114-CARVEDILOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARVEDILOL" rxcui="20352">
+<ATC code="C07AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the carvedilol, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and adjustment of the dosage of the carvedilol during the treatment with the rifampicin. When the rifampicin is stopped, risk of large increase of the plasma concentrations of carvedilol imposing a reduction of the dosage and strict clinical monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

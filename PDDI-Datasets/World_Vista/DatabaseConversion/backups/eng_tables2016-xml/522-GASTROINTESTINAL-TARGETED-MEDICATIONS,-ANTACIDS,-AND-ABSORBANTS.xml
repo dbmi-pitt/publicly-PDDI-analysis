@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>522-GASTROINTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS" code="A07BC-A02AD" /></DRUG1>
+<DRUG2>
+<DRUG name="MEDICATIONS ADMINISTERED BY ORAL ROUTE" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of certain other medications ingested simultaneously</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>As a precaution, it is preferable to take these gastrointestinal targeted medications, antacids, and absorbent medications at a different time from any other medication (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>522-GASTROINTESTINAL-TARGETED-MEDICATIONS,-ANTACIDS,-AND-ABSORBANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS" code="A07BC-A02AD" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES WITH ABSORPTION REDUCED BY GASTRO-INTESTINAL TARGETED MEDICATIONS, ANTACIDS, AND ABSORBANTS " code="RBGI" /></DRUG2>
+<DESCRIPTION>Decrease of the absorption of these substances</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the medications, antacids, or absorbants at a different time from these substances (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

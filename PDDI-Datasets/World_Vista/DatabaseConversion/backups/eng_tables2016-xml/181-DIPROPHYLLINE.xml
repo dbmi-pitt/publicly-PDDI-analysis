@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>181-DIPROPHYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIPROPHYLLINE" rxcui="3714">
+<ATC code="R03DA01" />
+<ATC code="R03DB01" />
+<ATC code="R03DA51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROBENECID" rxcui="8698">
+<ATC code="M04AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of overdose due to increase of the plasma concentrations of diprophylline (inhibition of its renal tubular secretion)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reduce the dosage of diprophylline during the treatment with the probenicid</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

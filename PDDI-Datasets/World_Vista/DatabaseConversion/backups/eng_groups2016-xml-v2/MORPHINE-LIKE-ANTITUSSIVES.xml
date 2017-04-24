@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MORPHINE LIKE ANTITUSSIVES" code="R05DA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>98</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dextromethorphan" rxnorm="3289">
+<ATC code="R05DA09" />
+</DRUG>
+<DRUG name="Noscapine" rxnorm="7533">
+<ATC code="R05DA07" />
+</DRUG>
+<DRUG name="Pholcodine" rxnorm="33431">
+<ATC code="R05DA08" />
+</DRUG>
+</CLASS>

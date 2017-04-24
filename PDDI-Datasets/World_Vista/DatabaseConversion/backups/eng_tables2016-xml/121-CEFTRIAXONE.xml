@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>121-CEFTRIAXONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CEFTRIAXONE" rxcui="2193">
+<ATC code="J01DD04" />
+<ATC code="J01DD54" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the cephalosporin and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

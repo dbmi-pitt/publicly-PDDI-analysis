@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>107-CABAZITAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CABAZITAXEL" rxcui="996051">
+<ATC code="L01CD04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the cytotoxic by increase of its metabolism by the inducer, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>107-CABAZITAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CABAZITAXEL" rxcui="996051">
+<ATC code="L01CD04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable dose dependent effects of the cabazitaxel due to inhibition of its metabolism by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the cabazitaxel during the treatment with the enzymatic inhibitor.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

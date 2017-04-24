@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>8-CLODRONIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLODRONIC ACID" rxcui="3350">
+<ATC code="M05BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of estrasmustine by the clodronate</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

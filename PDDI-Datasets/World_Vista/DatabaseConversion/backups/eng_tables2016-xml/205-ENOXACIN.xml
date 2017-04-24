@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>205-ENOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, which can lead to agitation and hallucinations, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>205-ENOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DULOXETINE" rxcui="72625">
+<ATC code="N06AX21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the duloxetine due to decrease of its hepatic metabolism by the exnoxacin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>205-ENOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROPINIROLE" rxcui="72302">
+<ATC code="N04BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ropinirole with signs of overdose due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the ropinirole during the treatment with the enoxacin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>205-ENOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Overdose of theophylline due to substantial decrease of its metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>55-MONOCLONAL-ANTIBODIES-(EXCEPT-ANTI-TNF-ALPHA).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)" code="MONANT" /></DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal. </DESCRIPTION>
+<SEVERITY>Not recommended with:</SEVERITY>
+<COMMENT>--belimumab, blinatumomab, canakinumab, obinutuzumab, ofatumumab, rituximab, tocilizumab, ustekinumab</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

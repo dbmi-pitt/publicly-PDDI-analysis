@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>372-MYCOPHENOLATE-SODIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MYCOPHENOLATE SODIUM " rxcui="408142">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the treatment with these substances together.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

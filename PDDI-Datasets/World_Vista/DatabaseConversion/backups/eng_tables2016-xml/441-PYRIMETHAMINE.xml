@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>441-PYRIMETHAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PYRIMETHAMINE" rxcui="9010">
+<ATC code="P01BD01" />
+<ATC code="P01BD51" />
+<ATC code="P01BF04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Megaloblastic anemia, more particularly with large doses of the two products (deficit of folic acid due to the combination of two 2-4 diaminopyrimidines)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular CBC and addition of a treatment with folic acid (regular IM injections). </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>249-GLIPIZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIPIZIDE" rxcui="4821">
+<ATC code="A10BB07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the glipizide at the origin of potentially severe hypoglycemia. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the blood glucose lowering sulfonamide during and after the treatment with voriconazole.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

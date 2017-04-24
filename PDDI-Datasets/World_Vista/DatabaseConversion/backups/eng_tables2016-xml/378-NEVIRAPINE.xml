@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the atanazavir due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these medications together proves necessary, adjustment of the dosage of the atazanavir with regular clinical and biological monitoring, especially at the beginning of the administration of the two substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the concentrations of nevirapine with risk of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the nevirapine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the amprenavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="INDINAVIR" rxcui="114289">
+<ATC code="J05AE02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the indinavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the two substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of nevirapine due to decrease of its hepatic metabolism by the ketoconazole, for one thing, and decrease of the plasma concentrations of the ketoconazole due to increase of its hepatic metabolism by the nevirapine, for another thing. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of significant decrease of the plasma concentrations of the nevirapine due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nevirapine due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>378-NEVIRAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEVIRAPINE" rxcui="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the nevirapine.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of the substances together cannot be avoided, strict clinical monitoring and possible adjustment of the dosage of the voriconazole during the administration of the substances together.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

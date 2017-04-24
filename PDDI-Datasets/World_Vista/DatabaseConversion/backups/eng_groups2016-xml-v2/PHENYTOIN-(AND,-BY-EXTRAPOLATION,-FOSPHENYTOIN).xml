@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>118</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Phenytoin" rxnorm="8183">
+<ATC code="N03AB02" />
+</DRUG>
+<DRUG name="Fosphenytoin" rxnorm="72236">
+<ATC code="N03AB05" />
+</DRUG>
+</CLASS>

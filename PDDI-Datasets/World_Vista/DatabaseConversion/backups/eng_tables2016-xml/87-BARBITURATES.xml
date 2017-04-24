@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>87-BARBITURATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BARBITURATES" code="N05CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in case of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>87-BARBITURATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BARBITURATES" code="N05CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OPIOIDS" code="N0-R0" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in case of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

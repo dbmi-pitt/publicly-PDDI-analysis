@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>204-ELVITEGRAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AX11" />
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of ethinylestradiol, with risk of lower contraceptive effectiveness. Furthermore, increase of the concentrations of the progestin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use an estroprogestin contraceptive with at leaset 30ug of ethinylestradiol. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>204-ELVITEGRAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AX11" />
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase pf the plasma concentrations of elvitegravir by decrease of its metabolism by the itraconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With the elvitegravir co-administered with the cobicistat [sic], clinical monitoring. Limit the maximum dose of itraconazole to 200 mg/day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>204-ELVITEGRAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AX11" />
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of elvitegravir by decrease of its metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avec the elvitegravir co-administered with the cobicistat [sic], clinical monitoring. Limit the maximum dose of ketoconazole to 200 mg/day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>204-ELVITEGRAVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AX11" />
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the minimal concentrations of elvitegravir</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

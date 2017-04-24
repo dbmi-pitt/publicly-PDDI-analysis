@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NEUROLEPTICS" code="N05AA-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>100</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alimemazine" rxnorm="10825">
+<ATC code="R06AD01" />
+</DRUG>
+<DRUG name="Alizapride" rxnorm="17311">
+<ATC code="A03FA05" />
+</DRUG>
+<DRUG name="Amisulpride" rxnorm="46303">
+<ATC code="N05AL05" />
+</DRUG>
+<DRUG name="Aripiprazole" rxnorm="89013">
+<ATC code="N05AX12" />
+</DRUG>
+<DRUG name="Carpipramine" rxnorm="20342">
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Clozapine " rxnorm="2626">
+<ATC code="N05AH02" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Droperidol" rxnorm="3648">
+<ATC code="N05AD08" />
+</DRUG>
+<DRUG name="Flupentixol" rxnorm="4495">
+<ATC code="N05AF01" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Haloperidol" rxnorm="5093">
+<ATC code="N05AD01" />
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Loxapine" rxnorm="6475">
+<ATC code="N05AH01" />
+</DRUG>
+<DRUG name="Metoclopramide" rxnorm="6915">
+<ATC code="A03FA01" />
+</DRUG>
+<DRUG name="Olanzapine " rxnorm="61381">
+<ATC code="N05AH03" />
+</DRUG>
+<DRUG name="Oxomemazine" rxnorm="234528">
+<ATC code="R06AD08" />
+</DRUG>
+<DRUG name="Paliperidone" rxnorm="679314">
+<ATC code="N05AX13" />
+</DRUG>
+<DRUG name="Pimozide" rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Pipamperone" rxnorm="33739">
+<ATC code="N05AD05" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Promethazine" rxnorm="8745">
+<ATC code="V03AB05" />
+<ATC code="D04AA10" />
+<ATC code="R06AD02" />
+</DRUG>
+<DRUG name="Propericiazine" rxnorm="8766">
+<ATC code="N05AC01" />
+</DRUG>
+<DRUG name="Quetiapine " rxnorm="51272">
+<ATC code="N05AH04" />
+</DRUG>
+<DRUG name="Risperidone " rxnorm="35636">
+<ATC code="N05AX08" />
+</DRUG>
+<DRUG name="Sulpiride" rxnorm="10239">
+<ATC code="N05AL01" />
+</DRUG>
+<DRUG name="Tiapride" rxnorm="10588">
+<ATC code="N05AL03" />
+</DRUG>
+<DRUG name="Zuclopenthixol" rxnorm="114176">
+<ATC code="N05AF05" />
+</DRUG>
+</CLASS>

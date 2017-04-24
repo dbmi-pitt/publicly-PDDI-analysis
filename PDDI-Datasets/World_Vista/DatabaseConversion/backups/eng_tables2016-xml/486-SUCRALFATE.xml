@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the vitamin K antagonist</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the vitamin K antagonist (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the digoxin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the digoxin (more that 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the fluorquinolones</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the fluoroquinolones (more than 2 hours apart, if possible). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the thyroid hormones. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the thyroid hormones at a different time from the sucralfate (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the phenytoin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucalfate at a different time from the phenytoin (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>486-SUCRALFATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SULPIRIDE" rxcui="10239">
+<ATC code="N05AL01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the sulpiride</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the sulpiride (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

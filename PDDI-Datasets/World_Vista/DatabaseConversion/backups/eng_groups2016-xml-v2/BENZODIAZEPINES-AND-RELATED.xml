@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>31</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alprazolam" rxnorm="596">
+<ATC code="N05BA12" />
+</DRUG>
+<DRUG name="Avizafone" rxnorm="">
+</DRUG>
+<DRUG name="Bromazepam" rxnorm="1749">
+<ATC code="N05BA08" />
+</DRUG>
+<DRUG name="Chlordiazepoxide" rxnorm="2356">
+<ATC code="N05BA02" />
+</DRUG>
+<DRUG name="Clobazam" rxnorm="21241">
+<ATC code="N05BA09" />
+</DRUG>
+<DRUG name="Clonazepam" rxnorm="2598">
+<ATC code="N03AE01" />
+</DRUG>
+<DRUG name="Clorazepate" rxnorm="2353">
+<ATC code="N05BA05" />
+</DRUG>
+<DRUG name="Clotiazepam" rxnorm="2622">
+<ATC code="N05BA21" />
+</DRUG>
+<DRUG name="Diazepam" rxnorm="3322">
+<ATC code="N05BA01" />
+</DRUG>
+<DRUG name="Estazolam" rxnorm="4077">
+<ATC code="N05CD04" />
+</DRUG>
+<DRUG name="Flunitrazepam" rxnorm="4460">
+<ATC code="N05CD03" />
+</DRUG>
+<DRUG name="Flurazepam" rxnorm="4501">
+<ATC code="N05CD01" />
+</DRUG>
+<DRUG name="Loflazepate" rxnorm="">
+<ATC code="N05BA18" />
+</DRUG>
+<DRUG name="Loprazolam" rxnorm="38555">
+<ATC code="N05CD11" />
+</DRUG>
+<DRUG name="Lorazepam" rxnorm="6470">
+<ATC code="N05BA06" />
+</DRUG>
+<DRUG name="Lormetazepam" rxnorm="28894">
+<ATC code="N05CD06" />
+</DRUG>
+<DRUG name="Midazolam" rxnorm="6960">
+<ATC code="N05CD08" />
+</DRUG>
+<DRUG name="Nitrazepam" rxnorm="7440">
+<ATC code="N05CD02" />
+</DRUG>
+<DRUG name="Nordazepam" rxnorm="3155">
+<ATC code="N05BA16" />
+</DRUG>
+<DRUG name="Oxazepam" rxnorm="7781">
+<ATC code="N05BA04" />
+</DRUG>
+<DRUG name="Prazepam" rxnorm="8627">
+<ATC code="N05BA11" />
+</DRUG>
+<DRUG name="Tetrazepam" rxnorm="37985">
+<ATC code="M03BX07" />
+</DRUG>
+<DRUG name="Zolpidem" rxnorm="39993">
+</DRUG>
+<DRUG name="Zopiclone" rxnorm="40001">
+<ATC code="N05CF01" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>552-ZINC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the zinc by the calcium </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the zinc (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>552-ZINC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the tetracycline antibiotics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the zinc salts at a different time from the tetracycline antibiotics (more than two hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>552-ZINC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the zinc by the iron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the zinc (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>552-ZINC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the fluoroquinolones</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the zinc salts at a different time from the fluoroquinlones (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>552-ZINC.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STRONTIUM" rxcui="81638">
+<ATC code="M05BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decease of the digestive absorption of the strontium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the strontium at a different time from the zinc salts (more than two hours apart if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

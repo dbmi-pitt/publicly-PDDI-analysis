@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>117-CEFALOTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CEFALOTIN" rxcui="2236">
+<ATC code="J01DB03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Increase of the nephrotoxicity of the aminoglycosides by the cefalotin is under discussion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of renal function.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

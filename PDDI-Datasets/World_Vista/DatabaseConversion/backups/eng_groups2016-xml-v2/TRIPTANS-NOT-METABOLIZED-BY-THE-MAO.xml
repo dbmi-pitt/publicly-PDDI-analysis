@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TRIPTANS NOT METABOLIZED BY THE MAO" code="NO2CC-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>148</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Eletriptan" rxnorm="231049">
+<ATC code="N02CC06" />
+</DRUG>
+<DRUG name="Frovatriptan" rxnorm="228783">
+<ATC code="N02CC07" />
+</DRUG>
+<DRUG name="Naratriptan" rxnorm="141366">
+<ATC code="N02CC02" />
+</DRUG>
+</CLASS>

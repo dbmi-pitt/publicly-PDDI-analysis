@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>359-MIRABEGRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIRABEGRON" rxcui="1300786">
+<ATC code="G04BD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLECAINIDE" rxcui="4441">
+<ATC code="C01BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the flecainide by decrease of its metabolism by the mirabegron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the flecainide during the administration of these medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>359-MIRABEGRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIRABEGRON" rxcui="1300786">
+<ATC code="G04BD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the metoprolol used in heart failure, increase of the plasma concentrations of the metoprolol due to decrease of its metabolism by the mirabegron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the metoprolol during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>359-MIRABEGRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIRABEGRON" rxcui="1300786">
+<ATC code="G04BD12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the propafenone by decrease of its metabolism by the mirabegron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the propafenone during the administration with the mirabegron</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALLOPURINOL" rxcui="519">
+<ATC code="M04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of didanosine and of its undesirable effects
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GANCICLOVIR" rxcui="4678">
+<ATC code="S01AD09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the didanosine, and especially the mitochondrial toxicity, due to substantial increase of its concentrations. In addition, risk of decrease of the effectiveness of the ganciclovir due to decrease of its concentrations, if the two medications are ingested in an interval of less than 2 hours</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of pancreatitis due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the blood amylase level. Do not use these two medications together if the blood amylase level is at the high range of normal. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the mitochrondrial toxicity of the didanosine due to increase of its active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AF07" />
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AR03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of failure of the antiretroviral treatment, even emergence of resistance. In addition, increase of the risk of the mitchondrial toxicity of the didanosine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THALIDOMIDE" rxcui="10432">
+<ATC code="L04AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the two substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>175-DIDANOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of pancreatitis and of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and monitoring of the amylasemia. Do not administer these substances together if the amylasemia is at the high range of normal. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

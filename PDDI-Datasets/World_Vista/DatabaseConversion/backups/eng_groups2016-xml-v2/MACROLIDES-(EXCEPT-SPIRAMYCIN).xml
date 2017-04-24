@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MACROLIDES (EXCEPT SPIRAMYCIN)" code="J01FA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>83</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Azithromycin" rxnorm="18631">
+<ATC code="J01FA10" />
+</DRUG>
+<DRUG name="Clarithromycin" rxnorm="21212">
+<ATC code="J01FA09" />
+</DRUG>
+<DRUG name="Erythromycin" rxnorm="4053">
+<ATC code="J01FA01" />
+</DRUG>
+<DRUG name="Josamycin" rxnorm="6084">
+<ATC code="J01FA07" />
+</DRUG>
+<DRUG name="Midecamycin" rxnorm="30005">
+<ATC code="J01FA05" />
+</DRUG>
+<DRUG name="Roxithromycin" rxnorm="9478">
+<ATC code="J01FA06" />
+</DRUG>
+<DRUG name="Telithromycin" >
+<ATC code="J01FA15" />
+</DRUG>
+</CLASS>

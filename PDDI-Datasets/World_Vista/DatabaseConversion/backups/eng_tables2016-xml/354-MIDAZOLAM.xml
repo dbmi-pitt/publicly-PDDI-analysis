@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the midazolam by the anticonvulsant
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use </SEVERITY>
+<COMMENT>- with midazolam IV and sublingual</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism with increase of sedation.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--with the midazolam by mouth</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage during the treatment with the diltiazem</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--with the midazolam by mouth</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>- with the midazolam via IV and sublingual</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of midazolam by the St Johns wort</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the midazolam due to decrease of its hepatic metabolism by the ombitasvir+paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of absence of effect of the midazolam, with very large decrease of its plasma concentrations, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROXITHROMYCIN" rxcui="9478">
+<ATC code="J01FA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Slight increase of sedation</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the midazolam due to decrease of its hepatic metabolism with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage during the treatment with the stiripentol.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Contraindication </SEVERITY>
+<COMMENT>- with the midazolam by mouth</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>354-MIDAZOLAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam (decrease of its hepatic metabolism with increase of sedation)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of midazolam during the treatment with the verapamil.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

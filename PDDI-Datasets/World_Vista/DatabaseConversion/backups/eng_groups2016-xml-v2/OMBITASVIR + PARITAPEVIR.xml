@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OMBITASVIR + PARITAPEVIR
+" code="OMPA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ombitasvir" rxnorm="1597371">
+</DRUG>
+<DRUG name="Paritaprevir" rxnorm="1597373">
+</DRUG>
+</CLASS>

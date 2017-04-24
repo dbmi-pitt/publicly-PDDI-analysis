@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the terbinafine [sic] </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DULOXETINE" rxcui="72625">
+<ATC code="N06AX21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the duloxetine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the fluoxetine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the paroxetine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the quinidine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>502-TAMOXIFEN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the terbinafine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

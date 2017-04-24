@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bambuterol" rxnorm="18751">
+<ATC code="R03CC12" />
+</DRUG>
+<DRUG name="Indacaterol" rxnorm="1114326">
+<ATC code="R03AC18" />
+</DRUG>
+<DRUG name="Olodaterol" rxnorm="1546059">
+<ATC code="R03AC19" />
+</DRUG>
+<DRUG name="Salbutamol" rxnorm="435">
+<ATC code="R03AC02" />
+<ATC code="R03CC02" />
+<ATC code="R03AK04" />
+</DRUG>
+<DRUG name="Terbutaline " rxnorm="10368">
+<ATC code="R03AC03" />
+<ATC code="R03CC03" />
+</DRUG>
+<DRUG name="Vilanterol" rxnorm="1424884">
+<ATC code="only" />
+<ATC code="in" />
+<ATC code="combinations" />
+</DRUG>
+</CLASS>

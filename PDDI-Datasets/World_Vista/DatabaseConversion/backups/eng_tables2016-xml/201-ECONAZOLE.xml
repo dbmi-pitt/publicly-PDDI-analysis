@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>201-ECONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ECONAZOLE" rxcui="3743">
+<ATC code="G01AF05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Regardless of the route of administration of the econazole:
+
+Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with econazole and after it is stopped</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

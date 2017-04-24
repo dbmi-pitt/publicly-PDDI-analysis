@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>414-PETHIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PETHIDINE " rxcui="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>414-PETHIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PETHIDINE " rxcui="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>414-PETHIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PETHIDINE " rxcui="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG2>
+<DESCRIPTION>Symptoms of central nervous system excitability evoking a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

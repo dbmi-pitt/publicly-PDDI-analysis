@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>11-NICOTINIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NICOTINIC ACID" rxcui="446722">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OR INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of rash, redness, and heat linked to an increase of the vasodilator effect </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

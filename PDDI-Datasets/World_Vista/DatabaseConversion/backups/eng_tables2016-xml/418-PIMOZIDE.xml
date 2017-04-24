@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DALFOPRISTIN" rxcui="229369">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the pimozide due to decrease of its hepatic metabolism by the combination ombitasvir + paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINUPRISTINE" rxcui="135098">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SERTRALINE" rxcui="36437">
+<ATC code="N06AB06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>418-PIMOZIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRICLABENDAZOLE" rxcui="38608">
+<ATC code="P02BX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes (inhibition of the hepatic metabolism of the medication that tends to produce torsades de pointes).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>Wait 24 hours between stopping the triclabendazole and the dose of the medication that tends to produce torsades de pointes and vice versa.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

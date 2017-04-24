@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>173-DEXTROMETHORPHAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEXTROMETHORPHAN" rxcui="3289">
+<ATC code="R05DA09" />
+<ATC code="N07XX59" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large increase of the plasma concentrations of dextromethorphan with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>173-DEXTROMETHORPHAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEXTROMETHORPHAN" rxcui="3289">
+<ATC code="R05DA09" />
+<ATC code="N07XX59" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>173-DEXTROMETHORPHAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEXTROMETHORPHAN" rxcui="3289">
+<ATC code="R05DA09" />
+<ATC code="N07XX59" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

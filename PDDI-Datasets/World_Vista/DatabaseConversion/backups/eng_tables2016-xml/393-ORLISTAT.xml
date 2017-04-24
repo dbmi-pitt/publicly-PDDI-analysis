@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the amiodarone and of its active metabolite
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the orlistat and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin due to decrease of its intestinal absorption, with risk of loss of the immunosuppressive activity</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Take the orlistat at a different time from the ciclosporin (at least three hours apart). Reinforce testing of the blood dosages of the ciclosporin, especially at the beginning of the administration of the two medications together, and at the time of a possible increase of the dosage of the orlistat.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of disequilibrium of the thyroid replacement therapy in cases where there is treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT " rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NEUROLEPTICS" code="N05AA-003" /></DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>393-ORLISTAT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG2>
+<DESCRIPTION>Decrease of the absorption of the vitamin D</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

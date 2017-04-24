@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ABIRATERONE" rxcui="1100072">
+<ATC code="L02BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the propafenone, due to decrease of its hepatic metabolism by the abiraterone</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the propafenone during the treatment with the abiraterone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propafenone due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution of use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. If there is reason for it, adjustment of the dosage of the propafenone during the administration of it and the inducer together and after the inducer is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the anticoagulant effect and of the risk of hemorrhage. Mechanism proposed: inhibition of the metabolism of the vitamin K antagonist</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the propafenone and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the propafenone due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the propafenone during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propafenone with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the propafenone during the treatment with cinacalcet.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DARIFENACIN" rxcui="136198">
+<ATC code="G04BD10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propafenone, with risk of overdose, due to decrease of its hepatic metabolism by the darifenacin</DESCRIPTION>
+<SEVERITY>Precaution for use.</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the propafenone during the treatment with darifenacin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the digoxinemia, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with propafenone and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DULOXETINE" rxcui="72625">
+<ATC code="N06AX21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propafenone with risk of overdosage due to decrease of its hepatic metabolism by the duloxetine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the propafenone during the treatment with the duloxetine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propafenone due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. If there is reason for it, adjustment of the dosage of the propafenone during the time the substances are administered together and after the St Johns wort is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIRABEGRON" rxcui="1300786">
+<ATC code="G04BD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the propafenone by decrease of its metabolism by the mirabegron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the propafenone during the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the propafanone, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. If there is reason for it, adjustment of the dosage of the propafenone during the administration of the substances together and after the rifampicin is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the propafenone, due to decrease of its hepatic metabolism by the terbinafine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the propafenone during the treatment with the terbinafine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>438-PROPAFENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia due to decrease of its hepatic metabolism by the propafenone. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

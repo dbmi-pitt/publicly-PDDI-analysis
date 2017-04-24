@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>508-TENOFOVIR-DISOPROXIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AF07" />
+<ATC code="J05AR03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Risk of increase of the nephrotoxicity of the tenofovir, especially with large doses of the anti-inflammatory or in the presence of factors of risk of renal insufficiency. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>When these are administered together, monitor renal function.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>508-TENOFOVIR-DISOPROXIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AF07" />
+<ATC code="J05AR03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease by about a third of the exposure to the atazanavir in patients who are also taking tenofovir, compared to a healthy subject receiving the same substances together</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Do not administer the atazanavir with the tenofovir without ritonavir. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>508-TENOFOVIR-DISOPROXIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AF07" />
+<ATC code="J05AR03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of failure of the antiretroviral treatment, even emergence of resistance. In addition, increase of the risk of the mitochondrial toxicity of the didanosine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>508-TENOFOVIR-DISOPROXIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR DISOPROXIL" rxcui="300195">
+<ATC code="J05AR06" />
+<ATC code="J05AR08" />
+<ATC code="J05AR09" />
+<ATC code="J05AF07" />
+<ATC code="J05AR03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>When co-administered with a protease inhibitor, increase of the plasma concentrations of the tenofovir by the ledipasvir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, especially of the renal function.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

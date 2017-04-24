@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>111-CANAKINUMAB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CANAKINUMAB" rxcui="853491">
+<ATC code="L04AC08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG2>
+<DESCRIPTION>Risk of increase of serious infections</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

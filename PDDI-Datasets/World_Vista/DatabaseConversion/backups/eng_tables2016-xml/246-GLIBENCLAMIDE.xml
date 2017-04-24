@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>246-GLIBENCLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIBENCLAMIDE" rxcui="4815">
+<ATC code="A10BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduced effectiveness of the glibenclamide due to decrease of its plasma concentrations, because of the inducer effect of the bosentan. Furthermore, cases of hepatoxicity have been reported with these substances administered together. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the glycemia, adjustment of the treatment if needed, and monitoring of the hepatic biological constants </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>246-GLIBENCLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIBENCLAMIDE" rxcui="4815">
+<ATC code="A10BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, strengthen self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>246-GLIBENCLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLIBENCLAMIDE" rxcui="4815">
+<ATC code="A10BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, strengthen self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the erythromycin.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

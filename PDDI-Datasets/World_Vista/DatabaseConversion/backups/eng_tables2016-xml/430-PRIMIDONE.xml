@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>430-PRIMIDONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PRIMIDONE " rxcui="8691">
+<ATC code="N03AA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the afatinib due to increase of its metabolism by the primidone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these together and 1 to 2 weeks after they are stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

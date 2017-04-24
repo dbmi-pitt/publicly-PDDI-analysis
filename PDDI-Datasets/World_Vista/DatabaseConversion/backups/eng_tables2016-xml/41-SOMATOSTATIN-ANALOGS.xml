@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41-SOMATOSTATIN-ANALOGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the ciclosporin administered orally:
+
+reduction of the blood concentrations of ciclosporin (decrease of its intestinal absorption).
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase the doses of ciclosporin according to testing of the plasma concentrations and reduction of the dosage after the treatment with the somatostatin analogue is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41-SOMATOSTATIN-ANALOGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia:
+
+decrease or increase of the needs for insulin, due to decrease or increase of the secretion of endogenous glucagon
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient of the risk of hypoglycemia or hyperclycemia, strengthen self- monitoring of blood glucose, and adjust the dosage of insulin if needed during the treatment with the somatostatin analog.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41-SOMATOSTATIN-ANALOGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia: decrease of increase of the need for glitazone, due to decrease or increase of the secretion of endogenour glucogon</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce self-monitoring of blood glucose and adjust the dosage of glitazone if needed during the treatment with the somatastin analog. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41-SOMATOSTATIN-ANALOGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia:
+
+decrease or increase of the needs for repaglinde due to decrease or increase of the secretion of endogenous glucagon .</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen self-monitoring of blood glucose, and adjust the dosage of the repaglinide if needed during the treatment with the somatostatin analog.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>41-SOMATOSTATIN-ANALOGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia:
+
+decrease or increase of the needs for the blood glucose lowering sufonamide, due to decrease or increase of the secretion of endogenous glucagon</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen self-monitoring of blood glucose, and adjust the dosage of the sulfonamide if needed during the treatment with the somatostatin analog. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

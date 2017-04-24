@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage, especially in cases with a previous gastroduodenal ulcer
+
+</DESCRIPTION>
+<SEVERITY>Contraindication with:</SEVERITY>
+<COMMENT>- anti--inflammatory does of acetylsalicylic acid (>=1g per dose and/or >=3g per day)</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="PLATELET AGGREGATION INHIBITORS" code="B01AC-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the oral anticoagulant&#39;s risk of hemorrhage (irritation of the gastroduodenal mucosa by the non-steroidal anti-inflammatories)
+
+</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>- with: Phenylbutazone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DEFIBROTIDE" rxcui="1311089">
+<ATC code="B01AX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>Glucocorticoids (general and rectal routes): possible impact of the corticotherapy on the metabolism of the vitamin K antagonist and on that of the factors of coagulation. Risk of hemorrhage specific to the corticotherapy (digestive mucosa, vascular fragility) with large doses or in treatment prolonged beyond 10 days. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>When administering substances from these groups together is justified, strengthen monitoring: if the situation requires, with the vitamin K atagonists, biological monitoring on the 8th day, then every two weeks after that during the corticotherapy and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, reinforce clinical monitoring and, if the situation requires, biological monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="IPILIMUMAB " rxcui="1094833">
+<ATC code="L01XC11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of digestive system hemorrhages</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>52-ORAL-ANTICOAGULANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hermorrhage.</DESCRIPTION>
+<SEVERITY>Precaution for use </SEVERITY>
+<COMMENT>Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

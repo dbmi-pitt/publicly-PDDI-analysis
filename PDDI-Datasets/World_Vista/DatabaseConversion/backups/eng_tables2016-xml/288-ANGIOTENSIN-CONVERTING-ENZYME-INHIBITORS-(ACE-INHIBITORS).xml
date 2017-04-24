@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For anti-inflammatory doses of acetylsalicylic acid (&gt;=1gr per dose and/or &gt;=3gr per day) or for analgesic or antipyretic doses (&gt;=500 mg per dose and/or &lt;3 gr per day):
+
+Acute renal insufficiency in dehydrated patients due to decreased glomerular filtration following a decrease of the synthesis of the renal prostaglandins. Furthermore, reduction of the antihypertensive effect.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ALISKIREN " rxcui="325646">
+<ATC code="C09XA02" />
+<ATC code="C09XA52" />
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hyperkalemia, of renal insufficiency, of increase of mortality from cardiovascular disease</DESCRIPTION>
+<SEVERITY>Contraindication:</SEVERITY>
+<COMMENT>-for patients with diabetes or renal insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>In situations where the administration of these medications together is possible, increased risk of degradation of renal function, even acute renal insufficiency, and increase of the hyperkalemia as well as hypotension and fainting or loss of consciousness. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Acute renal insufficiency with patients at risk (older patients, dehydrated ones, those taking diuretics, those having altered renal function) due to decrease of the glomerular filtration (inhibition of the vasodilating prostaglandins due to the NSAIs). These effects are generally reversible. Furthermore, reduction of the antihypertensive effect.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment and regularly during the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia (potentially lethal) especially when there is renal insufficiency (addition of the hyperkalemia producing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--if the administration of these medications together is justified, strict testing of the kalemia and of the renal function.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG2>
+<DESCRIPTION>Risk of abrupt arterial hypotension and/or acute renal insufficiency at the start of or when there is an increase of the dosage of the treatment with the ACE inhibitor in cases of pre-existing fluid depletion </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In arterial hypertension, when there is fluid depletion from a previous treatment with a diuretic, it is necessary:</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hyperkalemia, especially with older patients.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict testing of the kalemia and of renal function during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the angioneurotic edema type (angioedema) </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="EVEROLIMUS" rxcui="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of angioedema</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="GLIPTINS" code="A10B-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of the onset of angioedema, due to reduction of the activity of the enzyme dipetidyl peptidase-4 (DDP-4) by the gliptin, in patients treated with the ACE inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>The use of an ACE inhibitor can lead to an increase of the hypoglycemic effect in a diabetic treated with insulin. The onset of hypoglycemic difficulties seems exceptional (improvement of the tolerance for glucose that would have the result of a reduction of the need for insulin).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia which can reach toxic values (decrease of the renal excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the use of an ACE inhibitor is indispensable, strict monitoring of the lithemia and adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="GOLD" rxcui="691572">
+<ATC code="M01CB" />
+<ATC code="M01CB01" />
+<ATC code="M01CB02" />
+<ATC code="M01CB03" />
+<ATC code="M01CB04" />
+<ATC code="M01CB05" />
+<ATC code="V10AX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the gold salts administered by IV route: risk of &#147;nitritoid&#148; reaction when the ACE inhibitor is introduced (nausea, vomiting, vasomotor effects of the flushing type, hypotension, possibly a drop in blood pressure)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="POTASSIUM" rxcui="8588">
+<ATC code="A12BA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Hyperkalemia (potentially lethal) especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Unless there is hypokalemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="RACECADOTRIL" rxcui="16738">
+<ATC code="A07XA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the angioedema type. </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--in case of preceding angioedema with ACE inhibitors</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="SACUBITRIL" rxcui="1656328">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of angiodema</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<DRUG name="SPIRONOLACTONE" rxcui="9997">
+<ATC code="C03DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the spironolactone at dosages from 12.5 to 50 mg per day, and with low doses of ACE inhibitors
+
+In the treatment of class III or IV heart failure (NYHA) with an ejection fraction &lt;35% and previous treatment with an ACE inhibitor + a loop diuretic: risk of hyperkalemia, potentially lethal, in case of failure to follow the prescribed doses for this combination of medications.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Verify the absence of pre-existing hyperkalemia and renal insufficiency. Strict biological monitoring of the kalemia and of the creatinemia (1 time per week during the first month, then one time per month thereafter). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>288-ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>The use of an ACE inhibitor can lead to an increase of the hypoglycemic effect in diabetic patients treated with glucose lowering sulfonamides. The onset of hypoglycemic difficulties seems exceptional (improvement of the tolerance for glucose that would have the result of a reduction of the need for the glucose lowering sulfonamides)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce self-monitoring of blood glucose.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

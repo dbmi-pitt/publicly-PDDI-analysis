@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OPIOID RECEPTOR ANTAGONISTS (called Partial antagonist opioids in French)" code="N07BB0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>109</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Nalmefene" rxnorm="31479">
+<ATC code="N07BB05" />
+</DRUG>
+<DRUG name="Naltrexone" rxnorm="7243">
+<ATC code="N07BB04" />
+</DRUG>
+</CLASS>

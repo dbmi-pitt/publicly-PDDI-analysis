@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the tyrosine kinase inhibitor, due to increase of its metabolism by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the bioavailability of the tyrosine-kinase inhibitor, by reason of its pH dependent absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>-except with the vandetanib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the bioavailability of the tyrosine-kinase inhibitor, by reason of its pH dependent absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>-except with the imatinib and the vandetanib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tyrosine kinase inhibitor due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommeded:</SEVERITY>
+<COMMENT>--with the axitinib, the bosutinib, the ceritinib, the cobimetinib, the dabrafenib, the dasatinib, the nilotinib, the sunitinib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the tyrosine-kinase inhibitor, due to increase of its metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>291-METABOLIZED-TYROSINE-KINASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the tyrosine kinase inhibitor, due to increase of its metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

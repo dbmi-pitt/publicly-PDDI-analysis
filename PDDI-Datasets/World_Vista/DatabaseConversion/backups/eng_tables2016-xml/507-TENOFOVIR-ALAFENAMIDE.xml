@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lower effectiveness of the tenofovir alafenamide due to decrease of its intracellular activity by the boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration with the ciclosporine, the dose of tenofovir alafenamide must be limited to 10 mg per day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="VO3AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the atazanavir, the darunavir or the lopinavir boosted with cobicistat, increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration, the dose of tenofovir alafenamide must be limited to 10 mg per day. The administration with the other protease inhibitors of HIV has not been studied. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tenofovir alafenamide due to decrease of its absorption by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these medications together cannot be avoided, clinical monitoring during the administration and 1 to2 weeks after the inducer is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>With the atazanavir, the darunavir or the lopinavir, increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>If these are administered together, the dose of tenofovir alafenamide must be limited to 10 mg per day. Administration with the other protease inhibitors of HIV has not been studied.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration with the itraconazole, the dose of tenofovir alafenamide must be limited to 10 mg per day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration with the ketoconazole, the dose of tenofovir alafenamide must be limited to 10 mg per day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of tenofovir alafenamide due to decrease of its absorption by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together and 1 to 2 weeks after the rifampicin is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tenofovir alafenamide due to decrease of its intracellular activity by the telaprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>507-TENOFOVIR-ALAFENAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TENOFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tenofovir alafenamide due to increase of its absorptioin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of co-administration with the verapamil, the dose of tenofovir alafenamide must be limited to 10 mg per day</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

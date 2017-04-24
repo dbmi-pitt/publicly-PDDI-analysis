@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>245-GEMFIBROZIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DASABUVIR" rxcui="1597381">
+<ATC code="J05AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the dasabuvir by the gemfibrozil</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>245-GEMFIBROZIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ENZALUTAMIDE" rxcui="130729">
+<ATC code="L02BB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the active fraction of the enzalutamide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reduce the dose of enzalutamide by half when administered with the gemfibrozil.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>245-GEMFIBROZIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIOGLITAZONE" rxcui="33738">
+<ATC code="A10BG03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the glitazone due to decrease of its hepatic metabolism by the gemfibrozil</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>245-GEMFIBROZIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of severe hypoglycemia, even coma, due to substantial increase of the plasma concentrations of repaglinide by the gemfiborzil</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="LOOP DIURETICS" code="C03CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bumetanide" rxnorm="1808">
+<ATC code="C03CA02" />
+<ATC code="C03CB02" />
+<ATC code="C03EB02" />
+</DRUG>
+<DRUG name="Furosemide" rxnorm="4603">
+<ATC code="C03CA01" />
+<ATC code="C03CB01" />
+<ATC code="C03EB01" />
+</DRUG>
+<DRUG name="Piretanide" rxnorm="33770">
+<ATC code="C03CA03" />
+</DRUG>
+</CLASS>

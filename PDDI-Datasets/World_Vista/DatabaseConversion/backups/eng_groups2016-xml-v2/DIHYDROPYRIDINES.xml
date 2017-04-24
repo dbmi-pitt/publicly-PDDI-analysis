@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>51</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amlodipine " rxnorm="17767">
+<ATC code="C08CA01" />
+<ATC code="C09BB04" />
+<ATC code="C10BX03" />
+<ATC code="C09BB03" />
+<ATC code="C09DB01" />
+<ATC code="C09DB02" />
+<ATC code="C09DB04" />
+<ATC code="C09DX01" />
+<ATC code="C08GA02" />
+<ATC code="C09BX01" />
+<ATC code="C09DB07" />
+</DRUG>
+<DRUG name="Clevidipine" rxnorm="233603">
+<ATC code="C08CA16" />
+</DRUG>
+<DRUG name="Felodipine " rxnorm="4316">
+<ATC code="C08CA02" />
+<ATC code="C09BB05" />
+</DRUG>
+<DRUG name="Isradipine " rxnorm="33910">
+<ATC code="C08C03" />
+</DRUG>
+<DRUG name="Lacidipine " rxnorm="28382">
+<ATC code="C08CA09" />
+</DRUG>
+<DRUG name="Lercanidipine" rxnorm="135056">
+<ATC code="C09BB02" />
+<ATC code="C08CA13" />
+</DRUG>
+<DRUG name="Manidipine " rxnorm="29275">
+<ATC code="C09BB12" />
+<ATC code="C08CA11" />
+</DRUG>
+<DRUG name="Nicardipine" rxnorm="7396">
+<ATC code="C08CA04" />
+</DRUG>
+<DRUG name="Nifedipine" rxnorm="7417">
+<ATC code="C08CA05" />
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+</DRUG>
+<DRUG name="Nimodipine" rxnorm="7426">
+<ATC code="C08CA06" />
+</DRUG>
+<DRUG name="Nitrendipine " rxnorm="7441">
+<ATC code="C09BB06" />
+<ATC code="C08CA08" />
+</DRUG>
+</CLASS>

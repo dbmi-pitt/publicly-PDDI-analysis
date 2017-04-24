@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the atazanavir due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of the two substances together proves necessary, adjustment of the dosage of the atazanavir with regular clinical and biological monitoring, especially at the beginning of the administration of the two substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of atovaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+<ATC code="N02CA51" />
+<ATC code="N02CA52" />
+<ATC code="N02CA72" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye.)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the amprenavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="INDINAVIR" rxcui="114289">
+<ATC code="J05AE02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the indinavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease by about half of the concentrations of rifabutin, due to increase of its hepatic metabolism by the efavirenz</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjustment of the dosage of the rifabutin during the treatment with efavirenz.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the efavirenz due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>202-EFAVIRENZ.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the voriconazole due to increase of its hepatic metabolism by the efavirenz</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strict clinical monitoring and adjustment of the dosage of the voriconazole and of the efavirenz during the administration of the two together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

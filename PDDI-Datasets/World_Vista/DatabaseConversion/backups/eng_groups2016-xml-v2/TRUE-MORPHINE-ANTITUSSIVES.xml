@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TRUE MORPHINE ANTITUSSIVES" code="R0GDA0-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>149</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Codeine" rxnorm="2670">
+<ATC code="R05DA04" />
+</DRUG>
+<DRUG name="Ethylmorphine" rxnorm="4166">
+<ATC code="R05DA01" />
+<ATC code="S01XA06" />
+</DRUG>
+</CLASS>

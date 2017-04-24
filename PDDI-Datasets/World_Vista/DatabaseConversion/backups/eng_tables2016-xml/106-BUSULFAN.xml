@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>106-BUSULFAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSULFAN" rxcui="1828">
+<ATC code="L01AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the busulfan due to decrease of its clearance by the deferasirox</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>106-BUSULFAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSULFAN" rxcui="1828">
+<ATC code="L01AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the busulfan in large doses: doubling of the concentrations of busulfan by the itraconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>106-BUSULFAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSULFAN" rxcui="1828">
+<ATC code="L01AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METRONIDAZOLE" rxcui="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the busulfan in large doses: doubling of the concentrations of busulfan by the metronidazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14-ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="C01CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HALOGENATED HYDROCARBON ANESTHETICS" code="N01AB0-001" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization
+
+</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg per hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14-ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="C01CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14-ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="C01CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14-ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="C01CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CURARES" code="M03A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>47</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Atracurium" rxnorm="1218">
+<ATC code="M03AC04" />
+</DRUG>
+<DRUG name="Cisatracurium" rxnorm="319864">
+<ATC code="M03AC11" />
+</DRUG>
+<DRUG name="Mivacurium" rxnorm="30077">
+<ATC code="M03AC10" />
+</DRUG>
+<DRUG name="Rocuronium" rxnorm="68139">
+<ATC code="M03AC09" />
+</DRUG>
+<DRUG name="Suxamethonium" rxnorm="10154">
+<ATC code="M03AB01" />
+</DRUG>
+<DRUG name="Vecuronium" rxnorm="71535">
+<ATC code="M03AC03" />
+</DRUG>
+</CLASS>

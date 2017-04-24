@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="METABOLIZED ANTICONVULSANTS " code="N03A-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>91</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Valproic acid" rxnorm="11118">
+<ATC code="N03AG01" />
+</DRUG>
+<DRUG name="Ethosuximide" rxnorm="4135">
+<ATC code="N03AD01" />
+</DRUG>
+<DRUG name="Felbamate" rxnorm="24812">
+<ATC code="N03AX10" />
+</DRUG>
+<DRUG name="Fosphenytoin" rxnorm="72236">
+<ATC code="N03AB05" />
+</DRUG>
+<DRUG name="Lamotrigine" rxnorm="28439">
+<ATC code="N03AX09" />
+</DRUG>
+<DRUG name="Oxcarbazepine" rxnorm="32624">
+<ATC code="N03AF02" />
+</DRUG>
+<DRUG name="Perampanel" rxnorm="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Phenytoin" rxnorm="8183">
+<ATC code="N03AB02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+<DRUG name="Retigabine" rxnorm="1112990">
+<ATC code="N03AX21" />
+</DRUG>
+<DRUG name="Tiagabine" rxnorm="31914">
+<ATC code="N03AG06" />
+</DRUG>
+<DRUG name="Topiramate" rxnorm="38404">
+<ATC code="38404" />
+</DRUG>
+<DRUG name="Valpromide" rxnorm="23420">
+<ATC code="N03AG02" />
+</DRUG>
+<DRUG name="Zonisamide" rxnorm="39998">
+<ATC code="N03AX15" />
+</DRUG>
+</CLASS>

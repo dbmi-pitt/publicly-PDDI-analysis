@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>190-DOCETAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the docetaxel due to decrease of its metabolism </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the docetaxel during the treatment with the enzymatic inhibitor.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>190-DOCETAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the cytotoxic due to increase of its metabolism by the inducer, with risk of lower effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>190-DOCETAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DOCETAXEL" rxcui="72962">
+<ATC code="L01CD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable dose-dependent effects of the docetaxel due to inhibition of its metabolism by the enzymatic inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the docetaxel during the treatment with the enzymatic inhibitor.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

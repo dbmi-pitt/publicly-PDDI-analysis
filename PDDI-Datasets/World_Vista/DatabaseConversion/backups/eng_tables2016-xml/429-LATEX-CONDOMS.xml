@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>429-LATEX-CONDOMS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LATEX CONDOMS" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MINERAL OILS" code="A06AA-" /><ATC code="D02AA" />
+</DRUG2>
+<DESCRIPTION>Risk of rupture of the condom when used with lubricants containing mineral oils (paraffin oil, silicone oil, etc...)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use a hydrosoluble lubricant (glycerin, polyacrylamide...).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

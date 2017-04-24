@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>379-NICARDIPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NICARDIPINE" rxcui="7396">
+<ATC code="C08CA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of the renal function, and adjustment of the dosage of the immunosuppressant during the treatment with nicardipine and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

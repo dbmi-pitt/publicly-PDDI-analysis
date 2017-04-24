@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>For post surgical indications:</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double the plasma concentrations of dabagitan, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In a post surgical indication: clinical monitoring and adjustment of the dosage of the dabigatran to 150 mg/day in one dose.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of dabigatran, with risk of decrease of the therapeutic effect</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of dabigatran</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152-DABIGATRAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In a post surgical indication: clinical monitoring and adjustment of the dosage of the dabigatran to 150mg/day in one dose, or even 75mg/day in case of moderate renal insufficiency.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

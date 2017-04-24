@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>30-AMBRISENTAN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMBRISENTAN" rxcui="358274">
+<ATC code="C02KX02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the concentrations of ambrisentan, with increase of the vasodilator effect (severe headaches )</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

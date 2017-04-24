@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="THYROID HORMONES" code="H03AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>143</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Levothyroxine (Levothyroxine Sodium)" rxnorm="40144">
+<ATC code="H03AA01" />
+<ATC code="H03AA03" />
+</DRUG>
+<DRUG name="Liothyronine sodium" rxnorm="142448">
+<ATC code="H03AA02" />
+</DRUG>
+<DRUG name="Thyroxine" rxnorm="10582">
+</DRUG>
+<DRUG name="Tiratricol" rxnorm="13982">
+<ATC code="D11AX08" />
+<ATC code="H03AA04" />
+</DRUG>
+</CLASS>

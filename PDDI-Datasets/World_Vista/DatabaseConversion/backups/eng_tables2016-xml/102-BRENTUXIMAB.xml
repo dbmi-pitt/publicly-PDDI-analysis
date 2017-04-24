@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>102-BRENTUXIMAB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BRENTUXIMAB  " >
+<ATC code="1147320" />
+<ATC code="L01XC12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BLEOMYCIN  " rxcui="1622">
+<ATC code="L01DC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of pulmonary toxicity</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>102-BRENTUXIMAB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BRENTUXIMAB  " >
+<ATC code="1147320" />
+<ATC code="L01XC12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the concentrations of the active metabolite of the brentuximab, with risk of neutropenia</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>77</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amidotrizoic acid" rxnorm="1546223">
+<ATC code="V08AA01" />
+</DRUG>
+<DRUG name="Ioxaglic acid" rxnorm="1426458">
+<ATC code="V08AB03" />
+</DRUG>
+<DRUG name="Ioxitalamic acid" rxnorm="">
+<ATC code="V08AA05" />
+</DRUG>
+<DRUG name="Iobitridol" rxnorm="87639">
+<ATC code="V08AB11" />
+</DRUG>
+<DRUG name="Iodixanol" rxnorm="27729">
+<ATC code="V08AB09" />
+</DRUG>
+<DRUG name="Iohexol" rxnorm="5956">
+<ATC code="V08AB02" />
+</DRUG>
+<DRUG name="Iomeprol" rxnorm="">
+<ATC code="V08AB10" />
+</DRUG>
+<DRUG name="Iopamidol" rxnorm="5966">
+<ATC code="V08AB04" />
+</DRUG>
+<DRUG name="Iopromide" rxnorm="27781">
+<ATC code="V08AB05" />
+</DRUG>
+<DRUG name="Ioversol " rxnorm="27792">
+<ATC code="V08AB07" />
+</DRUG>
+</CLASS>

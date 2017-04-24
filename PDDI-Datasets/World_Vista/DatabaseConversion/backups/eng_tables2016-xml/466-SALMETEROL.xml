@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>466-SALMETEROL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SALMETEROL" rxcui="36117">
+<ATC code="R03AC12" />
+<ATC code="R03AK06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of salmeterol due to decrease of its hepatic metabolism by the itraconazole</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>466-SALMETEROL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SALMETEROL" rxcui="36117">
+<ATC code="R03AC12" />
+<ATC code="R03AK06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of salmeterol due to decrease of its hepatic metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

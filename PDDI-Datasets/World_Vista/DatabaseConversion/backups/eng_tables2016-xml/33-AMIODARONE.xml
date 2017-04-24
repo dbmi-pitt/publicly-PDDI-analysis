@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the amiodarone. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the amiodarone be administered as far as possible from the afatinib, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the amiodarone and a week after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL AND SOTALOL)" code="C07AB-001" /></DRUG2>
+<DESCRIPTION>Disorders of autoregulation and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Disorders of autoregulation and of cardiac conduction with risk of excessive bradycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of ciclosporin, due to decrease of its hepatic metabolism, with risk of nephrotoxic effects
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Blood concentration dosages of ciclosporin, testing of the renal function, and adjustment of the dosage of the ciclosporin during the treatment with the amiodarone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="VO3AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the amiodarone due to decrease of its metabolism by the cobicistat</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of dabigatran, with greater risk of bleeding
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>For post surgical indications:</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DACLATASVIR" rxcui="1606218">
+<ATC code="J05AX14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Only with the bitherapy daclatasvir/sofosbuvi:
+
+Appearance of bradycardia, possibly abrupt, that can have fatal consequences.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, clinical monitoring and strict EKG, in particular during the first weeks of treatment with the bitherapy</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Depression of autoregulation (excessive bradycardia) and difficulties with atrioventricular conduction. Furthermore, increase of the blood concentrations of digoxin due to decrease of the clearance of the digoxin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG and, if there is need for it, testing of the digoxinemia and adjustment of the dosage of the digoxin. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For diltiazem by injection: risk of bradycardia and of atrioventricular block
+
+For diltiazem by mouth: risk of bradycardia or of atrioventricular block, especially in older persons.</DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+<COMMENT>-with diltiazem administered by IV</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and electrical conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FIDAXOMICIN " rxcui="1111103">
+<ATC code="A07AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fidaxomicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of lengthening of the QT interval</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, particularly with large doses of fluconazole (800mg/d)</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IBRUTINIB" rxcui="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ibrutinib by decease of its hepatic metabolism by the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and reduction of the dose of ibrutinib to 140 mg per day during the time these two medications are administered together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+<ATC code="LEDIPASV" />
+<ATC code="SOFOSBUV" />
+<ATC code="1591942" />
+<ATC code="J05AX65" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Only with the ledipasvir/sofosbuvir bitherapy, appearance of bradycardia, possibly abrupt, that can have fatal consequences</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the use of these medications together cannot be avoided, close monitoring of patients is recommended, in particular during the first weeks of treatment with the bitherapy (clinical monitoring and EKG).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of lidocaine, with possibility of undesirable neurological and cardiac effects, due to decrease of its hepatic metabolism by the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly testing of the plasma concentrations of lidocaine. If needed, adjustment of the dosage of the lidocaine during the treatment with amiodarone and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of nintedanib due to increase of its absorption by the amiodarone.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the amiodarone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, limit the dose of olaparib to 200 mg twice a day with the amiodarone. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPEVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the amiodarone due to decrease of its hepatic metabolism by the therapy with ombitasvir+
+
+paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the amiodarone and of its active metabolite
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the phenytoin with signs of overdose, in particular neurological ones (decrease of the hepatic metabolism of the phenytoin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of phenytoin and possible adjustment of its dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration dependent) of the 
+
+rhabdomyolysis type (decrease of the hepatic metabolism of the simvastatin).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 20mg/day of simvastatin or use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SOFOSBUVIR" rxcui="1484911">
+<ATC code="J05AX15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Only when administered with the combinations daclatasvir/sofosbuvir or ledispasvir/sofosbuvir:
+
+Possibly abrupt appearance of bradycardia, which can have fatal consequences.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, strict clinical monitoring and EKG, in particular during the first weeks of treatment with the combinations with sofosbuvir.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of tacrolimus due to inhibition of its metabolism by the amiodarone.
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of tacrolimus, testing of the renal function, and adjustment of the dosage of tacrolimus during the administration of it and the amiodarone together and when the amiodarone is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TAMSULOSIN" rxcui="77492">
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosin due to inhibition of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the tamsulosin during the treatment with the enzymatic inhibitor and after it is stopped, if the situation requires. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation and of cardiac conduction with risk of excessive bradycardia</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For verapamil by injection: 
+
+-risk of bradycardia or of atrioventricular block. 
+
+For verapamil by mouth:
+
+-risk of bradycardia or of atrioventricular block, especially with older patients</DESCRIPTION>
+<SEVERITY>Not recommended with:</SEVERITY>
+<COMMENT>-verapamil administered via IV</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>33-AMIODARONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes, due to possible decrease of the metabolism of the amiodarone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG, and possible adjustment of the dosage of the amiodarone.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

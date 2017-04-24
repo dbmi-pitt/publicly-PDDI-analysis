@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>412-PENTOXIFYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>412-PENTOXIFYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the pentoxifylline and a week after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>412-PENTOXIFYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (competition at the level of the hepatic metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the pentoxifylline and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

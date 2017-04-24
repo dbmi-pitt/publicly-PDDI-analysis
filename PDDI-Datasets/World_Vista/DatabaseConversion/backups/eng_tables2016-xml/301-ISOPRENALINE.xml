@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>301-ISOPRENALINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ISOPRENALINE" rxcui="6054">
+<ATC code="C01CA02" />
+<ATC code="R03AB02" />
+<ATC code="R03CB01" />
+<ATC code="R03AK02" />
+<ATC code="R03CB51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HALOGENATED HYDROCARBON ANESTHETICS" code="N01AB0-001" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increase of cardiac sensitization
+
+.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

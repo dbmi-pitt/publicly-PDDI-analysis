@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>130-CLADRIBINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLADRIBINE" rxcui="44157">
+<ATC code="L01BB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LAMIVUDINE" rxcui="68244">
+<ATC code="J05AF05" />
+<ATC code="J05AR02" />
+<ATC code="J05AR07" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the cladribine by the lamivudine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

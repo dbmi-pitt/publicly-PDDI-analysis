@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>410-PENTAMIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of pancreatitis due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the blood amylase level. Do not use these two medications together if the blood amylase level is at the high range of normal. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>410-PENTAMIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FOSCARNET" rxcui="33562">
+<ATC code="J05AD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of severe hypocalcemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the calcemia and supplementation if necessary.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>410-PENTAMIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="J05AR07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of onset of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>410-PENTAMIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZALCITABINE" rxcui="3363">
+<ATC code="J05AF03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of peripheral neuropathy due to addition of undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

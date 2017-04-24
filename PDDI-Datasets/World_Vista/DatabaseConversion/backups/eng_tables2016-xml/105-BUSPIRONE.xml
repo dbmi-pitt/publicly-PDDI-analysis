@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the buspirone</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the buspirone due to decrease of its hepatic metabolism by the diltiazem, with increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buspirone if necessary.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the buspirone due to decrease of its hepatic metabolism, with substantial increase of sedation</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the buspirone due to decrease of its hepatic metabolism, with substantial increase of sedation</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Rick of increase of the undesirable effects of the buspirone due to decrease of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the buspirone due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the buspirone during the treatment with rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105-BUSPIRONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the buspirone due to decrease of its hepatic metabolism by the verapamil, with increase of its undesirable effects.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buspirone if necessary.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

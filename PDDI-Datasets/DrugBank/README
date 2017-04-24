@@ -1,0 +1,18 @@
+1/17/17:
+After unziping drugbank5.xml.zip
+
+$ python parseDrugBankInteractionDescr.py
+
+The output of this command is drugbank5-interactions-NLM-R01-drugs.tsv
+
+# We only focused on the 65 drugs used in the NLM R01
+% cat drugbank5-interactions-NLM-R01-drugs.tsv | cut -f1 | uniq | wc -l
+65
+
+# The number of interactions noted in drugbank for all 65 drugs
+% cat drugbank5-interactions-NLM-R01-drugs.tsv |  wc -l
+ 42180
+
+To get the templated descriptions for the interactions the following command was used:
+$ cat drugbank5-interactions-NLM-R01-drugs.tsv| cut -f6 | sort | uniq | less > drugbank5-templated-DDI-descriptions.txt
+

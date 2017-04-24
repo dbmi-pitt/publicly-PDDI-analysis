@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>390-ONDANSETRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="APOMORPHINE" rxcui="1043">
+<ATC code="G04BE07" />
+<ATC code="N04BC07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Severe hypotension and loss of consciousness have been reported when ondansetron is administered with apomorphine</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>390-ONDANSETRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>390-ONDANSETRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the intensity and of the duration of the analgesic effect of the tramadol and risk of decrease of the antiemetic effect of the ondansetron</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

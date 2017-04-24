@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>553-ZOLPIDEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZOLPIDEM" rxcui="39993">
+<ATC code="N05CF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Slight increase of the sedative effect of the zolpidem</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>553-ZOLPIDEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ZOLPIDEM" rxcui="39993">
+<ATC code="N05CF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the zolpidem due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. Possibly use another hypnotic.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

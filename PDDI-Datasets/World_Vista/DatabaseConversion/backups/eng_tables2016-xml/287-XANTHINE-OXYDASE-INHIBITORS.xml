@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>287-XANTHINE-OXYDASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG2>
+<DESCRIPTION>Possibly serious medullary insufficiency</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>287-XANTHINE-OXYDASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0" /></DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>With large doses of the inhibitor, increase of the plasma concentrations of theophylline due to inhibition of its metabolism. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the theohyllinemia up to two or three weeks after the beginning of the treatment with the inhibitor; if there is reason for it, adjustment of the dosage during the treatment with these substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

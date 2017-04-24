@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the phenytoin with signs of overdose, in particular neurological ones (decrease of the hepatic metabolism of the phenytoin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of phenytoin, and possible adjustment of its dosage </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reciprocal reduction of the plasma concentrations (increase of the metabolism without apparent modification of the anticonvulsive effectiveness)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Use prudence in the interpretation of the plasma concentrations. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the plasma concentrations of phenytoin with the possibility of appearance of the usual signs of overdose</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, strict clinical monitoring, plasma concentration dosages of phenytoin, and possible adjustment of its dosage during the treatment with the cimetidine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Variation, possibly large, of the concentrations of phenytoin in the case of treatment with the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of the anticonvulsant during the treatment with ciprofloacin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose (inhibition of the metabolism of the phenytoin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the antipsychotic treatment (decrease of the plasma concentrations of clozapine due to increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible increase of the dosage of the clozapine during the treatment with the phenytoin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsions due to decrease of the digestive absorption of the phenytoin only [not the fosphenytoin] by the cytotoxic, or risk of increase of the toxicity or loss of the effectiveness of the cytotoxic due to the increase of its hepatic metabolism by the phenytoin or the fosphenytoin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Unpredictable variations: the plasma concentrations of phenytoin can increase, with signs of overdose, but also decrease or remain stable.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large and rapid increase of the plasma concentrations of phenytoin with signs of toxicity (inhibition of its metabolism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these substances together cannot be avoided, clinical monitoring and monitoring of the plasma concentrations of phenytoin during the treatment with the disulfiram and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with risk of overdose, due to inhibition of its metabolism by the felbamate</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of phenytoin, and if needed, adjustment of its dosage during the treatment with the felbamate.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin that can reach toxic values. Mechanism proposed: inhibition of the hepatic metabolism of the phenytoin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose, due to inhibition of the metabolism of the phenytoin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly testing of the plasma concentrations of phenytoin. If needed, adjustment of the dosage during the treatment with the fluoxetine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose, due to inhibition of the hepatic metabolism of the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly testing of the plasma concentrations of phenytoin. If needed, adjustment of the dosage of the phenytoin during the treatment with the fluvoxamine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<CLASS name="FOLATES" code="V03-" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of phenytoin due to increase of its metabolism of which the folates represent one of the cofactors</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin. Possible adjustment of the dosage of the phenytoin during the folic supplementation and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="FUROSEMIDE" rxcui="460">
+<ATC code="C03CA01" />
+<ATC code="C03CB01" />
+<ATC code="C03EB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the diuretic effect which can reach 50%</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Possibly use higher doses of furosemide.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Overdose of phenytoin (decrease of its metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring, plasma concentration dosage of phenytoin and possible adjustment of its dosage during the treatment with the isoniazid and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="METYRAPONE" rxcui="6923">
+<ATC code="V04CD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of false negative results of the test with metyrapone, due to a decrease of its plasma concentrations, because of the increase of its hepatic metabolism by the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Double the dosage of the metyrapone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the antiarrythmic activity, of the plasma concentrations, and of the half life of the mexiletine (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly monitoring of the plasma concentrations of the mexiletine; if there is reason for it, adjustment of the dosage of the mexiletine during the treatment with the phenytoin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin which can reach toxic values. Mechanism proposed: inhibition of the hepatic metabolism of the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the nintedanib due to decrease of its absorption by the phenytoin or the fosphenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>In cases of previous treatment with the phenobarbital or the primidone, and the addition of phenytoin, increase of the plasma concentrations of phenobarbital that can lead to toxic signs (inhibition of the metabolism by competition)
+
+In cases of previous treatment with the phenytoin and the addition of phenobarbital or of primidone, unpredictable changes:
+
+--the plasma concentrations of phenytoin are most often decreased (increase of the metabolism) without this decrease affecting the anticonvulsant activity unfavorably. When the phenobarbital or the primidone is stopped, possibility of toxic effects of the phenytoin.
+
+--it can happen that the concentrations of phenytoin are increased (inhibition of the metabolism due to competition)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the phenytoin (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAFURAZOLE" rxcui="10207">
+<ATC code="S01AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin up to toxic values (inhibition of its metabolism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another class of anti-infective should be used; if not, strict clinical monitoring, concentration dosage of phenytoin, and possible adjustment of its dosage during the treatment with the sulfonamide antibiotic and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAMETHIZOLE" rxcui="10179">
+<ATC code="B05CA04" />
+<ATC code="D06BA04" />
+<ATC code="J01EB02" />
+<ATC code="S01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin up to toxic values (inhibition of its metabolism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another class of antibiotic should be used; if not, strict clinical monitoring, concentration dosage of phenytoin, and possible adjustment of its dosage during the treatment with the sulfonamide antibiotic and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="SULFAMETHOXAZOLE" rxcui="10180">
+<ATC code="J01EE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin up to toxic values (inhibition of its metabolism). </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another class of antibiotic should be used; if not, strict clinical monitoring, concentration dosage of phenytoin, and possible adjustment of its dosage during the treatment with the sulfonamide antibiotic and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose (inhibition of the metabolism of the phenytoin).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>416-PHENYTOIN-(AND,-BY-EXTRAPOLATION,-FOSPHENYTOIN).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammoniemia, with increased risk of encephalopathy
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

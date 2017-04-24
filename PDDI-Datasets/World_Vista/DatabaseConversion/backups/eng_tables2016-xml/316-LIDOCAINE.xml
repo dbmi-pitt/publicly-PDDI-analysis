@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>316-LIDOCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of lidocaine, with possibility of undesirable neurological and cardiac effects, due to decrease of its hepatic metabolism by the amiodarone</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly testing of the plasma concentrations of lidocaine. If needed, adjustment of the dosage of the lidocaine during the treatment with amiodarone and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>316-LIDOCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>With the lidocaine administered by IV route: increase of the plasma concentrations of lidocaine with possibility of undesirable neurological and cardiac effects (decrease of the hepatic clearance of the lidocaine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly testing of the plasma concentrations of lidocaine during the administration of the substances together and after the beta-blocking agent is stopped. Adjustment if needed of the dosage of the lidocaine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>316-LIDOCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Negative inotropic effect with risk of acute decompensated heart failure</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>316-LIDOCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the plasma concentrations of lidocaine with risk of undesirable neurological and cardiac effects (inhibition of the hepatic metabolism of the lidocaine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly monitoring of the plasma concentrations of the lidocaine; if there is reason for it, adjustment of the dosage of the lidocaine during the treatment with the cimetidine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>316-LIDOCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lidocaine with possibilities of undesirable neurological and cardiac effects (decrease of the hepatic clearance of the lidocaine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG and possibly testing of the plasma concentrations of the lidocaine during and after the administration of the two substances together. Adjustment, if needed, of the dosage of the lidocaine.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

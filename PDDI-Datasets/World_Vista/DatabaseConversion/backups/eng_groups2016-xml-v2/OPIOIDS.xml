@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OPIOIDS" code="N0-R0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>111</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfentanil " rxnorm="480">
+<ATC code="N01AH02" />
+</DRUG>
+<DRUG name="Buprenorphine" rxnorm="1819">
+<ATC code="N02AE01" />
+</DRUG>
+<DRUG name="Codeine " rxnorm="2670">
+<ATC code="R05DA04" />
+</DRUG>
+<DRUG name="Dextromethorphane " rxnorm="3289">
+<ATC code="R05DA09" />
+</DRUG>
+<DRUG name="Dihydrocodeine" rxnorm="23088">
+<ATC code="N02AA08" />
+</DRUG>
+<DRUG name="Ethylmorphine" rxnorm="4166">
+<ATC code="R05DA01" />
+<ATC code="S01XA06" />
+</DRUG>
+<DRUG name="Fentanyl" rxnorm="4337">
+<ATC code="N01AH01" />
+<ATC code="N02AB03" />
+</DRUG>
+<DRUG name="Hydromorphone " rxnorm="3423">
+<ATC code="N02AA03" />
+</DRUG>
+<DRUG name="Methadone " rxnorm="6813">
+<ATC code="N07BC02" />
+</DRUG>
+<DRUG name="Morphine" rxnorm="7052">
+<ATC code="N02AA01" />
+</DRUG>
+<DRUG name="Nalbuphine" rxnorm="7238">
+<ATC code="N02AF02" />
+</DRUG>
+<DRUG name="Nalmefene" rxnorm="31479">
+<ATC code="N07BB05" />
+</DRUG>
+<DRUG name="Naloxone" rxnorm="7242">
+<ATC code="V03AB15" />
+<ATC code="A06AH04" />
+</DRUG>
+<DRUG name="Naltrexone" rxnorm="7243">
+<ATC code="N07BB04" />
+</DRUG>
+<DRUG name="Noscapine" rxnorm="7533">
+<ATC code="R05DA07" />
+</DRUG>
+<DRUG name="Oxycodone" rxnorm="7804">
+<ATC code="N02AA05" />
+</DRUG>
+<DRUG name="Pethidine" rxnorm="6754">
+<ATC code="N02AB02" />
+</DRUG>
+<DRUG name="Pholcodine" rxnorm="33431">
+<ATC code="R05DA08" />
+</DRUG>
+<DRUG name="Remifentanil" rxnorm="703032">
+<ATC code="N01AH06" />
+</DRUG>
+<DRUG name="Sufentanil" rxnorm="56795">
+<ATC code="N01AH03" />
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+</DRUG>
+</CLASS>

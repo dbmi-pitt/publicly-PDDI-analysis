@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NICOTINE SUBSTITUION TREATMENT" code="N07BA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>102</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Nicotine" rxnorm="7407">
+<ATC code="N07BA01" />
+</DRUG>
+</CLASS>

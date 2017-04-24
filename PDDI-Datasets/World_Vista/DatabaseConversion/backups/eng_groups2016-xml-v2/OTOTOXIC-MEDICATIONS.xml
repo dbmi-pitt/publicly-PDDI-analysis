@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OTOTOXIC MEDICATIONS" code="J01GB-J01XA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>114</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amikacin " rxnorm="641">
+<ATC code="D06AX12" />
+<ATC code="J01GB06" />
+<ATC code="S01AA21" />
+</DRUG>
+<DRUG name="Bumetanide" rxnorm="1808">
+<ATC code="C03CA02" />
+<ATC code="C03CB02" />
+<ATC code="C03EB02" />
+</DRUG>
+<DRUG name="Carboplatin" rxnorm="40048">
+<ATC code="L01XA02" />
+</DRUG>
+<DRUG name="Cisplatin" rxnorm="2555">
+<ATC code="L01XA01" />
+</DRUG>
+<DRUG name="Furosemide" rxnorm="460">
+<ATC code="C03CA01" />
+<ATC code="C03CB01" />
+<ATC code="C03EB01" />
+</DRUG>
+<DRUG name="Gentamicin" rxnorm="142438">
+<ATC code="D06AX07" />
+<ATC code="J01GB03" />
+<ATC code="S01AA11" />
+<ATC code="S02AA14" />
+<ATC code="S03AA06" />
+</DRUG>
+<DRUG name="Isepamicin" rxnorm="51522">
+<ATC code="J01GB11" />
+</DRUG>
+<DRUG name="Netilmicin" rxnorm="7337">
+<ATC code="J01GB07" />
+<ATC code="S01AA23" />
+</DRUG>
+<DRUG name="Oxaliplatin" rxnorm="32592">
+<ATC code="L01XA03" />
+</DRUG>
+<DRUG name="Piretanide" rxnorm="33770">
+<ATC code="C03CA03" />
+</DRUG>
+<DRUG name="Streptomycin " rxnorm="10109">
+<ATC code="A07AA04" />
+<ATC code="J01GA" />
+<ATC code="J01GA01" />
+<ATC code="J04AM01" />
+<ATC code="S01AA15" />
+</DRUG>
+<DRUG name="Teicoplanin" rxnorm="57021">
+<ATC code="J01XA02" />
+</DRUG>
+<DRUG name="Tobramycin" rxnorm="10627">
+<ATC code="J01GB01" />
+<ATC code="S01AA12" />
+</DRUG>
+<DRUG name="Vancomycin" rxnorm="11124">
+<ATC code="A07AA09" />
+<ATC code="J01XA01" />
+</DRUG>
+</CLASS>

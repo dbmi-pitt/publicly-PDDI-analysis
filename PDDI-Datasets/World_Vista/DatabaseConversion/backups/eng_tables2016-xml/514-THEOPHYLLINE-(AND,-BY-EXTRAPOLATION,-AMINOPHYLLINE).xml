@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the theophylline due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY> Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, monitoring of the theophyllinemia. Possible adjustment of the dosage of the theophylline during the treatment with the inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the theophyllinemia with risk of overdose (decrease of the metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia. If there is reason for it, adjustment of the theophylline during the treatment with the cimetidine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose, due to decrease of its hepatic metabolism by the ciprofloxacin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD05" />
+<ATC code="A02BD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia, particularly with children</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: reduction of the vasodilator effect of the dipyridamole by the theophylline</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Interrupt a treatment with theophylline at least 5 days before myocardial perfusion imaging with the dipyridamole.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Overdose of theophylline due to substantial decrease of its metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Overdose of theophylline due to decrease of its hepatic elimination, more particularly dangerous with children</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the clearance of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the fluconazole and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with signs of overdose (decrease of the hepatic metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if needed, adjustment of the dosage of the theophylline during the treatment with the fluvoxamine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="HALOTHANE" rxcui="5095">
+<ATC code="N01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increase of cardiac sensitization</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0" /></DRUG2>
+<DESCRIPTION>In case of large doses of the inhibitor, increase of the plasma concentrations of theophylline due to inhibition of its metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the theophyllinemia up to two or three weeks after the beginning of the treatment with the inhibitor; if there is reason for it, adjustment of the dosage during the treatment with these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the theophylline, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the protease inhibitor and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia, particularly with children</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the hepatic metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the mexiletine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the theophylline, by reason of the enzymatic inducer effect of the St Johns wort, with risk of reduction of effectiveness, even complete loss of the effect, which can have possibly serious consequences (onset of an obstructive pulmonary syndrome)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>In case of accidental use of the substances together, do not stop the St Johns wort abruptly but test the plasma concentrations (or the effectiveness) of the substance taken with it before and then after stopping the St Johns wort.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="NORFLOXACIN" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and possibly monitoring of the theophyllinemia. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="PEFLOXACIN" rxcui="7960">
+<ATC code="J01MA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, possibly monitoring of the theophyllinemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="PENTOXIFYLLINE" rxcui="8013">
+<ATC code="C04AD03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (competition at the level of the hepatic metabolism of the theophylline) </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the pentoxifylline and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the theophylline (increase of its metabolism by enzymatic induction) </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, monitoring of the theophyllinemia. Adjust, if there is reason to, the dosage of the theophylline during the treatment with the rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="ROXITHROMYCIN" rxcui="9478">
+<ATC code="J01FA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia, particularly with children.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the theophyllinemia, with risk of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage, and possible adjustment of the dosage of theophylline. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="TIABENDAZOLE" rxcui="10450">
+<ATC code="D01AC06" />
+<ATC code="P02CA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose, due to decrease of the hepatic metabolism of the theophylline</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment (and after it is stopped, in the case where the anthelmintic is prescribed for a period exceeding 48 hours).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>514-THEOPHYLLINE-(AND,-BY-EXTRAPOLATION,-AMINOPHYLLINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG1>
+<DRUG2>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the plasma clearance of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the ticlopidine and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

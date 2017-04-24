@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TYPE 5 PHOSPHODIESTERASE INHIBITORS" code="G04BE">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>150</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Avanafil" rxnorm="1291301">
+<ATC code="G04BE10" />
+</DRUG>
+<DRUG name="Sildenafil" rxnorm="136411">
+<ATC code="G04BE03" />
+</DRUG>
+<DRUG name="Tadalafil" rxnorm="358263">
+<ATC code="G04BE08" />
+</DRUG>
+<DRUG name="Vardenafil" rxnorm="306674">
+<ATC code="G04BE09" />
+</DRUG>
+</CLASS>

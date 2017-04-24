@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>151-CYTOTOXICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of thrombosis and hemorrhage accompanying tumors. In addition, possible interaction between the vitamin K antagonist and the chemotherapy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>151-CYTOTOXICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Excessive immunodepression with risk of lymphoproliferative syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>151-CYTOTOXICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsions due to decrease of the digestive absorption of the phenytoin only by the cytotoxic, or risk of increase of the toxicity or loss of effectiveness of the cytotoxic due to the increase of its hepatic metabolism by the phenytoin or the fosphenytoin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>151-CYTOTOXICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--and during the 6 months following the end of the chemotherapy</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

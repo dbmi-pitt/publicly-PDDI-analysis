@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>23-ALFUZOSIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFUZOSIN" rxcui="17300">
+<ATC code="G04CA51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the alfuzosin and of its undesirable effects. 
+
+.</DESCRIPTION>
+<SEVERITY>CONTRA-INDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>23-ALFUZOSIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALFUZOSIN" rxcui="17300">
+<ATC code="G04CA51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPEVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the alfuzosin by decrease of its hepatic metabolism by the therapy with the two medications.</DESCRIPTION>
+<SEVERITY>CONTRA-INDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

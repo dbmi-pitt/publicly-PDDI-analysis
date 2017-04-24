@@ -1,0 +1,103 @@
+Adefovir
+Adrenaline (Epinephrine)
+African Potato
+Alcohol
+Alcuronium
+Aloe vera
+Aluminium hydroxide
+Amyl nitrate (Poppers)
+Antacids
+Artemisinin
+Ascorbic Acid (Vitamin C)
+Aspirin
+Beclometasone
+Benserazide
+Benznidazole
+Caffeine citrate
+Cannabis
+Cat's Claw (Uncaria tomentosa)
+Cefalexin
+Chlortalidone
+Ciclosporin
+Cisatracurium
+Clavulanic acid
+Clobetasol
+Colecalciferol (Vitamin D3)
+Cubeb pepper (Piper cubeba)
+Dabigatran
+Diamorphine (diacetylmorphine)
+Droloxifene
+Echinacea
+Elbasvir/Grazoprevir
+Elvitegravir/Cobi/FTC/TAF
+Elvitegravir/Cobi/FTC/TDF
+Emtricitabine/TAF
+Ergometrine (Ergonovine)
+Ethinylestradiol
+Eucalpytus globulus
+Fish oils
+Fluocinolone
+Fluticasone
+Fondaparinux
+Gamma-hydroxybutyrate
+Garlic
+Ginger (Zingiber officinale)
+Glibenclamide (Glyburide)
+Goldenseal root (Hydrastis canadensis)
+Grapefruit juice
+Hops (Humulus lupulus)
+Ibandronic acid
+Imipenem/Cilastatin
+Insulin
+Interferon alpha
+Interleukin 2 (Aldesleukin)
+Inula racemosa
+Iodine
+Iron supplements
+Ledipasvir/Sofosbuvir
+Leuprorelin
+Levomepromazine
+Liquorice (Glycyrrhiza glabra)
+Lormetazepam
+Malabar nut tree (Justicia adhatoda, Adhatoda vasica)
+MDMA (Ecstasy)
+Medroxyprogesterone (IM depot injection)
+Medroxyprogesterone (oral)
+Meglumine antimoniate
+Melarsoprol
+Mephedrone
+Milk thistle
+Mycophenolate
+Naftidrofuryl
+Nandrolone
+Nifurtimox
+Ombitasvir/Paritaprevir/r
+Ombitasvir/Paritaprevir/r + Dasabuvir
+Para-aminosalicylic acid
+Paracetamol (Acetaminophen)
+Penicillins
+Perazine
+Pericyazine
+Phytomenadione (Vitamin K)
+Protamine sulphate
+Pyrantel
+Retinol (Vitamin A)
+Rilpivirine/FTC/TAF
+Saw palmetto (Serenoa repens)
+Senna
+Seville orange juice
+Sodium nitroprusside
+St John's Wort
+Suramin sodium
+Suxamethonium (Succinylcholine)
+Tenofovir-DF
+Tetracyclines
+Tiapride
+Triclabendazole
+Trimethoprim/Sulfamethoxazole
+Turmeric (Curcuma longa)
+Valerian
+Valproate
+Velpatasvir/Sofosbuvir
+Vercuronium
+Xipamide

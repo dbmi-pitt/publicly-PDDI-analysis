@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>376-ANTIPSYCHOTIC-NEUROLEPTICS-(EXCEPT-CLOZAPINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTIPARKINSONIAN DOPAMINERGICS" code="N04B-001" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism of the dopaminergic and the neuroleptics. The dopaminergic can cause or increase the psychotic disorders. When a treatment with neuroleptics is necessary for a Parkinsons patient treated with dopaminergics, these latter must be decreased progressively until they are stopped (their abrupt discontinuation exposes the patient to a risk of &quot;neuroleptic malignant syndrome&quot; (NMS)).</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>376-ANTIPSYCHOTIC-NEUROLEPTICS-(EXCEPT-CLOZAPINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="DOPAMINERGICS, EXCEPT PARKINSON" code="G02CB-002" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism of the dopamine agonist and the neuroleptics</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>376-ANTIPSYCHOTIC-NEUROLEPTICS-(EXCEPT-CLOZAPINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reciprocal antagonism of the levodopa and the neuroleptics</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>With a parkinsons patient, use the minimum effective doses of each of the two medications. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

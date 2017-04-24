@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of large decrease of the concentrations of ranolazine
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to inhibition of the metabolism of the atorvastatin by the ranolazine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of the cholesterol lowering agent or another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possibly EKG. Adjustment of the dosage of the digoxin if needed.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant due to inhibition of its metabolism by the ranolazine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possible adjustment of the dosage of the immunosuppressant.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the concentrations of ranolazine due to decrease of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the concentrations of ranolazine. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>448-RANOLAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type due to inhibition of the metabolism of the simvastatin by the ranolazine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 20 mg/day of simvastatin or use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

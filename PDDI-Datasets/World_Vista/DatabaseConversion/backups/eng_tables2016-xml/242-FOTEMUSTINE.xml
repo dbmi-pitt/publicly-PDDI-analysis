@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>242-FOTEMUSTINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOTEMUSTINE " rxcui="25287">
+<ATC code="L01AD05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DACARBAZINE" rxcui="3098">
+<ATC code="L01AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dacarbazine in large doses: risk of pulmonary toxicity (adult acute respiratory distress syndrome ).
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not use these medications simultaneously, but wait a week between the last administration of fotemustine and the first day of the treatment with dacarbazine. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

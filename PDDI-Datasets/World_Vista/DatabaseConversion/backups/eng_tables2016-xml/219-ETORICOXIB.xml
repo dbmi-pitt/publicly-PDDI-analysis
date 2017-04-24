@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>219-ETORICOXIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ETORICOXIB" rxcui="307296">
+<ATC code="M01AH05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ETHINYLESTRADIOL" rxcui="4124">
+<ATC code="G03AA15" />
+<ATC code="G03AB07" />
+<ATC code="G03AA09" />
+<ATC code="G03AB05" />
+<ATC code="G03AA12" />
+<ATC code="G03CA01" />
+<ATC code="L02AA03" />
+<ATC code="G03AA01" />
+<ATC code="G03AA10" />
+<ATC code="G03AB06" />
+<ATC code="G03AA07" />
+<ATC code="G03AB03" />
+<ATC code="G03AA03" />
+<ATC code="G03AB02" />
+<ATC code="G03AA08" />
+<ATC code="G03AA04" />
+<ATC code="G03AB01" />
+<ATC code="G03AA13" />
+<ATC code="G03AA05" />
+<ATC code="G03AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of ethinylestradiol by the etoricoxib</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

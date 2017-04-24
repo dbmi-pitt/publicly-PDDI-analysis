@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>254-GLYCEROL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GLYCEROL" rxcui="4910">
+<ATC code="A06AG04" />
+<ATC code="A06AX01" />
+<ATC code="A16AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

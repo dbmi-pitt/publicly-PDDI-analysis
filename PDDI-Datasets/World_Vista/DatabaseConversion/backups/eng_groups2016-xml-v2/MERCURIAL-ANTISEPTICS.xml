@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MERCURIAL ANTISEPTICS" code="D08AK0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>90</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Merbromin" rxnorm="6762">
+</DRUG>
+<DRUG name="Thiomersal" rxnorm="">
+<ATC code="D08AK06" />
+</DRUG>
+</CLASS>

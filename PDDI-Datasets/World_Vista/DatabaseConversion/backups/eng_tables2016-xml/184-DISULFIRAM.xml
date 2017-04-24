@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>184-DISULFIRAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Adjustment of the dosage of the vitamin K antagonist during the treatment with the disulfiram and a week after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>184-DISULFIRAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COCAINE" rxcui="2653">
+<ATC code="S02DA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of cocaine due to decrease of its metabolism by the disulfirame, with risk of increase of inducing torsades de pointes</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>184-DISULFIRAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of behavior and of coordination</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>184-DISULFIRAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METRONIDAZOLE" rxcui="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of episodes of acute psychosis or confused state, reversible upon stopping the administration of the two substances together</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>184-DISULFIRAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Large and rapid increase of the plasma concentrations of phenytoin with signs of toxicity (inhibition of its metabolism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these substances together cannot be avoided, clinical monitoring and monitoring of the plasma concentrations of phenytoin during the treatment with the disulfiram and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

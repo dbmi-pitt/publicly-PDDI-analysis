@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AGOMELATINE" rxcui="306718">
+<ATC code="N06AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of agomelatine, with risk of increase of its undesirable effects. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG3" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of clozapine with risk of overdose, due to decrease of its hepatic metabolism by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the clozapine during the treatment with the ciprofloxacin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA0" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity of the methotrexate due to inhibition of its renal tubular secretion by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Variation, possibly large, of the concentrations of phenytoin in the case of treatment with ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of the anticonvulsant during the treatment with ciprofloxacin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROPINIROLE" rxcui="72302">
+<ATC code="N04BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of ropinirole with risk of overdose, due to decrease of its hepatic metabolism by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the ropinirole during the treatment with the ciprofloxacin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrythmias, especially of torsades de pointes. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>128-CIPROFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose, due to decrease of its hepatic metabolism by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

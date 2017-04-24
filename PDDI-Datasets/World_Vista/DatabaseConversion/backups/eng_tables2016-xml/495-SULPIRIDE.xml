@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>495-SULPIRIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SULPIRIDE" rxcui="10239">
+<ATC code="N05AL01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the sulpiride</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the sulpiride (more than 2 hours apart, if possible). </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

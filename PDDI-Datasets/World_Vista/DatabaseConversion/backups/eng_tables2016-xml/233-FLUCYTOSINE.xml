@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>233-FLUCYTOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUCYTOSINE" rxcui="4451">
+<ATC code="D01AE21" />
+<ATC code="J02AX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE (AZT)" rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent CBC</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>157</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dihydroergotamine" rxnorm="3418">
+<ATC code="N02CA01" />
+</DRUG>
+<DRUG name="Ergotamine" rxnorm="4025">
+<ATC code="N02CA02" />
+</DRUG>
+<DRUG name="Methylergometrine" rxnorm="6883">
+<ATC code="N02CA02" />
+</DRUG>
+</CLASS>

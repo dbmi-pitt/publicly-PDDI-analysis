@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>529-TRICLABENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRICLABENDAZOLE" rxcui="38608">
+<ATC code="P02BX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait 24 hours between stopping the triclabendazole and the dose of the medication derived from ergot of rye, and the reverse.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>529-TRICLABENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRICLABENDAZOLE" rxcui="38608">
+<ATC code="P02BX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+<ATC code="N02CA51" />
+<ATC code="N02CA52" />
+<ATC code="N02CA72" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait 24 hours between stopping the thiclabendazole and the ergotamine, and the reverse.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>529-TRICLABENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRICLABENDAZOLE" rxcui="38608">
+<ATC code="P02BX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes (inhibition of the hepatic metabolism of the torsade inducing medication)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait 24 hours between stopping the triclabendazole and the dose of the torsade inducing medication, and the reverse. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>529-TRICLABENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRICLABENDAZOLE" rxcui="38608">
+<ATC code="P02BX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes (inhibition of the hepatic metabolism of the torsade inducing medication)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait 24 hours between stopping the triclabendazole and the dose of the torsade inducing medication, and the reverse.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

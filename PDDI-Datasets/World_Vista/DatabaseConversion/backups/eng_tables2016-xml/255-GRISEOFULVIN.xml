@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>255-GRISEOFULVIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRISEOFULVIN" rxcui="5021">
+<ATC code="D01AA08" />
+<ATC code="D01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the vitamin K antagonist due to increase of its hepatic metabolism by the griseofulvin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with griseofulvin and a week after it is stopped </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>255-GRISEOFULVIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRISEOFULVIN" rxcui="5021">
+<ATC code="D01AA08" />
+<ATC code="D01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used during the time the two substances are administered together and a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>255-GRISEOFULVIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRISEOFULVIN" rxcui="5021">
+<ATC code="D01AA08" />
+<ATC code="D01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the hormonal contraceptive due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the length of time these substances are administered together and a cycle following.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

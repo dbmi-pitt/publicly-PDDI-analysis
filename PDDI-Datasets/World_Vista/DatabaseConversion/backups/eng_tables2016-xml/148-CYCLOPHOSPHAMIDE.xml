@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>148-CYCLOPHOSPHAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CYCLOPHOSPHAMIDE" rxcui="3002">
+<ATC code="L01AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENTOSTATIN" rxcui="8011">
+<ATC code="L01XX08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of pulmonary toxicity which could be fatal</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

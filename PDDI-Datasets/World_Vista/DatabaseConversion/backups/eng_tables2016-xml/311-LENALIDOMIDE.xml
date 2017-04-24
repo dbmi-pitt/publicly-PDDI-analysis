@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>311-LENALIDOMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LENALIDOMIDE" rxcui="342369">
+<ATC code="L04AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Increased risk of onset of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen clinical and biological monitoring, especially during the first weeks of treatment.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

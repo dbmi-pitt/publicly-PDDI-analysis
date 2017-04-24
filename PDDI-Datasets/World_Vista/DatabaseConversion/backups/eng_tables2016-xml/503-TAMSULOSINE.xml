@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>503-TAMSULOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use </SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the tamsulosine during the treatment with the enzyme inhibitor and after it is stopped, if the situation requires. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>503-TAMSULOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the tamsulosine during the treatment with the enzyme inhibitor and after it is stopped, if the situation requires.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>503-TAMSULOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>503-TAMSULOSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the tamsulosine during the treatment with the enzyme inhibitor and after it is stopped, if the situation requires. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

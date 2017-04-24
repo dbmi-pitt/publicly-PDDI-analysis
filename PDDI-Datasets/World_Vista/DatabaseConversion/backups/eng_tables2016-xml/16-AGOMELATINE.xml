@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>16-AGOMELATINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AGOMELATINE" rxcui="306718">
+<ATC code="N06AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of agomelatine, with risk of increase of its undesirable effects. </DESCRIPTION>
+<SEVERITY>Not Recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>16-AGOMELATINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AGOMELATINE" rxcui="306718">
+<ATC code="N06AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of agomelatine, with risk of increase of its undesirable effects.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

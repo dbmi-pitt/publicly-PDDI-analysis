@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>212-ESMOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>212-ESMOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="CLASS IA ANTIARRHYTHMICS" code="C01B-002" /></DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and conduction (suppression of the compensatory sympathetic mechanisms)
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>212-ESMOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and cardiac arrest</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of alteration of left ventricular function</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>212-ESMOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of contractility, autoregulation, and conduction (suppression of the compensatory sympathetic mechanisms)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>212-ESMOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and cardiac failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of alteration of left ventricular function</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

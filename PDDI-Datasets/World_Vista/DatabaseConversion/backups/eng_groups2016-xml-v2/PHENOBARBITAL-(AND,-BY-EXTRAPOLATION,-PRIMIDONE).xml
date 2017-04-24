@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>117</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+</CLASS>

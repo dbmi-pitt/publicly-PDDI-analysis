@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>81</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dalteparin sodium" rxnorm="67109">
+<ATC code="B01AB04" />
+</DRUG>
+<DRUG name="Danaparoid sodium" rxnorm="78484">
+<ATC code="B01AB09" />
+</DRUG>
+<DRUG name="Enoxaparin" rxnorm="67108">
+<ATC code="B01AB05" />
+</DRUG>
+<DRUG name="Fondaparinux" rxnorm="321208">
+<ATC code="B01AX05" />
+</DRUG>
+<DRUG name="Nadroparin " rxnorm="67031">
+<ATC code="B01AB06" />
+</DRUG>
+<DRUG name="Reviparin" rxnorm="75960">
+<ATC code="B01AB08" />
+</DRUG>
+<DRUG name="Tinzaparin" rxnorm="69646">
+<ATC code="B01AB10" />
+</DRUG>
+</CLASS>

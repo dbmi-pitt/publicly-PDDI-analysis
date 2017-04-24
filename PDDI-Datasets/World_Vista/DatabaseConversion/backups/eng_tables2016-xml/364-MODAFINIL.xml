@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>364-MODAFINIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MODAFINIL" rxcui="30125">
+<ATC code="N06BA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the blood concentrations and of the effectiveness of the immunosuppressant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>364-MODAFINIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MODAFINIL" rxcui="30125">
+<ATC code="N06BA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness, during the treatment and one cycle after the end of the treatment with the modafinil, due to its enzymatic inducer potential</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use oral contraceptives containing estrogens and progestins that have 50 micrograms of estrogen or another method of contraception. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>364-MODAFINIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MODAFINIL" rxcui="30125">
+<ATC code="N06BA07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SOFOSBUVIR" rxcui="">
+<ATC code="J05AX15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of sofosbuvir due to decrease of its intestinal absorption by the modafinil</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

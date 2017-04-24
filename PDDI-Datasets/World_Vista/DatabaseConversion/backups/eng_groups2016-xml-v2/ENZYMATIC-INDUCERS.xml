@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>57</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Carbamazepine " rxnorm="2002">
+<ATC code="N03AF01" />
+</DRUG>
+<DRUG name="Dabrafenib" rxnorm="1424911">
+<ATC code="L01XE23" />
+</DRUG>
+<DRUG name="Efavirenz " rxnorm="195085">
+<ATC code="J05AG03" />
+<ATC code="J05AR06" />
+</DRUG>
+<DRUG name="Enzalutamide" rxnorm="1307298">
+<ATC code="L02BB04" />
+</DRUG>
+<DRUG name="Esclicarbazepine" rxnorm="1482502">
+<ATC code="N03AF04" />
+</DRUG>
+<DRUG name="Fosphenytoin" rxnorm="72236">
+<ATC code="N03AB05" />
+</DRUG>
+<DRUG name="Nevirapine" rxnorm="53654">
+<ATC code="J05AG01" />
+<ATC code="J05AR07" />
+<ATC code="J05AR05" />
+</DRUG>
+<DRUG name="Oxcarbazepine " rxnorm="32624">
+<ATC code="N03AF02" />
+</DRUG>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Phenytoin" rxnorm="8183">
+<ATC code="N03AB02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+<DRUG name="Rifabutin" rxnorm="55672">
+<ATC code="J04AB04" />
+</DRUG>
+<DRUG name="Rifampicin " rxnorm="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>146-CYANOCOBALAMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CYANOCOBALAMIN" rxcui="11248">
+<ATC code="B03BA01" />
+<ATC code="B03BA02" />
+<ATC code="B03BA51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG2>
+<DESCRIPTION>Risk of deficiency of cyanocobalamin after prolonged treatment (several years), the reduction of gastric acidity by these medications can diminish the digestive absorption of the vitamin B12</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>146-CYANOCOBALAMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CYANOCOBALAMIN" rxcui="11248">
+<ATC code="B03BA01" />
+<ATC code="B03BA02" />
+<ATC code="B03BA51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Risk of deficiency of cyanocobalamin after prolonged treatment (several years), the reduction of gastric acidity by these medications can diminish the digestive absorption of the vitamin B12.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIARRHYTHMIC AGENTS " code="C01B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>14</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amiodarone" rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Cibenzoline" rxnorm="21099">
+<ATC code="C01BG07" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Flecainide" rxnorm="4441">
+<ATC code="C01BC04" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Lidocaine" rxnorm="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+</DRUG>
+<DRUG name="Mexiletine" rxnorm="6926">
+<ATC code="C01BB02" />
+</DRUG>
+<DRUG name="Propafenone" rxnorm="8754">
+<ATC code="C01BC03" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+</DRUG>
+</CLASS>

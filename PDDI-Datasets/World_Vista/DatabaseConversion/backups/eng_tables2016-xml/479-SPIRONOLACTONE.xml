@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>479-SPIRONOLACTONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SPIRONOLACTONE" rxcui="9997">
+<ATC code="C03DA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>With the spironolactone in dosages from 12.5 to 50 mg per day, and with weak doses of the ACE inhibitor.
+
+In the treatment of class III or IV heart failure (NYHA) with an ejection fraction &lt;35% and previous treatment with an ACE inhibitor + a loop diuretic: risk of hyperkalemia, potentially lethal, in case of failure to follow the prescription conditions for this combination of medications. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Verify the absence of pre-existing hyperkalemia and renal insufficiency. Strict biological monitoring of the kalemia and of the creatinemia (1 time per week during the first month, then one time per month thereafter).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>479-SPIRONOLACTONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SPIRONOLACTONE" rxcui="9997">
+<ATC code="C03DA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MITOTANE" rxcui="7004">
+<ATC code="L01XX23" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of blocking of the action of the mitotane by the spironolactone</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

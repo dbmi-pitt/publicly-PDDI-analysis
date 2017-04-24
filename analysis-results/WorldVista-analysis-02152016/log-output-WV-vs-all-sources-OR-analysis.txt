@@ -1,0 +1,154 @@
+ WORLDVISTA TO DIKBAll
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      DIKBAll: 561 
+
+    Overlap WORLDVISTA to DIKBAll: 76 
+           (0.005 of WORLDVISTA,0.135 of DIKBAll) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO DrugBank
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      DrugBank: 12113 
+
+    Overlap WORLDVISTA to DrugBank: 1918 
+           (0.118 of WORLDVISTA,0.158 of DrugBank) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO Twosides
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      Twosides: 9921 
+
+    Overlap WORLDVISTA to Twosides: 353 
+           (0.022 of WORLDVISTA,0.036 of Twosides) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO NDFRT
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      NDFRT: 2598 
+
+    Overlap WORLDVISTA to NDFRT: 1024 
+           (0.063 of WORLDVISTA,0.394 of NDFRT) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO KEGG
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      KEGG: 26664 
+
+    Overlap WORLDVISTA to KEGG: 3716 
+           (0.229 of WORLDVISTA,0.139 of KEGG) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO CredibleMeds
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      CredibleMeds: 82 
+
+    Overlap WORLDVISTA to CredibleMeds: 16 
+           (0.001 of WORLDVISTA,0.195 of CredibleMeds) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO DDICorpus2011
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      DDICorpus2011: 586 
+
+    Overlap WORLDVISTA to DDICorpus2011: 198 
+           (0.012 of WORLDVISTA,0.338 of DDICorpus2011) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO DDICorpus2013
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      DDICorpus2013: 1287 
+
+    Overlap WORLDVISTA to DDICorpus2013: 383 
+           (0.024 of WORLDVISTA,0.298 of DDICorpus2013) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO NLMCorpus
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      NLMCorpus: 247 
+
+    Overlap WORLDVISTA to NLMCorpus: 118 
+           (0.007 of WORLDVISTA,0.478 of NLMCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO PKCorpus
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      PKCorpus: 166 
+
+    Overlap WORLDVISTA to PKCorpus: 69 
+           (0.004 of WORLDVISTA,0.416 of PKCorpus) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO ONCHighPriority
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      ONCHighPriority: 1150 
+
+    Overlap WORLDVISTA to ONCHighPriority: 282 
+           (0.017 of WORLDVISTA,0.245 of ONCHighPriority) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO ONCNonInteruptive
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      ONCNonInteruptive: 2101 
+
+    Overlap WORLDVISTA to ONCNonInteruptive: 326 
+           (0.020 of WORLDVISTA,0.155 of ONCNonInteruptive) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO OSCAR
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      OSCAR: 7969 
+
+    Overlap WORLDVISTA to OSCAR: 559 
+           (0.035 of WORLDVISTA,0.070 of OSCAR) 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+ WORLDVISTA TO SemMedDB
+
+    Number of PDDIs: 
+      WORLDVISTA: 16202 
+      SemMedDB: 3952 
+
+    Overlap WORLDVISTA to SemMedDB: 404 
+           (0.025 of WORLDVISTA,0.102 of SemMedDB) 
+ 
+ ------------------------------------------------------------------------------------------        
+     

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of convulsions and/or of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>540-VENLAFAXINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

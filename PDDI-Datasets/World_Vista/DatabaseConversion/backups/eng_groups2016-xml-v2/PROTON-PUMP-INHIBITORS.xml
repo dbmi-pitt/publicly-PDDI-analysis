@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Esomeprazole" rxnorm="283742">
+<ATC code="A02BC05" />
+<ATC code="A02BD06" />
+</DRUG>
+<DRUG name="Lansoprazole" rxnorm="17128">
+<ATC code="A02BC03" />
+<ATC code="A02BD07" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+</DRUG>
+<DRUG name="Omeprazole" rxnorm="7646">
+<ATC code="A02BC01" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+</DRUG>
+<DRUG name="Pantoprazole" rxnorm="40790">
+<ATC code="A02BC02" />
+<ATC code="A02BD04" />
+</DRUG>
+<DRUG name="Rabeprazole" rxnorm="114979">
+<ATC code="A02BC04" />
+</DRUG>
+</CLASS>

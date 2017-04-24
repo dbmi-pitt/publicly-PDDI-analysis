@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the anticonvulsant, with risk of overdose, due to inhibition of its hepatic metabolism by the stiripentol</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and plasma dosage, when that is possible, of the anticonvulsant taken with the stiripentol, and possible adjustment of its dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the chlosterol lowering medication)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the plasma concentrations of the caffeine, with risk of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of caffeine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOBAZAM" rxcui="21241">
+<ATC code="N05BA09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of these anticonvulsants, with risk of overdose, due to inhibition of their hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage, when that is possible, of the anticonvulsant taken with the stiripentol, and possible adjustment of the dosage of that anticonvulsant as well.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIAZEPAM" rxcui="3322">
+<ATC code="N05BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the diazepam, with risk of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and plasma dosage, when that is possible, of the anticonvulsant taken with the stiripentol, and possible adjustment of the dosage of the anticonvulsant as well.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic elimination of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+<ATC code="N02CA51" />
+<ATC code="N02CA52" />
+<ATC code="N02CA72" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic elimination of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant (decrease of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the midazolam due to decrease of its hepatic metabolism with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage during the treatment with the stiripentol.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol lowering agent)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>481-STIRIPENTOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Possible increase of the theophyllinemia, with risk of overdose, due to inhibition of its hepatic metabolism </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage, and possible adjustment of the dosage of theophylline.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

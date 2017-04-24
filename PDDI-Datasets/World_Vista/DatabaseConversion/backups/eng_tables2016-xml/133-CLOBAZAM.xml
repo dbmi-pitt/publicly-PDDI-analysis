@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>133-CLOBAZAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOBAZAM" rxcui="21241">
+<ATC code="N05BA09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of these anticonvulsants, with risk of overdose, due to inhibition of their hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage, when that is possible, of the anticonvulsant taken with the stiripentol and possible adjustment of the dosage of the anticonvulsant taken with it as well.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

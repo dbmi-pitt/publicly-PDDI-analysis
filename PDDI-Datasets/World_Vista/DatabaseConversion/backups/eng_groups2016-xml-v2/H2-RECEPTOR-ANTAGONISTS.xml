@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Cimetidine" rxnorm="2541">
+<ATC code="A02BA01" />
+</DRUG>
+<DRUG name="Famotidine" rxnorm="4278">
+<ATC code="A02BA03" />
+</DRUG>
+<DRUG name="Nizatidine" rxnorm="42319">
+<ATC code="A02BA04" />
+</DRUG>
+<DRUG name="Ranitidine" rxnorm="9143">
+<ATC code="A02BA02" />
+</DRUG>
+</CLASS>

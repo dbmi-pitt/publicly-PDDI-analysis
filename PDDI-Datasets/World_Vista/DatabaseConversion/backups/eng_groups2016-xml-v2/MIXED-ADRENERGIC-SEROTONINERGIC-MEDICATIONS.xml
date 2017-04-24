@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>96</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Clomipramine" rxnorm="2597">
+<ATC code="N06AA04" />
+</DRUG>
+<DRUG name="Duloxetine" rxnorm="72625">
+<ATC code="N06AX21" />
+</DRUG>
+<DRUG name="Imipramine" rxnorm="5691">
+<ATC code="N06AA02" />
+</DRUG>
+<DRUG name="Milnacipran" rxnorm="588250">
+<ATC code="N06AX17" />
+</DRUG>
+<DRUG name="Oxitriptan " rxnorm="94">
+<ATC code="N06AX01" />
+</DRUG>
+<DRUG name="Venlafaxine" rxnorm="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</CLASS>

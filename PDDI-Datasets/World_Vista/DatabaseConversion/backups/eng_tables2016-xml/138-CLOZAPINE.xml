@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG2>
+<DESCRIPTION>Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the serious hematological effects </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of clozapine with risk of overdose, due to decrease of its hepatic metabolism by the ciprofloxacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the clozapine during the treatment with the ciprofloxacin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of clozapine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring; if needed, adjustment of the dosage of the clozapine during the treatment with the fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the antipsychotic treatment (decrease of the plasma concentrations of clozapine due to increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible increase of the dosage of the clozapine during the treatment with the phenytoin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>138-CLOZAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the antipsychotic treatment (decrease of the plasma concentrations of clozapine due to increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible increase of the dosage of the clozapine during the treatment with the rifampicin.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

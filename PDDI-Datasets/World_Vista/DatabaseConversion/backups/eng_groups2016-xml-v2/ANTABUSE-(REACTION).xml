@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTABUSE (REACTION)  " code="123-ANT">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>13</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Cefamandole" rxnorm="2178">
+<ATC code="J01DC03" />
+</DRUG>
+<DRUG name="Disulfiram" rxnorm="3554">
+<ATC code="N07BB01" />
+</DRUG>
+<DRUG name="Glibenclamide" rxnorm="4815">
+<ATC code="A10BB01" />
+</DRUG>
+<DRUG name="Glipizide" rxnorm="4821">
+<ATC code="A10BB07" />
+</DRUG>
+<DRUG name="Griseofulvin" rxnorm="5021">
+<ATC code="D01AA08" />
+<ATC code="D01BA01" />
+</DRUG>
+<DRUG name="Ketoconazole" rxnorm="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+<DRUG name="Metronidazole" rxnorm="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+<DRUG name="Ornidazole" rxnorm="7701">
+<ATC code="G01AF06" />
+<ATC code="J01XD03" />
+<ATC code="P01AB03" />
+</DRUG>
+<DRUG name="Procarbazine" rxnorm="8702">
+<ATC code="L01XB01" />
+</DRUG>
+<DRUG name="Secnidazole " rxnorm="36314">
+<ATC code="P01AB07" />
+</DRUG>
+<DRUG name="Tenonitrozole" rxnorm="236186">
+<ATC code="P01AX08" />
+</DRUG>
+<DRUG name="Tinidazole " rxnorm="10612">
+<ATC code="J01XD02" />
+<ATC code="P01AB02" />
+</DRUG>
+</CLASS>

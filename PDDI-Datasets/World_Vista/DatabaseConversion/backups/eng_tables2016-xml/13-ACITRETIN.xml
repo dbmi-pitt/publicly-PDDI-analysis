@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>13-ACITRETIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACITRETIN" rxcui="16818">
+<ATC code="D05BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OR INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With women of child bearing age, risk of transformation of the acitretin into etretinate, a powerful agent of birth defects and malformations with a very prolonged half life (120 days), exposing the woman to a major risk of these birth defects and malformations of the child in case of pregnancy, during the treatment and two months after it ends. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>13-ACITRETIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACITRETIN" rxcui="16818">
+<ATC code="D05BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the hepatotoxicity of the methotrexate </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together is judged necessary, strengthen liver function testing. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="FOLATES" code="V03-">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>61</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Folinic Acid" rxnorm="6313">
+<ATC code="V03AF03" />
+</DRUG>
+<DRUG name="Folic Acid" rxnorm="4511">
+<ATC code="B03B" />
+<ATC code="B03AD" />
+<ATC code="B03BB" />
+<ATC code="B03BB01" />
+<ATC code="B03AE02" />
+<ATC code="B03AE01" />
+</DRUG>
+</CLASS>

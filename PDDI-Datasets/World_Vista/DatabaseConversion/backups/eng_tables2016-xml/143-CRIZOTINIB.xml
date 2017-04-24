@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>143-CRIZOTINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CRIZOTINIB" rxcui="1148495">
+<ATC code="L01XE16" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of these molecules due to decrease of their metabolism and/or increase of their bioavailability by the crizotinib</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

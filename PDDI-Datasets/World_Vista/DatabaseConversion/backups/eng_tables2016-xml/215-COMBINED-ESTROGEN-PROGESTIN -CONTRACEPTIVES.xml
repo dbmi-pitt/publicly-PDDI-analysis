@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the estrogen-progestin or of the progestatif, with risk of lower contraceptive effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use another method of contraception, in particular a barrier type, during the treatment with the aprepitant and a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Except for the combination with ethinylestradiol (0.035 mg)/norethisterone (1mg), risk of decrease of the contraceptive effectiveness due to increase of the hepatic metabolism of the hormonal contraceptive by the boceprevir.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use an additional or alternative reliable contraceptive method during the length of the administration of these together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to increase of the hepatic metabolism of the hormonal contraceptive</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the length of time that the two substances are administered together and for a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of ethinylestradiol, with risk of lower contraceptive effectiveness. In addition, increase of the concentrations of the progestin </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a combined estrogen-progestin contraceptive with at least 30ug of ethinylestradiol</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="GRISEOFULVIN" rxcui="5021">
+<ATC code="D01BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to increase of its hepatic metabolism </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used during the time the two substances are administered together and a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Decrease of the contraceptive effectiveness, due to increase of the hepatic metabolism of the hormonal contraceptive by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used during the time the substances are administered together and a cycle after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to decrease of the concentrations of the hormonal contraceptive because of the increase of its hepatic metabolism by the ritonavir.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type (condom or IUD), should be used during the length of the treatment with these medications together and a cycle following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations and of the effectiveness of the lamotrigine due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-avoid starting an oral contraceptive during the period of adjustment of the dosage of the lamotrigine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the hormonal contraceptive, by reason of the enzymatic inducer effect of the St Johns Wort, with risk of reduction of effectiveness, even complete loss of the effect, of the contraceptive, which can possibly have serious consequences (pregnancy).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATON</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MODAFINIL" rxcui="30125">
+<ATC code="N06BA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness, during the treatment and one cycle after the end of the treatment with the modafinil, due to its enzymatic inducer potential</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use oral contraceptives with ethinylestradiol or another method of contraception </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RUFINAMIDE" rxcui="69036">
+<ATC code="N03AF03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate decrease of the concentrations of ethinylestradiol</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Another contraceptive method, in particular a barrier type, should be used. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness by increase of the hepatic metabolism of the hormonal contraceptive by the telaprevir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the time these are administered together and two cycles following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="38404" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For doses of topiramate &gt;=200 mg/day: Risk of decrease of the contraceptive effectiveness due to decrease of the concentrations of estrogen </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of antagonism of the effects of the progestin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Do not restart a treatment with estrogen-progestin contraceptives fewer than 12 days after stopping the ulipristal. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>215-COMBINED-ESTROGEN-PROGESTIN -CONTRACEPTIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the combined estrogen-progestin contraceptive with the consequence of a risk of ineffectiveness </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

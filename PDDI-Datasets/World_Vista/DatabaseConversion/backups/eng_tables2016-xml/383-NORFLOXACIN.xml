@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>383-NORFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NORFLOXACIN" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to decrease of the hepatic metabolism of the caffeine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>383-NORFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NORFLOXACIN" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de points. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>383-NORFLOXACIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NORFLOXACIN" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

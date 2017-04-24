@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AZITHROMYCIN" rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the cholesterol-lowering medication</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of the cholesterol-lowering medication or another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type, due to decrease of the hepatic metabolism of the atorvastatin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 20 mg/day of atorvastatin. If the therapeutic objective is not attained with this dosage, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the intestinal absorption of the cholesterol-lowering medication)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 10mg/day of atorvastatin. If the therapeutic objective is not reached at that dosage, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD05" />
+<ATC code="A02BD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to decrease of the hepatic metabolism of the cholesterol-lowering drug</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Administer weaker doses of cholesterol-lowering agent. If the therapeutic objective is not reached, use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to decrease of the hepatic metabolism of the cholesterol-lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of cholesterol-lowering agent or another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to decrease of the hepatic metabolism of the cholesterol-lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of cholesterol-lowering medication. If the therapeutic objective is not reached, use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use weaker doses of atorvastatin. If the therapeutic objective is not reached, use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the atorvastatin due to decrease of its hepatic metabolism by the therapy with the two drug combination</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the hypokaliemiant, with risk of undesirable effects, especially muscular ones</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the HMG-CoA reductase inhibitor)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to inhibition of the metabolism of the atorvastatin by the ranolazine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of cholesterol-lowering agent or another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of atorvastastatin, due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROXITHROMYCIN" rxcui="9478">
+<ATC code="J01FA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration dependant) of the rhabdomyolysis type</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of cholesterol lowering agent</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol-lowering medication)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose-dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol-lowering medication)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>80-ATORVASTATIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the cholesterol-lowering medication</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of cholesterol-lowering agent. If the therapeutic objective is not reached, use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

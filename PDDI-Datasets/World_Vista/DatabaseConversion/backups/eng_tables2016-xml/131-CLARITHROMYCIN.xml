@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of clarithyromycin and inhibition of the formation of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type, due to decrease of the hepatic metabolism of the cholesterol lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Administer weaker doses of the cholesterol lowering agent. If the therapeutic objective is not reached, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dexamethasone due to decrease of its hepatic metabolism by the enzymatic inhibitor, with risk of appearance of Cushing&#146;s syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with clarithromycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EBASTINE" rxcui="23796">
+<ATC code="R06AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias in predisposed subjects (congenital long QT syndrome)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the clarithromycin.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ETRAVIRINE" rxcui="475969">
+<ATC code="J05AG04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In the treatment of infections with Mycobacterium avium complex, risk of decrease of the effectiveness of the clarithromycin due to increase of its hepatic metabolism by the etravirine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FIDAXOMICIN" rxcui="1111103">
+<ATC code="A07AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fidaxomicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GLIBENCLAMIDE" rxcui="4815">
+<ATC code="A10BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GLIMEPIRIDE" rxcui="25789">
+<ATC code="A10BB12" />
+<ATC code="A10BD06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the absorption and of the plasma concentrations of the antidiabetic. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose, and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If it is possible, interrupt the macrolide. If administering these two together cannot be avoided, test of the QT before hand and monitor EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Very large increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If these are administered together, strict testing of the renal function, blood concentration dosage of the immunosuppressant, and possible adjustment of the dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the concentrations of the clarithromycin and of its active metabolite due to decrease of its hepatic metabolism by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of treatment. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LINEZOLIDE" rxcui="190376">
+<ATC code="J01XX08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the linezolide by the clarithromycin due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the medication tending to induce torsades de pointes. If administering these medications together cannot be avoided, testing of the QT before hand and EKG monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism with increase of sedation.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with the midazolam by mouth</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIZOLASTINE" rxcui="61455">
+<ATC code="R06AX25" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PRAVASTATIN" rxcui="42463">
+<ATC code="C10AA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentration of the pravastatin by the clarithromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring during the treatment with the antibiotic</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the plasma concentrations of the repaglinide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the hypoglycemic agent during the treatment with the clarithromycin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the rifabutin (uveitis) due to increase of its concentrations and those of its active metabolite by the clarithromycin. In addition, increase of the metabolism of the clarithromycin by the rifabutin, with increase of the concentrations of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the two medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and risk of lower effectiveness of the clarithromycin, especially with the HIV patient, due to increase of its hepatic metabolism by the rifampacin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (contentration-dependent) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the cholesterol lowering agent</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de points</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>Risk of hypoglycemia due to increase of the plasma concentrations of the antidiabetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient, reinforce self-monitoring of blood glucose and possibly adjust the dosage of the blood glucose lowering sulfonamide during the treatment with the clarithromycin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia, particularly with children</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>131-CLARITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the antimitotic due to decrease of its hepatic metabolism by the clarithromycin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring. Possibly, use another antibiotic. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

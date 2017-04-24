@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the amiodarone.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the amiodarone be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of afatinib due to increase of its metabolisn by these substances</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together and 1 to 2 weeks after they are stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the ciclosporin be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the erythromycin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the erythromycin be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the protease inhibiter.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the protease inhibitor be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the itraconazole.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the itraconazole be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the ketoconazole.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the ketoconazole be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PRIMIDONE " rxcui="8691">
+<ATC code="N03AA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the afatinib due to the increase of its metabolism by the primidone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these together and 1 to 2 weeks after they are stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the afatinib due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these together and 1 to 2 weeks after they are stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>15-AFATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib by increase of its absorption by the verapamil.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the verapamil be administered as great a distance from the afatanib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

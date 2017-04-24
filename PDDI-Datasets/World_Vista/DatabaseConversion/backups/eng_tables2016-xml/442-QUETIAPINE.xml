@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>442-QUETIAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of quetiapine due to increase of its hepatic metabolism by the inducer, with risk of ineffectiveness.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>442-QUETIAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUETIAPINE " rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Large increase of the concentrations of quetiapine, with risk of overdose</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>442-QUETIAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of quetiapine due to increase of its hepatic metabolism by the inducer, with risk of ineffectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>442-QUETIAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR " code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the quetiapine due to decrease of its hepatic metabolism by the ombitasvir+paritaprevir combination</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>442-QUETIAPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUETIAPINE" rxcui="51272">
+<ATC code="N05AH04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of quetiapine due to increase of its hepatic metabolism by the inducer, with risk of ineffectiveness.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

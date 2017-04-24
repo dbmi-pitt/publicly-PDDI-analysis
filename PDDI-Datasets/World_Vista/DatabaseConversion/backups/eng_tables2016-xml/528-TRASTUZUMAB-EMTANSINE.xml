@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>528-TRASTUZUMAB-EMTANSINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRASTUZUMAB EMTANSINE" rxcui="">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the DM1, a component of the trastuzumab emtansine, due to inhibition of its metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

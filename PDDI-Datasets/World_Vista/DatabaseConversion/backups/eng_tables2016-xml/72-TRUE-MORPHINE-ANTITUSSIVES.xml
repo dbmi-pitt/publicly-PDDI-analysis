@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-TRUE-MORPHINE-ANTITUSSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRUE MORPHINE ANTITUSSIVES" code="R0GDA0-002" /></DRUG1>
+<DRUG2>
+<CLASS name="AGONIST OPIOID ANALGESICS" code="N01A-N02A" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression which can be fatal in cases of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-TRUE-MORPHINE-ANTITUSSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRUE MORPHINE ANTITUSSIVES" code="R0GDA0-002" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="">
+<ATC code="6813" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression which can be fatal in case of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72-TRUE-MORPHINE-ANTITUSSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRUE MORPHINE ANTITUSSIVES" code="R0GDA0-002" /></DRUG1>
+<DRUG2>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the antalgic or antitussive effect of the opioid, due to competitive blocking of the receptors, with risk of appearance of a withdrawal syndrome</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>73</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ciclosporin " rxnorm="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+<DRUG name="Everolimus" rxnorm="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+<DRUG name="Sirolimus" rxnorm="35302">
+<ATC code="L04AA10" />
+</DRUG>
+<DRUG name="Tacrolimus " rxnorm="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+<DRUG name="Temsirolimus " rxnorm="657797">
+<ATC code="L01XE09" />
+</DRUG>
+</CLASS>

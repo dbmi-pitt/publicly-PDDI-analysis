@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>264-UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES)" code="B01AB-004" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>The combination of medications acting at different levels of hemostasis increases the risk of bleeding. Thus, with patients under the age of 65, adding preventive doses of heparin or similar substances to acetylsalicylic acid, regardless of the dosage, must be taken into account by maintaining clinical monitoring and possibly biological monitoring. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>264-UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES)" code="B01AB-004" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

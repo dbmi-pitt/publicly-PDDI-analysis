@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BILE ACIDS" code="A05AA-001" /></DRUG2>
+<DESCRIPTION>Risk of variation of the blood concentrations of ciclosporin </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib due to increase of its absorption by the ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the ciclosporin be administered as far from the afatinib as possible, preferably an interval of 6 to 12 hours away from the administration of the dose of afatinib. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09XA02" />
+<ATC code="C09XA52" />
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase by nearly 5 times the plasma concentrations of aliskiren and increase of the risk of its undesirable effects. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMBRISENTAN" rxcui="358274">
+<ATC code="C02KX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the concentrations of ambrisentan, with increase of the vasodilator effect (severe headaches )</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Larger increase of the creatinemia than with ciclosporin alone, with increase of the nephrotoxic risk </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of ciclosporin, due to decrease of its hepatic metabolism, with risk of nephrotoxic effects</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Blood concentration dosage of ciclosporin, testing of the renal function, and adjustment of the dosage of the ciclosporin during the treatment with the amiodarone</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="A01AB04" />
+<ATC code="A07AA07" />
+<ATC code="G01AA03" />
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered by IV route: greater increase of the creatinemia than with ciclosporin alone (synergy of the nephrotoxic effects of the two substances)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG2>
+<DESCRIPTION>With the ciclosporin administered orally:
+
+reduction of the blood concentrations of ciclosporin (decrease of its intestinal absorption).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase of the doses of ciclosporin according to testing of the plasma concentrations and reduction of the dosage after the treatment with the somatostatin analog is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Risk of addition of the nephrotoxic effects, especially with older patients.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor renal function at the beginning of the treatment with the NSAI.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the intestinal absorption of the cholesterol lowering medication)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 10mg/day of atorvastatin. If the therapeutic objective is not reached at that dosage, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AZITHROMYCIN " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the two substances together and after the macrolide is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOSENTAN" rxcui="75207">
+<ATC code="C02KX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the blood concentrations of the ciclosporin and increase of the plasma concentrations of bosentan</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CHLOROQUINE" rxcui="2393">
+<ATC code="P01BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the substances together and after the chloroquine is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+<ATC code="D10AF51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of the immunosuppressant with risk of loss of immunosuppressive activity</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce testing of the blood dosages of ciclosporin and possible increase of its dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the undesirable neuromuscular effects and increase of the toxicity of the colchicine with risk of overdose due to inhibition of its elimination by the ciclosporin, especially in cases of pre-existing renal insufficiency</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DABIGATRAN" rxcui="">
+<ATC code="1037042" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase by more than double of the plasma concentrations of dabigatran, with increase of the risk of bleeding</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of ciclosporin due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the substances together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG2>
+<DESCRIPTION>Risk of increase of the creatinemia without modification of the blood concentrations of the ciclosporin, even in the absence of fluid depletion. Also risk of hyperuricemia and of complications such as gout</DESCRIPTION>
+<SEVERITY>Tale into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the ciclosporin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EVEROLIMUS" rxcui="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the everolimus by the ciclosporin. The nephrotoxicity of the ciclosprorin is also increased when the two medications are administered together </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the everolimus, possibly adjustment of the dosage, and testing of the renal function during the administration of the two together and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EZETIMIBE" rxcui="341248">
+<ATC code="C10BA05" />
+<ATC code="C10AX09" />
+<ATC code="C10BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For one thing, increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type, due to increase of the concentrations of ezetimibe; for another thing, possible increase of the concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FENOFIBRATE" rxcui="8703">
+<ATC code="C10AB05" />
+<ATC code="C10BA03" />
+<ATC code="C10BA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the nephrotoxicity of the ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring of renal function during and after the administration of the two medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FIDAXOMICIN" rxcui="1111103">
+<ATC code="A07AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fidaxomicin. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of these medications together and after the macrolide is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LERCANIDIPINE" rxcui="135056">
+<ATC code="C09BB02" />
+<ATC code="C08CA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate increase of the blood concentrations of the immunosuppressant and larger increase of the concentrations of the lercanidipine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Separate the time when the two medications are taken. Blood concentration dosage of the immunosuppressant, and adjustment if necessary of its dosage during the administration of the medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA0" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the toxicity of the methotrexate and of the ciclosporin with increase of the creatinemia: reciprocal decrease of the clearances of the two medications</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of ciclosporin and of methotrexate. Adjustment of the dosage if necessary during the administration of the two together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHYLPREDNISOLONE" rxcui="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07CA02" />
+<ATC code="S01CA08" />
+<ATC code="H02BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the methylprednisolone administered by IV route: possible increase of the blood concentrations of ciclosporin and of the creatinemia. Mecanism proposed: decrease of the hepatic elimination of the ciclosporin</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDECAMYCIN" rxcui="30005">
+<ATC code="J01FA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the substances together and after the macrolide is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MODAFINIL" rxcui="30125">
+<ATC code="N06BA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the blood concentrations and of the effectiveness of the immunosuppressant</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NIFEDIPINE" rxcui="7417">
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects of the gum disorders type.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use another dihydropyridine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the nintedanib due to increase of its absorption by the ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of there substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin due to decrease of its intestinal absorption, with risk of loss of the immunosuppressive activity</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Take the orlistat at a different time form the ciclosporin (at least 3 hours apart). Reinforce testing of blood dosages of the ciclosporin, especially at the beginning of the administration of the medications together, and at the time of a possible increase in the dosage of the orlistat.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PITAVASTATIN" rxcui="861634">
+<ATC code="C10AA08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, or of nephrotoxicity, due to decrease of the metabolism of the pitavastatin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POTASSIUM" rxcui="8588">
+<ATC code="A12BA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid the administration of these two substances together unless there is pre-existing hypokalemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PREDNISOLONE" rxcui="8638">
+<ATC code="A07EA01" />
+<ATC code="C05AA04" />
+<ATC code="D07AA03" />
+<ATC code="D07XA02" />
+<ATC code="H02AB06" />
+<ATC code="R01AD02" />
+<ATC code="S01BA04" />
+<ATC code="S01CB02" />
+<ATC code="S02BA03" />
+<ATC code="S03BA02" />
+<ATC code="D07CA03" />
+<ATC code="S01CA02" />
+<ATC code="S02CA01" />
+<ATC code="S03CA02" />
+<ATC code="D07BA01" />
+<ATC code="S01BB02" />
+<ATC code="V03AB05" />
+<ATC code="A01AC54" />
+<ATC code="R01AD52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the prednisolone: characteristic Cushings appearance, reduction of tolerance of carbohydrates (decrease of clearance of the prednisolone)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double of the concentrations of the repaglinide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROSUVASTATIN" rxcui="301542">
+<ATC code="C10AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, or of nephrotoxicity, due to decrease of the metabolism of the rosuvastatin</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROXITHROMYCIN" rxcui="9478">
+<ATC code="J01FA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration with the macrolide and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolosis type due to decrease of the metabolism of the simvastatin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 10mg/day of simavastatin. If the therapeutic objective is not reached at this dosage, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIROLIMUS" rxcui="35302">
+<ATC code="L04AA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of sirolimus by the ciclosporin. The nephrotoxicity of the ciclosporin is also increased when the two medications are administered together</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the sirolimus be administered 4 hours after the cyclosporine. Testing of the renal function, during the administration of the two medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SULFINPYRAZONE" rxcui="10205">
+<ATC code="M04AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin due to increase of its metabolism by the sulfinpyrazone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Testing of blood concentrations of ciclosporin and possible adjustment of its dosage during the treatment with sulfinpyrazone and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENEFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of tenofovir alafenamide due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of administration with the ciclosporin, the dose of tenofovir alafenamide must be limited to 10 mg per day. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Testing of blood concentrations of ciclosporin and possible adjustment of its dosage during the treatment with terbinafine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TICLOPIDINE" rxcui="10594">
+<ATC code="B01AC05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increase of the dosage of the ciclosporin according to testing of the blood concentrations. Reduction of the dosage when the ticlodipine is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the trimethoprim (alone or in combination) by oral route: increase of the creatinemia with possible decrease of the blood concentrations of ciclosporin
+
+With the trimethoprim (alone or in combination) by IV route: the decrease of the blood concentrations of ciclosporin can be very large, with possible loss of immunosuppressant capacity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>125-CICLOSPORIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the ciclosporin (decrease of its hepatic metabolism), and increase of the risk of gum disorders</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of the renal function, and adjustment of the dosage during the administration of the medications together and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

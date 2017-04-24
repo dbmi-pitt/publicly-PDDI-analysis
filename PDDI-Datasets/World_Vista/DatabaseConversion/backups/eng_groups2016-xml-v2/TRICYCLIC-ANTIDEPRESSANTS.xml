@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>145</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Amoxapine" rxnorm="722">
+<ATC code="N06AA17" />
+</DRUG>
+<DRUG name="Clomipramine" rxnorm="2597">
+<ATC code="N06AA04" />
+</DRUG>
+<DRUG name="Dosulepin" rxnorm="3634">
+<ATC code="N06AA16" />
+</DRUG>
+<DRUG name="Doxepin" rxnorm="3638">
+<ATC code="N06AA12" />
+</DRUG>
+<DRUG name="Imipramine" rxnorm="5691">
+<ATC code="N06AA02" />
+</DRUG>
+<DRUG name="Maprotiline" rxnorm="6646">
+<ATC code="N06AA21" />
+</DRUG>
+<DRUG name="Trimipramine" rxnorm="10834">
+<ATC code="N06AA06" />
+</DRUG>
+</CLASS>

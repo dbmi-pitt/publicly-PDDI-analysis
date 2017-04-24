@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>485-SUBSTRATES-AT-RISK-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG1>
+<DRUG2>
+<DRUG name="CRIZOTINIB" rxcui="1148495">
+<ATC code="L01XE16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of these molecules due to decrease of their metabolism and/or increase of their bioavailability by the crizotinib</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>485-SUBSTRATES-AT-RISK-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG1>
+<DRUG2>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the substrate due to decrease of its hepatic metabolism by the idealisib</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>485-SUBSTRATES-AT-RISK-OF-CYP3A4.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects particular to each substrate, with frequently severe consequences</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

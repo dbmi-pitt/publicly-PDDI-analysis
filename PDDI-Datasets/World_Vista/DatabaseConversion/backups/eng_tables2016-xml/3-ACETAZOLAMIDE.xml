@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>3-ACETAZOLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="">
+<ATC code="1191" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects, and especially of metabolic acidosis, of the acetylsalicylic acid in large doses and of the acetazolamide, due to decrease of the elimination of the acetylsalicylic acid by the acetazolamide</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>3-ACETAZOLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, testing of the plasma concentrations of carbamazepine and possible reduction of its dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>3-ACETAZOLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>3-ACETAZOLAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with incresed risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

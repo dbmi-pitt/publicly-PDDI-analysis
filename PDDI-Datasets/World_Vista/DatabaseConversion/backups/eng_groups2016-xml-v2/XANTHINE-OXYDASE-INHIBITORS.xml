@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>161</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Allopurinol" rxnorm="519">
+<ATC code="M04AA01" />
+</DRUG>
+<DRUG name="Febuxostat" rxnorm="73689">
+<ATC code="M04AA03" />
+</DRUG>
+</CLASS>

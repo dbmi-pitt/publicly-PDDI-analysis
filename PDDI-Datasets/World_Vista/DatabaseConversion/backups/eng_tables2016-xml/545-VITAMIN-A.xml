@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>545-VITAMIN-A.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VITAMIN A" rxcui="11246">
+<ATC code="A11C" />
+<ATC code="A11CA" />
+<ATC code="A11CA01" />
+<ATC code="A11CA02" />
+<ATC code="A11CB" />
+<ATC code="V04CB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
+<DESCRIPTION>In case of intake of 10,000 IU/day and more: risk of intracranial hypertension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>545-VITAMIN-A.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VITAMIN A" rxcui="11246">
+<ATC code="A11C" />
+<ATC code="A11CA" />
+<ATC code="A11CA01" />
+<ATC code="A11CA02" />
+<ATC code="A11CB" />
+<ATC code="V04CB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RETINOIDS" code="D05-D10" /></DRUG2>
+<DESCRIPTION>Risk of symptoms evocative of hypervitaminosis A</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

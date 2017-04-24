@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MEDICATIONS THAT LOWER BLOOD PRESSURE 
+" code="MABT">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>88</SOURCE_FILE>
+</SOURCE>
+<DRUG name="acebutolol 
+" rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="aliskiren
+" rxnorm="325646">
+<ATC code="C09XA02" />
+</DRUG>
+<DRUG name="altizide
+" rxnorm="17599">
+<ATC code="C03EA04" />
+</DRUG>
+<DRUG name="amiloride
+" rxnorm="644">
+<ATC code="C03DB01" />
+</DRUG>
+<DRUG name="amlodipine
+" rxnorm="17767">
+<ATC code="C08CA01" />
+</DRUG>
+<DRUG name="atenolol
+" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="azilsartan
+" rxnorm="1091643">
+<ATC code="C09CA09" />
+</DRUG>
+<DRUG name="benazepril
+" rxnorm="18867">
+<ATC code="C09AA07" />
+</DRUG>
+<DRUG name="bendroflumethiazide
+" rxnorm="1369">
+<ATC code="C03AA01" />
+</DRUG>
+<DRUG name="betaxolol
+" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="bisoprolol
+" rxnorm="19484">
+<ATC code="C07AB07" />
+</DRUG>
+<DRUG name="bumetanide
+" rxnorm="1808">
+<ATC code="C03CA02" />
+</DRUG>
+<DRUG name="candesartan cilexetil
+" rxnorm="214354">
+<ATC code="C09CA06" />
+</DRUG>
+<DRUG name="potassium canrenoate
+" rxnorm="1981">
+<ATC code="C03DA02" />
+</DRUG>
+<DRUG name="captopril
+" rxnorm="1998">
+<ATC code="C09AA01" />
+</DRUG>
+<DRUG name="carteolol
+" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="carvedilol
+" rxnorm="20352">
+<ATC code="C07AG02" />
+</DRUG>
+<DRUG name="celiprolol
+" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="chlortalidone
+" rxnorm="">
+<ATC code="C03BA04" />
+</DRUG>
+<DRUG name="cicletanine
+" rxnorm="21914">
+<ATC code="C03BX03" />
+</DRUG>
+<DRUG name="cilazapril
+" rxnorm="21102">
+<ATC code="C09AA08" />
+</DRUG>
+<DRUG name="clevidipine
+" rxnorm="233603">
+<ATC code="C08CA16" />
+</DRUG>
+<DRUG name="clonidine
+" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+</DRUG>
+<DRUG name="clopamide
+" rxnorm="2603">
+<ATC code="C03BA03" />
+</DRUG>
+<DRUG name="cyclothiazide
+" rxnorm="22033">
+<ATC code="C03AA09" />
+</DRUG>
+<DRUG name="dihydralazine
+" rxnorm="3409">
+<ATC code="C02DB01" />
+</DRUG>
+<DRUG name="diltiazem
+" rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="doxazosine
+" rxnorm="49276">
+<ATC code="C02CA04" />
+</DRUG>
+<DRUG name="enalapril
+" rxnorm="3827">
+<ATC code="C09AA02" />
+</DRUG>
+<DRUG name="eplerenone
+" rxnorm="298869">
+<ATC code="C03DA04" />
+</DRUG>
+<DRUG name="eprosartan
+" rxnorm="83515">
+<ATC code="C09CA02" />
+</DRUG>
+<DRUG name="felodipine 
+" rxnorm="4316">
+<ATC code="C08CA02" />
+</DRUG>
+<DRUG name="fosinopril
+" rxnorm="50166">
+<ATC code="C09AA09" />
+</DRUG>
+<DRUG name="furosemide
+" rxnorm="460">
+<ATC code="C03CA01" />
+</DRUG>
+<DRUG name="anfacine
+" rxnorm="40114">
+<ATC code="C02AC02" />
+</DRUG>
+<DRUG name="hydrochlorothiazide
+" rxnorm="5487">
+<ATC code="C03AA03" />
+</DRUG>
+<DRUG name="indapamide
+" rxnorm="5764">
+<ATC code="C03BA11" />
+</DRUG>
+<DRUG name="irbesartan
+" rxnorm="83818">
+<ATC code="C09CA04" />
+</DRUG>
+<DRUG name="isradipine 
+" rxnorm="33910">
+<ATC code="C08CA03" />
+</DRUG>
+<DRUG name="labetalol
+" rxnorm="6185">
+<ATC code="C07AG01" />
+</DRUG>
+<DRUG name="lacidipine 
+" rxnorm="28382">
+<ATC code="C08CA09" />
+</DRUG>
+<DRUG name="lercanidipine
+" rxnorm="135056">
+<ATC code="C08CA13" />
+</DRUG>
+<DRUG name="levobunolol
+" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="lisinopril
+" rxnorm="29046">
+<ATC code="C09AA03" />
+</DRUG>
+<DRUG name="losartan
+" rxnorm="52175">
+<ATC code="C09CA01" />
+</DRUG>
+<DRUG name="manidipine 
+" rxnorm="29275">
+<ATC code="C08CA11" />
+</DRUG>
+<DRUG name="methyclothiazide
+" rxnorm="6860">
+<ATC code="C03AA08" />
+</DRUG>
+<DRUG name="methyldopa
+" rxnorm="6876">
+<ATC code="C02AB" />
+</DRUG>
+<DRUG name="metoprolol 
+" rxnorm="6918">
+<ATC code="C07AB02" />
+</DRUG>
+<DRUG name="moexipril
+" rxnorm="30131">
+<ATC code="C09AA13" />
+</DRUG>
+<DRUG name="moxonidine
+" rxnorm="30257">
+<ATC code="C02AC05" />
+</DRUG>
+<DRUG name="nadolol
+" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="nebivolol
+" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="nicardipine
+" rxnorm="7396">
+<ATC code="C08CA04" />
+</DRUG>
+<DRUG name="nifedipine 
+" rxnorm="7417">
+<ATC code="C08CA05" />
+</DRUG>
+<DRUG name="nimodipine
+" rxnorm="7426">
+<ATC code="C08CA06" />
+</DRUG>
+<DRUG name="nitrendipine 
+" rxnorm="7441">
+<ATC code="C08CA08" />
+</DRUG>
+<DRUG name="olmesartan
+" rxnorm="321064">
+<ATC code="as" />
+<ATC code="olmesartan" />
+<ATC code="medoxomil" />
+<ATC code="C09CA08" />
+</DRUG>
+<DRUG name="perindopril tert-butylamine
+" rxnorm="54552">
+<ATC code="C09AA04" />
+</DRUG>
+<DRUG name="pindolol
+" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="piretanide 
+" rxnorm="33770">
+<ATC code="C03CA03" />
+</DRUG>
+<DRUG name="prazosine
+" rxnorm="8629">
+<ATC code="C02CA01" />
+</DRUG>
+<DRUG name="propranolol 
+" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="quinapril
+" rxnorm="35208">
+<ATC code="C09AA06" />
+</DRUG>
+<DRUG name="amipril
+" rxnorm="35296">
+<ATC code="C09AA05" />
+</DRUG>
+<DRUG name="ilmenidine
+" rxnorm="55679">
+<ATC code="C02AC06" />
+</DRUG>
+<DRUG name="sotalol
+" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="spironolactone
+" rxnorm="9997">
+<ATC code="C03DA01" />
+</DRUG>
+<DRUG name="tamsulosine
+" rxnorm="77492">
+<ATC code="G04CA02" />
+</DRUG>
+<DRUG name="telmisartan
+" rxnorm="73494">
+<ATC code="C09CA07" />
+</DRUG>
+<DRUG name="terazosine
+" rxnorm="37798">
+<ATC code="G04CA03" />
+</DRUG>
+<DRUG name="tertatolol 
+" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="timolol 
+" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+<DRUG name="trandolapril
+" rxnorm="38454">
+<ATC code="C09AA10" />
+</DRUG>
+<DRUG name="triamterene
+" rxnorm="10763">
+<ATC code="C03DB02" />
+</DRUG>
+<DRUG name="apidil
+" rxnorm="3923">
+<ATC code="C02CA06" />
+</DRUG>
+<DRUG name="valsartan
+" rxnorm="69749">
+<ATC code="C09CA03" />
+</DRUG>
+<DRUG name="verapamil
+" rxnorm="11170">
+<ATC code="C08DA01" />
+</DRUG>
+<DRUG name="vortioxetine
+" rxnorm="1455099">
+<ATC code="N06AX26" />
+</DRUG>
+<DRUG name="zofenopril
+" rxnorm="39990">
+<ATC code="C09AA15" />
+</DRUG>
+</CLASS>

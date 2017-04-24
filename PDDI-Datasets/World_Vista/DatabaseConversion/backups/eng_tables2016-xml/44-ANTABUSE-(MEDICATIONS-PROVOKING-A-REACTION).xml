@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>44-ANTABUSE-(MEDICATIONS-PROVOKING-A-REACTION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTABUSE (REACTION)" code="123-ANT" /></DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL " >
+<ATC code="DRINK" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Antabuse effect (heat, redness, vomiting, tachycardia)
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol. Take into account the complete elimination of the medications by referring to their half-life before re-starting alcoholic beverages or medications containing alcohol. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

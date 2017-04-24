@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>277-IFOSFAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IFOSFAMIDE" rxcui="5657">
+<ATC code="L01AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="APREPITANT" rxcui="358255">
+<ATC code="A04AD12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the neurotoxicity of the ifosfamide</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>277-IFOSFAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IFOSFAMIDE" rxcui="5657">
+<ATC code="L01AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the neurotoxicity of the ifosfamide due to increase of its hepatic metabolism by the phenobarbital</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>277-IFOSFAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IFOSFAMIDE" rxcui="5657">
+<ATC code="L01AA06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the ifosfamide, with increase of its active metabolite and increased toxicity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

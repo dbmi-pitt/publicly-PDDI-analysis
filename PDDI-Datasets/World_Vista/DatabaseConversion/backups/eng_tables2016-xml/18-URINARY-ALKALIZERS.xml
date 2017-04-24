@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>18-URINARY-ALKALIZERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="URINARY ALKALIZERS" code="B05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HYDROQUINIDINE" rxcui="27220">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the hydroquinidine and risk of overdose (decrease of the renal excretion of the hydroquinidine by alkalinizing of the urine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly testing of the concentrations of the hydroquinidine; if needed, adjustment of the dosage during the alkalinizing treatment and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>18-URINARY-ALKALIZERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="URINARY ALKALIZERS" code="B05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the quinidine and risk of overdose (decrease of the renal excretion of the quinidine by alkalinizing of the urine).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly testing of the concentrations of quinidine; if needed, adjustment of the dosage during the alkalinizing treatment and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

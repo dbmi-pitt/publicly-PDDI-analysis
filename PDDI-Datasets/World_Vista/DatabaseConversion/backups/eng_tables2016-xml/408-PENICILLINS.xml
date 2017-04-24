@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>408-PENICILLINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PENICILLINS" code="J01C" /></DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects and of the hematological toxicity of the methothrexate: inhibition of the renal tubular secretion of the methotrexate by the penicillins</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

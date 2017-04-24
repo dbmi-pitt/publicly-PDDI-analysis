@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="VINCA ALKALOIDS" code="L01CA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>158</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Vinblastine" rxnorm="11198">
+<ATC code="L01CA01" />
+</DRUG>
+<DRUG name="Vincristine" rxnorm="11202">
+<ATC code="L01CA02" />
+</DRUG>
+<DRUG name="Vindesine" rxnorm="11204">
+<ATC code="L01CA03" />
+</DRUG>
+<DRUG name="Vinflunine" rxnorm="194315">
+<ATC code="L01CA05" />
+</DRUG>
+<DRUG name="Vinorelbine" rxnorm="39541">
+<ATC code="L01CA04" />
+</DRUG>
+</CLASS>

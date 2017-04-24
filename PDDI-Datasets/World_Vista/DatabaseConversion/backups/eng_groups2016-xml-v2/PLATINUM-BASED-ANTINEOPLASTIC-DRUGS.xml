@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="ORGAPLA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>120</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Carboplatin" rxnorm="40048">
+<ATC code="L01XA02" />
+</DRUG>
+<DRUG name="Cisplatin" rxnorm="2555">
+<ATC code="L01XA01" />
+</DRUG>
+<DRUG name="Oxaliplatin" rxnorm="32592">
+<ATC code="L01XA03" />
+</DRUG>
+</CLASS>

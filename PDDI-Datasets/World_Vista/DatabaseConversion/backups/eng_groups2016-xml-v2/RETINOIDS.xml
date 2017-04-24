@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="RETINOIDS" code="D05-D10">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>126</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acitretin " rxnorm="16818">
+<ATC code="D05BB02" />
+</DRUG>
+<DRUG name="Alitretinoin" rxnorm="81864">
+<ATC code="D11AH04" />
+<ATC code="L01XX22" />
+</DRUG>
+<DRUG name="Isotretinoin" rxnorm="6064">
+<ATC code="D10AD04" />
+<ATC code="D10BA01" />
+</DRUG>
+<DRUG name="Tretinoin" rxnorm="10753">
+<ATC code="D10AD01" />
+<ATC code="L01XX14" />
+</DRUG>
+</CLASS>

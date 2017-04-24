@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="LINCOSANIDES" code="J01FF0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>79</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Clindamycin" rxnorm="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+</DRUG>
+<DRUG name="Lincomycin" rxnorm="6398">
+<ATC code="J01FF02" />
+</DRUG>
+</CLASS>

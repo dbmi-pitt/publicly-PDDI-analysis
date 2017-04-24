@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>516-TIABENDAZOLE .html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TIABENDAZOLE" rxcui="10450">
+<ATC code="D01AC06" />
+<ATC code="P02CA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose, due to decrease of the hepatic metabolism of the theophylline</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment (and after it is stopped, in the case where the anthelmintic is prescribed for a period exceeding 48 hours).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

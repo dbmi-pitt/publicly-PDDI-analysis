@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BACLOFEN" rxcui="1292">
+<ATC code="M03BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of aggravation of the Parkinsonian syndrome or of undesirable central effects (visual hallucinations, confusion, headaches)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the levodopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the levodopa (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of orthostatic hypotension 
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the levodopa but equally of its undesirable effects. Increase of the antihypertensive effect of the methyldopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly decrease of the doses of levodopa.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTIEMITIC NEUROLEPTICS" code="A03FA-001" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the levodopa and the neuroleptic 
+
+</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Use an antiemitic without extrapyramidal effects.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the levodopa and the neuroleptics</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>With a parkinsons patient, use the minimum effective dosees of each of the two medications. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RESERPINE" rxcui="9260">
+<ATC code="C02AA02" />
+<ATC code="C02LA01" />
+<ATC code="C02LA51" />
+<ATC code="C02LA71" />
+<ATC code="C02AA52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Inhibition of the effects of the levodopa</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SPIRAMYCIN" rxcui="9991">
+<ATC code="J01RA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>When administered with the carbidopa: inhibition of the absorption of the carbidopa with decrease of the plasma concentrations of the levodopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the levodopa. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>314-LEVODOPA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TETRABENAZINE" rxcui="10390">
+<ATC code="N07XX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the levodopa and the tetrabenazine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

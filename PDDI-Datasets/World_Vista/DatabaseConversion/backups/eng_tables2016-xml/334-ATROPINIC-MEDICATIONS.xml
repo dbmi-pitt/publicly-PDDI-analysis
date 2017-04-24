@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>334-ATROPINIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATROPINIC MEDICATIONS" code="R06AA" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER ATROPINIC MEDICATIONS" code="R06AA" /></DRUG2>
+<DESCRIPTION>Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth &#133;</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

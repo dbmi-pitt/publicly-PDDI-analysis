@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MEDICATIONS AT THE ORIGIN OF A SEROTONIN SYNDROME" code="OSEROSYN">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>86</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Methylene blue or Methylthioninium chloride" rxnorm="6878">
+<ATC code="V03AB17" />
+<ATC code="V04CG05" />
+</DRUG>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Clomipramine" rxnorm="2597">
+<ATC code="N06AA04" />
+</DRUG>
+<DRUG name="Duloxetine" rxnorm="72625">
+<ATC code="N06AX21" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Fluoxetine" rxnorm="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+<DRUG name="Fluvoxamine" rxnorm="42355">
+<ATC code="N06AB08" />
+</DRUG>
+<DRUG name="Imipramine" rxnorm="5691">
+<ATC code="N06AA02" />
+</DRUG>
+<DRUG name="Iproniazide" rxnorm="1431471">
+<ATC code="N06AF05" />
+</DRUG>
+<DRUG name="Linezolide" rxnorm="190376">
+<ATC code="J01XX08" />
+</DRUG>
+<DRUG name="Lithium " rxnorm="6448">
+<ATC code="D11AX04" />
+</DRUG>
+<DRUG name="St Johns Wort " rxnorm="258326">
+</DRUG>
+<DRUG name="Milnacipran" rxnorm="588250">
+<ATC code="N06AX17" />
+</DRUG>
+<DRUG name="Moclobemide" rxnorm="30121">
+<ATC code="N06AG02" />
+</DRUG>
+<DRUG name="Oxitriptan" rxnorm="94">
+<ATC code="N06AX01" />
+</DRUG>
+<DRUG name="Paroxetine" rxnorm="32937">
+<ATC code="N06AB05" />
+</DRUG>
+<DRUG name="Pethidine " rxnorm="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AG03" />
+</DRUG>
+<DRUG name="Sertraline" rxnorm="36437">
+<ATC code="N06AB06" />
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+</DRUG>
+<DRUG name="Trimipramine" rxnorm="10834">
+<ATC code="N06AA06" />
+</DRUG>
+<DRUG name="Venlafaxine" rxnorm="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>172-DEXTRAN-40.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEXTRAN 40" rxcui="42635">
+<ATC code="B05AA05" />
+<ATC code="B03AC06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="LOW MOLECULAR WEIGHT HEPARINS AND RELATED DRUGS (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage (inhibition of the platelet function by the dextran 40)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>172-DEXTRAN-40.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEXTRAN 40" rxcui="42635">
+<ATC code="B05AA05" />
+<ATC code="B03AC06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="UNFRACTIONATED HEPARIN (CURATIVE DOSES AND/OR OLDER PATIENT)" code="B01AB-003" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage (inhibition of the platelet function by the dextran 40)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

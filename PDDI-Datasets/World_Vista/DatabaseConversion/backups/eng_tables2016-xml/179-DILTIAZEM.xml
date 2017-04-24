@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALFENTANIL " rxcui="480">
+<ATC code="N01AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#39;s effect of respiratory depression due to decrease of its hepatic metabolism
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of the alfentanil when there is treatment with the diltiazem. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For diltiazem by injection: risk of bradycardia and of atrioventricular block
+
+For diltiazem by mouth: risk of bradycardia or of atrioventricular block, especially in older persons.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with diltiazem administered intravenously</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type due to decrease of the hepatic metabolism of the cholesterol lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of the cholesterol lowering agent or another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and cardiac failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>The administration of these medications together should only be done under strict clinical monitoring and EKG, in particular with older patients or at the beginning of treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Negative inotropic effect with risk of acute decompensated heart failure, disorders of autoregulation (bradycardia, sinus arrest), and disorders of sinoatrial and atrioventricular conduction</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the buspirone due to decrease of its hepatic metabolism by the diltiazem, with increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buspirone if necessary.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLONIDINE" rxcui="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+<ATC code="C02LC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (disorders of atrioventricular conduction due to addition of the negative effects on conduction)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DANTROLENE" rxcui="3105">
+<ATC code="M03CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dantrolene administered by IV: with animals, fatal cases of ventricular fibrillations are constantly observed when verapamil and dantrolene are administered by IV route. The administration of a calcium channel blocker and dantolene together is thus potentially dangerous. However, some patients have received nifedipine and dantolene together without incident</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of bradycardia or of atrioventricular block, especially with older patients. Furthermore, slight increase of the concentrations of dronedarone due to decrease of its metabolism by the calcium channel blocker</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Begin the treatment with the calcium channel blocker at the minimum recommended dosages and adjust the doses according to the EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+<ATC code="N02CA51" />
+<ATC code="N02CA52" />
+<ATC code="N02CA72" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ESMOLOL" rxcui="49737">
+<ATC code="C07AB09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Disorders of autoregulation (excessive bradycardia, sinus arrest), disorders of sinoatrial and atrioventricular conduction, and cardiac arrest.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-in case of alteration of left ventricular function</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IBRUTINIB" rxcui="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of ibrutinib due to decrease of its hepatic metabolism by the diltiazem</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and reduction of the dose of ibrutinib to 140 mg/day during the length of time that these medications are administered together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant due to decrease of its metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of renal function, and adjustment of the dosage during the treatment with these medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ivabradine and of its undesirable effects, especially cardiac ones (inhibition of its hepatic metabolism by the diltiazem), that add to the bradycardia inducing effects of these molecules. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage during the treatment with the diltiazem</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NIFEDIPINE" rxcui="7417">
+<ATC code="C08CA05" />
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of nefidipine due to decrease of its hepatic metabolism by the diltiazem, with risk of severe hypotension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OLAPARIB" rxcui="">
+<ATC code="1597582" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of olaparib by the diltiazem</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, limit the dose of olaparib to 200 mg twice a day.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the cholesterol lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 20 mg/day of simvastatin. If the therapeutic objective is not reached at this dosage, use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TAMSULOSINE" rxcui="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the tamsulosine, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the tamsulosine during the treatment with the enzymatic inhibitor and after it is stopped, if the situation requires.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>179-DILTIAZEM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of ticagrelor due to decrease of its hepatic metabolsim</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

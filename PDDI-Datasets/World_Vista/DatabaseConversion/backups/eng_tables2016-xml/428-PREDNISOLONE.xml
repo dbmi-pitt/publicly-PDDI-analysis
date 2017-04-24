@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>428-PREDNISOLONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PREDNISOLONE" rxcui="8638">
+<ATC code="A07EA01" />
+<ATC code="C05AA04" />
+<ATC code="D07AA03" />
+<ATC code="D07XA02" />
+<ATC code="H02AB06" />
+<ATC code="R01AD02" />
+<ATC code="S01BA04" />
+<ATC code="S01CB02" />
+<ATC code="S02BA03" />
+<ATC code="S03BA02" />
+<ATC code="D07CA03" />
+<ATC code="S01CA02" />
+<ATC code="S02CA01" />
+<ATC code="S03CA02" />
+<ATC code="D07BA01" />
+<ATC code="S01BB02" />
+<ATC code="V03AB05" />
+<ATC code="A01AC54" />
+<ATC code="R01AD52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the prednisolone: characteristic Cushing&#146;s appearance, reduction of tolerance of carbohydrates (decrease of the clearance of the prednisolone)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

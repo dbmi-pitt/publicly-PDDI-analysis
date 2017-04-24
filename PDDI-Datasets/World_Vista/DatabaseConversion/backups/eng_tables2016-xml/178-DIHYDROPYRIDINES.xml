@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>178-DIHYDROPYRIDINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>Hypotension, heart failure with patients having latent or uncontrolled cardiac insufficiency (addition of the negative inotropic effects). The beta blocking agent can furthermore minimize the sympathetic reflex reaction brought into play in the case of excessive hemodynamic repercussion</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>178-DIHYDROPYRIDINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Hypotension, heart failure in patients with latent or uncontrolled cardiac insufficiency (negative inotropic effect of the dihydropyridines in vitro, more or less marked, and susceptible of adding to the negative inotropic effects of the beta blocking agents). The presence of a beta-blocking treatment can furthermore minimize the sympathetic reflex reaction put into play in cases of excessive hemodynamic repercussion. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>178-DIHYDROPYRIDINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DANTROLENE" rxcui="3105">
+<ATC code="M03CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dantrolene administered via IV: with animals, fatal cases of ventricular fibrillations are constantly observed when verapamil and dantrolene are administered via IV route. The administration of a calcium channel blocker and dantrolene together is thus potentially dangerous. However, some patients have received nifedipine and dantrolene together without incident.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

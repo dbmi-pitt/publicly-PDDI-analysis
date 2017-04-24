@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>517-TIAGABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TIAGABINE" rxcui="31914">
+<ATC code="N03AG06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tiagabine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>An increase of the dosage of the tiagabine can prove necessary in cases when it is administered with an anticonvulsant enzymatic inducer.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>517-TIAGABINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TIAGABINE" rxcui="31914">
+<ATC code="N03AG06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the tiagabine due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>An increase of the dosage of the tiagabine can prove necessary in cases when it is administered with the rifampicin.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

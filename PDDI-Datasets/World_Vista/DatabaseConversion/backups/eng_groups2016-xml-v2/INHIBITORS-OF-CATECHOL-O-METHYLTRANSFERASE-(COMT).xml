@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="INHIBITORS OF CATECHOL-O-METHYLTRANSFERASE (COMT)" code="catomet">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>75</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Entacapone" rxnorm="60307">
+<ATC code="N04BX02" />
+</DRUG>
+<DRUG name="Tolcapone" rxnorm="72937">
+<ATC code="N04BX01" />
+</DRUG>
+</CLASS>

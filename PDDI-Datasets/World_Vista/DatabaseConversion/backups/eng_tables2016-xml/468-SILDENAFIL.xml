@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>468-SILDENAFIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SILDENAFIL" rxcui="136411">
+<ATC code="G04BE03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of sildenafil, with risk of hypotension</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Start the treatment with sildenafil at the minimum dose when it is administered with the josamycin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>468-SILDENAFIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SILDENAFIL" rxcui="136411">
+<ATC code="G04BE03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPREVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of he plasma concentrations of the sildenafil due to decrease of its hepatic metabolism by the therapy with the ombitasvir+paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="FUSIDIC ACID" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Stop the treatment with the HMG Co-A reductase inhibitor before starting a treatment with fusidic acid or use another antibiotic</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable muscular effects of these substances, and especially of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, especially at the beginning of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="DAPTOMYCIN" rxcui="22299">
+<ATC code="J01XX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of the undesirable effects (dose dependent) of the rhabdomyolysis type.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these medications together cannot be avoided, reinforce biological monitoring (dosage of the CPK more than once a week) and strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ELTROMBOPAG" rxcui="711942">
+<ATC code="B02BX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the statins, due to inhibition of their hepatic recapture</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the statin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects (dose-dependent) of the rhabdomyolosis type. Furthermore, with the gemfibrozil, decrease of the metabolism of the simvastatin and of the rosuvastatin, which increases the muscular risk, as well as the nephrotoxicity of the rosuvastatin</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--for doses of 40mg of rosuvastatin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the statin and of its undesirable effects of the rhabdomyolosis type.</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with the rosuvastatin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>289-HMG-COA REDUCTASE INHIBITORS (STATINS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG1>
+<DRUG2>
+<DRUG name="LENALIDOMIDE" rxcui="342369">
+<ATC code="L04AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of the appearance of rhabdomyolysis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce clinical and biological monitoring, especially during the first weeks of treatment.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

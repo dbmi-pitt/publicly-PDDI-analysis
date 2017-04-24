@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate decrease of the plasma concentrations of atovaquone by the enzymatic inducer</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the rifabutin (uveitis) due to increase of its concentrations and of those of its active metabolite by the clarithromycin. In addition, increase of the metabolism of the clarithromycin by the rifabutin, with increase of the concentrations of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the two medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large increase of the metabolite of the rifabutin, with risk of increase of its toxicity (uveitis, neutropenia). Furthermore, possible decrease of the concentrations of cobicistat</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjustment of the dosage of the rifabutin (in principle, reduction of the doses by half). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="EFAVIRENZ" rxcui="195085">
+<ATC code="J05AR06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease by about half of the concentrations of rifabutin, due to increase of its hepatic metabolism by the efavirenz</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjustment of the dosage of the rifabutin during the treatment with efavirenz.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ELVITEGRAVIR" rxcui="1306286">
+<ATC code="J05AR09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the minimal concentrations of elvitegravir</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the rifabutin (uveitis), due to increase of its concentrations and of those of its active metabolite</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the treatment with the two medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Described for phenytoin, rifampicin, and carbamazepine. Risk of clinical hypothyroidism in patients with low thyroid, due to increase of the metabolism of the T3 and T4</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of serum concentrations of T3 and of T4 and adjustment, if needed, of the dosage of the thyroid hormones during the treatment with rifabutin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the protease inhibitor (even more so when the dosage of the rifabutin is large) for one thing, and risk of increase of the undesirable effects (uveitis) of the rifabutin for another. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the rifabutin (uveitis), due to increase of its concentrations and of those of its active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>455-RIFABUTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the voriconazole with risk of loss of effectiveness, due to increase of its hepatic metabolism by the rifabutin for one thing; and risk of increase of the undesirable effects (uveitis) of the rifabutin for another</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the administration of these substances together is judged necessary, clinical monitoring and adjustment of the dosage of the voriconazole (generally doubled) during the treatment with the rifabutin. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

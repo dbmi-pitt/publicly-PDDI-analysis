@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>452-CHELATING RESINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CHELATING RESINS" code="C10-V0" /></DRUG1>
+<DRUG2>
+<DRUG name="MEDICATIONS ADMINISTERED BY ORAL ROUTE" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Taking chelating resins can decrease the intestinal absorption and, potentially, the effectiveness of other medications taken simultaneously</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>As a general rule, the doses of the resin should be taken at a different time from that of other medications, at an interval of more than 2 hours apart, if possible</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>452-CHELATING RESINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CHELATING RESINS" code="C10-V0" /></DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the thyroid hormones </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the thyroid hormones at a different time from the resin (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

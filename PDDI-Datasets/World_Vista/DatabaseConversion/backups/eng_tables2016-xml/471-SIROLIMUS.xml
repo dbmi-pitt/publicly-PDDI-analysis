@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>471-SIROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SIROLIMUS" rxcui="35302">
+<ATC code="L04AA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of sirolimus by the ciclosporin. The nephrotoxicity of the ciclosporin is also increased when the two medications are administered together </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the sirolimus be administered 4 hours after the cyclosporine. Testing of the renal function, during the administration of the two medications together and after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>471-SIROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SIROLIMUS" rxcui="35302">
+<ATC code="L04AA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the sirolimus (decrease of its hepatic metabolism by the verapamil)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of the renal function, and adjustment of the dosage during the administration of the medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

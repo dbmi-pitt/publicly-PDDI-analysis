@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the antimitotic due to decrease of its hepatic metabolism by the clarithromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring. Possibly, use another antibiotic. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="COBICISTAT" rxcui="1306284">
+<ATC code="V03AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the neurotoxicity of the antimitotic due to decrease of its hepatic metabolism by the cobicistat</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and possible adjustment of the dosage of the antimitotic. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the antimitotic due to decrease of its hepatic metabolism by the erythromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring. Possibly, use another antibiotic.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the toxicity of the antimitotic, due to decrease of its hepatic metabolism by the protease inhibitor. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and possible adjustment of the dosage of the antimitotic.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the neurotoxicity of the antimitotic, due to decrease of its hepatic metabolism by the itraconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the neurotoxicity of the antimitotic, due to decrease of its hepatic metabolism by the ketoconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="MITOMYCIN C" rxcui="632">
+<ATC code="L01DC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the pulmonary toxicity of the mitomycin and of the vinca alkaloids</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the neurotoxicity of the antimitotic, due to decrease of its hepatic metabolism by the posaconazole</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>543-VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the antimitotic due to decrease of its hepatic metabolism of the telithromycin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical and biological monitoring. Possibly, use another antibiotic. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

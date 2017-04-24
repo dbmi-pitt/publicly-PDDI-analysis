@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>268-HYDROQUINIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROQUINIDINE" rxcui="27220">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="URINARY ALKALIZERS" code="B05-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the hydroquinidine and risk of overdose (decrease of the renal excretion of the hydroquinidine due to alkalinizing of the urine )</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly testing of the concentrations of the hydroquinidine; if needed, adjustment of the dosage during the alkalinizing treatment and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>268-HYDROQUINIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROQUINIDINE" rxcui="27220">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to decrease of the renal clearance of the digoxin. In addition, disorders of autoregulation (excessive bradycardia and disorders of atrioventricular conduction).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. In the case of unexpected results, test the digoxinemia and adjust the dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>268-HYDROQUINIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROQUINIDINE" rxcui="27220">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of tinnitis and/or loss of hearing acuity: cinchonism linked to a decrease of the hepatic metabolism of the antiarrythmic by the itraconazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the plasma concentrations of the antiarrythmic and possible decrease of its dosage if necessary.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

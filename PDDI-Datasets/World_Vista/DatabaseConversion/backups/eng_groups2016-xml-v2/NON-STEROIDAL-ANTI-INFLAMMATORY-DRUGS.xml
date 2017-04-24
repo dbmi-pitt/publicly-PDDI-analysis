@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>107</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aceclofenac" rxnorm="16689">
+<ATC code="M01AB16" />
+<ATC code="M02AA25" />
+</DRUG>
+<DRUG name="Mefenamic Acid" rxnorm="257844">
+<ATC code="M01AG01" />
+</DRUG>
+<DRUG name="Niflumic Acid" rxnorm="7418">
+<ATC code="M01AX02" />
+<ATC code="M02AA17" />
+</DRUG>
+<DRUG name="Tiaprofenic acid" rxnorm="618442">
+<ATC code="M01AE11" />
+</DRUG>
+<DRUG name="Alminoprofen" rxnorm="17387">
+<ATC code="M01AE16" />
+</DRUG>
+<DRUG name="Celecoxib" rxnorm="140587">
+<ATC code="L01XX33" />
+<ATC code="M01AH01" />
+</DRUG>
+<DRUG name="Dexketoprofen trometamol" rxnorm="233386">
+<ATC code="M01AE17" />
+</DRUG>
+<DRUG name="Diclofenac" rxnorm="3355">
+<ATC code="D11AX18" />
+<ATC code="M01AB05" />
+<ATC code="M02AA15" />
+<ATC code="S01BC03" />
+<ATC code="S01CC01" />
+</DRUG>
+<DRUG name="Etodolac" rxnorm="24605">
+<ATC code="M01AB08" />
+</DRUG>
+<DRUG name="Etoricoxib" rxnorm="307296">
+<ATC code="M01AH05" />
+</DRUG>
+<DRUG name="Fenoprofen" rxnorm="4331">
+<ATC code="M01AE04" />
+</DRUG>
+<DRUG name="Flurbiprofen" rxnorm="4502">
+<ATC code="M01AE09" />
+<ATC code="M02AA19" />
+<ATC code="R02AX01" />
+<ATC code="S01BC04" />
+</DRUG>
+<DRUG name="Ibuprofen" rxnorm="5640">
+<ATC code="M01AE14" />
+<ATC code="C01EB16" />
+<ATC code="G02CC01" />
+<ATC code="M01AE01" />
+<ATC code="M02AA13" />
+</DRUG>
+<DRUG name="Indometacin" rxnorm="5781">
+<ATC code="C01EB03" />
+<ATC code="M01AB01" />
+<ATC code="M02AA23" />
+<ATC code="S01BC01" />
+</DRUG>
+<DRUG name="Ketoprofen" rxnorm="6142">
+<ATC code="M01AE03" />
+<ATC code="M02AA10" />
+</DRUG>
+<DRUG name="Meloxicam" rxnorm="41493">
+<ATC code="M01AC06" />
+</DRUG>
+<DRUG name="Morniflumate" rxnorm="30225">
+<ATC code="M01AX22" />
+</DRUG>
+<DRUG name="Nabumetone" rxnorm="31448">
+<ATC code="M01AX01" />
+</DRUG>
+<DRUG name="Naproxen" rxnorm="7258">
+<ATC code="G02CC02" />
+<ATC code="M01AE02" />
+<ATC code="M02AA12" />
+</DRUG>
+<DRUG name="Nimesulide" rxnorm="53694">
+<ATC code="M01AX17" />
+<ATC code="M02AA26" />
+</DRUG>
+<DRUG name="Parecoxib" rxnorm="279950">
+<ATC code="M01AH04" />
+</DRUG>
+<DRUG name="Piroxicam" rxnorm="8356">
+<ATC code="M01AC01" />
+<ATC code="M02AA07" />
+<ATC code="S01BC06" />
+</DRUG>
+<DRUG name="Piroxicam-betadex" rxnorm="">
+</DRUG>
+<DRUG name="Rofecoxib" rxnorm="232158">
+<ATC code="M01AH02" />
+</DRUG>
+<DRUG name="Sulindac" rxnorm="10237">
+<ATC code="M01AB02" />
+</DRUG>
+<DRUG name="Tenoxicam" rxnorm="37790">
+<ATC code="M01AC02" />
+</DRUG>
+<DRUG name="Valdecoxib" rxnorm="278567">
+<ATC code="M01AH03" />
+</DRUG>
+</CLASS>

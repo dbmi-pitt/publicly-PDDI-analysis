@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>65-ANTIPURINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effect of the Vitamin K antagonist due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist at the beginning of the treatment with the immuno-inhibitor and after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>65-ANTIPURINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG1>
+<DRUG2>
+<CLASS name="DERIVATIVES OF AMINOSALICYLIC ACID (ASA)" code="A07EC-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the myelotoxicity of the immunoinhibitor, by inhibition of its hepatic metabolism by the ASA derivative, especially with patients presenting a partial deficit of thiopurine methyltransferase (TPMT)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>65-ANTIPURINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG1>
+<DRUG2>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0" /></DRUG2>
+<DESCRIPTION>Possibly serious medullary insufficiency</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>65-ANTIPURINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG1>
+<DRUG2>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risks of serious undesirable effects, due to inhibition of the metabolism of the immunoinhibitor by the ribavirin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

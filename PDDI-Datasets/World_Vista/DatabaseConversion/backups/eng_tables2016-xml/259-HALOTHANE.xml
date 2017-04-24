@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>259-HALOTHANE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOTHANE" rxcui="5095">
+<ATC code="N01AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG2>
+<DESCRIPTION>In cases of obstetrical surgery, increased uterine inertia with risk of hemorrhage; furthermore serious ventricular arrhythmias, due to increase of the cardiac reactivity</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Interrupt treatment with the beta-2 agonist if the anesthesia must be done with halothane</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>259-HALOTHANE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HALOTHANE" rxcui="5095">
+<ATC code="N01AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increase of cardiac sensitization</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

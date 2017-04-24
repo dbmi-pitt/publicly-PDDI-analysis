@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="INJECTABLE IRON SALTS" rxcui="1431591">
+<ATC code="B03AC" />
+<ATC code="B03AC01" />
+<ATC code="B03AC02" />
+<ATC code="B03AC03" />
+<ATC code="B03AC05" />
+<ATC code="B03AC06" />
+<ATC code="B03AC07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Lypothymia, even loss of consciousness attributed to the rapid release of the iron in its complex form and to the saturation of the transferrin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETOHYDROXAMIC ACID" rxcui="16728">
+<ATC code="G04BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of these two medications due to chelation of the iron</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BISPHOSPHONATES" code="M05B-001" /></DRUG2>
+<DESCRIPTION>For the iron salts administered via oral route: decrease of the digestive absorption of the bisphosphonates</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the bisphosphonates (from 30 minutes minimum to more than 2 hours apart, if possible, depending on the bisphosphonate).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the iron salts by oral route: decrease of the digestive absorption of the iron salts</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from meals and in the absence of calcium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
+<DESCRIPTION>With the tetracycline antibiotics administered by oral route: decrease of the digestive absorption of the tetracycline antibiotics (formation of complexes)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the tetracycline antibiotics (more than 2 hours apart if possible). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ENTACAPONE" rxcui="60307">
+<ATC code="N04BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the entacapone and of the iron due to chelation of the latter by the entacapone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the entacapone (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the fluoroquinolones</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the fluoroquinolones (more that 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the thyroid hormones</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the thyroid hormones at a different time from the iron (more than 2 hours apart, if possible). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the levodopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the levodopa (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the methyldopa (formation of complexes)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the methyldopa (more than two hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENICILLAMINE" rxcui="7975">
+<ATC code="M01CC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the penicillamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the penicillamine (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STRONTIUM" rxcui="81638">
+<ATC code="V10BX01" />
+<ATC code="M05BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the strontium.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the strontium at a different time from the iron salts (more than two hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>227-IRON.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IRON" rxcui="">
+<ATC code="B03A" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZINC" rxcui="1431163">
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the zinc by the iron</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the zinc (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

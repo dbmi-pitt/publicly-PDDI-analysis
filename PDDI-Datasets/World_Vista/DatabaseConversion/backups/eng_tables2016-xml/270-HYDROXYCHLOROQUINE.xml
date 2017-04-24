@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>270-HYDROXYCHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROXYCHLOROQUINE" rxcui="5521">
+<ATC code="P01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the metoprolol used in heart failure: risk of increase of the undesirable effects of metoprolol due to decrease of its hepatic metabolism by the hydroxycloroquine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the metoprolol during the treatment with the hydroxychloroquine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>270-HYDROXYCHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROXYCHLOROQUINE" rxcui="5521">
+<ATC code="P01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the therapeutic effect of the hydroxychloroquine, due to increase of its metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the hydroxychloroquine during the treatment with rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>270-HYDROXYCHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="HYDROXYCHLOROQUINE" rxcui="5521">
+<ATC code="P01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with the citalopram, the domperidone, the escitalopram, the hydroxyzine and the piperaquine</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

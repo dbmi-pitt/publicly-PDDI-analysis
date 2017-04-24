@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>140</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aminophylline " rxnorm="689">
+<ATC code="R03DA05" />
+<ATC code="R03DB05" />
+</DRUG>
+<DRUG name="Theophylline " rxnorm="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+</DRUG>
+</CLASS>

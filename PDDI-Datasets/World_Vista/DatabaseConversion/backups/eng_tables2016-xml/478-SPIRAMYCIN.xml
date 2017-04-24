@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>478-SPIRAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SPIRAMYCIN" rxcui="9991">
+<ATC code="J01FA02" />
+<ATC code="J01RA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of administration with the carbidopa: inhibition of the absorption of the carbidopa with decrease of the plasma concentrations of the levodopa </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the levodopa. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

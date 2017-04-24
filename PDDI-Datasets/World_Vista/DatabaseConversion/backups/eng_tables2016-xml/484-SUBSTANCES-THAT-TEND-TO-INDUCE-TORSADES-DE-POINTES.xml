@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="ANAGRELIDE" rxcui="596724">
+<ATC code="L01XX35" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTIPARASITICS THAT TEND TO INDUCE TORSADES DE POINTES" code="P01B-001" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with citalopram, domperidone, escitalopram, hydroxyzine, and piperaquin</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="AZITHROMYCIN " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="BRADYCARDIA INDUCING DRUGS" code="C0N0S0" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="HYDROXYCHLOROQUINE" rxcui="5521">
+<ATC code="P01BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Correct all hypokaliemia before administering the product and do clinical and electrolyte monitoring and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="LEVOFLOXACIN" rxcui="82122">
+<ATC code="J01MA12" />
+<ATC code="S01AE05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N02AC52" />
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="NEUROLEPTICS THAT TEND TO INDUCE TORSADES DE POINTES" code="N05A-002" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="NORFLOXACIN" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<DRUG name="ROXITHROMYCIN" rxcui="9478">
+<ATC code="J01FA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>484-SUBSTANCES-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG1>
+<DRUG2>
+<CLASS name="TORSADES DE POINTES INDUCING MEDICATIONS (EXCEPT ANTIPARASITICS, NEUROLEPTICS, METHADONE)" code="C01B" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

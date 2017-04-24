@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>129-CITRATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CITRATES" code="V09HX" /></DRUG1>
+<DRUG2>
+<CLASS name="ALUMINUM (SALTS)" code="A02AD0-001" /></DRUG2>
+<DESCRIPTION>Risk of facilitation of systemic uptake of the aluminum, especially in case of altered renal function. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the aluminum based gastrointestinal medications at a different time (more than 2 hours apart if possible) from the citrates, including natural citrates (citrus fruit juices). </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

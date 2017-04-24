@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, testing of the plasma concentrations of carbamazepine and possible reduction of its dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: at the beginning of treatment, increase of the plasma concentrations of carbamazepine due to inhibition of its hepatic metabolism by the cimetidine </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine, especially during the first days of treatment with the cimetidine </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD05" />
+<ATC code="A02BD04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLONAZEPAM" rxcui="2598">
+<ATC code="N03AE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine. In addition, decrease of the plasma concentrations of the clonazepam due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinincal monitoring, plasma dosages, and possible adjustment of the dosages of the two anticonvulsants</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the serious hematological effects </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine, with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine and decrease of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Exercise caution in the interpretation of the plasma concentrations.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG2>
+<DESCRIPTION>Risk of symptomatic hyponatremia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring. If possible, use another class of diuretics.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ETHOSUXIMIDE" rxcui="4135">
+<ATC code="N03AD01" />
+<ATC code="N03AD51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of ethosuximide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosage of the ethosuximide and possible increase of its dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine. In addition, decrease of the plasma concentrations of felbamate due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosages of the two anticonvulsants.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUCONAZOLE" rxcui="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For doses of fluconazole &gt;=200 mg per day: possible increase of the undesirable effects of the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Adjust the dosage of carbamazepine, during the antifungal treatmentand after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of carbamazepine, and possible reduction of the dosage of the carbamazepine during the treatment with the serotoninergic antidepressant and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of carbamazepine, and possible reduction of the dosage of the carbamazepine during the treatment with the serotoninergic antidepressant and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="JOSAMYCIN" rxcui="6084">
+<ATC code="J01FA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and. if needed, plasma dosage and possible reduction of the dosage of the carbamazepine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the neurological effects (vertigo, ataxia, diplopia) of the carbamazepine when the lamotrigine is introduced</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of neurotoxicity manifesting as disorders of the cerebellum, confusion, drowsiness, ataxia. These disorders are reversible when the treatment with lithium is stopped.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations and of the effectiveness of the carbamazepine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of nintedanib due to decrease of its absorption by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OLANZAPINE" rxcui="61381">
+<ATC code="N05AH03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the olanzapine and of its therapeutic effectiveness, due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and if needed, adjustment of the dosage of the olanzapine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine, with risk of overdose, due to inhibition of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of carbamazepine and possible reduction of the dosage of the carbamazepine during the treatment with the serotoninergic antidepressant and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Progressive decrease of the plasma concentrations of carbamazepine and of its active metabolite without apparent modification of its anticonvulsive effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Use prudence with respect to the interpretation of the plasma concentrations.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Reciprocal reduction of the plasma concentrations (increase of the metabolism without apparent modification of the anticonvulsive effectiveness)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Use prudence in the interpretation of the plasma concentrations. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the carbamazepine due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations, and adjustment of the dosage of the carbamazepine during the treatment with the refampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RISPERIDONE" rxcui="35636">
+<ATC code="N05AX08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the active fraction of the risperidone and of its therapeutic effectiveness due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if needed, adjustment of the dosage of the risperidone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of simvastatin, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the topiramate with risk of lower effectiveness, due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and if needed, adjustment of the dosage of the topiramate during the treatment with the carbamazepine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>112-CARBAMAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine with signs of overdose. In addition, decrease of the plasma concentrations of valproic acid due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and adjustment of the dosage of the two anticonvulsants.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

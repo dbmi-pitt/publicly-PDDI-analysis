@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia that can attain toxic values (decrease of the renal excretion of the lithium)
+
+.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the use of the angiotensin II antagonist is indispensable, strict monitoring of the lithemia and adjustment of the dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia that can reach toxic values (decrease of the renal excretion of the lithium)
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, monitor the lithemia closely and adjust the dosage of the lithium during the administration of the substances together and after the NSAI is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of sudden discontinuation of consumption of coffee or of medications containing caffeine, risk of increase of the lithemia</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CALCITONIN" rxcui="36118">
+<ATC code="H05BA" />
+<ATC code="H05BA03" />
+<ATC code="H05BA02" />
+<ATC code="H05BA01" />
+<ATC code="H05BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the lithium due to increase of its renal elimination by the calcitonin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of neurotoxicity manifesting as disorders of the cerebellum, confusion, drowsiness, ataxia. These disorders are reversible when the treatment with lithium is stopped</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium as with a low sodium regimen (decrease of the urinary excretion of the lithium) </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strict monitoring of the lithemia and adjustment of the dosage of lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium, as with a low sodium regimen (decrease of the urinary excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium, as with a low sodium regimen (decrease of the urinary excretion of the lithium) </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, strict monitoring of the lithemia and adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GLYCEROL" rxcui="4910">
+<ATC code="A06AG04" />
+<ATC code="A06AX01" />
+<ATC code="A16AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Increase of the lithemia which can reach toxic values (decrease of the renal excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the use of an ACE inhibitor is indispensable, strict monitoring of the lithemia and adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MANNITOL" rxcui="6628">
+<ATC code="A06AD16" />
+<ATC code="B05BC01" />
+<ATC code="B05CX04" />
+<ATC code="R05CB16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHYLDOPA " rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia which can attain toxic values, with signs of overdose of lithium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METRONIDAZOLE" rxcui="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia which can attain toxic values with signs of overdose of lithium.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NEUROLEPTICS" code="N05AA-003" /></DRUG2>
+<DESCRIPTION>Risk of appearance of neuropsychic signs evocative of a neuroleptic malignant syndrome or of lithium poisoning</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical amd biological monitoring, especially at the beginning of the administration of the substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SODIUM BICARBONATE" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the lithium due to increase of its renal elimination by the sodium salts</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid excessive sodium and take account of the presence of sodium in certain medications such as antacids.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SODIUM CHLORIDE" rxcui="9863">
+<ATC code="A12CA01" />
+<ATC code="B05CB01" />
+<ATC code="B05XA03" />
+<ATC code="S01XA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the lithium due to increase of its renal elimination by the sodium salts.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid excessive sodium and take account of the presence of sodium in certain medications such as antacids.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>319-LITHIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="38404" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For doses of topiramate &gt;= 200 mg/day: increase of the lithemia that can reach toxic values, with signs of overdose of lithium.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring. Adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

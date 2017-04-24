@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>361-MITOTANE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MITOTANE" rxcui="7004">
+<ATC code="L01XX23" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DASABUVIR" rxcui="1597381">
+<ATC code="J05AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the dasabuvir by the mitotane</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>361-MITOTANE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MITOTANE" rxcui="7004">
+<ATC code="L01XX23" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SPIRONOLACTONE" rxcui="9997">
+<ATC code="C03DA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of blockage of the action of the mitotane by the spironolactone</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

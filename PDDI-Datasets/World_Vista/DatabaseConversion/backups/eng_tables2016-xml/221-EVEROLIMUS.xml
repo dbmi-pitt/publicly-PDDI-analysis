@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>221-EVEROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EVEROLIMUS" rxcui="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the everolimus by the ciclosporin. The nephrotoxicity of the ciclosprorin is also increased when the two medications are administered together</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the everolimus, possibly adjustment of the dosage, and testing of the renal function, during the administration of the two together and after it is stopped  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>221-EVEROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EVEROLIMUS" rxcui="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Increase of the risk of angioedema</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>221-EVEROLIMUS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EVEROLIMUS" rxcui="141704">
+<ATC code="L01XE10" />
+<ATC code="L04AA18" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the everolimus due to decrease of its hepatic metabolism by the verapamil</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of the renal function, and adjustment of the dosage during the administration of the two medications together and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

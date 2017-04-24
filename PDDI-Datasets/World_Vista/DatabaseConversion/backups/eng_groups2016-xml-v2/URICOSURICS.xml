@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="URICOSURICS" code="M04AB0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>153</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Benzbromarone" rxnorm="1385">
+<ATC code="M04AB03" />
+</DRUG>
+<DRUG name="Probenecid" rxnorm="8698">
+<ATC code="M04AB01" />
+</DRUG>
+</CLASS>

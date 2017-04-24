@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AGOMELATINE" rxcui="306718">
+<ATC code="N06AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of agomelatine, with risk of increase of the undesirable effects.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations of carbamazepine and possible reduction of the dosage of the carbamazepine during the treatment with the serotoninergic antidepressant and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of clozapine with signs of overdose</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring; if needed, adjustment of the dosage of the clozapine during the treatment with the fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DULOXETINE" rxcui="72625">
+<ATC code="N06AX21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the duloxetine due to decrease of its hepatic metabolism by the fluvoxamine</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LIDOCAINE" rxcui="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+<ATC code="N01BB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lidocaine with possibilities of undesirable neurological and cardiac effects (decrease of the hepatic clearance of the lidocaine)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly testing of the plasma concentrations of the lidocaine during and after the administration of the two substances together. Adjustment, if needed, of the dosage of the lidocaine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of methodone with overdose and increased risk of lengthening of the QT interval and of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen clinical monitoring and EKG; if needed, adjustment of the dosage of the methadone during the treatment with the fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mexiletine, due to inhibition of its metabolism by the fluvoxamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. Adjustment of the dosage of the mexiletine during the treatment with the fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OLANZAPINE" rxcui="61381">
+<ATC code="N05AH03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the olanzapine, with risk of increase of the undesirable effects, due to decrease of its hepatic metabolism by the fluvoxamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the olanzapine during the treatment with fluvoxamine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose, due to inhibition of the hepatic metabolism of the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly testing of the plasma concentrations of phenytoin. If needed, adjustment of the dosage of the phenytoin during the treatment with the fluvoxamine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIRFENIDONE" rxcui="88221">
+<ATC code="L04AX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of pirfenidone with signs of overdose</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPRANOLOL" rxcui="8787">
+<ATC code="C07AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propranolol due to inhibition of its hepatic metabolism, with increase of the activity and of the undesirable effects, for example: significant bradycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring, and, if needed, adjustment of the dosage of the propranolol during the treatment with the fluvoxamine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ROPINIROLE" rxcui="72302">
+<ATC code="N04BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of ropinirole, with risk of overdose, due to decrease of its hepatic metabolism by the fluvoxamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the ropinirole during the treatment with fluvoxamine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>238-FLUVOXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with signs of overdose (decrease of the hepatic metabolism of the theophylline) </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if needed, adjustment of the dosage of the theophylline during the treatment with fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

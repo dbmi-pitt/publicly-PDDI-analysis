@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>473-SODIUM CHLORIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SODIUM CHLORIDE" rxcui="9863">
+<ATC code="A12CA01" />
+<ATC code="B05CB01" />
+<ATC code="B05XA03" />
+<ATC code="S01XA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the lithium due to increase of its renal elimination by the sodium salts</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Avoid excessive sodium and take into account the presence of sodium in some medications such as antacids.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

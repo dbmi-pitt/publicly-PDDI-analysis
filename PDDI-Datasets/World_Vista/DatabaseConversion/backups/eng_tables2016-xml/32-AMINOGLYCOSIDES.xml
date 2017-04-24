@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER AMINOGLYCOSIDES " code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Increased risk of nephrotoxicity and ototoxicity (the ototoxicity is cumulative in cases of successive administrations of the aminoglycosides)</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-in case of simultaneous administration</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="A01AB04" />
+<ATC code="A07AA07" />
+<ATC code="G01AA03" />
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously:
+
+increased risk of nephrotoxicity </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ATALUREN" rxcui="">
+<ATC code="M09AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the renal toxicity of the aminoside.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BOTULINUM TOXIN" rxcui="1716">
+<ATC code="M03AX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the effects of the botulinum toxin with the aminoglycosides (due to extrapolation from the effects observed during the course of the botulism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use another antibiotic</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CEFALOTIN" rxcui="2236">
+<ATC code="J01DB03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the nephrotoxicity of the aminoglycosides by the cefalotin is under discussion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of renal function</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Larger increase of the creatinemia than with ciclosporin alone, with increase of the nephrotoxic risk </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="CURARES" code="M03A-001" /></DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarization at the end of anesthesia</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG2>
+<DESCRIPTION>Increase of the nephrotoxic and ototoxic risks of the aminoglycoside (functional renal insufficiency linked to the dehydration caused by the diuretic)
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>The two medications may be taken together when there is monitoring of the state of hydration, of the renal and cochleovestibulary functions, and, possibly, of the plasma concentrations of the aminoglycoside.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="PLATINUM-BASED ANTINEOPLASTIC DRUGS" code="ORGAPLA" /></DRUG2>
+<DESCRIPTION>Addition of the nephrotoxic and/or ototoxic effects, especially in the case of pre-existing renal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POLYMYXIN B" rxcui="8536">
+<ATC code="S03AA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Addition of the nephrotoxic effects
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, strict monitoring with an indisputable bacteriological justification</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>32-AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Greater increase of the creatinemia than with tacrolimus alone (synergy of the nephrotoxic effects of the two substances)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

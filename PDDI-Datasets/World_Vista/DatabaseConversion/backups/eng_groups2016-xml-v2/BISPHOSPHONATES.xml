@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BISPHOSPHONATES" code="M05B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>37</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alendronic acid" rxnorm="236083">
+<ATC code="M05BA04" />
+<ATC code="M05BB06" />
+<ATC code="M05BB03" />
+<ATC code="M05BB05" />
+</DRUG>
+<DRUG name="Clodronic acid" rxnorm="3350">
+<ATC code="M05BA02" />
+</DRUG>
+<DRUG name="Etidronic acid" rxnorm="1356715">
+<ATC code="M05BB01" />
+</DRUG>
+<DRUG name="Ibandronic acid" rxnorm="115265">
+<ATC code="M05BA06" />
+</DRUG>
+<DRUG name="Oxidronic acid" rxnorm="1546448">
+</DRUG>
+<DRUG name="Pamidronic acid" rxnorm="11473">
+<ATC code="M05BA03" />
+</DRUG>
+<DRUG name="Risedronic acid" rxnorm="55685">
+<ATC code="M05BA07" />
+<ATC code="M05BB02" />
+<ATC code="M05BB04" />
+</DRUG>
+<DRUG name="Tiludronic acid" rxnorm="11476">
+<ATC code="M05BA05" />
+</DRUG>
+<DRUG name="Zoledronic acid" rxnorm="77655">
+<ATC code="M05BA08" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NON-CONTRACEPTIVE ESTROGENS" code="G03C-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Diethylstilbestrol" rxnorm="3390">
+<ATC code="G03CB02" />
+<ATC code="G03CC05" />
+<ATC code="L02AA01" />
+</DRUG>
+<DRUG name="Estradiol" rxnorm="4083">
+<ATC code="G03AB08" />
+<ATC code="G03CA03" />
+</DRUG>
+<DRUG name="Estriol" rxnorm="4094">
+<ATC code="G03CA04" />
+<ATC code="G03CC06" />
+</DRUG>
+<DRUG name="Sulfoconjugated equine estrogen" rxnorm="">
+</DRUG>
+<DRUG name="Estrone" rxnorm="4103">
+<ATC code="G03CA07" />
+<ATC code="G03CC04" />
+</DRUG>
+<DRUG name="Promestriene" rxnorm="34625">
+<ATC code="G03CA09" />
+</DRUG>
+</CLASS>

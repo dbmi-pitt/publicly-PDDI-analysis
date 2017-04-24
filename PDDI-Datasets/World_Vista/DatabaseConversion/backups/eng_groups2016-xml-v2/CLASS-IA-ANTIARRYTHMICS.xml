@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CLASS IA ANTIARRYTHMICS " code="C01B-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>44</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+</CLASS>

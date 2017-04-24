@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HEPARINS" code="B01AB">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>68</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Dalteparin sodium" rxnorm="67109">
+<ATC code="B01AB04" />
+</DRUG>
+<DRUG name="Danaparoid sodium" rxnorm="78484">
+<ATC code="B01AB09" />
+</DRUG>
+<DRUG name="Enoxaparin" rxnorm="67108">
+</DRUG>
+<DRUG name="Fondaparinux" rxnorm="321208">
+<ATC code="B01AX05" />
+</DRUG>
+<DRUG name="Heparin" rxnorm="5224">
+<ATC code="B01AB" />
+<ATC code="B01AB01" />
+<ATC code="A05BA03" />
+<ATC code="S01XA14" />
+<ATC code="B01AB51" />
+<ATC code="C05BA53" />
+<ATC code="C05BA51" />
+</DRUG>
+<DRUG name="Nadroparin" rxnorm="67031">
+<ATC code="B01AB06" />
+</DRUG>
+<DRUG name="Reviparin" rxnorm="75960">
+<ATC code="B01AB08" />
+</DRUG>
+<DRUG name="Tinzaparin" rxnorm="69646">
+<ATC code="B01AB10" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,101 @@
+Adefovir
+Aloe vera
+Aluminium hydroxide
+Alverine citrate
+Antacids
+Artemisinin
+Ascorbic acid (Vitamin C)
+Aspirin
+Azilsartan
+Basilixumab
+Beclometasone
+Benztropine
+Brivudine
+Bromperidol
+Calcitonin
+Calcium resonium
+Cannabis
+Cefalexin
+Ceftaroline
+Chlortalidone
+Ciclosporin
+Cisatracurium
+Clavulanic acid
+Clobetasol (topical)
+Colestyramine
+Dabigatran
+Danaparoid
+Darbepoetin
+Desloratidine
+Diamorphine
+Dihydroartemisinin
+Echinacea
+Elbasvir/Grazoprevir
+Elvitegravir/cobi/FTC/TAF
+Elvitegravir/cobi/FTC/TDF
+Emtricitabine/TAF
+Epoetin alfa
+Ergometrine (ergonovine)
+Eslicarbazepine
+Ethinylestradiol
+Fish oils
+Fluindione
+Fluticasone
+Fondaparinux
+Gadopentetate (gadolinium)
+Gamma-hydroxybutyrate
+Garlic
+Glibenclamide (Glyburide)
+Grapefruit juice
+Hyoscine
+Ibandronic acid
+Indometacin
+Insulin
+Iron supplements
+Ispaghula husk
+Ledipasvir/Sofosbuvir
+Levomepromazine
+Lormetazepam
+Macrogol
+MDMA (Ecstasy)
+Mebeverine
+Mephedrone
+Methenamine
+Methylcellulose
+Methylergonovine
+Milk thistle
+Mycophenolate
+Naftidrofuryl
+OBV/PTV/r
+OBV/PTV/r + DSV
+Paracetamol
+Peg-IFN alfa
+Penicillin V
+Perazine
+Pericyazine
+Pirfenadone
+Pizotifen
+Protamine sulphate
+Pyrantel
+Retigabine
+Retinol (Vitamin A)
+Rilmenidine
+Senna
+Serenoa repens
+Simeticone
+St John's wort
+Sultiame
+Temocillin
+Tenofovir-DF
+Tenofovir-DF (HBV)
+Tetracyclines
+Tiapride
+Trimethoprim/ Sulfamethoxazole
+Valerian
+Valproate
+Velpatasvir/Sofosbuvir
+Vernakalant
+Xipamide
+Zofenopril
+Zuclopentixol
+Telbivudine 

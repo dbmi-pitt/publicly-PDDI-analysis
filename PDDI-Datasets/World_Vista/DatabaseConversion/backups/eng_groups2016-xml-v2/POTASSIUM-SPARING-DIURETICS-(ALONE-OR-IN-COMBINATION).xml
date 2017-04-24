@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>123</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amiloride" rxnorm="644">
+<ATC code="C03DB01" />
+</DRUG>
+<DRUG name="Potassium canrenoate" rxnorm="1981">
+<ATC code="C03DA02" />
+</DRUG>
+<DRUG name="Eplerenone" rxnorm="298869">
+<ATC code="C03DA04" />
+</DRUG>
+<DRUG name="Spironolactone" rxnorm="9997">
+<ATC code="C03DA01" />
+</DRUG>
+<DRUG name="Triamterene" rxnorm="10763">
+<ATC code="C03DB02" />
+</DRUG>
+</CLASS>

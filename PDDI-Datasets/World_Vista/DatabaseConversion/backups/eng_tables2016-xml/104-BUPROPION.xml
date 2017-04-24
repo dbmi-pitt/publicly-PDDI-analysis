@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOMIPRAMINE" rxcui="2597">
+<ATC code="N06AA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the cloripramine due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the clomipramine during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DESIPRAMINE" rxcui="3247">
+<ATC code="N06AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the desipramine due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the desipramine during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLECAINIDE" rxcui="4441">
+<ATC code="C01BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the flecainide due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the flecainide during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of hypertensive crises. From the fact of the length of action of the MAOI, this interaction is still theoretically possible two weeks after it is stopped</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of hypertensive crises</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MAOI-B  " code="N04BD0-001" /></DRUG2>
+<DESCRIPTION>Risk of hypertensive crises</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the metoprolol used for heart failure: risk of increase of the undesirable effects of the metoprolol due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the metoprolol during the treatment with the bupropion </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NORTRIPTYLINE" rxcui="7531">
+<ATC code="N06AA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the nortriptyline due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the nortriptyline during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the propafenone due to decrease of its hepatic metabolism by the bupropion</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the propafenone during the treatment with the bupropion.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the terbinafine [sic]</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tramadol due to decrease of its hepatic metabolism by the bupropion. In addition, risk of convulsions due to addition of the effects of the two medications</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>104-BUPROPION.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the bupropion, with increase of its active metabolite and increased toxicity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

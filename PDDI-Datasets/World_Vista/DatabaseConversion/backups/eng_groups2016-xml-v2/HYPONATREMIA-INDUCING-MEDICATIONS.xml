@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HYPONATREMIA INDUCING MEDICATIONS" code="C03EA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>72</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Altizide" rxnorm="17599">
+<ATC code="C03EA04" />
+</DRUG>
+<DRUG name="Amiloride" rxnorm="644">
+<ATC code="C03DB01" />
+</DRUG>
+<DRUG name="Bendroflumethiazide" rxnorm="1369">
+<ATC code="C03AA01" />
+<ATC code="C03AB01" />
+<ATC code="C03EA13" />
+</DRUG>
+<DRUG name="Bumetanide" rxnorm="1808">
+<ATC code="C03CA02" />
+<ATC code="C03CB02" />
+<ATC code="C03EB02" />
+</DRUG>
+<DRUG name="Potassium canrenoate" rxnorm="1981">
+<ATC code="C03DA02" />
+</DRUG>
+<DRUG name="Carbamazepine" rxnorm="2002">
+<ATC code="N03AF01" />
+</DRUG>
+<DRUG name="Chlortalidone" rxnorm="">
+<ATC code="C03BA04" />
+<ATC code="C03BB04" />
+<ATC code="C03EA06" />
+</DRUG>
+<DRUG name="Cicletanine" rxnorm="21914">
+<ATC code="C03BX03" />
+</DRUG>
+<DRUG name="Citalopram" rxnorm="2556">
+<ATC code="N06AB04" />
+</DRUG>
+<DRUG name="Clopamide" rxnorm="2603">
+<ATC code="C03BA03" />
+<ATC code="C03BB03" />
+</DRUG>
+<DRUG name="Desmopressin" rxnorm="3251">
+<ATC code="H01BA02" />
+</DRUG>
+<DRUG name="Eplerenone" rxnorm="298869">
+<ATC code="C03DA04" />
+</DRUG>
+<DRUG name="Escitalopram" rxnorm="321988">
+<ATC code="N06AB10" />
+</DRUG>
+<DRUG name="Fluoxetine" rxnorm="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+<DRUG name="Fluvoxamine" rxnorm="42355">
+<ATC code="N06AB08" />
+</DRUG>
+<DRUG name="Furosemide" rxnorm="460">
+<ATC code="C03CA01" />
+<ATC code="C03CB01" />
+<ATC code="C03EB01" />
+</DRUG>
+<DRUG name="Hydrochlorothiazide" rxnorm="5487">
+<ATC code="C03AA03" />
+<ATC code="C03AB03" />
+<ATC code="C03EA01" />
+<ATC code="C03AX01" />
+<ATC code="C09DX03" />
+<ATC code="C09DX01" />
+</DRUG>
+<DRUG name="Indapamide" rxnorm="5764">
+<ATC code="C03BA11" />
+</DRUG>
+<DRUG name="Methyclothiazide" rxnorm="6860">
+<ATC code="C03AA08" />
+<ATC code="C03AB08" />
+</DRUG>
+<DRUG name="Oxcarbazepine" rxnorm="32624">
+<ATC code="N03AF02" />
+</DRUG>
+<DRUG name="Paroxetine" rxnorm="32937">
+<ATC code="N06AB05" />
+</DRUG>
+<DRUG name="Piretanide" rxnorm="33770">
+<ATC code="C03CA03" />
+</DRUG>
+<DRUG name="Sertraline" rxnorm="36437">
+<ATC code="N06AB06" />
+</DRUG>
+<DRUG name="Spironolactone" rxnorm="9997">
+<ATC code="C03DA01" />
+</DRUG>
+<DRUG name="Triamterene" rxnorm="10763">
+<ATC code="C03DB02" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage
+
+</DESCRIPTION>
+<SEVERITY>Not recommended with:</SEVERITY>
+<COMMENT>-anti-inflammatory doses of acetylsalicylic acid (>=1gr per dose and/or >=3 gr per day)</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG2>
+<DESCRIPTION>Glucocorticoids (general and rectal routes): possible impact of the corticotherapy on the metabolism of the Vitamin K antagonist and on that of the factors of coagulation. Risk of hemorrhage specific to the corticotherapy (digestive mucosa, vascular fragility) in large doses or in treatment prolonged beyond 10 days. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>When administering substances from these groups together is justified, strengthen monitoring: if the situation requires, with the vitamin K antagonists, biological testing on the 8th day, then every two weeks after that during the corticotherapy and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the inducer: the consequences are particularly great with patients who have Addison&#146;s disease treated with hydrocortisone and in cases of organ transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the corticoids during the treatment with the inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of ulceration and of gastrointestinal hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON-DEPOLARIZING CURARES" code="M03A-002" /></DRUG2>
+<DESCRIPTION>With the glucocorticoids by IV route: risk of severe myopathy, reversible after a possibly long period (several months).</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001" /></DRUG2>
+<DESCRIPTION>Possible increase of the risk of tendinitis, even of rupture of the tendon (exceptional), particularly in patients receiving corticotherapy for a prolonged period</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ISONIAZID" rxcui="6038">
+<ATC code="J04AM03" />
+<ATC code="J04AC01" />
+<ATC code="J04AC51" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+<ATC code="J04AM01" />
+<ATC code="J04AM04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Described for prednisolone. 
+
+Decrease of the plasma concentrations of the isoniazid. Mechanism proposed: increase of the hepatic metabolism of the isoniazid and decrease of that of the glucocorticoides</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the corticoids due to increase of their hepatic metabolism by the rifampicin; the consequences are particularly great in patients with Addisons disease treated with hydrocortisone and in cases of transplants</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring; adjustment of the dosage of the corticoids during the treatment with rifampicin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>252-GLUCOCORTICOIDS-(EXCEPT-HYDROCORTISONE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>With the exception of inhaled and local routes, and for doses greater than 10mg/day of prednisone-equivalent (or &gt; 2mg/kg/day for a child or &gt; 20mg/day for a child weighing more than 10 kg) during more than two weeks and for the &quot;bolus&quot; of corticoids: risk of possibly fatal general vaccine disease.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the therapy with the corticoid.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

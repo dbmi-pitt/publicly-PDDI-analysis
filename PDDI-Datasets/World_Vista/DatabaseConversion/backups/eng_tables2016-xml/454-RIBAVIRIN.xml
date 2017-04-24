@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>454-RIBAVIRIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG2>
+<DESCRIPTION>Increased risk of serious undesirable effects, due to inhibition of the metabolism of the immunomodulator by the ribavirin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>454-RIBAVIRIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIDANOSINE" rxcui="3364">
+<ATC code="J05AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the mitochrondrial toxicity of the didanosine due to increase of its active metabolite</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>454-RIBAVIRIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STAVUDINE" rxcui="59763">
+<ATC code="J05AR07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>454-RIBAVIRIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RIBAVIRIN" rxcui="9344">
+<ATC code="J05AB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE " rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of each antiviral, due to reciprocal inhibition of the phosphorylation reaction at the origin of the active metabolites</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

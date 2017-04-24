@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For anti-inflammatory doses of acetylsalicylic acid (&gt;=1 g per dose and/or &gt;= 3 g per day) or for analgesic or antipyretic doses (&gt;= 500 mg per dose and/or &lt;=3 gr per day):
+
+Acute renal insufficiency with dehydrated patients, due to decrease of the glomerular filtration following a decrease of the synthesis of the renal prostaglandins.
+
+Furthermore, reduction of the antihypertensive effect. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hyperkalemia, of renal insufficiency, of increase of mortality from cardiovascular disease</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>- for patients with diabetes or renal insufficiency</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Acute renal insufficiency with patients at risk (older patient, dehydration, treatment with diuretics, changes in renal function), due to decrease of the glomerular filtration (inhibition of the vasodilater prostaglandins due to the non steroidal anti-inflammatories.) These effects are generally reversible. In addition, reduction of the antihypertensive effect.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Hydrate the patient and monitor renal function at the beginning of treatment and regularly while these substances are administered together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia (potentially lethal) especially in case of renal insufficiancy (addition of the hyperkaliemia inducing effects)/</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--if the combination of these durgs in justified, strict testing of the kaliemia and of renal function</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG2>
+<DESCRIPTION>Risk of abrupt arterial hypotension and/or acute renal insufficiency at the beginning of or at an increase of the dosage of a treatment with an angiotensin II antagonist in cases where there is pre-existing fluid depletion. 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With arterial hypertension, where there has been pre-existing diuretic treatment that has caused fluid depletion, it is necessary:</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hyperkalemia, especially with older patients
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict testing of the kalemia and of the renal function during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>In indications where the administration of these substances together is possible, increased risk of degradation of renal function, even acute renal insufficiency, and increase of the hyperkalemia as well as hypotension and fainting or loss of consciousness. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia that can reach toxic values (decrease of the renal excretion of the lithium)
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If the use of an angiotensin II antagonist is indispensable, strict monitoring of the lithemia and adjustment of the dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>46-ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POTASSIUM" rxcui="8588">
+<ATC code="A12BA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Hyperkalemia (potentially lethal) especially when there is renal insufficiency (addition of the hyperkalemia inducing effects).</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid administering these substances together unless there is pre-existing hypokelimia. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

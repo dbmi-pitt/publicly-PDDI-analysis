@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>317-LINCOSANIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="LINCOSANIDES" code="J01FF0" /></DRUG1>
+<DRUG2>
+<CLASS name="CURARES" code="M03A-001" /></DRUG2>
+<DESCRIPTION>Increase of the effects of the curares when the antibiotic is administered by parenteral and/or peritoneal route before, during, or after the curarizing agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the degree of curarisation at the end of anesthesia.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TRIPTANS METABOLIZED BY THE MAO" code="N02CC-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Almotriptan" rxnorm="279645">
+<ATC code="N02CC05" />
+</DRUG>
+<DRUG name="Rizatriptan" rxnorm="88014">
+<ATC code="N02CC04" />
+</DRUG>
+<DRUG name="Sumatriptan" rxnorm="37418">
+<ATC code="N02CC01" />
+</DRUG>
+<DRUG name="Zolmitriptan" rxnorm="135775">
+<ATC code="N02CC03" />
+</DRUG>
+</CLASS>

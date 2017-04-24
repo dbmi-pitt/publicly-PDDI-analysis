@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="FLUOROQUINOLONES" code="J01MA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>59</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ciprofloxacin" rxnorm="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+<DRUG name="Enoxacin" rxnorm="3925">
+<ATC code="J01MA04" />
+</DRUG>
+<DRUG name="Levofloxacin" rxnorm="82122">
+</DRUG>
+<DRUG name="Lomefloxacin" rxnorm="28872">
+<ATC code="J01MA07" />
+<ATC code="S01AE04" />
+</DRUG>
+<DRUG name="Moxifloxacin" rxnorm="139462">
+<ATC code="J01MA14" />
+<ATC code="S01AE07" />
+</DRUG>
+<DRUG name="Norfloxacin" rxnorm="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+<DRUG name="Ofloxacin" rxnorm="7623">
+<ATC code="J01MA01" />
+<ATC code="S01AE01" />
+<ATC code="S02AA16" />
+</DRUG>
+<DRUG name="Pefloxacin" rxnorm="7960">
+<ATC code="J01MA03" />
+</DRUG>
+</CLASS>

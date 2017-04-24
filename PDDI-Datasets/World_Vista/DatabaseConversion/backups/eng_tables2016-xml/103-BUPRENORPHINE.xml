@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase or decrease of the effects of the buprenorphine, due to simultaneous inhibition and acceleration of its metabolism by the protease inhibitor </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG2>
+<DESCRIPTION>With the buprenorphine used in opioid replacement therapy: increased risk of respiratory depression which could be fatal.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Evaluate carefully the risk/benefits relationship of administering these substances together. Inform the patient of the necessity of adhering to the prescribed dosages.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FOSAMPRENAVIR" rxcui="358262">
+<ATC code="J05AE07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase or of decrease of the effects of the A to take into account buprenorphine [sic], simultaneously by inhibition and acceleration of its metabolism by the protease inhibitor. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of increase or decrease of the effects of the buprenorphine, due to both inhibition and acceleration of its metabolism by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of buprenorphine due to decrease of its hepatic metabolism, with risk of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buprenorphine during the treatment with the inhibitor and, if the situation requires, after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>103-BUPRENORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of buprenorphine due to decrease of its hepatic metabolism, with risk of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the buprenorphine during the treatment with the inhibitor and, if the situation requires, after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

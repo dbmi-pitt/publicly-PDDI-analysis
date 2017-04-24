@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>189-THIAZIDE-DIURETICS-AND-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003" /></DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypercalcemia due to decrease of the urinary elimination of the calcium. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>189-THIAZIDE-DIURETICS-AND-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium, as with a reduced sodium regimen (decrease of the urinary excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering the substances together cannot be avoided, strict monitoring of the lithemia and adjustment of the dosage of the lithium.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

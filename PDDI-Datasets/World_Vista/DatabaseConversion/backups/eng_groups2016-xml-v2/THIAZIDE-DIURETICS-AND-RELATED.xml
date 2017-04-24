@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>141</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Altizide" rxnorm="17599">
+<ATC code="C03EA04" />
+</DRUG>
+<DRUG name="Bendroflumethiazide" rxnorm="1369">
+<ATC code="C03AA01" />
+<ATC code="C03AB01" />
+<ATC code="C03EA13" />
+</DRUG>
+<DRUG name="Chlortalidone" rxnorm="2409">
+<ATC code="C03BA04" />
+<ATC code="C03BB04" />
+<ATC code="C03EA06" />
+</DRUG>
+<DRUG name="Cicletanine" rxnorm="21914">
+<ATC code="C03BX03" />
+</DRUG>
+<DRUG name="Clopamide" rxnorm="2603">
+<ATC code="C03BA03" />
+<ATC code="C03BB03" />
+</DRUG>
+<DRUG name="Hydrochlorothiazide" rxnorm="5487">
+<ATC code="C03AA03" />
+<ATC code="C03AB03" />
+<ATC code="C03EA01" />
+<ATC code="C03AX01" />
+<ATC code="C09DX03" />
+<ATC code="C09DX01" />
+</DRUG>
+<DRUG name="Indapamide" rxnorm="5764">
+<ATC code="C03BA11" />
+</DRUG>
+<DRUG name="Methyclothiazide" rxnorm="6860">
+<ATC code="C03AA08" />
+<ATC code="C03AB08" />
+</DRUG>
+</CLASS>

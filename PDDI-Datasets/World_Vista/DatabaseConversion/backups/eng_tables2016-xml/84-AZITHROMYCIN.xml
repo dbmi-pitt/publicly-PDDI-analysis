@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the cholesterol lowering medication</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of the cholesterol lowering medication or another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the two substances together and after the macrolide is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN  " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with the azithromycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of problems with ventricular rhythm, especially of torsades de pointes. In addition, increase of the plasm concentrations of the ivabradine due to decrease of its metabolism by the azithromycin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of the undesirable effects (concentration-dependent) of the rhabdomyolosis type, due to decrease of the hepatic metabolism of the cholesterol lowering agent</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use weaker doses of the cholesterol lowering agent or chose another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>84-AZITHROMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AZITHROMYCIN  " rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG during the administration of these substances together. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

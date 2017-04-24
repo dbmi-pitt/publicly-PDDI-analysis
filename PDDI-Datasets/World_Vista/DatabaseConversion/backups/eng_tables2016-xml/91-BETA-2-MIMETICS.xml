@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>91-BETA-2-MIMETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HALOTHANE" rxcui="5095">
+<ATC code="N01AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In cases of obstetrical surgery, increased uterine inertia with risk of hemorrhage; furthermore serious ventricular arrhythmias, due to increase of the cardiac reactivity</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Interrupt treatment with the beta-2 agonist if the anesthesia must be done with halothane</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>91-BETA-2-MIMETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG1>
+<DRUG2>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Elevation of the glycemia by the beta-2 mimetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce blood and urine monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>91-BETA-2-MIMETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>Elevation of the glycemia by the beta-2 mimetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforce blood and urine monitoring. Possibly change to insulin, if the situation requires. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

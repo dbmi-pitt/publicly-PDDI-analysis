@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="CLASS I ANTIARYTHMICS (EXCEPT LIDOCAINE)" code="C01B-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>45</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Cibenzoline" rxnorm="21099">
+<ATC code="C01BG07" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Flecainide" rxnorm="4441">
+<ATC code="C01BC04" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Mexiletine" rxnorm="6926">
+<ATC code="C01BB02" />
+</DRUG>
+<DRUG name="Propafenone" rxnorm="8754">
+<ATC code="C01BC03" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="URINARY ALKALIZERS" code="B05-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>154</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acetazolamide " rxnorm="">
+<ATC code="S01EC01" />
+</DRUG>
+<DRUG name="Sodium bicarbonate" rxnorm="36676">
+<ATC code="B05CB04" />
+<ATC code="B05XA02" />
+</DRUG>
+<DRUG name="Trometamol" rxnorm="10865">
+<ATC code="B05BB03" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>243-FUROSEMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FUROSEMIDE" rxcui="460">
+<ATC code="C03EB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Decrease of the diuretic effect which can reach 50%</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Possibly use higher doses of furosemide. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

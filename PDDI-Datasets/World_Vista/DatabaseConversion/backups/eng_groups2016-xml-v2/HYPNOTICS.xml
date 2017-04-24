@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HYPNOTICS" code="N05-R06">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>71</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alimemazine" rxnorm="10825">
+<ATC code="R06AD01" />
+</DRUG>
+<DRUG name="Doxylamine" rxnorm="3642">
+<ATC code="R06AA09" />
+</DRUG>
+<DRUG name="Estazolam" rxnorm="4077">
+<ATC code="N05CD04" />
+</DRUG>
+<DRUG name="Loprazolam" rxnorm="38555">
+<ATC code="N05CD11" />
+</DRUG>
+<DRUG name="Lormetazepam" rxnorm="28894">
+<ATC code="N05CD06" />
+</DRUG>
+<DRUG name="Nitrazepam" rxnorm="7440">
+<ATC code="N05CD02" />
+</DRUG>
+<DRUG name="Promethazine" rxnorm="8745">
+<ATC code="V03AB05" />
+<ATC code="D04AA10" />
+<ATC code="R06AD02" />
+</DRUG>
+<DRUG name="Zolpidem" rxnorm="39993">
+</DRUG>
+<DRUG name="Zopiclone" rxnorm="40001">
+<ATC code="N05CF01" />
+</DRUG>
+</CLASS>

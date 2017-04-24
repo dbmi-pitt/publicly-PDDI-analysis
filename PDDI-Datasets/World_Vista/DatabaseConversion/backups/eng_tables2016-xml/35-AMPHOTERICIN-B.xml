@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>35-AMPHOTERICIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES " code="J01GB-001" /></DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously: increased risk of nephrotoxicity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>35-AMPHOTERICIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously: greater increase of the creatinemia than with ciclosporin alone (synergy of the nephrotoxic effects of the two substances).</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>35-AMPHOTERICIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously: greater increase of the creatinemia than with tacrolimus alone (synergy of the nephrotoxic effects of the two substances).</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>35-AMPHOTERICIN-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMPHOTERICIN B " rxcui="732">
+<ATC code="J02AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE" rxcui="11413">
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the amphotericin B administered intravenously: increase of the hematological toxicity (addition of effects of bone marrow toxicity)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent CBC.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

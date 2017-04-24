@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="METABOLIZED TYROSINE-KINASE INHIBITORS" code="L01XE">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>92</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Axitinib " rxnorm="1242999">
+</DRUG>
+<DRUG name="Bosutinib" rxnorm="1307619">
+<ATC code="L01XE14" />
+</DRUG>
+<DRUG name="Cabozantinib" rxnorm="1363268">
+<ATC code="L01XE26" />
+</DRUG>
+<DRUG name="Ceritinib" rxnorm="1535457">
+<ATC code="L01XE28" />
+</DRUG>
+<DRUG name="Cobimetinib" rxnorm="1722365">
+</DRUG>
+<DRUG name="Crizotinib " rxnorm="1148495">
+<ATC code="L01XE16" />
+</DRUG>
+<DRUG name="Dabrafenib" rxnorm="1424911">
+<ATC code="L01XE23" />
+</DRUG>
+<DRUG name="Dasatinib" rxnorm="475342">
+<ATC code="L01XE06" />
+</DRUG>
+<DRUG name="Erlotinib" rxnorm="337525">
+<ATC code="L01XE03" />
+</DRUG>
+<DRUG name="Gefitinib" rxnorm="328134">
+<ATC code="L01XE02" />
+</DRUG>
+<DRUG name="Ibrutinib" rxnorm="1442981">
+<ATC code="L01XE27" />
+</DRUG>
+<DRUG name="Imatinib" rxnorm="282388">
+<ATC code="L01XE01" />
+</DRUG>
+<DRUG name="Lapatinib" rxnorm="480167">
+<ATC code="L01XE07" />
+</DRUG>
+<DRUG name="Nilotinib" rxnorm="662281">
+<ATC code="L01XE08" />
+</DRUG>
+<DRUG name="Osimertinib" rxnorm="1721560">
+</DRUG>
+<DRUG name="Pazopanib" rxnorm="714438">
+<ATC code="L01XE11" />
+</DRUG>
+<DRUG name="Ponatinib" rxnorm="1364347">
+<ATC code="L01XE24" />
+</DRUG>
+<DRUG name="Ruxolitinib" rxnorm="1193326">
+<ATC code="L01XE18" />
+</DRUG>
+<DRUG name="Sorafenib" rxnorm="495881">
+<ATC code="L01XE05" />
+</DRUG>
+<DRUG name="Sunitinib" rxnorm="357977">
+<ATC code="L01XE04" />
+</DRUG>
+<DRUG name="Vandetanib" rxnorm="1098413">
+<ATC code="L01XE12" />
+</DRUG>
+</CLASS>

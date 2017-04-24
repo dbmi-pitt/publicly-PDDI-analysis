@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">  <head>    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>    <title>All Interactions with Rilpivirine</title><link rel="stylesheet" href="css/insite.css" type="text/css"/><link rel="stylesheet" href="css/layout.css" type="text/css"/><link rel="stylesheet" href="css/topNav.css" type="text/css"/><!-- jquery javascript --><script type="text/javascript" src="script/jquery/load.js"><!--  --></script><script type="text/javascript" src="app-js/jquery.scrollTo.js"> </script><script type="text/javascript" src="app-js/jquery.cycle.js"> </script><script type="text/javascript" language="JavaScript">
+        function openWindow(url,name){
+            newWin = window.open(url,name,'status,toolbar,menubar,resizable,scrollbars,left=20,top=20,width=650,height=600')
+            newWin.focus()
+        }
+
+        function openXWindow(url,name){
+            newXWin = window.open(url,name)
+            newXWin.focus()
+        }
+
+		/* BASED ON NEC DEMO.XML */
+		   // REVEAL HIDDEN LOGIC QUESTION
+				function branchNext (event) {
+					$.log("BRANCHNEXT() :  enter");
+					var n = $(this).children("input:checked").size();
+
+					if (n)   {
+						 var reveal = "." + $($(this).children("input:checked")).attr("name") + "-" + $($(this).children("input:checked")).val();
+
+						 $(reveal).removeClass("hidden").addClass("question-revealed");
+					}
+			   }
+
+		// HIDE TO-BE-REVEALED LOGIC QUESTIONS
+			$(document).ready(function() { hideLogicQuestions($(document).children()[0]) });
+
+			function hideLogicQuestions (element) {
+				$.log("hideLogicQuestions() : enter");
+				$(".hidden-question").each(function() {
+					$(this).addClass("hidden").removeClass("question-revealed");
+				});
+		   }
+		/* END FROM NEC DEMO.XML */
+
+
+			function expand(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				/* CLOSE ALL SECTIONS AND RESET BUTTONS
+				$(".expandable", section).addClass("hidden");
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+				$(".expandAll", section).removeClass("hidden");
+				$(".collapseAll", section).addClass("hidden");
+				*/
+
+				// OPEN SPECIFIED SECTION AND UPDATE ITS BUTTONS
+				section.removeClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+
+				// $(this).siblings(".expandAll").addClass("hidden");
+				// $(this).siblings(".collapseAll").removeClass("hidden");
+			}
+			function collapse(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+
+				$(this).siblings(".collapseAll").addClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+			}
+
+			function expandAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.removeClass("hidden");
+				$(".expandable", section).removeClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".expand").addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+				$(this).siblings(".collapseAll").removeClass("hidden");
+
+				$(".expand", section).addClass("hidden");
+				$(".collapse", section).removeClass("hidden");
+			}
+			function collapseAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(".expandable", section).addClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".collapse").addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+			}
+
+
+			// connect the correct fuctions
+			function sconnect(element) {
+				$(".reveal-question", element).click(branchNext);
+
+				$(".expand", element).click(expand);
+				$(".expandAll", element).click(expandAll);
+				$(".collapse", element).click(collapse);
+				$(".collapseAll", element).click(collapseAll);
+			}
+
+			// load method for adding connections
+			$(document).ready(function() {
+				sconnect($(document).children()[0])
+			 });
+
+			 $(document).ready(function(){
+			 $('.carousel ul').cycle({'prev':'.previous','next':'.next','play':'.play','pause':'.pause'});
+			 $(".carousel-hidden").each(function () {
+			 $(this).removeClass("carousel-hidden");
+			 });
+			 });
+
+
+		</script><!--*********************************************************
+    *************************************************************
+    REPLACE GOOGLE ANALYTICS SCRIPT BEFORE PUBLISHING TO LIVESITE
+    You can find the script in google-analytics.js **************
+    *************************************************************
+    **********************************************************--><script type="text/javascript">
+   
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-19627862-1']);
+     _gaq.push(['_trackPageview']);
+   
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   
+</script></head><body><div class="floatpage"><div id="ucsf"><a href="http://ucsf.edu/"><img src="images/masthead/ucsf.gif" alt="University of California, San Francisco Logo"/></a><p>University of California, San Francisco | <a href="http://www.ucsf.edu/about-ucsf/">About UCSF</a> | <a href="http://www.ucsf.edu/ucsf/search">Search UCSF</a> | <a href="http://www.ucsfhealth.org/">UCSF Medical Center</a></p></div><div id="header"><div style="float:left;"><a href="InSite" style="display:block;"><img src="images/masthead/splash-logo-top.gif" alt="HIV InSite"/></a><h1 class="site-description" style="clear:both; width: 475px;">Comprehensive, up-to-date information on HIV/AIDS treatment and prevention from the University of California San Francisco</h1></div><div class="site-sub-navigation"><a href="InSite">Home</a> | <a href="InSite?page=pb-00-00">Patient/Public</a> | <a href="InSite?page=Audio">Audio</a> | <a href="InSite?page=News">News</a> | <a href="InSite?page=Links">Links</a></div><div class="sitesearch"><form action="search" method="get" id="search"><input type="hidden" name="page" value="sr-00-00"/><input type="hidden" name="post" value="1"/><label for="SearchEntry">Search</label><input type="text" size="28" name="SearchEntry" id="SearchEntry" aria-label="Search"/><input type="submit" id="I1" value="Search" style="margin-left: 5px;"/></form></div><div id="site-navigation"><ul><li class="site-navigation"><a href="InSite?page=KB">Knowledge Base</a></li><li class="site-navigation"><a href="InSite?page=Treatment">Treatment</a></li><li class="site-navigation"><a href="InSite?page=Prevention">Prevention</a></li><li class="site-navigation"><a href="InSite?page=Policy">Policy Analysis</a></li><li class="site-navigation"><a href="InSite?page=cr-00-00">Global Response</a></li></ul></div></div><div id="content-target"><div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><font face="Arial, Helvetica" size="-2"><a href="http://hivinsite.ucsf.edu/InSite">Home</a> &gt; <a href="http://hivinsite.ucsf.edu/InSite?page=Treatment">Treatment</a> &gt; <a href="InSite?page=ar-00-02">Interactions</a></font></td></tr><tr><td><img alt="" src="images/transparent.gif" border="0" height="10" width="1"/></td></tr></tbody></table><div class="pgtitle">Database of Antiretroviral Drug Interactions</div><img alt="" src="images/greyline.gif"/><br/><p style="margin-top:0;padding-top:0;" class="kbrsec1">All Interactions with Rilpivirine (Edurant)</p><table class="datatable" width="100%"><thead><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Rilpivirine</th><th>Effect on Drug Levels</th><th>Effect on Rilpivirine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr></thead><tr><td valign="top" width="10%">Acetaminophen<sup><a href="#567">567</a></sup><div>(others)(Tylenol)</div></td><td valign="top">500 mg x 1</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: increased 16%; Cmin: increased 26%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Antacids<sup><a href="#567">567</a></sup><div>(Maalox, Mylanta, Riopan, Milk of Magnesia, others)</div></td><td valign="top">-</td><td valign="top">-</td><td valign="top">-</td><td valign="top">-</td><td valign="top">Potentially decreased rilpivirine effects</td><td valign="top">Decreased gastric acidity leading to impaired drug solubility and absorption</td><td valign="top"><p>Administer antacids either at least 2 hours before or at least 4 hours after rilpivirine.</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Atorvastatin<sup><a href="#567">567</a></sup><div/></td><td valign="top">40 mg QD</td><td valign="top">150 mg QD</td><td valign="top">Atorvastatin Cmin: decreased 15%; Cmax: increased 35%</td><td valign="top">No significant change</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Boceprevir<sup><a href="#635">635</a></sup><div>(Victrelis)</div></td><td valign="top">800 mg TID</td><td valign="top">25 mg QD</td><td valign="top">No significant change </td><td valign="top">Rilpivirine AUC: increased 39%; Cmax: increased 15%; Cmin: increased 51%</td><td valign="top">Possibly increased rilpivirine effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Chlorzoxazone<sup><a href="#567">567</a></sup><div>(others)(Parafon Forte)</div></td><td valign="top">500 mg x 1</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: increased 25%; Cmin: increased 18%; Cmax: increased 17%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Rilpivirine</th><th>Effect on Drug Levels</th><th>Effect on Rilpivirine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Darunavir<sup><a href="#567">567</a></sup><div>(DRV)(Prezista)</div></td><td valign="top">800 mg darunavir with 100 mg ritonavir QD</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: increased 130%; Cmin: increased 178%; Cmax: increased 79%</td><td valign="top">Increased rilpivirine effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Dasabuvir, Ombitasvir/Paritaprevir/Ritonavir<sup><a href="#745">745</a></sup><div>(Viekira)</div></td><td valign="top">paritaprevir 150 mg with ritonavir 100 mg with ombitasvir 25 mg daily + dasabuvir 250 mg twice daily</td><td valign="top">25 mg QD</td><td valign="top"> Dasabuvir Cmax ↑ 18%; AUC ↑ 17%; Cmin ↑10%. Ombitasvir AUC ↑ 9%.  Paritaprevir Cmin ↑30%, AUC ↑ 23%; Cmin decreased 5%</td><td valign="top">RPV increased 155%; AUC increased 225%; Cmin increased 262%</td><td valign="top">Potential for QT interval prolongation with higher concentrations of RPV.</td><td valign="top">Ritonavir inhibition of rilpivirine (CYP3A4 substrate)</td><td valign="top"><p>Do not coadminister</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Didanosine<sup><a href="#567">567</a></sup><div>(ddI)(Videx)</div></td><td valign="top">400 mg delayed release cap taken 2 hours before rilpivirine</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">No significant change</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary; Administer didanosine on an empty stomach and at least 2 hours before or at least 4 hours after rilpivirine (which must be administered with a meal).</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Dolutegravir<sup><a href="#641">641</a></sup><div>(Tivicay)</div></td><td valign="top">50 mg QD</td><td valign="top">25 mg QD</td><td valign="top">Dolutegravir Cmin: increased 22%</td><td valign="top"> Rilpivirine Cmin increased 21%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Ethinyl estradiol/norethindrone acetate<sup><a href="#567">567</a></sup><div>(others)(Ortho-Novum)</div></td><td valign="top">0.035 mg QD ethinyl estradiol with 1 mg norethindrone QD</td><td valign="top">25 mg QD</td><td valign="top">Ethinyl estradiol Cmax: increased 17%;
+Norethindrone: no significant change</td><td valign="top">No significant change</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Famotidine<sup><a href="#567">567</a></sup><div>(Pepcid)</div></td><td valign="top">40 mg x 1 taken 12 hours before rilpivirine</td><td valign="top">150 mg x 1</td><td valign="top">-</td><td valign="top">No significant change</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Rilpivirine</th><th>Effect on Drug Levels</th><th>Effect on Rilpivirine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Famotidine<sup><a href="#567">567</a></sup><div>(Pepcid)</div></td><td valign="top">40 mg x 1 taken 2 hours before rilpivirine</td><td valign="top">150 mg x 1</td><td valign="top">-</td><td valign="top">Rilpivirine AUC: decreased 76%; Cmax: decreased 85%</td><td valign="top">Decreased rilpivirine effects</td><td valign="top">Decreased gastric acidity leading to impaired drug solubility and absorption</td><td valign="top"><p>Administer H2-antagonist by at least 12 hours before rilpivirine or at least 4 hours after rilpivirine.</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Famotidine<sup><a href="#567">567</a></sup><div>(Pepcid)</div></td><td valign="top">40 mg x 1 taken 4 hours after rilpivirine</td><td valign="top">150 mg x 1</td><td valign="top">-</td><td valign="top">Rilpivirine Cmax: increased 21%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Ketoconazole<sup><a href="#567">567</a></sup><div>(Nizoral)</div></td><td valign="top">400 mg QD</td><td valign="top">150 mg QD</td><td valign="top">Ketoconazole AUC: decreased 24%; Cmin: decreased 66%; Cmax: decreased 15%</td><td valign="top">Rilvpivirine AUC: increased 49%; Cmin: increased 76%; Cmax: increased 30%</td><td valign="top">Decreased ketoconazole effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary but monitor for failure of antifungal therapy</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Lopinavir/ritonavir<sup><a href="#567">567</a></sup><div>(LPV/r)(Kaletra)</div></td><td valign="top">400/100 mg BID</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: increased 52%; Cmin: increased 74%; Cmax: increased 29%</td><td valign="top">Increased rilpivirine effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Methadone<sup><a href="#567">567</a></sup><div>(Dolophine)(Dolophine)</div></td><td valign="top">60-100 mg QD</td><td valign="top">25 mg QD</td><td valign="top">R-methadone AUC: decreased 16%; Cmin: decreased 22%; S-methadone AUC: decreased 16%; Cmin: decreased 21%;</td><td valign="top">No significant effect</td><td valign="top">Potentially decreased methadone effects (eg, withdrawal)</td><td valign="top">-</td><td valign="top"><p>Monitor for signs and symptoms of methadone withdrawal; Some patients may need an increase in the methadone dose</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Omeprazole<sup><a href="#567">567</a></sup><div>(Prilosec)(Prilosec)</div></td><td valign="top">20 mg QD</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: decreased 40%; Cmin: decreased 33%; Cmax: decreased 40%</td><td valign="top">Decreased rilpivirine effects</td><td valign="top">Decreased gastric acidity leading to impaired drug solubility and absorption</td><td valign="top"><p>Do not coadminister</p><p class="warn"><i>Alternative Agents</i>: <br/><b>H2-antagonists if administered at least 12 hours before rilpivirine or at least 4 hours after rilpivirine.</b></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Rilpivirine</th><th>Effect on Drug Levels</th><th>Effect on Rilpivirine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Raltegravir<sup><a href="#591">591</a></sup><div>(RAL)(Isentress)</div></td><td valign="top">400 mg BID</td><td valign="top">25 mg QD</td><td valign="top">Raltegravir Cmin: increased 27%</td><td valign="top">-</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Rifabutin<sup><a href="#567">567</a></sup><div>(Mycobutin)(Mycobutin)</div></td><td valign="top">300 mg QD</td><td valign="top">150 mg QD</td><td valign="top">-</td><td valign="top">Rilpivirine AUC: decreased 46%; Cmin: decreased 49%; Cmax: decreased 35%</td><td valign="top">Decreased rilpivirine effects</td><td valign="top">-</td><td valign="top"><p>Do not coadminister</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Rifampin<sup><a href="#567">567</a></sup><div>(Rifampicin)(Rifadin)</div></td><td valign="top">600 mg QD</td><td valign="top">150 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: decreased 80%; Cmin: decreased 89%; Cmax: decreased 69%</td><td valign="top">Decreased rilpivirine effects</td><td valign="top">Induction of CYP450 3A4 by rifampin</td><td valign="top"><p>Do not coadminister</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Sildenafil<sup><a href="#567">567</a></sup><div>(Viagra)</div></td><td valign="top">50 mg x 1</td><td valign="top">75 mg QD</td><td valign="top">No significant change</td><td valign="top">No significant change</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Simeprevir<sup><a href="#675">675</a></sup><div>(Olysio)</div></td><td valign="top">150 mg QD x 11 days</td><td valign="top">25 mg QD x 11 days</td><td valign="top">No significant change</td><td valign="top">Rilpivirine Cmin increased 25%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Sofosbuvir<sup><a href="#659">659</a></sup><div>(Sovaldi)</div></td><td valign="top">400 mg x 1</td><td valign="top">25 mg QD</td><td valign="top">Sofosbuvir Cmax increased 21%</td><td valign="top">-</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Sofosbuvir/velpatasvir<sup><a href="#751">751</a></sup><div>(Epclusa)</div></td><td valign="top">400 mg/100 mg </td><td valign="top">25 mg</td><td valign="top">-</td><td valign="top">Rilpivirine Cmin decreased 7%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Telaprevir<sup><a href="#629">629</a></sup><div>(Incivek)</div></td><td valign="top">750 mg Q8H</td><td valign="top">25 mg QD</td><td valign="top">No significant change</td><td valign="top">Rilpivirine AUC: increased 78%; Cmin: increased 93%; Cmax: increased 49%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Tenofovir disoproxil fumarate<sup><a href="#567">567</a></sup><div>(TDF)(Viread)</div></td><td valign="top">300 mg QD</td><td valign="top">150 mg QD</td><td valign="top">Tenofovir AUC: increased 23%; Cmin: increased 24%; Cmax: increased 19%</td><td valign="top">No significant change</td><td valign="top">Potentially increased tenofovir effects</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr bgcolor="#bbbbbb"><td class="cellleft" colspan="8">"-" indicates that there are no data available
+                
+            </td></tr></table><table cellspacing="2" cellpadding="0" border="0"><tr><td valign="top" class="cellrightblue"><a name="567"> </a>567:</td><td class="cellleft">Edurant [package insert]. Raritan, NJ: Tibotec Therapeutics Inc.; May 2011.</td></tr><tr><td valign="top" class="cellrightblue"><a name="591"> </a>591:</td><td class="cellleft">Crauwels H, Stevens M, De La Rosa G, et al. Absence of pharmacokinetic interaction between the NNRTI rilpvirine and the integrase inhibitor raltegravir [paper# 617]. 19th Conference on Retroviruses and Opportunistic Infections, March 5-8, 2012. Seattle, WA.</td></tr><tr><td valign="top" class="cellrightblue"><a name="629"> </a>629:</td><td class="cellleft">Kakuda T, et al. Pharmacokinetic interaction between etravirine or rilpivirine and telaprevir in healthy volunteers: a randomised, two-way crossover trial [abstract O-18]. 13th International Workshop on Clinical Pharmacology of HIV Therapy, April 16-18, 2012. Barcelona, Spain.</td></tr><tr><td valign="top" class="cellrightblue"><a name="635"> </a>635:</td><td class="cellleft">Rhee E, Feng H-P, Xuan F, et al. Absence of a significant pharmacokinetic interaction between the hepatitis C virus protease inhibitor boceprevir and HIV-1 NNRTI rilpivirine [paper #537]. 20th Conference on Retroviruses and Opportunistic Infections, March 3-6, 2013; Atlanta, Georgia.</td></tr><tr><td valign="top" class="cellrightblue"><a name="641"> </a>641:</td><td class="cellleft">Tivicay [package insert]. Research Triangle Park, NC: Viiv Healthcare; Sept 2013.</td></tr><tr><td valign="top" class="cellrightblue"><a name="659"> </a>659:</td><td class="cellleft">Sovaldi [package insert]. Foster City, CA: Gilead Sciences; 2013.</td></tr><tr><td valign="top" class="cellrightblue"><a name="675"> </a>675:</td><td class="cellleft">Olysio [package insert]. Titusville, NJ: Janssen Therapeutics; 2013.</td></tr><tr><td valign="top" class="cellrightblue"><a name="745"> </a>745:</td><td class="cellleft">Viekira [package insert]. North Chicago, IL: AbbVie Inc.; 2016.</td></tr><tr><td valign="top" class="cellrightblue"><a name="751"> </a>751:</td><td class="cellleft">Epclusa [package insert]. Foster City, CA: Gilead Sciences, 2016.</td></tr></table></div></div><div class="footer"><p class="footerlinks"><a href="InSite?page=About">About</a> | <a href="InSite?page=SM">Site Map</a> | <a href="fb?page=Feedback">Feedback</a> | <a href="InSite?page=Subscribe">Subscribe</a> | <a href="InSite?page=Donate">Donate</a> | <a href="InSite?page=Disclaimer">Disclaimer</a></p><p class="copyright"><a href="http://chi.ucsf.edu/" target="OffSite"><img src="images/footer/chi.gif" alt="UCSF - Center for HIV Information"/></a> HIV InSite is a project of the UCSF Center for HIV Information. Copyright 2017, Regents of the University of California.</p></div></div></body></html>

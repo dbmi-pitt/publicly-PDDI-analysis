@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<DRUG name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" rxcui="">
+<ATC code="3992" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization.</DESCRIPTION>
+<SEVERITY>Precautions for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<CLASS name="ORAL ANTICOAGULANTS " code="B01A-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait two weeks between stopping the MAOI and the start of the other treatment, and at least a week between the end of that treatment and the start of the MAOI. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, confusion, even coma</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, very strict clinical monitoring. Begin the administration of the substances together with minimum recommended dosages.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>336-MIXED-ADRENERGIC-SEROTONINERGIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG1>
+<DRUG2>
+<CLASS name="ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)" code="C01CA" /></DRUG2>
+<DESCRIPTION>Paroxysmal hypertension with possibility of ventricular arrhythmias (inhibition of the entry of the sympathomimetic into the sympathic fiber)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

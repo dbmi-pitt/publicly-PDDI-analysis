@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS " code="NO2A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>2</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Buprenorphine" rxnorm="1819">
+<ATC code="N02AE01" />
+</DRUG>
+<DRUG name="Nalbuphine" rxnorm="7238">
+<ATC code="N02AF02" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>308-LAMOTRIGINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the neurological effects (vertigo, ataxia, diplopia) of the carbamazepine when the lamotrigine is introduced</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible reduction of the dosage of the carbamazepine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>308-LAMOTRIGINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations and of the effectiveness of the lamotrigine due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-avoid starting an oral contraceptive during the period of adjustment of the dosage of the lamotrigine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>308-LAMOTRIGINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations and of the effectiveness of the lamotrigine due to increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-Avoid beginning the treatment with ritonavir during the period of adjustment of the dosage of the lamotrigine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>308-LAMOTRIGINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the lamotrigine with risk of lower effectiveness, due to increase of its hepatic metabolism by the oxcarbazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations, with adjustment of the dosage of the lamotrigine if needed.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>308-LAMOTRIGINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increased risk of serious cutaneous reactions (Lyell&#39;s syndrome). In addition, increase of the plasma concentrations of lamotrigine (decrease of its hepatic metabolism by the sodium valproate)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this combination of medications is judged necessary, strict clinical monitoring.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

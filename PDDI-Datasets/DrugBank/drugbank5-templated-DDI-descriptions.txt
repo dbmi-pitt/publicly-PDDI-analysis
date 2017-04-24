@@ -1,0 +1,71 @@
+drug1 can cause a decrease in the absorption of drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+drug1 can cause an increase in the absorption of drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+drug1 may decrease effectiveness of drug2 as a diagnostic agent.
+drug1 may decrease the antihypertensive activities of drug2.
+drug1 may decrease the excretion rate of drug2 which could result in a higher serum level.
+drug1 may decrease the stimulatory activities of drug2.
+drug1 may decrease the stimulatory activities of hydroxyamphetamine hydrobromide.
+drug1 may increase the anticholinergic activities of drug2.
+drug1 may increase the anticoagulant activities of drug2.
+drug1 may increase the antiplatelet activities of drug2.
+drug1 may increase the arrhythmogenic activities of drug2.
+drug1 may increase the atrioventricular blocking (av block) activities of drug2.
+drug1 may increase the central nervous system depressant (cns depressant) activities of drug2.
+drug1 may increase the central neurotoxic activities of drug2.
+drug1 may increase the hepatotoxic activities of drug2.
+drug1 may increase the hypertensive activities of drug2.
+drug1 may increase the hypertensive activities of hydroxyamphetamine hydrobromide.
+drug1 may increase the hypoglycemic activities of drug2.
+drug1 may increase the hyponatremic activities of drug2.
+drug1 may increase the hypotensive activities of drug2.
+drug1 may increase the myopathic rhabdomyolysis activities of drug2.
+drug1 may increase the neuroexcitatory activities of drug2.
+drug1 may increase the neuromuscular blocking activities of drug2.
+drug1 may increase the neurotoxic activities of drug2.
+drug1 may increase the orthostatic hypotensive activities of drug2.
+drug1 may increase the qtc-prolonging activities of drug2.
+drug1 may increase the sedative activities of drug2.
+drug1 may increase the serotonergic activities of drug2.
+drug1 may increase the serotonergic activities of st. john&#39;s wort.
+drug1 may increase the stimulatory activities of drug2.
+drug1 may increase the stimulatory activities of hydroxyamphetamine hydrobromide.
+drug1 may increase the tachycardic activities of drug2.
+drug1 may increase the vasopressor activities of drug2.
+drug2 can cause a decrease in the absorption of drug1 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+drug2 can cause an increase in the absorption of drug1 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+drug2 may decrease the anticoagulant activities of drug1.
+drug2 may decrease the antihypertensive activities of drug1.
+drug2 may decrease the sedative activities of drug1.
+drug2 may increase the anticoagulant activities of drug1.
+drug2 may increase the arrhythmogenic activities of drug1.
+drug2 may increase the central nervous system depressant (cns depressant) activities of drug1.
+drug2 may increase the central neurotoxic activities of drug1.
+drug2 may increase the hypertensive activities of drug1.
+drug2 may increase the hypotensive activities of drug1.
+drug2 may increase the myelosuppressive activities of drug1.
+drug2 may increase the myopathic rhabdomyolysis activities of drug1.
+drug2 may increase the neuroexcitatory activities of drug1.
+drug2 may increase the neurotoxic activities of drug1.
+drug2 may increase the orthostatic hypotensive activities of drug1.
+drug2 may increase the qtc-prolonging activities of drug1.
+drug2 may increase the sedative activities of drug1.
+drug2 may increase the serotonergic activities of drug1.
+drug2 may increase the vasoconstricting activities of drug1.
+hydroxyamphetamine hydrobromide may decrease the sedative activities of drug1.
+the metabolism of drug1 can be decreased when combined with drug2.
+the metabolism of drug1 can be increased when combined with drug2.
+the metabolism of drug1 can be increased when combined with st. john&#39;s wort.
+the metabolism of drug2 can be decreased when combined with drug1.
+the risk or severity of adverse effects can be increased when drug1 is combined with drug2.
+the risk or severity of adverse effects can be increased when drug2 is combined with drug1.
+the serum concentration of drug1 can be decreased when it is combined with drug2.
+the serum concentration of drug1 can be decreased when it is combined with st. john&#39;s wort.
+the serum concentration of drug1 can be increased when it is combined with 5&#39;-deoxy-5&#39;-methylthioadenosine.
+the serum concentration of drug1 can be increased when it is combined with drug2.
+the serum concentration of drug2 can be decreased when it is combined with drug1.
+the serum concentration of drug2 can be increased when it is combined with drug1.
+the serum concentration of the active metabolites of drug1 can be increased when drug1 is used in combination with drug2.
+the serum concentration of the active metabolites of drug2 can be increased when drug2 is used in combination with drug1.
+the serum concentration of the active metabolites of drug2 can be reduced when drug2 is used in combination with drug1 resulting in a loss in efficacy.
+the therapeutic efficacy of drug1 can be decreased when used in combination with drug2.
+the therapeutic efficacy of drug2 can be decreased when used in combination with drug1.

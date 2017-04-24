@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>34-AMLODIPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="AMLODIPINE" rxcui="17767">
+<ATC code="C08CA01" />
+<ATC code="C09BB04" />
+<ATC code="C09DB01" />
+<ATC code="C09DB02" />
+<ATC code="C10BX03" />
+<ATC code="C09BB03" />
+<ATC code="C09DB04" />
+<ATC code="C09DX01" />
+<ATC code="C08GA02" />
+<ATC code="C09BX01" />
+<ATC code="C09DB07" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type (decrease of the hepatic metabolism of the cholesterol lowering medication).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 40 mg/day of simvastatin or use another statin not affected by this type of interaction</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

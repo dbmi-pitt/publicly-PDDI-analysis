@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the atazanavir, with risk of therapeutic failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CYANOCOBALAMIN" rxcui="11248">
+<ATC code="B03BA01" />
+<ATC code="B03BA02" />
+<ATC code="B03BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of deficiency of cyanocobalamin after prolonged treatment (several years), the reduction of gastric acidity by these medications can diminish the digestive absorption of the vitamin B12.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="METABLOIZED TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the bioavailability of the tyrosine kinase inhibitor, by reason of its pH-dependent absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>-except with the imatinib and the vandetanib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the intragastric pH by the antisecretory</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the intragastric pH by the antisecretory </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEDIPASVIR" rxcui="1591922">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of ledipasvir when the proton pump inhibitor is administered before the ledipasvir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that the proton pump inhibitor and the ledipasvir be taken simultaneously.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the toxicity of the methotrexate due to decrease of its elimination</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with the methotrexate in doses > 20mg /week</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHN'S WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ineffectiveness of the treatment by the antisecretory due to increase of its metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MYCOPHENOLATE MOFETIL" >
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLATE" />
+<ATC code="MOFETIL" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="7145" />
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the mycophenolic acid by about a third, with potential risk of reduction of effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal, due to increase of the intragastric pH by the antisecretory </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Not recommended</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the rilpivirine by the proton pump inhibitor (decreased absorption due to the increase of the gastric pH). </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67-PROTON-PUMP-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to decrease of its absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

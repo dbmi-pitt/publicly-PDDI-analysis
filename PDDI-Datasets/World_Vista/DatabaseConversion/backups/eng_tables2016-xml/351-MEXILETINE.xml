@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>351-MEXILETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CAFFEINE " rxcui="1886">
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to inhibition of its hepatic metabolism by the mexiletine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>351-MEXILETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUVOXAMINE" rxcui="42355">
+<ATC code="N06AB08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mexiletine, due to inhibition of its metabolism by the fluvoxamine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. Adjustment of the dosage of the mexiletine during the treatment with the fluvoxamine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>351-MEXILETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Decrease of the antiarrhythmic activity, of the plasma concentrations, and of the half life of the mexiletine (increase of its hepatic metabolism)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and possibly monitoring of the plasma concentrations of the mexiletine; if there is reason for it, adjustment of the dosage of the mexiletine during the treatment with the phenytoin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>351-MEXILETINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Increase of the theophyllinemia with risk of overdose (decrease of the hepatic metabolism of the theophylline)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the mexiletine and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

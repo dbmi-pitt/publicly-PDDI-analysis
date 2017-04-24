@@ -1,0 +1,959 @@
+Drug_Interaction_ID	Drug_1_Name	Drug_1_RxCUI	Drug_2_Name	Drug_2_RxCUI	Description	Severity	Comment
+232	CLOZAPINE	2626	ESTAZOLAM	4077	Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.	Take into account	
+232	CLOZAPINE	2626	FLURAZEPAM	4501	Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.	Take into account	
+232	CLOZAPINE	2626	ZOLPIDEM	39993	Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.	Take into account	
+Drug_Interaction_ID	Drug_1_Name	Drug_1_RxCUI	Drug_2_Name	Drug_2_RxCUI	Description	Severity	Comment
+748	FLUOXETINE	4493	RISPERIDONE	35636	Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the fluoxetine, with risk of increase of its undesirable effects	Precaution for use	Clinical monitoring, and, if needed, adjustment of the dosage of the risperidone.
+750	FLUOXETINE	4493	VORTIOXETINE	1455099	Risk of increase of the undesirable effects of the vortioxetine due to decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with fluoxetine and after it is stopped.
+753	FLUVOXAMINE	42355	CLOZAPINE	2626	Increase of the plasma concentrations of clozapine with signs of overdose	Precaution for use	Increased clinical monitoring; if needed, adjustment of the dosage of the clozapine during the treatment with the fluvoxamine and after it is stopped.
+754	FLUVOXAMINE	42355	DULOXETINE	72625	Risk of increase of the undesirable effects of the duloxetine due to decrease of its hepatic metabolism by the fluvoxamine	CONTRAINDICATION	
+758	FLUVOXAMINE	42355	OLANZAPINE	61381	Increase of the concentrations of the olanzapine, with risk of increase of the undesirable effects, due to decrease of its hepatic metabolism by the fluvoxamine	Precaution for use	Clinical monitoring and possible reduction of the dosage of the olanzapine during the treatment with fluvoxamine.
+1757	PAROXETINE	32937	RISPERIDONE	35636	Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the paroxetine, with risk of increase of the undesirable effects.	Precaution for use	Clinical monitoring and, if needed, adjustment of the dosage of the risperidone.
+1759	PAROXETINE	32937	VORTIOXETINE	1455099	Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the paroxetine and after it is stopped.
+2642	VORTIOXETINE	1455099	FLUOXETINE	4493	Risk of increase of the undesirable effects of the vortioxetine by decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the fluoxetine and after it is stopped.
+2644	VORTIOXETINE	1455099	PAROXETINE	32937	Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the viortioxetine during the treatment with the paroxetine and after it is stopped.
+Drug_Interaction_ID	Drug_Name	RxNorm	Drug_Name	RxNorm	Description	Severity	Comment
+1183	CITALOPRAM	2556	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	ESCITALOPRAM	321988	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUOXETINE	4493	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUVOXAMINE	42355	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	PAROXETINE	32937	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	SERTRALINE	36437	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	VORTIOXETINE	1455099	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1184	CITALOPRAM	2556	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	AMITRIPTYLINE	704	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	CITALOPRAM	2556	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	AMOXAPINE	722	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	AMOXAPINE	722	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	AMITRIPTYLINE	704	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	AMOXAPINE	722	Accrued risk of convulsions	Take into account	
+1436	AMOXAPINE	722	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	AMITRIPTYLINE	704	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	AMOXAPINE	722	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1439	AMITRIPTYLINE	704	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	CLOMIPRAMINE	2597	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	DULOXETINE	72625	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	IMIPRAMINE	5691	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	MILNACIPRAN	588250	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	VENLAFAXINE	39786	APIXABAN	1364430	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1447	ARIPIPRAZOLE	89013	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	AMITRIPTYLINE	704	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	ARIPIPRAZOLE	89013	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+2410	RIVAROXABAN	1114195	APIXABAN	1364430	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2410	WARFARIN	11289	APIXABAN	1364430	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2419	APIXABAN	1364430	AMITRIPTYLINE	704	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	AMITRIPTYLINE	704	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	AMITRIPTYLINE	704	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2783	WARFARIN	11289	ATORVASTATIN	83367	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+880	ESCITALOPRAM	321988	CITALOPRAM	2556	Increase of the risk of hyponatremia	Take into account	
+880	FLUOXETINE	4493	CITALOPRAM	2556	Increase of the risk of hyponatremia	Take into account	
+880	FLUVOXAMINE	42355	CITALOPRAM	2556	Increase of the risk of hyponatremia	Take into account	
+880	PAROXETINE	32937	CITALOPRAM	2556	Increase of the risk of hyponatremia	Take into account	
+880	SERTRALINE	36437	CITALOPRAM	2556	Increase of the risk of hyponatremia	Take into account	
+1184	CITALOPRAM	2556	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	AMITRIPTYLINE	704	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	CHLORPROMAZINE 	2403	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	CITALOPRAM	2556	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	CLOMIPRAMINE	2597	Accrued risk of convulsions	Take into account	
+1436	QUETIAPINE	51272	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	CHLORPROMAZINE 	2403	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	CLOMIPRAMINE	2597	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1447	AMITRIPTYLINE	704	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	CHLORPROMAZINE 	2403	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1640	FLUPHENAZINE	4496	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	HALOPERIDOL	5093	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	CHLORPROMAZINE 	2403	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	FLUPHENAZINE	4496	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	HALOPERIDOL	5093	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+2208	CITALOPRAM	2556	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	ESCITALOPRAM	321988	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	FLUPHENAZINE	4496	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	HALOPERIDOL	5093	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2212	CHLORPROMAZINE 	2403	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	ESCITALOPRAM	321988	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	FLUPHENAZINE	4496	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	HALOPERIDOL	5093	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2417	APIXABAN	1364430	CITALOPRAM	2556	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	CITALOPRAM	2556	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	CITALOPRAM	2556	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2419	APIXABAN	1364430	CLOMIPRAMINE	2597	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	CLOMIPRAMINE	2597	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	CLOMIPRAMINE	2597	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2441	CITALOPRAM	2556	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2441	ESCITALOPRAM	321988	CHLORPROMAZINE 	2403	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2441	ESCITALOPRAM	321988	CITALOPRAM	2556	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2676	AMITRIPTYLINE	704	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	CITALOPRAM	2556	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+876	ZOLPIDEM	39993	ESTAZOLAM	4077	Increase of central nervous system depression	Take into account	
+880	CITALOPRAM	2556	ESCITALOPRAM	321988	Increase of the risk of hyponatremia	Take into account	
+880	FLUOXETINE	4493	ESCITALOPRAM	321988	Increase of the risk of hyponatremia	Take into account	
+880	FLUVOXAMINE	42355	ESCITALOPRAM	321988	Increase of the risk of hyponatremia	Take into account	
+880	PAROXETINE	32937	ESCITALOPRAM	321988	Increase of the risk of hyponatremia	Take into account	
+880	SERTRALINE	36437	ESCITALOPRAM	321988	Increase of the risk of hyponatremia	Take into account	
+1184	PAROXETINE	32937	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	CLOMIPRAMINE	2597	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	CITALOPRAM	2556	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	DOXEPIN	3638	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	AMITRIPTYLINE	704	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	DOXEPIN	3638	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	ESCITALOPRAM	321988	Accrued risk of convulsions	Take into account	
+1436	AMITRIPTYLINE	704	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	CLOZAPINE 	2626	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	DOXEPIN	3638	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1447	AMITRIPTYLINE	704	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	CLOZAPINE 	2626	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	DOXEPIN	3638	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	ESTAZOLAM	4077	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1640	CHLORPROMAZINE 	2403	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	FLUPHENAZINE	4496	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	HALOPERIDOL	5093	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+2212	CHLORPROMAZINE 	2403	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	CITALOPRAM	2556	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	FLUPHENAZINE	4496	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2212	HALOPERIDOL	5093	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+2417	APIXABAN	1364430	ESCITALOPRAM	321988	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	ESCITALOPRAM	321988	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	ESCITALOPRAM	321988	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2419	APIXABAN	1364430	DULOXETINE	72625	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	DULOXETINE	72625	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	DULOXETINE	72625	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2441	CITALOPRAM	2556	ESCITALOPRAM	321988	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2676	AMITRIPTYLINE	704	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	ESCITALOPRAM	321988	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+880	CITALOPRAM	2556	FLUOXETINE	4493	Increase of the risk of hyponatremia	Take into account	
+880	ESCITALOPRAM	321988	FLUOXETINE	4493	Increase of the risk of hyponatremia	Take into account	
+880	FLUVOXAMINE	42355	FLUOXETINE	4493	Increase of the risk of hyponatremia	Take into account	
+880	PAROXETINE	32937	FLUOXETINE	4493	Increase of the risk of hyponatremia	Take into account	
+880	SERTRALINE	36437	FLUOXETINE	4493	Increase of the risk of hyponatremia	Take into account	
+880	CITALOPRAM	2556	FLUVOXAMINE	42355	Increase of the risk of hyponatremia	Take into account	
+880	ESCITALOPRAM	321988	FLUVOXAMINE	42355	Increase of the risk of hyponatremia	Take into account	
+880	FLUOXETINE	4493	FLUVOXAMINE	42355	Increase of the risk of hyponatremia	Take into account	
+880	PAROXETINE	32937	FLUVOXAMINE	42355	Increase of the risk of hyponatremia	Take into account	
+880	SERTRALINE	36437	FLUVOXAMINE	42355	Increase of the risk of hyponatremia	Take into account	
+1435	AMITRIPTYLINE	704	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	FLUOXETINE	4493	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	FLUPHENAZINE	4496	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	FLUVOXAMINE	42355	Accrued risk of convulsions	Take into account	
+1436	AMITRIPTYLINE	704	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	FLUPHENAZINE	4496	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1447	AMITRIPTYLINE	704	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	FLUPHENAZINE	4496	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	FLURAZEPAM	4501	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1640	CHLORPROMAZINE 	2403	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	HALOPERIDOL	5093	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+2208	CHLORPROMAZINE 	2403	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	CITALOPRAM	2556	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	ESCITALOPRAM	321988	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	HALOPERIDOL	5093	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2417	APIXABAN	1364430	FLUOXETINE	4493	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	FLUOXETINE	4493	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	FLUOXETINE	4493	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	APIXABAN	1364430	FLUVOXAMINE	42355	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	FLUVOXAMINE	42355	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	FLUVOXAMINE	42355	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2441	CITALOPRAM	2556	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2441	ESCITALOPRAM	321988	FLUPHENAZINE	4496	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2676	AMITRIPTYLINE	704	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	FLUOXETINE	4493	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMITRIPTYLINE	704	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	FLUVOXAMINE	42355	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2783	WARFARIN	11289	FLUVASTATIN	41127	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+1184	CITALOPRAM	2556	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	IMIPRAMINE	5691	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	AMITRIPTYLINE	704	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	HALOPERIDOL 	5093	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	IMIPRAMINE	5691	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	MAPROTILINE	6646	Accrued risk of convulsions	Take into account	
+1436	AMITRIPTYLINE	704	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	IMIPRAMINE	5691	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	LOXAPINE	6475	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMITRIPTYLINE	704	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	MAPROTILINE	6646	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1447	AMITRIPTYLINE	704	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	HALOPERIDOL	5093	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	LOXAPINE	6475	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1640	CHLORPROMAZINE 	2403	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+1640	FLUPHENAZINE	4496	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+2208	CHLORPROMAZINE 	2403	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	CITALOPRAM	2556	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	ESCITALOPRAM	321988	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2208	FLUPHENAZINE	4496	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+2419	APIXABAN	1364430	IMIPRAMINE	5691	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	IMIPRAMINE	5691	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	IMIPRAMINE	5691	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2441	CITALOPRAM	2556	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+2441	ESCITALOPRAM	321988	HALOPERIDOL	5093	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+880	CITALOPRAM	2556	PAROXETINE	32937	Increase of the risk of hyponatremia	Take into account	
+880	ESCITALOPRAM	321988	PAROXETINE	32937	Increase of the risk of hyponatremia	Take into account	
+880	FLUOXETINE	4493	PAROXETINE	32937	Increase of the risk of hyponatremia	Take into account	
+880	FLUVOXAMINE	42355	PAROXETINE	32937	Increase of the risk of hyponatremia	Take into account	
+880	SERTRALINE	36437	PAROXETINE	32937	Increase of the risk of hyponatremia	Take into account	
+1184	CITALOPRAM	2556	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	MAPROTILINE	6646	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	AMITRIPTYLINE	704	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	PAROXETINE	32937	Accrued risk of convulsions	Take into account	
+1436	AMITRIPTYLINE	704	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	TRIMIPRAMINE	10834	QUETIAPINE	51272	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1447	MIRTAZAPINE	15996	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	MAPROTILINE	6646	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	MIRTAZAPINE	15996	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	OLANZAPINE 	61381	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	PALIPERIDONE	679314	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+2417	APIXABAN	1364430	PAROXETINE	32937	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	PAROXETINE	32937	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	PAROXETINE	32937	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2419	APIXABAN	1364430	MILNACIPRAN	588250	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	MILNACIPRAN	588250	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	MILNACIPRAN	588250	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2676	AMITRIPTYLINE	704	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	PAROXETINE	32937	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2783	WARFARIN	11289	PITAVASTATIN	861634	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+2783	WARFARIN	11289	PRAVASTATIN	42463	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+880	CITALOPRAM	2556	SERTRALINE	36437	Increase of the risk of hyponatremia	Take into account	
+880	ESCITALOPRAM	321988	SERTRALINE	36437	Increase of the risk of hyponatremia	Take into account	
+880	FLUOXETINE	4493	SERTRALINE	36437	Increase of the risk of hyponatremia	Take into account	
+880	FLUVOXAMINE	42355	SERTRALINE	36437	Increase of the risk of hyponatremia	Take into account	
+880	PAROXETINE	32937	SERTRALINE	36437	Increase of the risk of hyponatremia	Take into account	
+1183	CITALOPRAM	2556	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	ESCITALOPRAM	321988	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUOXETINE	4493	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUVOXAMINE	42355	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	PAROXETINE	32937	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	SERTRALINE	36437	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	VORTIOXETINE	1455099	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1435	AMITRIPTYLINE	704	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	CLOMIPRAMINE	2597	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	TRIMIPRAMINE	10834	SERTRALINE	36437	Accrued risk of convulsions	Take into account	
+1435	AMITRIPTYLINE	704	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	AMOXAPINE	722	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	CHLORPROMAZINE 	2403	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	CITALOPRAM	2556	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1436	AMITRIPTYLINE	704	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	AMOXAPINE	722	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CHLORPROMAZINE 	2403	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOMIPRAMINE	2597	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	CLOZAPINE 	2626	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	DOXEPIN	3638	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	FLUPHENAZINE	4496	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	IMIPRAMINE	5691	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	LOXAPINE	6475	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	MAPROTILINE	6646	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1436	QUETIAPINE	51272	TRIMIPRAMINE	10834	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+1439	AMITRIPTYLINE	704	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	CLOMIPRAMINE	2597	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	DULOXETINE	72625	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	IMIPRAMINE	5691	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	MILNACIPRAN	588250	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	VENLAFAXINE	39786	RIVAROXABAN	1114195	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1447	AMITRIPTYLINE	704	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	QUETIAPINE 	51272	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	RISPERIDONE 	35636	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+2410	APIXABAN	1364430	RIVAROXABAN	1114195	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2410	WARFARIN	11289	RIVAROXABAN	1114195	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2417	APIXABAN	1364430	SERTRALINE	36437	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	SERTRALINE	36437	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	SERTRALINE	36437	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2676	AMITRIPTYLINE	704	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	SERTRALINE	36437	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2783	WARFARIN	11289	ROSUVASTATIN	301542	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+2783	WARFARIN	11289	SIMVASTATIN	36567	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+876	ESTAZOLAM	4077	ZOLPIDEM	39993	Increase of central nervous system depression	Take into account	
+1029	ATORVASTATIN	83367	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1029	FLUVASTATIN	41127	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1029	PITAVASTATIN	861634	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1029	PRAVASTATIN	42463	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1029	ROSUVASTATIN	301542	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1029	SIMVASTATIN	36567	WARFARIN	11289	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+1183	CITALOPRAM	2556	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	ESCITALOPRAM	321988	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUOXETINE	4493	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	FLUVOXAMINE	42355	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	PAROXETINE	32937	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	SERTRALINE	36437	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1183	VORTIOXETINE	1455099	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+1184	CITALOPRAM	2556	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	ESCITALOPRAM	321988	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUOXETINE	4493	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	FLUVOXAMINE	42355	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	PAROXETINE	32937	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	SERTRALINE	36437	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1184	VORTIOXETINE	1455099	TRIMIPRAMINE	10834	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+1435	CLOMIPRAMINE	2597	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	DOXEPIN	3638	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	ESCITALOPRAM	321988	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	FLUOXETINE	4493	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	FLUPHENAZINE	4496	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	FLUVOXAMINE	42355	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	HALOPERIDOL 	5093	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	IMIPRAMINE	5691	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	MAPROTILINE	6646	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	PAROXETINE	32937	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1435	SERTRALINE	36437	TRIMIPRAMINE	10834	Accrued risk of convulsions	Take into account	
+1439	AMITRIPTYLINE	704	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	CLOMIPRAMINE	2597	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	DULOXETINE	72625	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	IMIPRAMINE	5691	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	MILNACIPRAN	588250	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1439	VENLAFAXINE	39786	WARFARIN	11289	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+1447	AMITRIPTYLINE	704	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ZOLPIDEM	39993	TRIMIPRAMINE	10834	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	AMITRIPTYLINE	704	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ARIPIPRAZOLE	89013	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CHLORPROMAZINE 	2403	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	CLOZAPINE 	2626	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	DOXEPIN	3638	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	ESTAZOLAM	4077	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLUPHENAZINE	4496	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	FLURAZEPAM	4501	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	HALOPERIDOL	5093	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	LOXAPINE	6475	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MAPROTILINE	6646	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	MIRTAZAPINE	15996	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	OLANZAPINE 	61381	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	PALIPERIDONE	679314	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	QUETIAPINE 	51272	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	RISPERIDONE 	35636	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+1447	TRIMIPRAMINE	10834	ZOLPIDEM	39993	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+2410	APIXABAN	1364430	WARFARIN	11289	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2410	RIVAROXABAN	1114195	WARFARIN	11289	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+2417	APIXABAN	1364430	VORTIOXETINE	1455099	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	RIVAROXABAN	1114195	VORTIOXETINE	1455099	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2417	WARFARIN	11289	VORTIOXETINE	1455099	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+2419	APIXABAN	1364430	VENLAFAXINE	39786	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	RIVAROXABAN	1114195	VENLAFAXINE	39786	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2419	WARFARIN	11289	VENLAFAXINE	39786	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+2676	AMITRIPTYLINE	704	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	AMOXAPINE	722	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	CLOMIPRAMINE	2597	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	DOXEPIN	3638	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	IMIPRAMINE	5691	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	MAPROTILINE	6646	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+2676	TRIMIPRAMINE	10834	VORTIOXETINE	1455099	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage

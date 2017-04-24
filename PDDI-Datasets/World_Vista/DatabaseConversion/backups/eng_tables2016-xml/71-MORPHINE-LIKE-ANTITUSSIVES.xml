@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>71-MORPHINE-LIKE-ANTITUSSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MORPHINE LIKE ANTITUSSIVES" code="R05DA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="AGONIST OPIOID ANALGESICS" code="N01A-N02A" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in cases of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>71-MORPHINE-LIKE-ANTITUSSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MORPHINE LIKE ANTITUSSIVES" code="R05DA0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N02AC52" />
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in cases of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

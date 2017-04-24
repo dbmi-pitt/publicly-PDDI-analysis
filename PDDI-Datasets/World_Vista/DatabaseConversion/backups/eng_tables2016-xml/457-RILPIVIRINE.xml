@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>457-RILPIVIRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the rilpivirine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>If necessary, use an active H2 antagonist in one dose per day, to be taken at least 12 hours before or at least 4 hours after.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>457-RILPIVIRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of rilpivirine by the proton pump inhibitor (decreased absorption because of increase of the gastric pH)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>457-RILPIVIRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dexamethasone for systemic use, risk of decrease of the plasma concentrations of rilpivirine due to increase of its hepatic metabolism by the dexamethasone</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>With the exception of dexamethasone administered in a single dose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>457-RILPIVIRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of rilpivirine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>457-RILPIVIRINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentratons of rilpivirine due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>355-MIDECAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MIDECAMYCIN" rxcui="30005">
+<ATC code="J01FA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the ciclosporin, testing of renal function, and adjustment of the dosage during the administration of the substances together and after the macrolide is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

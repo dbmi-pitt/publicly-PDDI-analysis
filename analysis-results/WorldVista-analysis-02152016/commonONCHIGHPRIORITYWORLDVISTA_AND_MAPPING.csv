@@ -1,0 +1,148 @@
+drug pairs 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB01184    object:Escitalopram precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01319-http://bio2rdf.org/drugbank:DB00615    object:Fosamprenavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB01175    object:Escitalopram precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB05294    object:Vandetanib precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Moxifloxacin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00353-http://bio2rdf.org/drugbank:DB01264    object:Methylergometrine precipitant: Darunavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB00503    object:Dihydroergotamine precipitant: Ritonavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00696-http://bio2rdf.org/drugbank:DB01264    object:Ergotamine precipitant: Darunavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00615-http://bio2rdf.org/drugbank:DB01264    object:Darunavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01169-http://bio2rdf.org/drugbank:DB00738    object:Pentamidine precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB01100    object:Pimozide precipitant: Moxifloxacin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00477    object:Vandetanib precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB01184    object:Moxifloxacin precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00220-http://bio2rdf.org/drugbank:DB00696    object:Ergotamine precipitant: Nelfinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB00477    object:Halofantrine precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00477    object:Amiodarone precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01100-http://bio2rdf.org/drugbank:DB01184    object:Pimozide precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00353-http://bio2rdf.org/drugbank:DB01601    object:Methylergometrine precipitant: Lopinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00204    object:Vandetanib precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00738    object:Vandetanib precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00477    object:Chlorpromazine precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00502    object:Vandetanib precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB01100    object:Pimozide precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB01175    object:Haloperidol precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB04855    object:Dronedarone precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB00738    object:Dronedarone precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB00738    object:Droperidol precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01169-http://bio2rdf.org/drugbank:DB04855    object:Dronedarone precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB00477    object:Chlorpromazine precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB01218    object:Vandetanib precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB01218    object:Droperidol precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB00477    object:Anagrelide precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00220-http://bio2rdf.org/drugbank:DB00320    object:Dihydroergotamine precipitant: Nelfinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00503-http://bio2rdf.org/drugbank:DB00615    object:Ritonavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB00502    object:Domperidone precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00738    object:Pentamidine precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB01169    object:Halofantrine precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB01169    object:Anagrelide precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01169-http://bio2rdf.org/drugbank:DB01175    object:Escitalopram precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB01218    object:Halofantrine precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00261    object:Anagrelide precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00503-http://bio2rdf.org/drugbank:DB00696    object:Ergotamine precipitant: Ritonavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB01175    object:Chlorpromazine precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01072-http://bio2rdf.org/drugbank:DB00353    object:Methylergometrine precipitant: Atazanavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00448-http://bio2rdf.org/drugbank:DB01072    object:Atazanavir precipitant: Lansoprazole 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB01100    object:Droperidol precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00615-http://bio2rdf.org/drugbank:DB01072    object:Atazanavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB01184    object:Domperidone precipitant: Droperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00353-http://bio2rdf.org/drugbank:DB00701    object:Methylergometrine precipitant: Amprenavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB00502    object:Halofantrine precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB01026    object:Dihydroergotamine precipitant: Ketoconazole 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB00261    object:Anagrelide precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB01175    object:Escitalopram precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00701-http://bio2rdf.org/drugbank:DB00696    object:Ergotamine precipitant: Amprenavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB01100    object:Pimozide precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB00477    object:Chlorpromazine precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB01184    object:Amiodarone precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00489    object:Dofetilide precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB04855    object:Dronedarone precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB00261    object:Domperidone precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB01184    object:Chlorpromazine precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01100-http://bio2rdf.org/drugbank:DB01218    object:Halofantrine precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB01100    object:Chlorpromazine precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB01175    object:Escitalopram precipitant: Droperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00502    object:Chlorpromazine precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB01169    object:Dofetilide precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB01100    object:Haloperidol precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01100-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB00489    object:Sotalol precipitant: Moxifloxacin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01169-http://bio2rdf.org/drugbank:DB00502    object:Arsenic trioxide precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB01169    object:Domperidone precipitant: Arsenic trioxide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB01072    object:Dihydroergotamine precipitant: Atazanavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB01100    object:Sotalol precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB01218    object:Pentamidine precipitant: Halofantrine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00450    object:Dofetilide precipitant: Droperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB01175    object:Escitalopram precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01100-http://bio2rdf.org/drugbank:DB00261    object:Anagrelide precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00615-http://bio2rdf.org/drugbank:DB00701    object:Amprenavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01026-http://bio2rdf.org/drugbank:DB00696    object:Ergotamine precipitant: Ketoconazole 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB00502    object:Haloperidol precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Droperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01169-http://bio2rdf.org/drugbank:DB01118    object:Arsenic trioxide precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB01118    object:Halofantrine precipitant: Amiodarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00502    object:Dofetilide precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00503-http://bio2rdf.org/drugbank:DB00353    object:Methylergometrine precipitant: Ritonavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB01184    object:Halofantrine precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB00261    object:Dofetilide precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB01175    object:Anagrelide precipitant: Escitalopram 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB01100    object:Dofetilide precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB00489    object:Domperidone precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01118-http://bio2rdf.org/drugbank:DB00502    object:Amiodarone precipitant: Haloperidol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB04855    object:Moxifloxacin precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00218    object:Vandetanib precipitant: Moxifloxacin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB00204    object:Domperidone precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00218-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Moxifloxacin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB01601    object:Dihydroergotamine precipitant: Lopinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB05294    object:Domperidone precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01184-http://bio2rdf.org/drugbank:DB00738    object:Pentamidine precipitant: Domperidone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB00738    object:Pentamidine precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00450-http://bio2rdf.org/drugbank:DB04855    object:Droperidol precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00353-http://bio2rdf.org/drugbank:DB01026    object:Methylergometrine precipitant: Ketoconazole 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00738-http://bio2rdf.org/drugbank:DB01100    object:Pentamidine precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB01184    object:Domperidone precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01218-http://bio2rdf.org/drugbank:DB04855    object:Halofantrine precipitant: Dronedarone 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB00204    object:Dronedarone precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB00489    object:Vandetanib precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB00701    object:Dihydroergotamine precipitant: Amprenavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB05294    object:Dronedarone precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00450    object:Droperidol precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00320-http://bio2rdf.org/drugbank:DB01264    object:Dihydroergotamine precipitant: Darunavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00615-http://bio2rdf.org/drugbank:DB01601    object:Lopinavir precipitant: Rifabutin 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB05294    object:Anagrelide precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB04855-http://bio2rdf.org/drugbank:DB01100    object:Dronedarone precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00738    object:Haloperidol precipitant: Pentamidine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00218    object:Moxifloxacin precipitant: Chlorpromazine 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00489-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00220-http://bio2rdf.org/drugbank:DB00353    object:Methylergometrine precipitant: Nelfinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB00204    object:Escitalopram precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00502-http://bio2rdf.org/drugbank:DB00261    object:Haloperidol precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00477-http://bio2rdf.org/drugbank:DB00489    object:Chlorpromazine precipitant: Sotalol 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB05294-http://bio2rdf.org/drugbank:DB01169    object:Arsenic trioxide precipitant: Vandetanib 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00204-http://bio2rdf.org/drugbank:DB01218    object:Halofantrine precipitant: Dofetilide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00696-http://bio2rdf.org/drugbank:DB01072    object:Ergotamine precipitant: Atazanavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB00261-http://bio2rdf.org/drugbank:DB01118    object:Amiodarone precipitant: Anagrelide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01601-http://bio2rdf.org/drugbank:DB00696    object:Ergotamine precipitant: Lopinavir 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 
+http://bio2rdf.org/drugbank:DB01175-http://bio2rdf.org/drugbank:DB01100    object:Escitalopram precipitant: Pimozide 	ONC-HighPriority Evidence: None 	World-Vista Evidence: None 

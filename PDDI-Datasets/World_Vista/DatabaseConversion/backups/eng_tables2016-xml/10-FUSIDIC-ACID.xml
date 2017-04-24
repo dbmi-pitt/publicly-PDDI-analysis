@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>10-FUSIDIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FUSIDIC ACID" rxcui="4608">
+<ATC code="S01AA13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration dependent) of the rhabdomyolysis type.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>If possible, stop the treatment with the HMG-COA Reductase Inhibitor before starting the treatment with fusidic acid or use another antibiotic.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>10-FUSIDIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FUSIDIC ACID" rxcui="4608">
+<ATC code="S01AA13" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="OMBITASVIR + PARITAPEVIR" code="OMPA" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the fusidic acid due to decrease of its hepatic metabolism by the therapy with ombitasvir+paritaprevir</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

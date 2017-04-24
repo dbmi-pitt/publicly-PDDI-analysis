@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>497-SUXAMETHONIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUXAMETHONIUM" rxcui="10154">
+<ATC code="M03AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS" code="ACETCHO" /></DRUG2>
+<DESCRIPTION>Risk of lengthening of the motor block, increased in the case of partial deficit of pseudo-cholinesterase </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

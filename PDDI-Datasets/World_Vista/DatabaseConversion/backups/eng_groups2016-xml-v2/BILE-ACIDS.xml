@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BILE ACIDS" code="A05AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>36</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ursodesoxycholic acid" rxnorm="62427">
+<ATC code="A05AA" />
+</DRUG>
+</CLASS>

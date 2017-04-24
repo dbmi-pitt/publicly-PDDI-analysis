@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ATAZANAVIR" rxcui="343047">
+<ATC code="J05AE08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the atazanavir</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CYANOCOBALAMIN" rxcui="11248">
+<ATC code="B03BA01" />
+<ATC code="B03BA02" />
+<ATC code="B03BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of deficiency of cyanocobalamin after prolonged treatment (several years), the reduction of gastric acidity by these medications can diminish the digestive absorption of vitamin B12</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="TYROSINE-KINASE INHIBITORS" code="L01XE" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the bioavailabilty of the tyrosine kinase inhibitor, by reason of its pH-dependent absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>-except with the vandetanib</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the gastric pH by the antisecretory</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the gastric pH by the antisecretory</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the azole antifungal due to increase of the gastric pH by the antisecretory</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-only with the oral suspension form of posaconazole</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="RILPIVIRINE" rxcui="1102270">
+<ATC code="J05AG05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of the rilpivirine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>If necessary, use an active H2 antihistmine in one dose per day, to be taken at least 12 hours before, or at least 4 hours after. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>66-H2-RECEPTOR-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal due to decrease of its absorption </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

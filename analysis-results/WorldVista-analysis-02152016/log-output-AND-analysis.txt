@@ -1,0 +1,58 @@
+Three Source Overlap Analysis 
+    Number of PDDIs: 
+      NDFRT: 1868 
+      WORLDVISTA: 8378 
+      DRUGBANK: 12113  
+    Overlap : 95 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Two Source Overlap Analysis 
+    Number of PDDIs: 
+      NDFRT: 1868 
+      WORLDVISTA: 8378  
+    Overlap : 335 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Two Source Overlap Analysis 
+    Number of PDDIs: 
+      WORLDVISTA: 8378 
+      DRUGBANK: 12113  
+    Overlap : 750 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Three Source Overlap Analysis 
+    Number of PDDIs: 
+      ONCHIGHPRIORITY: 1150 
+      CREDIBLEMEDS: 82 
+      WORLDVISTA: 8378  
+    Overlap : 1 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Two Source Overlap Analysis 
+    Number of PDDIs: 
+      ONCHIGHPRIORITY: 1150 
+      WORLDVISTA: 8378  
+    Overlap : 147 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Two Source Overlap Analysis 
+    Number of PDDIs: 
+      CREDIBLEMEDS: 82 
+      WORLDVISTA: 8378  
+    Overlap : 3 
+ 
+ ------------------------------------------------------------------------------------------        
+     
+Two Source Overlap Analysis 
+    Number of PDDIs: 
+      ONCNONINTERUPTIVE: 2101 
+      WORLDVISTA: 8378  
+    Overlap : 69 
+ 
+ ------------------------------------------------------------------------------------------        
+     

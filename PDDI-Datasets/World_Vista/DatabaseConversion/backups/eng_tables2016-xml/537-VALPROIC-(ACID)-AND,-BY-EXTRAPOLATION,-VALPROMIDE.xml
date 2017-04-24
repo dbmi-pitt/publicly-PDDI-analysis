@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETAZOLAMIDE" rxcui="167">
+<ATC code="S01EC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="AZTREONAM" rxcui="1272">
+<ATC code="J01DF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to decrease of the plasma concentrations of the valproic acid</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosage of the anticonvulsant during the treatment with the antibiotic and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine with signs of overdose. In addition, decrease of the plasma concentrations of valproic acid due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages and adjustment of the dosage of the two anticonvulsants.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="FELBAMATE" rxcui="24812">
+<ATC code="N03AX10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the valproic acid, with risk of overdose. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and possible adjustment of the dosage of the valproic acid or of the valpromide during the treatment with the felbamate and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of serious cutaneous reactions (Lyell&#39;s syndorme). In addition, increase of the plasma concentrations of lamotrigine (decrease of its hepatic metabolism by the sodium valproate)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this combination of medications is judged necessary, strict clinical monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="NIMODIPINE" rxcui="7426">
+<ATC code="C08CA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the nimodipine by oral route, and by extrapolation, by injection: risk of increase of the hypotensive effect of the nimodipine due to increase of its plasma concentrations (decrease of its metabolism by the valproic acid)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<CLASS name="PENEMS" code="J01DH" /></DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to rapid decrease of the plasma concentrations of the valproic acid, that can become undetectable</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of onset of convulsive crises, due to increase of the hepatic metabolism of the valproate by the rifampicin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring and possible adjustment of the dosage of the anticonvulsant during the treatment with the rifampicin and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="RUFINAMIDE" rxcui="69036">
+<ATC code="N03AF03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the concentrations of rufinamide, especially with children who weigh less than 30 kg</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>With children weighing less than 30kg: do not exceed the total dose of 600 mg/day after the period of titration.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="38404" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia with accrued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="ZIDOVUDINE (AZT)" rxcui="11413">
+<ATC code="J05AF01" />
+<ATC code="J05AR01" />
+<ATC code="J05AR04" />
+<ATC code="J05AR05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects, especially hematological ones, of the zidovudine due to decrease of its metabolism by the valproic acid.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring. A CBC checking for anemia should be done during the course of the first two months of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>537-VALPROIC-(ACID)-AND,-BY-EXTRAPOLATION,-VALPROMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG1>
+<DRUG2>
+<DRUG name="ZONISAMIDE " rxcui="">
+<ATC code="N03AX15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hyperammonemia, with accued risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

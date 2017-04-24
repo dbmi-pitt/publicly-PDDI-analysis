@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>17-ALBENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the inducer, with risk of lower effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring of the therapeutic response and possible adjustment of the dosage of the albendazole during the treatment with the enzymatic inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>17-ALBENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the ritonavir, with risk of lower effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring of the therapeutic response and possible adjustment of the dosage of the albendazole during the treatment with the enzymatic inducer [sic] and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>17-ALBENDAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the inducer, with risk of lower effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring of the therapeutic response and possible adjustment of the dosage of the albendazole during the treatment with the enzymatic inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

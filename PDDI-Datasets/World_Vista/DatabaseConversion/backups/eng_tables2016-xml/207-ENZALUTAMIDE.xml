@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>207-ENZALUTAMIDE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ENZALUTAMIDE" rxcui="1307298">
+<ATC code="L02BB04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="GEMFIBROZIL" rxcui="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the active fraction of the enzalutamide</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reduce the dose of enzalutamide by half when it is administered with the gemfibrozil</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

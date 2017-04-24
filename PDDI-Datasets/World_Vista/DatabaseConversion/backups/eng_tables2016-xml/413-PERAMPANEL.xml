@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>413-PERAMPANEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Large decrease (up to two thirds) of the concentrations of perampanel
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>413-PERAMPANEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Fore doses of perampanel &gt; or = to 12 mg/day, risk of decrease of the effectiveness of the cyproterone</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>When used as a hormonal contraceptive: the use of another method of contraception in particular a barrier type is preferred for the length of time these substances are taken together and a cycle following</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>413-PERAMPANEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease by half of the concentrations of perampanel and slight increase of those of the oxcarbazepine.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>413-PERAMPANEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>For doses of perampanel &gt;=12 mg/day: Risk of decrease of the contraceptive effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>413-PERAMPANEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease (up to two thirds) of the concentrations of perampanel</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

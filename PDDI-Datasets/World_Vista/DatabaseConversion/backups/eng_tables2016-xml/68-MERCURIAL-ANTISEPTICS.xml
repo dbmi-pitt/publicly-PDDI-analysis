@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>68-MERCURIAL-ANTISEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MERCURIAL ANTISEPTICS" code="D08AK0" /></DRUG1>
+<DRUG2>
+<DRUG name="POVIDONE-IODINE" rxcui="8611">
+<ATC code="D08AG02" />
+<ATC code="D09AA09" />
+<ATC code="D11AC06" />
+<ATC code="G01AX11" />
+<ATC code="R02AA15" />
+<ATC code="S01AX18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Erythema, blisters, even necrosis of skin and mucosa (formation of a caustic complex in the case of concomitant use of mercurials and iodine antiseptics). The interaction depends on the stability of the organo-mercurial at the cutaneous level and on individual sensitivity.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

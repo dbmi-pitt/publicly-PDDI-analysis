@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>216-ETANERCEPT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ETANERCEPT" rxcui="214555">
+<ATC code="L04AB01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ANAKINRA" rxcui="72435">
+<ATC code="L04AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of serious infections and neutropenia</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

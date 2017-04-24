@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>353-MICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Unpredictable hemorrhages, possibly serious</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>353-MICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this is possible, interrupt the azole antifungal. If administering these substances together cannot be avoided, testing before hand of the QT and EKG monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>353-MICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin which can reach toxic values. Mechanism proposed: inhibition of the hepatic metabolism of the phenytoin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>353-MICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>353-MICONAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="MICONAZOLE" rxcui="6932">
+<ATC code="A01AB09" />
+<ATC code="A07AC01" />
+<ATC code="D01AC02" />
+<ATC code="G01AF04" />
+<ATC code="J02AB01" />
+<ATC code="S02AA13" />
+<ATC code="D01AC52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>With the miconazole by general route or oral gel: increase of the hypoglycemic effect with possible onset of hypoglycemic manifestations, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

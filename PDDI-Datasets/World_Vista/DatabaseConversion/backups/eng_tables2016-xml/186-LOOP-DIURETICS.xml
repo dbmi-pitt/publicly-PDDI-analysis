@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>186-LOOP-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Increase of the nephrotoxic and ototoxic risks of the aminoglycoside (functional renal insufficiency linked to the dehydration caused by the diuretic)
+
+
+
+
+
+
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT></COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>186-LOOP-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium as with a low sodium regimen (decrease of the urinary excretion of the lithium)</DESCRIPTION>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>186-LOOP-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Lactic acidosis due to the metformin, set into action by a possible functional renal insufficiency, linked to the loop diuretics</DESCRIPTION>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>186-LOOP-DIURETICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="PLATINUM-BASED ANTINEOPLASTIC CANCER DRUGS" code="L01XA" /></DRUG2>
+<DESCRIPTION>Risk of addition of the ototoxic and/or nephrotoxic effects</DESCRIPTION>
+</INTERACTION>
+</INTERACTIONS>

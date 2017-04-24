@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a therapeutic alternative that is little or not at all metabolized. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="H2 RECEPTOR ANTAGONISTS" code="A02BA-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to decrease of its absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROTON PUMP INHIBITORS" code="A02BC-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to decrease of its absorption</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HA01" />
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of antagonism of the progestative effects</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Do not take a progestative treatment fewer than 12 hours after stopping the ulipristal.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of antagonism of the effects of the estrogen-progestin contraceptive</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Do not restart the combined estrogen-progestin treatment fewer than 12 days after stopping the ulipristal.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a therapeutic alternative that is little or not at all metabolised. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a therapeutic alternative that is little or not at all metabolized. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Risk of antagonism of the effects of the progestin contraceptive</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Do not restart a progestin treatment fewer than 12 days after stopping the ulipristal.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE PROGESTOGENS, COMBINED WITH AN ESTROGEN OR NOT" code="G03-003" /></DRUG2>
+<DESCRIPTION>Risk of antagonism of the effects of the progestin contraceptive</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>In an indication for uterine fibroids, do not restart a progestin treatment fewer than 12 days after the ulipristal is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>534-ULIPRISTAL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Chose a therapeutic alternative that is little or not at all metabolized.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

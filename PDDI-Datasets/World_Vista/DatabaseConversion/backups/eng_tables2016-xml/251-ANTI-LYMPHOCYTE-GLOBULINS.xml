@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>251-ANTI-LYMPHOCYTE-GLOBULINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Excessive immunodepression with risk of lymphoproliferative disorders (LPDs)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>251-ANTI-LYMPHOCYTE-GLOBULINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal general illness. This risk is increased in older patients already immunodepressed by the underlying disease.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>In particular, use an inactivated vaccine when one exists (poliomyelitis)</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>285-CATECHOL-O-METHYLTRANSFERASE-INHIBITORS-(COMT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="CATECHOL-O-METHYLTRANSFERASE INHIBITORS (COMT) " code="COMT" /></DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Increase of the pharmacological effects, and especially increase in blood pressure and contraction of the blood vessels, by the catecholamines due to the combined inhibition of their metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

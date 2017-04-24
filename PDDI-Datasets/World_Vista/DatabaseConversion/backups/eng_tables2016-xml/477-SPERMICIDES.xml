@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>477-SPERMICIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SPERMICIDES" code="R02AA" /></DRUG1>
+<DRUG2>
+<DRUG name="MEDICATIONS USED BY VAGINAL ROUTE" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>All topical vaginal treatment is susceptible to disrupting the action of a topical spermicidal contraceptive</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

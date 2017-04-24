@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ABATACEPT " rxcui="614391">
+<ATC code="L04AA24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>as well as during the 3 months following the end of the treatment</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)" code="MONANT" /></DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal. </DESCRIPTION>
+<SEVERITY>Not recommended with</SEVERITY>
+<COMMENT>-- belimumab, blinatumomab, canakinumab, obinutuzumab, ofatumumab, rituximab, tocilizumab, ustekinumab</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="LO4AB" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the treatment</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BELATACEPT" rxcui="1112973">
+<ATC code="L04AA28" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="CYTOTOXICS" code="L01" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>--And during the 6 months following the end of the chemotherapy</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DIMETHYL (FUMERATE OF)" rxcui="1373478">
+<ATC code="N07XX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the risk of infection</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease. This risk is increased in older patients already immunodepressed by the underlying disease.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>In particular, use an inactive vaccine when one exists (poliomyelitis).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>With the exception of inhaled and local routes and for dosages greater than 10mg/day of prednisone equivalent (or &gt;2mg/kg/day with children or &gt;20 mg/day for children weighing more than 10 kg) for more than two weeks and for administration in &quot;bolus&quot; of the corticoids:
+
+risk of possibly fatal general vaccine disease.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the corticotherapy</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="HYDROXYCARBAMIDE " rxcui="5552">
+<ATC code="L01XX05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In its indication for the patient with drepanocytosis, theoretic risk of general fatal vaccine disease.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Administering these medications together should only be considered if the benefits are estimated to be superior to this risk.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the treatment</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MYCOPHENOLATE MOFETIL" >
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLATE" />
+<ATC code="MOFETIL" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="MYCOPHEN" />
+<ATC code="OLIC" />
+<ATC code="ACID" />
+<ATC code="7145" />
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months following the end of the treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="MYCOPHENOLATE SODIUM " rxcui="408142">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of possibly fatal general vaccine disease </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>And during the 3 months after the end of the treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>536-ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TERIFLUNOMIDE" rxcui="1310520">
+<ATC code="L04AA31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of general vaccine disease, possibly fatal</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

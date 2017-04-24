@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>493-SULFASALAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SULFASALAZINE" rxcui="9524">
+<ATC code="A07EC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digoxinemia that can reach 50%</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly, monitoring of the digoxinemia. If there is reason for it, adjustment of the dosage of the digoxin during the treatment with the sulfasalazine and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

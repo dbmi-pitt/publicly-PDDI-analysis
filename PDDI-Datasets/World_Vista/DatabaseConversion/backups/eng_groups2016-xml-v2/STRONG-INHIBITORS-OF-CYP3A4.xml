@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>135</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Boceprevir " rxnorm="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+<DRUG name="Clarithromycin" rxnorm="21212">
+<ATC code="J01FA09" />
+</DRUG>
+<DRUG name="Cobicistat" rxnorm="1306284">
+<ATC code="V03AX03" />
+<ATC code="J05AR09" />
+</DRUG>
+<DRUG name="Erythromycin" rxnorm="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+<DRUG name="Itraconazole" rxnorm="28031">
+<ATC code="J02AC02" />
+</DRUG>
+<DRUG name="Ketoconazole " rxnorm="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+<DRUG name="Posaconazole" rxnorm="282446">
+<ATC code="J02AC04" />
+</DRUG>
+<DRUG name="Ritonavir" rxnorm="85762">
+<ATC code="J05AE03" />
+</DRUG>
+<DRUG name="Telaprevir " rxnorm="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+<DRUG name="Telithromycin" rxnorm="274786">
+<ATC code="J01FA15" />
+</DRUG>
+<DRUG name="Voriconazole " rxnorm="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</CLASS>

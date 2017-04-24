@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of ciclosporin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Testing of the blood concentrations of ciclosporin and possible adjustment of its dosage during the treatment with terbinafine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLECAINIDE" rxcui="4441">
+<ATC code="C01BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the flecainide, due to decrease of its hepatic metabolism by the terbinafine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the flecaidine during the treatment with the terbinafine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the patient having heart failure, risk of increase of the undesirable effects of the metoprolol, due to decrease of its hepatic metabolism by the terbinafine.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the metoprolol during the treatment with the terbinafine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the propafenone, due to decrease of its hepatic metabolism by the terbinafine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the propafenone during the treatment with the terbinafine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations and of the effectiveness of the terbinafine, due to increase of its hepatic metabolism by the rifampicin.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring. If needed, adjustment of the dosage of the terbinafine during the treatment with the rifampicin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TAMOXIFEN" rxcui="10324">
+<ATC code="L02BA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the tamoxifen, due to inhibition of the formation of its active metabolite by the terbinafine. </DESCRIPTION>
+<SEVERITY>Nor recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>509-TERBINAFINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TERBINAFINE" rxcui="37801">
+<ATC code="D01AE15" />
+<ATC code="D01BA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORTIOXETINE" rxcui="1455099">
+<ATC code="N06AX26" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the terbinafine and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

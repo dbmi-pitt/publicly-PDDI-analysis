@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, regular clinical and biological monitoring, especially at the beginning of the administration of them together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN  " rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolysis type, due to decrease of the hepatic metabolism of the atorvastatin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not exceed the dosage of 20mg/day of atorvastatin. If the therapeutic objective is not reached with this dosage, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DROSPIRENONE" rxcui="840781">
+<ATC code="G03FA17" />
+<ATC code="G03AA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase by more than double of the concentrations of drosperinone when taken with the boceprevir</DESCRIPTION>
+<SEVERITY>Nor recommended</SEVERITY>
+<COMMENT>Choose a contraceptive with another progestin, especially in cases of hyperkalemia </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE ESTROGENS" code="G03C-001" /></DRUG2>
+<DESCRIPTION>Decrease of the effectiveness of the estrogen.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the hormonal treatment during the administration with the boceprevir.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Aside from the combination with ethinylestradiol (0.035mg)/noresthisterone (1mg), risk of decrease of the contraceptive effectiveness due to increase of the hepatic metabolism by the hormonal contraceptive by the boceprevir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the time these medications are taken together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant (substantial for the ciclosporin, extremely large for the tacrolimus)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of renal function, and adjustment of the dosage during the administration of the medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the boceprevir and of the lopinavir (or darunavir or fosamprenavir), with risk of therapeutic failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHADONE  " rxcui="6813">
+<ATC code="N02AC52" />
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of methadone, with risk of appearance of a withdrawal syndrome, due to increase of its hepatic metabolism by the boceprevir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and possible adjustment of the dosage of methadone.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Aside from the combination with ethinylestradiol (0.035mg)/noresthisterone (1mg), risk of decrease of the contraceptive effectiveness due to increase of the hepatic metabolism of the hormonal contraceptive by the boceprevir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Use a reliable contraceptive method, additional or alternative, during the time these medications are taken together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations of boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, regular clinical and biological monitoring, especially at the beginning of treatment with the two medications together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97-BOCEPREVIR.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TENEFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the tenefovir alafenamide by decrease of its intracellular activity by the boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

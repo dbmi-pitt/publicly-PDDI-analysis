@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>389-OMEPRAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OMEPRAZOLE" rxcui="7646">
+<ATC code="A02BC01" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate increase of the digoxinemia due to increase of its absorption by the omeprazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and monitoring of the digoxinemia, particularly with an older patient. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>389-OMEPRAZOLE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OMEPRAZOLE" rxcui="7646">
+<ATC code="A02BC01" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the tacrolimus</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the tacrolimus, testing of the renal function and adjustment of the dosage during the administration of the substances together and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

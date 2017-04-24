@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ALPHA BLOCKERS FOR UROLOGICAL USE" code="G04CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>5</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfuzosin" rxnorm="17300">
+<ATC code="G04CA01" />
+<ATC code="G04CA51" />
+</DRUG>
+<DRUG name="Doxazosin" rxnorm="49276">
+<ATC code="C02CA04" />
+</DRUG>
+<DRUG name="Prazosin" rxnorm="8629">
+<ATC code="C02CA01" />
+<ATC code="C02LE01" />
+</DRUG>
+<DRUG name="Silodosin" rxnorm="720825">
+<ATC code="G04CA04" />
+</DRUG>
+<DRUG name="Tamsulosin" rxnorm="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+<DRUG name="Terazosin" rxnorm="37798">
+<ATC code="G04CA03" />
+</DRUG>
+</CLASS>

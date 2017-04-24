@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>373-NEBIVOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEBIVOLOL" rxcui="31555">
+<ATC code="C07AB12" />
+<ATC code="C07BB12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLUOXETINE" rxcui="4493">
+<ATC code="N06AB03" />
+<ATC code="N06CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the nebivolol, with especially excessive bradycardia, due to inhibition of its metabolism by the antidepressant</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring; if needed, adjustment of the dosage of the nebivolol during the length of the treatment with the antidepressant and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>373-NEBIVOLOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NEBIVOLOL" rxcui="31555">
+<ATC code="C07AB12" />
+<ATC code="C07BB12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PAROXETINE" rxcui="32937">
+<ATC code="N06AB05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the nebivolol, with especially excessive bradycardia, due to inhibition of its metabolism by the antidepressant</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring; if needed adjustment of the dosage of the nebivolol during the length of the treatment with the antidepressant and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

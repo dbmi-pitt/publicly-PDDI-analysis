@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the tetracycline antibiotic and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the tetracycline antibiotics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the tetracycline antibiotic (more than two hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the tetracycline antibiotics administered by oral route: decrease of the digestive absorption of the tetracycline antibiotics (formation of complexes)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the tetracycline antibiotics (more than 2 hours apart, if possible). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<CLASS name="RETINOIDS" code="D05-D10" /></DRUG2>
+<DESCRIPTION>Risk of intracranial hypertension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<DRUG name="STRONTIUM" rxcui="81638">
+<ATC code="V10BX01" />
+<ATC code="M05BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the strontium </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the strontium at a different time from the tetracycline antibiotics (more than two hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<DRUG name="VITAMIN A" rxcui="11246">
+<ATC code="A11C" />
+<ATC code="A11CA" />
+<ATC code="A11CA01" />
+<ATC code="A11CA02" />
+<ATC code="A11CB" />
+<ATC code="V04CB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of intake of 10,000 IU/day and more: risk of intracranial hypertension </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>147-TETRACYCLINE-ANTIBIOTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG1>
+<DRUG2>
+<DRUG name="ZINC" rxcui="">
+<ATC code="1431163" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the tetracycline antibiotics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the zinc salts at a different time from the tetracycline antibiotics (more than two hours apart if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

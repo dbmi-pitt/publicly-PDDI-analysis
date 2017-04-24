@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>135-CLONAZEPAM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLONAZEPAM" rxcui="2598">
+<ATC code="N03AE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the active metabolite of the carbamazepine. In addition, decrease of the plasma concentrations of the clonazepam due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, plasma dosages, and possible adjustment of the dosages of the two anticonvulsants</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>155-DALFOPRISTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DALFOPRISTIN" rxcui="229369">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIHYDROERGOTAMINE" rxcui="3418">
+<ATC code="N02CA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>155-DALFOPRISTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DALFOPRISTIN" rxcui="229369">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERGOTAMINE" rxcui="4025">
+<ATC code="N02CA02" />
+<ATC code="N02CA51" />
+<ATC code="N02CA52" />
+<ATC code="N02CA72" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Ergotism with possibility of necrosis of the extremities (inhibition of the hepatic metabolism of the alkaloid of ergot of rye).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>155-DALFOPRISTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DALFOPRISTIN" rxcui="229369">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of the immunosuppressant, testing of the renal function, and adjustment of the dosage during the treatment with these medications together and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>155-DALFOPRISTIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DALFOPRISTIN" rxcui="229369">
+<ATC code="J01FG02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PIMOZIDE" rxcui="8331">
+<ATC code="N05AG02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

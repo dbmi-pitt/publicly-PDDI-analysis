@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PENEMS" code="J01DH">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>115</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ertapenem " rxnorm="325642">
+<ATC code="J01DH03" />
+</DRUG>
+<DRUG name="Imipenem" rxnorm="5690">
+</DRUG>
+<DRUG name="Meropenem" rxnorm="29561">
+<ATC code="J01DH02" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIEMITIC NEUROLEPTICS" code="A03FA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>17</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alizapride" rxnorm="17311">
+<ATC code="A03FA05" />
+</DRUG>
+<DRUG name="Metoclopramide" rxnorm="6915">
+<ATC code="A03FA01" />
+</DRUG>
+</CLASS>

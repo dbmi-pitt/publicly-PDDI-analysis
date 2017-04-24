@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="STEP II OPIOID ANALGESICS" code="N02A-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>134</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Codeine " rxnorm="2670">
+<ATC code="R05DA04" />
+</DRUG>
+<DRUG name="Dihydrocodeine" rxnorm="23088">
+<ATC code="N02AA08" />
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+</DRUG>
+</CLASS>

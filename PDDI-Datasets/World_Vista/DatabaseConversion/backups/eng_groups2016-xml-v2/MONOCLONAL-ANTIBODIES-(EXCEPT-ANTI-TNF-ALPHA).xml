@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MONOCLONAL ANTIBODIES (EXCEPT ANTI-TNF ALPHA)" code="MONANT">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>97</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Belimumab" rxnorm="1092437">
+<ATC code="L04AA26" />
+</DRUG>
+<DRUG name="Bevacizumab" rxnorm="253337">
+<ATC code="L01XC07" />
+</DRUG>
+<DRUG name="Blinatumomab" rxnorm="1597258">
+</DRUG>
+<DRUG name="Brentuximab" rxnorm="1147320">
+</DRUG>
+<DRUG name="Canakinumab" rxnorm="853491">
+<ATC code="L04AC08" />
+</DRUG>
+<DRUG name="Cetuximab" rxnorm="318341">
+<ATC code="L01XC06" />
+</DRUG>
+<DRUG name="Denosumab" rxnorm="993449">
+</DRUG>
+<DRUG name="Ibritumomab" rxnorm="337130">
+<ATC code="V10XX02" />
+</DRUG>
+<DRUG name="Ipilimumab " rxnorm="1094833">
+<ATC code="L01XC11" />
+</DRUG>
+<DRUG name="Natalizumab" rxnorm="354770">
+<ATC code="L04AA23" />
+</DRUG>
+<DRUG name="Nivolumab" rxnorm="1597876">
+<ATC code="L01XC17" />
+</DRUG>
+<DRUG name="Obinutuzumab" rxnorm="974779">
+<ATC code="L01XC15" />
+</DRUG>
+<DRUG name="Ofatumumab" rxnorm="712566">
+<ATC code="L01XC10" />
+</DRUG>
+<DRUG name="Panitumumab" rxnorm="263034">
+<ATC code="L01XC08" />
+</DRUG>
+<DRUG name="Pembrolizumab" rxnorm="1547545">
+<ATC code="L01XC18" />
+</DRUG>
+<DRUG name="Ramucirumab" rxnorm="1535922">
+<ATC code="L01XC21" />
+</DRUG>
+<DRUG name="Rituximab" rxnorm="121191">
+<ATC code="L01XC02" />
+</DRUG>
+<DRUG name="Tocilizumab" rxnorm="612865">
+<ATC code="L04AC07" />
+</DRUG>
+<DRUG name="Trastuzumab" rxnorm="224905">
+</DRUG>
+<DRUG name="Ustekinumab" rxnorm="847083">
+<ATC code="L04AC05" />
+</DRUG>
+<DRUG name="Vedolizumab" rxnorm="1538097">
+<ATC code="L04AA33" />
+</DRUG>
+</CLASS>

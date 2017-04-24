@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>123-CHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CHLOROQUINE" rxcui="2393">
+<ATC code="P01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the blood concentrations of ciclosporin and of the creatinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Blood concentration dosage of ciclosporin, testing of the renal function, and adjustment of the dosage during the administration of the substances together and after the chloroquine is stopped.  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>123-CHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CHLOROQUINE" rxcui="2393">
+<ATC code="P01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Slowing of the elimination of the chloroquine and risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>123-CHLOROQUINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CHLOROQUINE" rxcui="2393">
+<ATC code="P01BA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of clinical hypothyroidism in patients taking thyroid hormones in substitution therapy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of serum concentrations of T3 and T4 and adjustment, if needed, of the dosage of the thyroid hormone during the treatment with the antimalarial and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

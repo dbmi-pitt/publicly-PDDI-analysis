@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HALOGENATED HYDROCARBON ANESTHETICS " code="N01AB0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>67</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Desflurane" rxnorm="27340">
+<ATC code="N01AB07" />
+</DRUG>
+<DRUG name="Halothane" rxnorm="5095">
+<ATC code="N01AB01" />
+</DRUG>
+<DRUG name="Isoflurane" rxnorm="6026">
+<ATC code="N01AB06" />
+</DRUG>
+<DRUG name="Methoxyflurane" rxnorm="6857">
+<ATC code="N02BG09" />
+</DRUG>
+<DRUG name="Sevoflurane" rxnorm="36453">
+<ATC code="N01AB08" />
+</DRUG>
+</CLASS>

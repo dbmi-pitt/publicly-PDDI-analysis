@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>168-DERIVATIVES-OF-AMINOSALICYLIC-ACID-(ASA).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="DERIVATIVES OF AMINOSALICYLIC ACID (ASA)" code="A07EC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTIPURINES" code="ANTIPUR" /></DRUG2>
+<DESCRIPTION>Risk of increase of the myelosuppression of the immunomodulator by inhibition of its hepatic metabolism by the ASA derivative, especially with patients presenting a partial deficit of thiopurine methyltransferase (TMPT)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

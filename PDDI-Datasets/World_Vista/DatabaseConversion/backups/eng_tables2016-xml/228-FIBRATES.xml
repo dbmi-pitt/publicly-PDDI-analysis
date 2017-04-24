@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>228-FIBRATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER FIBRATES" code="C01AB-001" /></DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects of the rhabdomyolosis type and of pharmacodynamic antagonism between the two molecules</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>228-FIBRATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the fibrate and a week after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>228-FIBRATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable muscular effects of these substances, and especially of rhabdomyolosis</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, particularly at the beginning of the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>228-FIBRATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FIBRATES" code="C01AB-001" /></DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects (dose-dependent) of the rhabdomyolosis type. Furthermore, with the gemfibrozil, decrease of the metabolism of the simvastatin and of the rosuvastatin, which increases the muscular risk, as well as the nephrotoxicity of the rosuvastatin</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>--for doses of 40mg of rosuvastatin</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>230-FINGOLIMOD.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FINGOLIMOD" rxcui="1012892">
+<ATC code="L04AA27" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BRADYCARDIA INDUCING DRUGS" code="C0N0S0" /></DRUG2>
+<DESCRIPTION>Increase of the bradycardia inducing effects which can have fatal consequences. The beta-blocking agents are even more at risk since they inhibit the adrenergic compensation mechanisms</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Clinical monitoring and continuous EKG during the 24 hours following the first dose.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

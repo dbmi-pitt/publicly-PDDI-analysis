@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="MEDICATIONS AT RISK WHEN WITHDRAWING FROM TOBACCO" code="NO-R0-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>85</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Clozapine" rxnorm="2626">
+<ATC code="N05AH02" />
+</DRUG>
+<DRUG name="Methadone " rxnorm="6813">
+<ATC code="N07BC02" />
+</DRUG>
+<DRUG name="Ropinirole " rxnorm="72302">
+<ATC code="N04BC04" />
+</DRUG>
+<DRUG name="Theophylline" rxnorm="10438">
+<ATC code="R03DA04" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>11</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Benazepril" rxnorm="18867">
+<ATC code="C09AA07" />
+</DRUG>
+<DRUG name="Captopril" rxnorm="1998">
+<ATC code="C09AA01" />
+</DRUG>
+<DRUG name="Cilazapril" rxnorm="21102">
+<ATC code="C09AA08" />
+<ATC code="C09BA08" />
+</DRUG>
+<DRUG name="Enalapril" rxnorm="3827">
+<ATC code="C09AA02" />
+<ATC code="C09BA02" />
+<ATC code="C09BB02" />
+<ATC code="C09BB06" />
+</DRUG>
+<DRUG name="Fosinopril" rxnorm="50166">
+<ATC code="C09AA09" />
+<ATC code="C09BA09" />
+</DRUG>
+<DRUG name="Lisinopril" rxnorm="29046">
+<ATC code="C09AA03" />
+</DRUG>
+<DRUG name="Moexipril" rxnorm="30131">
+<ATC code="C09AA13" />
+</DRUG>
+<DRUG name="Perindopril tert-butylamine" rxnorm="54552">
+<ATC code="C09AA04" />
+<ATC code="C09BB04" />
+<ATC code="C09BA04" />
+<ATC code="C09BX01" />
+</DRUG>
+<DRUG name="Quinapril" rxnorm="35208">
+<ATC code="C09AA06" />
+</DRUG>
+<DRUG name="Ramipril" rxnorm="35296">
+<ATC code="\C09AA05" />
+</DRUG>
+<DRUG name="Trandolapril" rxnorm="38454">
+<ATC code="C09AA10" />
+</DRUG>
+<DRUG name="Zofenopril" rxnorm="39990">
+<ATC code="C09AA15" />
+<ATC code="C09BA15" />
+</DRUG>
+</CLASS>

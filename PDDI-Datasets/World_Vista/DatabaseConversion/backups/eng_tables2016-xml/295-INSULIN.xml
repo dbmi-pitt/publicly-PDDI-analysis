@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL" >
+<ATC code="DRINK" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+<ATC code="INGREDIE" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hypoglycemic reaction (inhibition of the compensation reactions which can facilitate the onset of hypoglycemic coma)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SOMATOSTATIN ANALOGS" code="H01CB0-001" /></DRUG2>
+<DESCRIPTION>Risk of hypoglycemia or hyperglycemia: decrease or increase of the needs for insulin, due to decrease or increase of the secretion of endogenous glucagon</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient of the risk of hypoglycemia or hyperglycemia, strengthen self-monitoring of blood glucose, and adjust the dosage of insulin if needed during the treatment with the somatostatin analog.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001" /></DRUG2>
+<DESCRIPTION>Elevation of the glycemia by the beta-2 mimetic</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen blood and urine monitoring</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and, especially at the start of treatment, strengthen self-monitoring of blood glucose. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>All the beta-blocking agents can mask certain symptoms of hypoglycemia: palpitations and tachycardia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and, especially at the start of treatment, strengthen self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CHLORPROMAZINE" rxcui="2403">
+<ATC code="N05AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With large dosages (100 mg/day of chlorpromazine): elevation of the glycemia (decrease of the freeing of the insulin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and strengthen self-monitoring of blood glucose. Possibly adjust the dosage of the insulin during the treatment with the neuroleptic and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DANAZOL" rxcui="3102">
+<ATC code="G03XA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Diabetes inducing effect of the danazol </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, inform the patient and strengthen self-monitoring of blood glucose. Possibly adjust the dosage of the insulin during the treatment with the danazol and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>295-INSULIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="INSULIN" rxcui="5856">
+<ATC code="A10AC01" />
+<ATC code="A10AC02" />
+<ATC code="A10AC03" />
+<ATC code="A10AC04" />
+<ATC code="A10AD01" />
+<ATC code="A10AD02" />
+<ATC code="A10AD03" />
+<ATC code="A10AD04" />
+<ATC code="A10AD05" />
+<ATC code="A10AE01" />
+<ATC code="A10AE02" />
+<ATC code="A10AE03" />
+<ATC code="A10AE04" />
+<ATC code="A10AE05" />
+<ATC code="A10AF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>The use of an ACE inhibitor can lead to an increase of the hypoglycemic effect in a diabetic treated with insulin. The onset of hypoglycemic difficulties seems exceptional (improvement of the tolerance for glucose that would have the result of a reduction of the need for insulin).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strengthen self-monitoring of blood glucose</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

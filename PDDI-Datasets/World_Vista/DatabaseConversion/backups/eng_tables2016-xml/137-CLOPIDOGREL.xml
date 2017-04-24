@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>137-CLOPIDOGREL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage due to addition of the platelet antiagregation action
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-aside from validated indications for this combination of drugs in acute coronary syndromes. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>137-CLOPIDOGREL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PACLITAXEL" rxcui="56946">
+<ATC code="L01CD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the paclitaxel by the clopidogrel, with risk of increase of the undesirable effects.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>137-CLOPIDOGREL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of phenytoin with signs of overdose (inhibition of the metabolism of the phenytoin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>137-CLOPIDOGREL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the repaglinide by the clopidogrel, with risk of increase of the undesirable effects.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

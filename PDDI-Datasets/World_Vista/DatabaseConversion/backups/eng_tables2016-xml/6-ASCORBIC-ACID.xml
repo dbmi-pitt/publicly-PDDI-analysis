@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>6-ASCORBIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ASCORBIC ACID" rxcui="1151">
+<ATC code="S01XA15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFEROXAMINE" rxcui="3131">
+<ATC code="V03AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With large doses of ascorbic acid and by intravenous route: 
+
+cardiac function anomalies, even acute heart failure (generally reversible by ending the administration of the Vitamin C).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In the case of hemochromatosis, only give Vitamin C after having started the treatment with the deferoxamine. Monitor cardiac function when these substances are administered together.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

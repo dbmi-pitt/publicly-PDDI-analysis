@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>409-AMINOPENICILLINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOPENICILLINS" code="J01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="ALLOPURINOL" rxcui="519">
+<ATC code="M04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of cutaneous reactions
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>409-AMINOPENICILLINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="AMINOPENICILLINS" code="J01CA" /></DRUG1>
+<DRUG2>
+<DRUG name="MYCOPHENOLATE MOFETIL" rxcui="7145">
+<ATC code="L04AA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the mycophenolic acid by about a third, with potential risk of reduction of effectiveness</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

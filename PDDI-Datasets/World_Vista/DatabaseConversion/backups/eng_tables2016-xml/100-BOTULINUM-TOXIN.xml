@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>100-BOTULINUM-TOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="BOTULINUM TOXIN" rxcui="1716">
+<ATC code="M03AX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="AMINOGLYCOSIDES" code="J01GB-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the effects of the botulinum toxin with the aminoglycosides (by extrapolation from the effects observed during the course of the botulism)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use another antibiotic.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

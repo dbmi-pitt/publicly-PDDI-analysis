@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>82-OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001" /></DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the protease inhibitor, with risk of appearance of Cushing&#39;s syndrome, even of adrenal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>82-OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the itraconazole, with risk of appearance of Cushing&#39;s syndrome, even of adrenal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>82-OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="KETOCONAZOLE" rxcui="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the ketoconazole, with risk of appearance of Cushing&#39;s syndrome, even of adrenal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>82-OTHER-CORTICOIDES,-ESPECIALLY-INHALED-ONES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001" /></DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the voriconazole, with risk of appearance of Cushing&#39;s syndrome, even of adrenal insufficiency</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

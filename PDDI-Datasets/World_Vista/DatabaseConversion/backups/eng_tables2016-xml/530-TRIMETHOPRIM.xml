@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>530-TRIMETHOPRIM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the trimethoprim (alone or in combination) by oral route: increase of the creatinemia with possible decrease of the blood concentrations of ciclosporin
+
+With trimethoprime (alone or in combination) by IV route: the decrease of the blood concentrations of ciclosporin can be very large with possible loss of all immunosuppressant capacity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>530-TRIMETHOPRIM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate (decrease of its renal excretion as well as inhibition of the dihydrofolate reductase).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>530-TRIMETHOPRIM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PYRIMETHAMINE" rxcui="9010">
+<ATC code="P01BD01" />
+<ATC code="P01BD51" />
+<ATC code="P01BF04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Megaloblastic anemia, more particularly with strong doses of the two products (deficit of folic acid due to the combination of the two 2-4 diaminopyrimidines)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular CBC and addition of a treatment with folic acid (regular IM injections). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>530-TRIMETHOPRIM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRIMETHOPRIM" rxcui="10829">
+<ATC code="J01EA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REPAGLINIDE" rxcui="73044">
+<ATC code="A10BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of repaglinide due to inhibition of its hepatic metabolism by the trimethoprim</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these medications together cannot be avoided, strict clinical and biological monitoring. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

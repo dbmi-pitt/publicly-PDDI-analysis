@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>157-DANTROLENE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DANTROLENE" rxcui="3105">
+<ATC code="M03CA" />
+<ATC code="M03CA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="DIHYDROPYRIDINES" code="C08CA-002" /></DRUG2>
+<DESCRIPTION>With the dantrolene administered via IV: cases of fatal ventricular fibrillations are constantly observed in animals when verapamil and dantrolene are administered via IV. The administration of a calcium channel blocker and dantrolene is thus potentially dangerous. However, some patients have received nifedipine and dantrolene together without incident</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>157-DANTROLENE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DANTROLENE" rxcui="3105">
+<ATC code="M03CA" />
+<ATC code="M03CA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dantrolene administered by IV: with animals, fatal cases of ventricular fibrillations are constantly observed when verapamil and dantrolene are administered by IV route. The administration of a calcium channel blocker and dantrolene together is thus potentially dangerous. However, some patients have received nifedipine and dantrolene together without incident</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>157-DANTROLENE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DANTROLENE" rxcui="3105">
+<ATC code="M03CA" />
+<ATC code="M03CA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dantrolene administered by IV: with animals, fatal cases of ventricular fibrillations are constantly observed when verapamil and dantrolene are administered by IV route. The administration of a calcium channel blocker and dantrolene together is thus potentially dangerous. However, some patients have received nifedipine and dantrolene together without incident</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

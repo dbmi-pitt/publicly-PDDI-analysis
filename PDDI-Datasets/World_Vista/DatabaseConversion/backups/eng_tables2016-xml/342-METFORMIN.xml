@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>342-METFORMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OR INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of lactic acidosis when there is acute alcohol intoxication, particularly in cases of fasting or undernourishment, or in cases of liver failure</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>342-METFORMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="LOOP DIURETICS" code="C03CA-001" /></DRUG2>
+<DESCRIPTION>Lactic acidosis due to the metformin, set into action by a possible functional renal insufficiency, linked to the loop diuretics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Do not use metformin when the creatinemia is greater than 15mg/l (135 umol/l) for men, and 12 mg/l (110umol/l) for women.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>342-METFORMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DOLUTEGRAVIR" rxcui="1433868">
+<ATC code="J05AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of metformin by the dolutegravir and of its undesirable effects of the lactic acidosis type</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>--with the patient having moderate renal insufficiency (stage 3a, clearance of the creatinine between 45 and 59 ml/min), clinical and biological monitoring , and possible adjustment of the dosage of metformin </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>342-METFORMIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001" /></DRUG2>
+<DESCRIPTION>Lactic acidosis linked to elevated concentrations of metformin in relation to the functional renal insufficiency induced by the radiological exam.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>The treatment with metformin should be suspended at the time of the radiological exam and only started again 2 days later. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

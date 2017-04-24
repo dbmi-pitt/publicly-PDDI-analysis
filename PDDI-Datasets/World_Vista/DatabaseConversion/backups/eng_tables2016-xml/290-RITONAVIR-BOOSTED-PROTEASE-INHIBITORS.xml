@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="AFATINIB" rxcui="1430438">
+<ATC code="L01XE13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of afatinib due to increase of its absorption by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>It is recommended that that the protease inhibitor be administered as far from the afatinib as possible, preferably at an interval of 6 to 12 hours from the dose of afatinib.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ALBENDAZOLE" rxcui="430">
+<ATC code="P02CA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large decrease of the plasma concentrations of the albendazole and of its active metabolite by the ritonavir, with risk of reduction of its effectiveness.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring of the therapeutic response and possible adjustment of the dosage of the albendazole during the treatment with the enzymatic inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="VASOCONSTRICTOR ALKALOIDS OF ERGOT OF RYE" code="N02CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of constriction of coronary blood vessels or those of the extremities (ergotism), or of rapid elevation of blood pressure</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the protease inhibitor due to increase of its hepatic metabolism by the inducer
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Variation of the effect of the vitamin K antagonist, most often by decreasing it</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the length of the treatment</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependant) of the rhabodmyolysis type (decrease of the hepatic metabolism of the atorvastatin)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use weaker doses of atorvastatin. If the therapeutic objective is not reached, use another statin not affected by this type of interaction.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ATOVAQUONE" rxcui="60212">
+<ATC code="P01AX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease, possibly very large, of the plasma concentrations of the atovaquone due to increase of its metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER CORTICOIDES, ESPECIALLY INHALED ONES" code="D07AC-001" /></DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route: increase of the plasma concentrations of the corticoid due to decrease of its hepatic metabolism by the protease inhibitor, with risk of appearance of Cushings syndrome, even of adrenal insufficiency </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the boceprevir and of the lopinavir (or darunavir or fosamprenavir), with risk of therapeutic failure </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase or decrease of the effects of the buprenorphine, due to both inhibition and acceleration of its metabolism by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the clarithromycin and of its active metabolite due to decrease of its hepatic metabolism by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of treatment with these medications together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="COLCHICINE" rxcui="2683">
+<ATC code="M04AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the colchicine, with potentially fatal consequences</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="CYPROTERONE" rxcui="3014">
+<ATC code="G03HA01" />
+<ATC code="G03HB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of edimumution [sic] of the effectiveness of the cyyproterone.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--in its use as a hormonal contraceptive: use instead another method ofcontraception in particular a barrier type, during the administration of these substances together and a cycle following</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DEXAMETHASONE" rxcui="3264">
+<ATC code="A01AC02" />
+<ATC code="C05AA09" />
+<ATC code="D07AB19" />
+<ATC code="D07XB05" />
+<ATC code="D10AA03" />
+<ATC code="H02AB02" />
+<ATC code="R01AD03" />
+<ATC code="S01BA01" />
+<ATC code="S01CB01" />
+<ATC code="S02BA06" />
+<ATC code="S03BA01" />
+<ATC code="D07CB04" />
+<ATC code="S01CA01" />
+<ATC code="S02CA06" />
+<ATC code="S03CA01" />
+<ATC code="R01AD53" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the dexamethasone due to decrease of its hepatic metabolism by the protease inhibitor, with risk of appearance of Cushings syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia, more marked for IV route, due to increase of the absorption of the digoxin or decrease of its renal clearance.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if there is reason for them, EKG and monitoring of the digoxinemia, with possible adjustment of the dosage of digoxin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ERIBULINE" rxcui="1045453">
+<ATC code="L01XX41" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of eribuline by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness due to decrease of the concentrations of the hormonal contraceptive, because of the increase of its hepatic metabolism by the ritonavir.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type (condom or IUD), should be used during the length of the treatment with these medications together and a cycle following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the thyroid hormones due to increase of their hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring and possible adjustment of the dosage of the thyroid hormones.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Very large increase of the blood concentrations of the immunosuppressant due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If these substances are administered together, strict testing of the renal function, blood concentration dosages of the immunosuppressant, and adjustment of its dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentration of the ritonavir boosted protease inhibitor or of the CYP3A4 inhibitor.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>To know the risks and levels of severity of each ritonavir boosted protease inhibitor taken with the strong inhibitors of CYP3A4, consult the specific authorization for sale to the public ("Authorisation de la Mise sur le Marche" a French document) for each one of them. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the concentrations of itraconazole by the protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these together. Administering large doses of itraconazole (>200 mg per day) is not recommended.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations and of the effectiveness of the lamotrigine due to increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT> -Avoid beginning the treatment with ritonavir during the period of adjustment of the dosage of lamotrigine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="LUMEFANTRINE" rxcui="847728">
+<ATC code="P01BF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="METHADONE" rxcui="6813">
+<ATC code="N07BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of methadone with risk of appearance of a withdrawal syndrome due to increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical monitoring and possible adjustment of the dosage of methadone. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="MIDAZOLAM" rxcui="6960">
+<ATC code="N05CD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of midazolam due to decrease of its hepatic metabolism, with increase of sedation</DESCRIPTION>
+<SEVERITY>Precaution for use with:</SEVERITY>
+<COMMENT>- the midazolam IV and sublingual</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the protease inhibitor, due to the enzymatic inducer effect of the St Johns wort, with risk of reduction of effectiveness, even complete loss of the effect, which can have possibly serious consequences (reduction of the antiretroviral effectiveness)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>In the case of the substances being taken together by accident, do not stop the St Johns wort abruptly, but test the plasma concentrations (or the effectiveness) of the protease inhibitor before and then after the St Johns wort is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="MIZOLASTINE" rxcui="61455">
+<ATC code="R06AX25" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="NINTEDANIB" rxcui="1592737">
+<ATC code="L01XE31" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of nintedanib due to increase of its absorption by the ritonavir boosted protease inhibitor</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the contraceptive effectiveness because of decrease of the concentrations of hormonal contraceptive, due to the increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type (condom or IUD), should be used during the time the substances are administered together and one cycle following. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFABUTIN" rxcui="55672">
+<ATC code="J04AB04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the protease inhibitor (even more so when the dosage of the rifabutin is large) for one thing, and risk of increase of the undesirable effects (uveitis) of the rifabutin, for another thing.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large decrease of the plasma concentrations of the protease inhibitor, due to increase of its hepatic metabolism by the rifampicin.
+
+For the combination (saquinavir + ritonavir):
+
+risk of severe hepatocellular toxicity</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Until additional information about the ritonavir boosted protease inhibitors is available.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ROSUVASTATIN" rxcui="301542">
+<ATC code="C10AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the rosuvastatin due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects (concentration-dependent) of the rhabdomyolisis type (decrease of the hepatic metoblism of the simvastatin).</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the telaprevir and of the darunavir or of the fosamprenavir, with risk of therapeutic failure.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="TENEFOVIR ALAFENAMIDE" rxcui="1721603">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the atazanavir, the darunavir or the lopinavir, increase of the plasma concentrations of the tenofovir alafenamide due to increase of its aborption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>In case of administration of these together, the dose of tenofovir alafenamide must be limited to 10 mg per day. The administration with the other protease inhibitors of HIV has not been studied.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="THEOPHYLLINE (AND, BY EXTRAPOLATION, AMINOPHYLLINE)" code="R03DA" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the theophylline, due to increase of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia; if there is reason for it, adjustment of the dosage of the theophylline during the treatment with the protease inhibitor and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ULIPRISTAL" rxcui="1005921">
+<ATC code="G03AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effect of the ulipristal, due to increase of its hepatic metabolism by the ritonavir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a therapeutic alternative that is little or not at all metabolized.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of venlafaxine with risk of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<CLASS name="VINCA ALKALOIDS" code="L01CA" /></DRUG2>
+<DESCRIPTION>Increase of the toxicity of the antimitotic, due to decrease of its hepatic metabolism by the protease inhibitor. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring and possible adjustment of the dosage of the antimitotic. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>290-RITONAVIR-BOOSTED-PROTEASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG1>
+<DRUG2>
+<DRUG name="VORICONAZOLE" rxcui="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large reduction of the concentrations of the antifungal due to increase of its metabolism by the ritonavir, with risk of failure of the treatment</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

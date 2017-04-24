@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AMIODARONE" rxcui="703">
+<ATC code="C01BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Depression of self-regulation (excessive bradycardia) and difficulties with atrioventricular conduction. In addition, increase of the digoninemia due to decrease of the clearance of digoxin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, if there is reason for it, testing of the digoxinemia and adjustment of the dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AZITHROMYCIN" rxcui="18631">
+<ATC code="J01FA10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during treatment with the azithromycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Difficulties with autoregulation (bradycardia, sinus arrest) and difficulties with sinoauricular and atrioventricular conduction</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of serious arrhythmias, even lethal ones with the calcium salts administered via IV</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-with the calcium salts by IV route, except for parenteral supplementation.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine and decrease of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Exercise caution in the interpretation of the plasma concentrations.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLARITHROMYCIN" rxcui="21212">
+<ATC code="J01FA09" />
+<ATC code="A02BD04" />
+<ATC code="A02BD05" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with the clarithromycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Depression of autoregulation (excessive bradycardia) and disorders of atrioventricular conduction. In addition, increase of the digoxinemia due to decrease of the metabolism of the digoxin. Clinical monitoring and EKG. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Reduce the doses of digoxin by half. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ERYTHROMYCIN" rxcui="4053">
+<ATC code="D10AF02" />
+<ATC code="D10AF52" />
+<ATC code="J01FA01" />
+<ATC code="S01AA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with the erythromycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HYDROQUINIDINE" rxcui="27220">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to decrease of the renal clearance of the digoxin. In addition, disorders of autoregulation (excessive bradycardia and disorders of atrioventricular conduction).</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. In the case of unexpected results, test the digoxinemia and adjust the dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG2>
+<DESCRIPTION>Hypokaliemia producing toxic effects of the digitalics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Correct beforehand all hypokaliemia and do clinical, electrolytic, and EKG monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="RITONAVIR BOOSTED PROTEASE INHIBITORS" code="J05AE-002" /></DRUG2>
+<DESCRIPTION>Increase of the digoxinemia, more marked for IV route, due to increase of the absorption of the digoxin or decrease of its renal clearance.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if there is reason for them, EKG and monitoring of the digoxinemia, with possible adjustment of the dosage of digoxin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ITRACONAZOLE" rxcui="28031">
+<ATC code="J02AC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia with nausea, vomiting, arrhythmias.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if there is reason for them, EKG, and monitoring of the digoxinemia with adjustment of the dosage of the digoxin during the treatment with the itraconazole and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MIDODRINE" rxcui="6963">
+<ATC code="C01CA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Difficulties with autoregulation (increase of the bradycardia inducing effect of the midodrine) and difficulties with atrioventricular conduction.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If this combination cannot be avoided, reinforce clinical monitoring and EKG. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digoxinemia, by reason of the enzyme inducer effect of the St Johns wort, with risk of reduction of effectiveness, even complete loss of the effect, which can have possibly serious consequences (acute decompensated heart failure). </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>In the case of the two substances being taken together by accident, do not stop the St Johns wort abruptly, but test the plasma concentrations (or the effectiveness) of the digoxin before and then after the St Johns wort is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OMEPRAZOLE" rxcui="7646">
+<ATC code="A02BC01" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate increase of the digoxinemia due to increase of its absorption by the omeprazole</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and monitoring of the digoxinemia, particularly with an older patient. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="POSACONAZOLE" rxcui="282446">
+<ATC code="J02AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia with nausea, vomiting, arrhythmias.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and, if there is reason for them, EKG and monitoring of the digoxinemia, with adjustment of the dosage of the digxoin during the treatment with the posaconazole and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the digoxinemia, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with propafenone and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUINIDINE" rxcui="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to decrease of the renal clearance of the digoxin. In addition, disorders of autoregulation (excessive bradycardia and disorders of atrioventricular conduction)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG. In the case of an unexpected result, test the digoxinemia and adjust the dosage. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate increase of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG, if needed, with possible adjustment of the doses of digoxin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RANOLAZINE" rxcui="35829">
+<ATC code="C01EB18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical, biological, and possibly EKG monitoring. Adjustment of the dosage of the digoxin if needed.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SUCRALFATE" rxcui="10156">
+<ATC code="A02BX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the digoxin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the sucralfate at a different time from the digoxin (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SULFASALAZINE" rxcui="9524">
+<ATC code="A07EC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digoxinemia that can reach 50%</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly, monitoring of the digoxinemia. If there is reason for it, adjustment of the dosage of the digoxin during the treatment with the sulfasalazine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELAPREVIR" rxcui="1102261">
+<ATC code="J05AE11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring, and adjustment, if needed, of the dosage of the digoxin during the treatment with the telaprevir and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TELITHROMYCIN" rxcui="274786">
+<ATC code="J01FA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the digoxinemia due to increase of its absorption</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the digoxinemia during the treatment with the telithromycin and after it is stopped</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>176-DIGOXIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+<ATC code="C09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Excessive bradycardia and atrioventricular block due to increase of the effects of the digoxin on autoregulation and conduction and due to decrease of the renal and extra-renal elimination of the digoxin</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, EKG, and, possibly, testing of the digoxinemia. If there is reason for it, adjustment of the dosage of the digoxin during the treatment with the verapamil and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

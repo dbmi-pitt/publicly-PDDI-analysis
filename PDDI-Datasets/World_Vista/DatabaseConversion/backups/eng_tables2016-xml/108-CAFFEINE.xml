@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIPROFLOXACIN" rxcui="2551">
+<ATC code="J01MA02" />
+<ATC code="S01AE03" />
+<ATC code="S02AA15" />
+<ATC code="S03AA07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIPYRIDAMOLE" rxcui="3521">
+<ATC code="B01AC07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the dipyridamole by injection: reduction of the vasodilator effect of the dipyridamole by the caffeine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Interrupt a caffeine based treatment at least 5 days before myocardial perfusion imaging with the dipyridamole and avoid consuming coffee, tea, chocolate, or cola during the 24 hours that precede the test.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ENOXACIN" rxcui="3925">
+<ATC code="J01MA04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, which can lead to agitation and hallucinations, due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>In case of sudden discontinuation of consumption of coffee or of medications containing caffeine, risk of increase of the lithemia</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEXILETINE" rxcui="6926">
+<ATC code="C01BB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to inhibition of its hepatic metabolism by the mexiletine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="NORFLOXACINE" rxcui="7517">
+<ATC code="J01MA06" />
+<ATC code="S01AE02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of caffeine, due to decrease of the hepatic metabolism of the caffeine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>108-CAFFEINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CAFFEINE  " rxcui="1886">
+<ATC code="N06BC01" />
+<ATC code="V04CG30" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STIRIPENTOL" rxcui="37119">
+<ATC code="N03AX17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Possible increase of the plasma concentrations of the caffeine, with risk of overdose, due to inhibition of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of caffeine.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

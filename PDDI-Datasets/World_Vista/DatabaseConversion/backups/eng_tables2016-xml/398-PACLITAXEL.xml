@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>398-PACLITAXEL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PACLITAXEL" rxcui="56946">
+<ATC code="L01CD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLOPIDOGREL" rxcui="32968">
+<ATC code="B01AC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of the paclitaxel by the clopidogrel, with risk of increase of undesirable effects. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

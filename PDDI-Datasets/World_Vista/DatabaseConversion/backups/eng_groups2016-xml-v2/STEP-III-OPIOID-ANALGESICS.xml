@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="STEP III OPIOID ANALGESICS " code="N02A-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>133</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfentanil" rxnorm="480">
+<ATC code="N01AH02" />
+</DRUG>
+<DRUG name="Fentanyl" rxnorm="4337">
+<ATC code="N01AH01" />
+<ATC code="N02AB03" />
+</DRUG>
+<DRUG name="Hydromorphone " rxnorm="3423">
+<ATC code="N02AA03" />
+<ATC code="N02AG04" />
+</DRUG>
+<DRUG name="Morphine" rxnorm="7052">
+<ATC code="N02AA01" />
+<ATC code="N02AG01" />
+<ATC code="R05DA05" />
+</DRUG>
+<DRUG name="Oxycodone" rxnorm="7804">
+<ATC code="N02AA05" />
+</DRUG>
+<DRUG name="Pethidine" rxnorm="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+<DRUG name="Remifentanil" rxnorm="73032">
+<ATC code="N01AH06" />
+</DRUG>
+<DRUG name="Sufentanil" rxnorm="56795">
+<ATC code="N01AH03" />
+</DRUG>
+<DRUG name="Tapentadol " rxnorm="787390">
+<ATC code="N02AX06" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>511-TETRABENAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TETRABENAZINE" rxcui="10390">
+<ATC code="N07XX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="DOPAMINERGICS" code="N04B-002" /></DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the dopaminergic and the tetrabenazine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>511-TETRABENAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TETRABENAZINE" rxcui="10390">
+<ATC code="N07XX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of hypertensive crises. Because of the duration of the action of the MAOI, this interaction is still theoretically possible two weeks after the MAOI is stopped</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>511-TETRABENAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name=" TETRABENAZINE" rxcui="10390">
+<ATC code="N07XX06" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Reciprocal antagonism between the levodopa and the tetrabenazine</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

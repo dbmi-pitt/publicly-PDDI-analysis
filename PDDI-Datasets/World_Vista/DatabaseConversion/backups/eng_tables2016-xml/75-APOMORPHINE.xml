@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>75-APOMORPHINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="APOMORPHINE" rxcui="1043">
+<ATC code="G04BE07" />
+<ATC code="N04BC0" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Severe hypotension and loss of consciousness have been reported when ondansetron and apomorphine were taken together. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

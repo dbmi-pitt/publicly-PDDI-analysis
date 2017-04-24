@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="INDIRECT SYMPATHOMIMETICS" code="C01CA-R01BA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>74</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bupropion " rxnorm="42347">
+</DRUG>
+<DRUG name="Cafedrine" rxnorm="47589">
+<ATC code="C01CA21" />
+</DRUG>
+<DRUG name="Ephedrine" rxnorm="3966">
+<ATC code="C01CA26" />
+<ATC code="R01AA03" />
+<ATC code="R01AB05" />
+<ATC code="R03CA02" />
+<ATC code="S01FB02" />
+<ATC code="R01BA02" />
+</DRUG>
+<DRUG name="Methylphenidate" rxnorm="6901">
+<ATC code="N06BA04" />
+</DRUG>
+<DRUG name="Phenylephrine" rxnorm="8163">
+<ATC code="C01CA06" />
+<ATC code="R01AA04" />
+<ATC code="R01AB01" />
+<ATC code="R01BA03" />
+<ATC code="S01FB01" />
+<ATC code="S01GA05" />
+</DRUG>
+<DRUG name="Pseudoephedrine" rxnorm="8896">
+<ATC code="R01BA02" />
+</DRUG>
+<DRUG name="Theodrenaline" rxnorm="31958">
+<ATC code="C01CA23" />
+</DRUG>
+</CLASS>

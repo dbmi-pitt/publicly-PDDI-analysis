@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>434-IODINATED-X-RAY-CONTRAST-MEDIA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ALDESLEUKIN" rxcui="70223">
+<ATC code="L03AC01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of reaction to the contrast media in cases of previous treatment with interleukin2: 
+
+skin rash or more rarely low blood pressure, oliguria or even renal failure</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>434-IODINATED-X-RAY-CONTRAST-MEDIA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001" /></DRUG1>
+<DRUG2>
+<CLASS name="DIURETICS" code="C0E-001" /></DRUG2>
+<DESCRIPTION>In case of dehydration caused by the diuretics, increased risk of acute functional renal insufficiency, in particular when large doses of the contrast media are used</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Rehydrate before administration of the iodinated product</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>434-IODINATED-X-RAY-CONTRAST-MEDIA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001" /></DRUG1>
+<DRUG2>
+<DRUG name="METFORMIN" rxcui="6809">
+<ATC code="A10BA02" />
+<ATC code="A10BD13" />
+<ATC code="A10BD11" />
+<ATC code="A10BD05" />
+<ATC code="A10BD03" />
+<ATC code="A10BD10" />
+<ATC code="A10BD07" />
+<ATC code="A10BD02" />
+<ATC code="A10BD08" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Lactic acidosis linked to elevated concentrations of metformin in relation to functional renal insufficiency induced by the radiological exam. </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>The treatment with metformin should be suspended at the time of the radiological exam and only started again 2 days later. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

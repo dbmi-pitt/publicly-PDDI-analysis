@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>160-DAPTOMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DAPTOMYCIN" rxcui="22299">
+<ATC code="J01XX09" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA" /></DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects (dose dependent) of the rhabdomyolysis type.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, reinforce biological monitoring (CPK levels more than once a week) and strict clinical monitoring. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

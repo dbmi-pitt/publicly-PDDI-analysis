@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>241-FOSCARNET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOSCARNET" rxcui="33562">
+<ATC code="J05AD01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PENTAMIDINE" rxcui="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of severe hypocalcemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of the calcemia and supplementation if necessary.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

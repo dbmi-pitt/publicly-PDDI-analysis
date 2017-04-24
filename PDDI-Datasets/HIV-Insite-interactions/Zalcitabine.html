@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">  <head>    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>    <title>All Interactions with Zalcitabine</title><link rel="stylesheet" href="css/insite.css" type="text/css"/><link rel="stylesheet" href="css/layout.css" type="text/css"/><link rel="stylesheet" href="css/topNav.css" type="text/css"/><!-- jquery javascript --><script type="text/javascript" src="script/jquery/load.js"><!--  --></script><script type="text/javascript" src="app-js/jquery.scrollTo.js"> </script><script type="text/javascript" src="app-js/jquery.cycle.js"> </script><script type="text/javascript" language="JavaScript">
+        function openWindow(url,name){
+            newWin = window.open(url,name,'status,toolbar,menubar,resizable,scrollbars,left=20,top=20,width=650,height=600')
+            newWin.focus()
+        }
+
+        function openXWindow(url,name){
+            newXWin = window.open(url,name)
+            newXWin.focus()
+        }
+
+		/* BASED ON NEC DEMO.XML */
+		   // REVEAL HIDDEN LOGIC QUESTION
+				function branchNext (event) {
+					$.log("BRANCHNEXT() :  enter");
+					var n = $(this).children("input:checked").size();
+
+					if (n)   {
+						 var reveal = "." + $($(this).children("input:checked")).attr("name") + "-" + $($(this).children("input:checked")).val();
+
+						 $(reveal).removeClass("hidden").addClass("question-revealed");
+					}
+			   }
+
+		// HIDE TO-BE-REVEALED LOGIC QUESTIONS
+			$(document).ready(function() { hideLogicQuestions($(document).children()[0]) });
+
+			function hideLogicQuestions (element) {
+				$.log("hideLogicQuestions() : enter");
+				$(".hidden-question").each(function() {
+					$(this).addClass("hidden").removeClass("question-revealed");
+				});
+		   }
+		/* END FROM NEC DEMO.XML */
+
+
+			function expand(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				/* CLOSE ALL SECTIONS AND RESET BUTTONS
+				$(".expandable", section).addClass("hidden");
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+				$(".expandAll", section).removeClass("hidden");
+				$(".collapseAll", section).addClass("hidden");
+				*/
+
+				// OPEN SPECIFIED SECTION AND UPDATE ITS BUTTONS
+				section.removeClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+
+				// $(this).siblings(".expandAll").addClass("hidden");
+				// $(this).siblings(".collapseAll").removeClass("hidden");
+			}
+			function collapse(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(this).addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+
+				$(this).siblings(".collapseAll").addClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+			}
+
+			function expandAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.removeClass("hidden");
+				$(".expandable", section).removeClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".expand").addClass("hidden");
+				$(this).siblings(".collapse").removeClass("hidden");
+				$(this).siblings(".collapseAll").removeClass("hidden");
+
+				$(".expand", section).addClass("hidden");
+				$(".collapse", section).removeClass("hidden");
+			}
+			function collapseAll(event)
+			{
+				var id = $(event.target).attr("query");
+				var section = $("#" + id);
+
+				section.addClass("hidden");
+				$(".expandable", section).addClass("hidden");
+				$(this).addClass("hidden");
+
+				$(this).siblings(".collapse").addClass("hidden");
+				$(this).siblings(".expand").removeClass("hidden");
+				$(this).siblings(".expandAll").removeClass("hidden");
+
+				$(".expand", section).removeClass("hidden");
+				$(".collapse", section).addClass("hidden");
+			}
+
+
+			// connect the correct fuctions
+			function sconnect(element) {
+				$(".reveal-question", element).click(branchNext);
+
+				$(".expand", element).click(expand);
+				$(".expandAll", element).click(expandAll);
+				$(".collapse", element).click(collapse);
+				$(".collapseAll", element).click(collapseAll);
+			}
+
+			// load method for adding connections
+			$(document).ready(function() {
+				sconnect($(document).children()[0])
+			 });
+
+			 $(document).ready(function(){
+			 $('.carousel ul').cycle({'prev':'.previous','next':'.next','play':'.play','pause':'.pause'});
+			 $(".carousel-hidden").each(function () {
+			 $(this).removeClass("carousel-hidden");
+			 });
+			 });
+
+
+		</script><!--*********************************************************
+    *************************************************************
+    REPLACE GOOGLE ANALYTICS SCRIPT BEFORE PUBLISHING TO LIVESITE
+    You can find the script in google-analytics.js **************
+    *************************************************************
+    **********************************************************--><script type="text/javascript">
+   
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-19627862-1']);
+     _gaq.push(['_trackPageview']);
+   
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+   
+</script></head><body><div class="floatpage"><div id="ucsf"><a href="http://ucsf.edu/"><img src="images/masthead/ucsf.gif" alt="University of California, San Francisco Logo"/></a><p>University of California, San Francisco | <a href="http://www.ucsf.edu/about-ucsf/">About UCSF</a> | <a href="http://www.ucsf.edu/ucsf/search">Search UCSF</a> | <a href="http://www.ucsfhealth.org/">UCSF Medical Center</a></p></div><div id="header"><div style="float:left;"><a href="InSite" style="display:block;"><img src="images/masthead/splash-logo-top.gif" alt="HIV InSite"/></a><h1 class="site-description" style="clear:both; width: 475px;">Comprehensive, up-to-date information on HIV/AIDS treatment and prevention from the University of California San Francisco</h1></div><div class="site-sub-navigation"><a href="InSite">Home</a> | <a href="InSite?page=pb-00-00">Patient/Public</a> | <a href="InSite?page=Audio">Audio</a> | <a href="InSite?page=News">News</a> | <a href="InSite?page=Links">Links</a></div><div class="sitesearch"><form action="search" method="get" id="search"><input type="hidden" name="page" value="sr-00-00"/><input type="hidden" name="post" value="1"/><label for="SearchEntry">Search</label><input type="text" size="28" name="SearchEntry" id="SearchEntry" aria-label="Search"/><input type="submit" id="I1" value="Search" style="margin-left: 5px;"/></form></div><div id="site-navigation"><ul><li class="site-navigation"><a href="InSite?page=KB">Knowledge Base</a></li><li class="site-navigation"><a href="InSite?page=Treatment">Treatment</a></li><li class="site-navigation"><a href="InSite?page=Prevention">Prevention</a></li><li class="site-navigation"><a href="InSite?page=Policy">Policy Analysis</a></li><li class="site-navigation"><a href="InSite?page=cr-00-00">Global Response</a></li></ul></div></div><div id="content-target"><div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="right"><font face="Arial, Helvetica" size="-2"><a href="http://hivinsite.ucsf.edu/InSite">Home</a> &gt; <a href="http://hivinsite.ucsf.edu/InSite?page=Treatment">Treatment</a> &gt; <a href="InSite?page=ar-00-02">Interactions</a></font></td></tr><tr><td><img alt="" src="images/transparent.gif" border="0" height="10" width="1"/></td></tr></tbody></table><div class="pgtitle">Database of Antiretroviral Drug Interactions</div><img alt="" src="images/greyline.gif"/><br/><p style="margin-top:0;padding-top:0;" class="kbrsec1">All Interactions with Zalcitabine (Hivid)</p><table class="datatable" width="100%"><thead><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Zalcitabine</th><th>Effect on Drug Levels</th><th>Effect on Zalcitabine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr></thead><tr><td valign="top" width="10%">Antacids<sup><a href="#85">85</a></sup><div>(Maalox, Mylanta, Riopan, Milk of Magnesia, others)</div></td><td valign="top">30 ml x 1</td><td valign="top">1.5 mg x 1</td><td valign="top">Not studied</td><td valign="top">Zalcitabine AUC: decreased 25%</td><td valign="top">Decreased zalcitabine absorption</td><td valign="top">-</td><td valign="top"><p>Administer zalcitabine 1 hour before or 2 hours after antacid</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Cimetidine<sup><a href="#85">85</a></sup><div>(Tagamet)(Tagamet)</div></td><td valign="top">-</td><td valign="top">-</td><td valign="top">Not studied</td><td valign="top">Not studied</td><td valign="top">Increased zalcitabine effects</td><td valign="top">Inhibition of renal tubular secretion by cimetidine</td><td valign="top"><p>Consider alternative agents</p><p class="warn"><i>Alternative Agents</i>: <br/><b>Famotidine Nizatidine Ranitidine</b></p></td></tr><tr><td valign="top" width="10%">Foscarnet<sup><a href="#232">232</a>, <a href="#85">85</a></sup><div>(Foscavir)</div></td><td valign="top">- </td><td valign="top">- </td><td valign="top">No significant change</td><td valign="top">No significant change</td><td valign="top">- </td><td valign="top">- </td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Loperamide<sup><a href="#85">85</a></sup><div>(Imodium, Imodium A-D)(Imodium)</div></td><td valign="top">4 mg 16 hours before zalcitabine, 2 mg at 10 hours and 4 hours before zalcitabine, and 2 mg 2 hours after zalcitabine dose</td><td valign="top">1.5 mg x 1 dose</td><td valign="top">Not reported</td><td valign="top">Not reported</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Metoclopramide<sup><a href="#85">85</a></sup><div>(Reglan)(Reglan)</div></td><td valign="top">10 mg 1 hour before, 10 mg 4 hours after zalcitabine dose</td><td valign="top">1.5 mg x 1 dose</td><td valign="top">Not studied</td><td valign="top">Zalcitabine AUC: decreased 16-21%</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr class="header" bgcolor="#b2c3d3"><th>Coadministered Drug</th><th>Dose of Drug</th><th>Dose of Zalcitabine</th><th>Effect on Drug Levels</th><th>Effect on Zalcitabine Levels</th><th>Potential Clinical Effects</th><th>Mechanism of Interaction</th><th>Management</th></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Nevirapine<sup><a href="#95">95</a></sup><div>(NVP)(Viramune)</div></td><td valign="top">-</td><td valign="top">-</td><td valign="top">No significant change</td><td valign="top">Not studied</td><td valign="top">-</td><td valign="top">-</td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b/></p></td></tr><tr><td valign="top" width="10%">Probenecid<sup><a href="#287">287</a>, <a href="#85">85</a></sup><div>(Benemid)(Benemid)</div></td><td valign="top">500 mg at 8 hours and 2 hours before and 4 hours after zalcitabine</td><td valign="top">1.5 mg x 1 dose</td><td valign="top">Not studied</td><td valign="top">Zalcitabine AUC: increased 54%</td><td valign="top">Increased zalcitabine effects</td><td valign="top">Inhibition of renal tubular secretion by probenecid</td><td valign="top"><p>Dose adjustment not established</p><p class="warn"><b/></p></td></tr><tr bgcolor="#eeeeee"><td valign="top" width="10%">Saquinavir<sup><a href="#85">85</a></sup><div>(SQV)(Fortovase, Invirase)</div></td><td valign="top">- </td><td valign="top">- </td><td valign="top">No significant change</td><td valign="top">No significant change</td><td valign="top">- </td><td valign="top">- </td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b> </b></p></td></tr><tr><td valign="top" width="10%">Zidovudine<sup><a href="#85">85</a></sup><div>(AZT, ZDV)(Retrovir)</div></td><td valign="top">- </td><td valign="top">- </td><td valign="top">No significant change</td><td valign="top">No significant change</td><td valign="top">- </td><td valign="top">- </td><td valign="top"><p>No dose adjustment necessary</p><p class="warn"><b> </b></p></td></tr><tr bgcolor="#bbbbbb"><td class="cellleft" colspan="8">"-" indicates that there are no data available
+                
+            </td></tr></table><table cellspacing="2" cellpadding="0" border="0"><tr><td valign="top" class="cellrightblue"><a name="85"> </a>85:</td><td class="cellleft">Hivid [package insert]. Nutley, NJ:Roche Laboratories Inc.;2001</td></tr><tr><td valign="top" class="cellrightblue"><a name="95"> </a>95:</td><td class="cellleft">Viramune [package insert]. Ridgefield, CT: Boehringer Ingelheim Pharmaceuticals, Inc.; Nov 2005.</td></tr><tr><td valign="top" class="cellrightblue"><a name="232"> </a>232:</td><td class="cellleft">Aweeka FT, Brody SR, Jacobson M, et al.  Is there a pharmacokinetic interaction between foscarnet and zalcitabine during concomitant administration? Clin Ther 1998;20:232-43.</td></tr><tr><td valign="top" class="cellrightblue"><a name="287"> </a>287:</td><td class="cellleft">Massarella JW, Nazareno LA, Passe S, et al.  The effect of probenecid on the pharmacokinetics of zalcitabine in HIV-positive patients.  Pharm Res 1996;13:449-52.</td></tr></table></div></div><div class="footer"><p class="footerlinks"><a href="InSite?page=About">About</a> | <a href="InSite?page=SM">Site Map</a> | <a href="fb?page=Feedback">Feedback</a> | <a href="InSite?page=Subscribe">Subscribe</a> | <a href="InSite?page=Donate">Donate</a> | <a href="InSite?page=Disclaimer">Disclaimer</a></p><p class="copyright"><a href="http://chi.ucsf.edu/" target="OffSite"><img src="images/footer/chi.gif" alt="UCSF - Center for HIV Information"/></a> HIV InSite is a project of the UCSF Center for HIV Information. Copyright 2017, Regents of the University of California.</p></div></div></body></html>

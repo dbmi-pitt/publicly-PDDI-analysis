@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PLATELET AGGREGATION INHIBITORS" code="B01AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>119</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Abciximab (formerly called c 7e3b fab)" rxnorm="83929">
+<ATC code="B01AC13" />
+</DRUG>
+<DRUG name="Acetylsalicylic Acid" rxnorm="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+</DRUG>
+<DRUG name="Cilostazol" rxnorm="21107">
+<ATC code="B01AC23" />
+</DRUG>
+<DRUG name="Clopidogrel " rxnorm="3296">
+<ATC code="B01AC04" />
+</DRUG>
+<DRUG name="Epoprostenol" rxnorm="8814">
+<ATC code="B01AC09" />
+</DRUG>
+<DRUG name="Eptifibatide" rxnorm="75635">
+<ATC code="B01AC16" />
+</DRUG>
+<DRUG name="Iloprost" rxnorm="40138">
+<ATC code="B01AC11" />
+</DRUG>
+<DRUG name="Iloprost trometamol" rxnorm="">
+</DRUG>
+<DRUG name="Prasugrel" rxnorm="613391">
+<ATC code="B01AC22" />
+</DRUG>
+<DRUG name="Ticagrelor" rxnorm="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+<DRUG name="Ticlopidine" rxnorm="10594">
+<ATC code="B01AC05" />
+</DRUG>
+<DRUG name="Tirofiban" rxnorm="73137">
+<ATC code="B01AC17" />
+</DRUG>
+<DRUG name="Treprostinil" rxnorm="343048">
+<ATC code="B01AC21" />
+</DRUG>
+</CLASS>

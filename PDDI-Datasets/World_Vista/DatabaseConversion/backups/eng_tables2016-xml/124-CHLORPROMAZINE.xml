@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>124-CHLORPROMAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CHLORPROMAZINE" rxcui="2403">
+<ATC code="N05AA01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="INSULIN" rxcui="">
+<ATC code="5856" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With strong doses (100 mg per day of chlorpromazine): elevation of glycemia (decrease of the freeing of insulin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self monitoring of blood glucose. Possible adjustment of the dosage of the insulin durin the treatment with the neuroleptic and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>124-CHLORPROMAZINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CHLORPROMAZINE" rxcui="">
+<ATC code="2403" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB" /></DRUG2>
+<DESCRIPTION>With strong doses (100 mg per day of chlorpromazine): elevation of glycemia (decrease of the freeing of insulin)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Inform the patient and reinforce self monitoring of blood glucose. Possible adjustment of the dosage of the insulin durin the treatment with the neuroleptic and after it is stopped.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

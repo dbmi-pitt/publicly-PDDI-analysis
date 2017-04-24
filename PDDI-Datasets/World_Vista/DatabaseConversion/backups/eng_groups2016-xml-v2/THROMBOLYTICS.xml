@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="THROMBOLYTICS" code="B01AD">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>142</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alteplase recombinant" rxnorm="8410">
+<ATC code="B01AD02" />
+<ATC code="S01XA13" />
+</DRUG>
+<DRUG name="Reteplase" rxnorm="76895">
+<ATC code="B01AD07" />
+</DRUG>
+<DRUG name="Streptokinase" rxnorm="10106">
+<ATC code="B01AD01" />
+</DRUG>
+<DRUG name="Tenecteplase" rxnorm="259280">
+<ATC code="B01AD11" />
+</DRUG>
+<DRUG name="Urokinase" rxnorm="11055">
+<ATC code="B01AD04" />
+</DRUG>
+</CLASS>

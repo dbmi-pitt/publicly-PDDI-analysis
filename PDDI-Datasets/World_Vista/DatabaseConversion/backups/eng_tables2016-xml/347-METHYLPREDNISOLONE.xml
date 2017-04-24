@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>347-METHYLPREDNISOLONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLPREDNISOLONE" rxcui="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07CA02" />
+<ATC code="S01CA08" />
+<ATC code="H02BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>For doses of 0.5g to 1 g of methylprednisolone administered in bolus: increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Testing of the INR 2 to 4 days after the bolus of mythylprednisolone or in the presence of signs of hemorrhage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>347-METHYLPREDNISOLONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLPREDNISOLONE" rxcui="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07CA02" />
+<ATC code="S01CA08" />
+<ATC code="H02BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the methylprednisolone administered by IV route: possible increase of the blood concentrations of ciclosporin and of the creatinemia Mecanism proposed: decrease of the hepatic elimination of the ciclosporin</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>347-METHYLPREDNISOLONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLPREDNISOLONE" rxcui="6902">
+<ATC code="D07AA01" />
+<ATC code="D10AA02" />
+<ATC code="H02AB04" />
+<ATC code="D07CA02" />
+<ATC code="S01CA08" />
+<ATC code="H02BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>In case of prolonged use by oral or inhaled route, increase of the plasma concentrations of the corticoid, because of decrease of its hepatic metabolism by the inhibitor, with risk of appearance of cushing syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

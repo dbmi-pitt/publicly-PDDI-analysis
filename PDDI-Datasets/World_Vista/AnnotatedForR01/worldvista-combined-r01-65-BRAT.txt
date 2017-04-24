@@ -1,0 +1,58 @@
+1029	Increase of the effect of the vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR Possible adjustment of the dosage of the vitamin K antagonist
+
+1183	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+
+1184	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+
+1435	Accrued risk of convulsions	Take into account	
+
+1436	Addition of the undesirable atropinic effects such as urinary retention, constipation, dry mouth	Take into account	
+
+1439	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after it is stopped.
+
+1447	Increase of central nervous center depression. The alteration of alertness can make driving vehicles or using machines dangerous	Not recommended	--with sodium oxybate
+
+1640	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	-with citalopram, domperidone, escitalopram, hydroxyzine and piperaquine
+
+1757	Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the paroxetine, with risk of increase of the undesirable effects.	Precaution for use	Clinical monitoring and, if needed, adjustment of the dosage of the risperidone.
+
+1759	Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the paroxetine and after it is stopped.
+
+2208	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--with citalopram, dromperidone, escitalopram, hydroxyzine, piperaquine
+
+2212	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--For dolasetron, erythromycin, spiramycin and vicamine, only the forms administerd by IV route are concerned by this interaction
+
+232	Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.	Take into account	
+
+2410	Risk of increase of hemorrhagic events when one oral anticoagulant is replaced with another.	Take into account	Take into account the half-life of the oral anticoagulant and observe, if the situation requires, a delay for clearance before the start of treatment with another. Be sure to inform the patient.
+
+2417	Increase of the risk of hemorrhage	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped.
+
+2419	Increase of the risk of hermorrhage.	Precaution for use	Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration of these medications together and after they are stopped.
+
+2441	Increased risk of ventricular arrhythmias, especially of torsades de pointes	Contraindication	--for dolasetron, erythromycin, spiramycin, and vincamine, only the forms administered by IV route are affected by this interaction.
+
+2642	Risk of increase of the undesirable effects of the vortioxetine by decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the fluoxetine and after it is stopped.
+
+2644	Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the viortioxetine during the treatment with the paroxetine and after it is stopped.
+
+2676	Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects	Precaution for use	Increased clinical monitoring and, if necessary, adjustment of the dosage
+
+2783	Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage	Precaution for use	More frequent testing of the INR. Possible adjustment of the dosage of the Vitamin K antagonist.
+
+748	Increase of the active fraction of the risperidone due to decrease of its hepatic metabolism by the fluoxetine, with risk of increase of its undesirable effects	Precaution for use	Clinical monitoring, and, if needed, adjustment of the dosage of the risperidone.
+
+750	Risk of increase of the undesirable effects of the vortioxetine due to decrease of its hepatic metabolism	Precaution for use	Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with fluoxetine and after it is stopped.
+
+753	Increase of the plasma concentrations of clozapine with signs of overdose	Precaution for use	Increased clinical monitoring; if needed, adjustment of the dosage of the clozapine during the treatment with the fluvoxamine and after it is stopped.
+
+754	Risk of increase of the undesirable effects of the duloxetine due to decrease of its hepatic metabolism by the fluvoxamine	CONTRAINDICATION	
+
+758	Increase of the concentrations of the olanzapine, with risk of increase of the undesirable effects, due to decrease of its hepatic metabolism by the fluvoxamine	Precaution for use	Clinical monitoring and possible reduction of the dosage of the olanzapine during the treatment with fluvoxamine.
+
+876	Increase of central nervous system depression	Take into account	
+
+880	Increase of the risk of hyponatremia	Take into account	
+
+
+

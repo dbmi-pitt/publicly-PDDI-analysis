@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="BARBITURATES" code="N05CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>30</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+<DRUG name="Thiopental" rxnorm="10493">
+<ATC code="N01AF03" />
+<ATC code="N05CA19" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HMG-COA REDUCTASE INHIBITORS (STATINS)" code="C10AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>69</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Atorvastatin" rxnorm="83367">
+<ATC code="C10AA05" />
+</DRUG>
+<DRUG name="Fluvastatin" rxnorm="41127">
+<ATC code="C10AA04" />
+</DRUG>
+<DRUG name="Pitavastatin" rxnorm="861634">
+<ATC code="C10AA08" />
+</DRUG>
+<DRUG name="Pravastatin" rxnorm="42463">
+<ATC code="C10AA03" />
+</DRUG>
+<DRUG name="Rosuvastatin" rxnorm="301542">
+<ATC code="C10AA07" />
+</DRUG>
+<DRUG name="Simvastatin" rxnorm="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</CLASS>

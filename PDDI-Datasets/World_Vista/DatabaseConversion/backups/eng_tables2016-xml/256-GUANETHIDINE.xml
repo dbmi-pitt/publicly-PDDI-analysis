@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>256-GUANETHIDINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GUANETHIDINE" rxcui="5036">
+<ATC code="C02CC02" />
+<ATC code="S01EX01" />
+<ATC code="C02LF01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>With the guanethidine used by IV route: risk of unforeseeable vascular reactions, especially hypotension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Interrupt the treatment with the MAOI two weeks before the treatment with guanethidine.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

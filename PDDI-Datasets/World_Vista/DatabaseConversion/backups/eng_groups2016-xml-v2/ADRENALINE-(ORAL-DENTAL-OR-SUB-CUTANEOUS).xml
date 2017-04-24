@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)  " code="A01AD">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>1</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Adrenaline " rxnorm="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+</DRUG>
+</CLASS>

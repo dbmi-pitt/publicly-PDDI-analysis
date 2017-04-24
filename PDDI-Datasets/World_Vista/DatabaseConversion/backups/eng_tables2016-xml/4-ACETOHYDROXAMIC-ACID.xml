@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>4-ACETOHYDROXAMIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ACETOHYDROXAMIC ACID" rxcui="16728">
+<ATC code="G04BX03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of these two medications due to chelation of the iron</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

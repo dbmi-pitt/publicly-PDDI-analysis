@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>156</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Valproic acid" rxnorm="11118">
+<ATC code="N03AG01" />
+</DRUG>
+<DRUG name="Valpromide" rxnorm="23420">
+<ATC code="N03AG02" />
+</DRUG>
+</CLASS>

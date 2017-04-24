@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ALISKIREN" rxcui="325646">
+<ATC code="C09DX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the aliskiren when grapefruit is consumed</DESCRIPTION>
+<SEVERITY> Not recommended </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ATORVASTATIN" rxcui="83367">
+<ATC code="C10AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the cholesterol lowering medication, with risk of appearance of undesirable effects, especially muscular ones. </DESCRIPTION>
+<SEVERITY>Take into account </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="AVANAFIL" rxcui="1291301">
+<ATC code="G04BE10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the avanafil, with risk of hypotension. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUSPIRONE" rxcui="1827">
+<ATC code="N05BE01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the buspirone by decrease of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of carbamazepine, with risk of overdose, due to inhibition of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DRONEDARONE" rxcui="233698">
+<ATC code="C01BD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of dronedarone by inhibition of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="HALOFANTRINE" rxcui="50749">
+<ATC code="P01BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially of torsades de pointes </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Increase of the bioavailability of the immunosuppressant and as a result of its undesirable effects. </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IVABRADINE" rxcui="77417">
+<ATC code="C01EB17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the ivabradine and of its undesirable effects (inhibition of its intestinal metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LERCANIDIPINE" rxcui="135056">
+<ATC code="C08CA13" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of undesirable effects, especially edema, due to decrease of the intestinal metabolism of the dihydropyridine</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LURASIDONE" rxcui="1040028">
+<ATC code="N05AE05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the lurasidone due to decrease of its metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="REGORAFENIB" rxcui="1312397">
+<ATC code="L01XE21" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of regorafenib by decrease of its hepatic metabolism by the grapefruit</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SERTRALINE" rxcui="36437">
+<ATC code="N06AB06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase sometimes large of the concentrations of the antidepressant in certain patients due to decrease of its intestinal metabolism </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="SIMVASTATIN" rxcui="36567">
+<ATC code="C10AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the plasma concentrations of the lipid lowering drug, with risk of appearance of undesirable effects, especially muscular ones</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TICAGRELOR" rxcui="1116632">
+<ATC code="B01AC24" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Doubling of the plasma concentrations of the antiagregant, with risk of increase of the undesirable effects, especially hemorrhagic </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VARDENAFIL" rxcui="306674">
+<ATC code="G04BE09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the vardenafil, with risk of hypotension</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>399-GRAPEFRUIT-(JUICE-OR-FRUIT).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GRAPEFRUIT (JUICE AND FRUIT)" >
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VERAPAMIL" rxcui="11170">
+<ATC code="09BB10" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of verapamil, with risk of undesirable effects</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

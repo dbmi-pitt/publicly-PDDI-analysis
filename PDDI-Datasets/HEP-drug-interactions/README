@@ -1,0 +1,15 @@
+Data downloaded from www.hep-druginteractions.org in mid-January 2017.
+
+Procedure:
+
+1) Go to www.hep-druginteractions.org/view_all_interactions/new
+
+2) Pick the drug that you want to retrieve all interactions for and then click Submit
+
+3) A page with a table of interactions will be shown. Click on the colored shape in the first row of the table.
+
+4) A page with the specific interaction will appear. A link at the bottom of the page will be present in a statement like "View all available interactions with Darunavir by clicking here." Click on the "here" link
+
+5) This will bring a page of all interactions for the drug. Select "view source" in your browser and save the HTML file to the appropriate folder. Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website (see the URL in the address bar if it is not obvious).
+
+6) Be sure to add to git-hub, commit, and push

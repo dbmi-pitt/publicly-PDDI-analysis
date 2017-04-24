@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>297-IPILIMUMAB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IPILIMUMAB" rxcui="1094833">
+<ATC code="L01XC11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ORAL ANTICOAGULANTS " code="B01A-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of digestive system hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict clinical monitoring</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="HYPERKALEMIA INDUCING MEDICATIONS
+" code="M01A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>70</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aceclofenac" rxnorm="16689">
+<ATC code="M01AB16" />
+<ATC code="M02AA25" />
+</DRUG>
+<DRUG name="Mefenamic Acid" rxnorm="257844">
+<ATC code="M01AG01" />
+</DRUG>
+<DRUG name="Niflumic Acid" rxnorm="7418">
+<ATC code="M01AX02" />
+<ATC code="M02AA17" />
+</DRUG>
+<DRUG name="Tiaprofenic acid" rxnorm="618442">
+<ATC code="M01AE11" />
+</DRUG>
+<DRUG name="Alminoprofen" rxnorm="17387">
+<ATC code="M01AE16" />
+</DRUG>
+<DRUG name="Amiloride" rxnorm="644">
+<ATC code="C03DB01" />
+</DRUG>
+<DRUG name="Azilsartan" rxnorm="1091643">
+<ATC code="C09CA09" />
+</DRUG>
+<DRUG name="Benazepril" rxnorm="18867">
+<ATC code="C09AA07" />
+</DRUG>
+<DRUG name="Candesartan cilexetil" rxnorm="214354">
+<ATC code="C09CA06" />
+</DRUG>
+<DRUG name="Potassium canrenoate" rxnorm="1981">
+<ATC code="C03DA02" />
+</DRUG>
+<DRUG name="Captopril" rxnorm="1998">
+<ATC code="C09AA01" />
+</DRUG>
+<DRUG name="Celecoxib" rxnorm="140587">
+<ATC code="L01XX33" />
+<ATC code="M01AH01" />
+</DRUG>
+<DRUG name="Ciclosporin " rxnorm="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+<DRUG name="Cilazapril" rxnorm="21102">
+<ATC code="C09AA08" />
+<ATC code="C09BA08" />
+</DRUG>
+<DRUG name="Dalteparin sodium" rxnorm="67109">
+<ATC code="B01AB04" />
+</DRUG>
+<DRUG name="Danaparoid sodium" rxnorm="78484">
+<ATC code="B01AB09" />
+</DRUG>
+<DRUG name="Dexketoprofen trometamol" rxnorm="233386">
+<ATC code="for" />
+<ATC code="" />
+<ATC code="Dexketoprofen" />
+<ATC code="" />
+<ATC code="M01AE17" />
+</DRUG>
+<DRUG name="Diclofenac" rxnorm="3355">
+<ATC code="D11AX18" />
+<ATC code="M01AB05" />
+<ATC code="M02AA15" />
+<ATC code="S01BC03" />
+<ATC code="S01CC01" />
+</DRUG>
+<DRUG name="Drospirenone " rxnorm="840781">
+<ATC code="G03FA17" />
+<ATC code="G03AA12" />
+</DRUG>
+<DRUG name="Enalapril" rxnorm="3827">
+<ATC code="C09AA02" />
+<ATC code="C09AA02" />
+<ATC code="C09BA02" />
+<ATC code="C09BB02" />
+<ATC code="C09BB06" />
+</DRUG>
+<DRUG name="Enoxaparin" rxnorm="67108">
+<ATC code="B01AB05" />
+</DRUG>
+<DRUG name="Eplerenone " rxnorm="298869">
+<ATC code="C03DA04" />
+</DRUG>
+<DRUG name="Eprosartan" rxnorm="83515">
+<ATC code="C09CA02" />
+<ATC code="C09DA02" />
+</DRUG>
+<DRUG name="Etodolac" rxnorm="24605">
+<ATC code="M01AB08" />
+</DRUG>
+<DRUG name="Etoricoxib " rxnorm="307296">
+<ATC code="M01AH05" />
+</DRUG>
+<DRUG name="Fenoprofen" rxnorm="4331">
+<ATC code="M01AE04" />
+</DRUG>
+<DRUG name="Flurbiprofen" rxnorm="4502">
+<ATC code="M01AE09" />
+<ATC code="M02AA19" />
+<ATC code="R02AX01" />
+<ATC code="S01BC04" />
+</DRUG>
+<DRUG name="Fondaparinux" rxnorm="321208">
+<ATC code="B01AX05" />
+</DRUG>
+<DRUG name="Fosinopril" rxnorm="50166">
+<ATC code="C09AA09" />
+<ATC code="C09BA09" />
+</DRUG>
+<DRUG name="Heparin
+" rxnorm="5224">
+<ATC code="B01AB" />
+<ATC code="B01AB01" />
+<ATC code="C05BA03" />
+<ATC code="S01XA14" />
+</DRUG>
+<DRUG name="Ibuprofen" rxnorm="5640">
+</DRUG>
+<DRUG name="Indometacin" rxnorm="5781">
+<ATC code="C01EB03" />
+<ATC code="M01AB01" />
+<ATC code="M02AA23" />
+<ATC code="S01BC01" />
+</DRUG>
+<DRUG name="Irbesartan" rxnorm="83818">
+<ATC code="C09CA04" />
+<ATC code="C09DB05" />
+<ATC code="C09DA04" />
+</DRUG>
+<DRUG name="Ketoprofen" rxnorm="6142">
+<ATC code="M01AE03" />
+<ATC code="M02AA10" />
+</DRUG>
+<DRUG name="Lisinopril" rxnorm="29046">
+<ATC code="C09AA03" />
+</DRUG>
+<DRUG name="Losartan" rxnorm="52175">
+<ATC code="C09CA01" />
+<ATC code="C09DB06" />
+<ATC code="C09DA01" />
+</DRUG>
+<DRUG name="Meloxicam" rxnorm="41493">
+<ATC code="M01AC06" />
+</DRUG>
+<DRUG name="Moexipril" rxnorm="30131">
+<ATC code="C09AA13" />
+</DRUG>
+<DRUG name="Morniflumate" rxnorm="30225">
+<ATC code="M01AX22" />
+</DRUG>
+<DRUG name="Nabumetone" rxnorm="31448">
+<ATC code="M01AX01" />
+</DRUG>
+<DRUG name="Nadroparin" rxnorm="67031">
+<ATC code="B01AB06" />
+</DRUG>
+<DRUG name="Naproxen" rxnorm="7258">
+<ATC code="G02CC02" />
+<ATC code="M01AE02" />
+<ATC code="M02AA12" />
+</DRUG>
+<DRUG name="Nimesulide" rxnorm="53694">
+<ATC code="M01AX17" />
+<ATC code="M02AA26" />
+</DRUG>
+<DRUG name="Olmesartan" rxnorm="321064">
+<ATC code="C09CA08" />
+<ATC code="C09DB02" />
+<ATC code="C09DA08" />
+<ATC code="C09DX03" />
+</DRUG>
+<DRUG name="Parecoxib" rxnorm="279950">
+<ATC code="M01AH04" />
+</DRUG>
+<DRUG name="Perindopril tert-butylamine" rxnorm="">
+</DRUG>
+<DRUG name="Piroxicam" rxnorm="8356">
+<ATC code="M01AC01" />
+<ATC code="M02AA07" />
+<ATC code="S01BC06" />
+</DRUG>
+<DRUG name="Piroxicam-betadex" rxnorm="">
+</DRUG>
+<DRUG name="Potassium " rxnorm="8588">
+<ATC code="A12BA" />
+</DRUG>
+<DRUG name="Quinapril" rxnorm="352082">
+<ATC code="C09AA06" />
+</DRUG>
+<DRUG name="Ramipril" rxnorm="35296">
+<ATC code="C09AA05" />
+</DRUG>
+<DRUG name="Reviparin" rxnorm="75960">
+<ATC code="B01AB08" />
+</DRUG>
+<DRUG name="Rofecoxib" rxnorm="232158">
+<ATC code="M01AH02" />
+</DRUG>
+<DRUG name="Spironolactone" rxnorm="9997">
+<ATC code="C03DA01" />
+</DRUG>
+<DRUG name="Sulindac" rxnorm="10237">
+<ATC code="M01AB02" />
+</DRUG>
+<DRUG name="Tacrolimus" rxnorm="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+<ATC code="L04AD02" />
+</DRUG>
+<DRUG name="Telmisartan" rxnorm="73494">
+<ATC code="C09CA07" />
+<ATC code="C09DB04" />
+<ATC code="C09DA07" />
+</DRUG>
+<DRUG name="Tenoxicam" rxnorm="37790">
+<ATC code="M01AC02" />
+</DRUG>
+<DRUG name="Tinzaparin" rxnorm="69646">
+<ATC code="B01AB10" />
+</DRUG>
+<DRUG name="Trandolapril" rxnorm="38454">
+<ATC code="C09AA10" />
+</DRUG>
+<DRUG name="Triamterene" rxnorm="10763">
+<ATC code="C03DB02" />
+</DRUG>
+<DRUG name="Trimethoprim " rxnorm="10829">
+<ATC code="J01E" />
+<ATC code="J01EA" />
+<ATC code="J01EE" />
+<ATC code="J01EE02" />
+<ATC code="J01EE05" />
+<ATC code="J01EE07" />
+<ATC code="J01EE01" />
+<ATC code="J01EE03" />
+<ATC code="J01EE04" />
+<ATC code="J01EA01" />
+</DRUG>
+<DRUG name="Valdecoxib" rxnorm="278567">
+<ATC code="M01AH03" />
+</DRUG>
+<DRUG name="Valsartan" rxnorm="69749">
+<ATC code="C09CA03" />
+<ATC code="C09DX02" />
+<ATC code="C09DB01" />
+<ATC code="C09DA03" />
+<ATC code="C09DX01" />
+</DRUG>
+<DRUG name="Zofenopril" rxnorm="39990">
+<ATC code="C09AA15" />
+<ATC code="C09BA15" />
+</DRUG>
+</CLASS>

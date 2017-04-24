@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>9-FOLINIC-ACID.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FOLINIC ACID" rxcui="6313">
+<ATC code="B03BB51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="FLUOROURACIL (AND, BY EXTRAPOLATION, OTHER FLUOROPYRIMIDINES)" code="L01BC-001" /></DRUG2>
+<DESCRIPTION>Strengthening of the effects, both cytostatic and undesirable, of the fluorouracil. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

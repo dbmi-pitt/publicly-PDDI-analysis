@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>54-METABOLIZED-ANTICONVULSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="METABOLIZED ANTICONVULSANTS" code="N03A-002" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" >
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+<ATC code="258326" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the plasma concentrations and of the effectiveness of the anticonvulsant
+
+.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

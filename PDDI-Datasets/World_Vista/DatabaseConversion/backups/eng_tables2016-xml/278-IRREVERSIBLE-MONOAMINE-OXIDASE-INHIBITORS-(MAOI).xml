@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="ALCOHOL (DRINK OR INGREDIENT)" >
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hypertensive and/or hyperthermic effects of the tyramine present in certain alcoholic drinks (chianti, certain beers, etc.)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Avoid taking alcoholic beverages and medications containing alcohol. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" code="A01AD" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount, for example: less than 0.1 mg of adrenaline in 10 minutes or 0.3 mg in an hour for an adult.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypertensive crises. From the fact of the length of action of the MAOI, this interaction is still theoretically possible two weeks after it is stopped</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="DEXTROMETHORPHAN" rxcui="3289">
+<ATC code="N07XX59" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="GUANETHIDINE" rxcui="5036">
+<ATC code="C02CC02" />
+<ATC code="S01EX01" />
+<ATC code="C02LF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the guanethidine used by IV route: risk of unforeseeable vascular reactions, especially hypotension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>Interrupt the treatment with the MAOI two weeks before the treatment with guanethidine.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="CATECHOL-O-METHYLTRANSFERASE INHIBITORS (COMT) " code="COMT" /></DRUG2>
+<DESCRIPTION>Increase of the pharmacological effects, and especially increase in blood pressure and contraction of the blood vessels by the catecholamines due to the combined inhibition of their metabolism</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait two weeks between the discontinuation of the MAOI and the start of the treatment with the SSRI, and at least a week between the end of treatment with the SSRI (except fluoxetine: five weeks) and the start [sic]. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="MIXED ADRENERGIC-SEROTONINERGIC MEDICATIONS" code="N06A" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION </SEVERITY>
+<COMMENT>Wait two weeks between stopping the MAOI and the start of the other treatment, and at least a week between the end of that treatment and the start of the MAOI.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="MIDODRINE" rxcui="6963">
+<ATC code="C01CA17" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Hypertensive crises (inhibition of the metabolism of the pressor amines). Because of the length of action of the MAOI, this interaction is still possible two weeks after the MAOI is stopped.</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="PETHIDINE " rxcui="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="RESERPINE " rxcui="9260">
+<ATC code="C02AA02" />
+<ATC code="C02LA01" />
+<ATC code="C02LA51" />
+<ATC code="C02LA71" />
+<ATC code="C02AA52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Psychomotor agitation, convulsions, hypertension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="ALPHA SYMPATHOMIMETICS (ORAL AND/OR NASAL ROUTES)" code="R01AA" /></DRUG2>
+<DESCRIPTION>Hypertensive crises (inhibition of the metabolism of the pressor amines). Because of the length of action of the MAOI, this interaction is still possible two weeks after the MAOI is stopped</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)" code="C01CA" /></DRUG2>
+<DESCRIPTION>Increase of the pressor action of the sympathomimetic, most often moderate.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Only use under strict medical monitoring. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="INDIRECT SYMPATHOMIMETICS" code="C01CA-R01BA" /></DRUG2>
+<DESCRIPTION>Paroxysmal hypertension, hyperthermia that can be fatal. Because of the length of action of the MAOI, this interaction is still possible two weeks after the MAOI has been stopped</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="TETRABENAZINE" rxcui="10390">
+<ATC code="N07XX06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypertensive crises. Because of the duration of the action of the MAOI, this interaction is still theoretically possible two weeks after the MAOI is stopped</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="TIANEPTINE" rxcui="38252">
+<ATC code="N06AX14" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of drop in blood pressure, paroxysmal hypertension, hyperthermia, convulsions, death</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX5" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="TRIPTANS METABOLIZED BY THE MAO" code="N02CC-002" /></DRUG2>
+<DESCRIPTION>Risk of arterial hypertension, of constriction of the coronary arteries </DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>278-IRREVERSIBLE-MONOAMINE-OXIDASE-INHIBITORS-(MAOI).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG1>
+<DRUG2>
+<CLASS name="TRIPTANS NOT METABOLIZED BY THE MAO" code="NO2CC-003" /></DRUG2>
+<DESCRIPTION>Risk of arterial hypertension, of constriction of the coronary arteries </DESCRIPTION>
+<SEVERITY>Not recommended </SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

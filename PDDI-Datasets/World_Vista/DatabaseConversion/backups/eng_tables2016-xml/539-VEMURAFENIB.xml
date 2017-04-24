@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the bupropion, with increase of its active metabolite and increased toxicity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the combined estrogen-progestin contraceptive with the consequence of a risk of ineffectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IFOSFAMIDE" rxcui="5657">
+<ATC code="L01AA06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the ifosfamide, with increase of its active metabolite and increased toxicity</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IMMUNOSUPPRESSANTS" code="L04A" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the immunosuppressants, with the consequence of a risk of ineffectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ENZYMATIC INDUCERS" code="N03-J05-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the vemurafenib, with lower effectiveness</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>539-VEMURAFENIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE15" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of theophylline, with risks of increase of its undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the theophylline during the treatment with vemurafenib and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

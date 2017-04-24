@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>213-ESTRAMUSTINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CLODRONIC ACID" rxcui="3350">
+<ATC code="M05BA02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of estramustine by the clodronate</DESCRIPTION>
+<SEVERITY>Precaution for use:</SEVERITY>
+<COMMENT>Clinical monitoring during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>213-ESTRAMUSTINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the estramustine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the estramustine (more than 2 hours apart if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>213-ESTRAMUSTINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the angioneurotic edema type (angioedema)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

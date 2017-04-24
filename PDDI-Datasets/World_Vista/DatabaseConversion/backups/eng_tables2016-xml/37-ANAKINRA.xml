@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>37-ANAKINRA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ANAKINRA" rxcui="72435">
+<ATC code="L04AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO" /></DRUG2>
+<DESCRIPTION>Increased risk of serious infections and of neutropenia.</DESCRIPTION>
+<SEVERITY> Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>37-ANAKINRA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ANAKINRA" rxcui="72435">
+<ATC code="L04AC03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ETANERCEPT" rxcui="214555">
+<ATC code="L04AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of serious infections and of neutropenia</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

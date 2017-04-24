@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="D06AA-J01AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>139</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Chlortetracycline " rxnorm="2408">
+<ATC code="A01AB21" />
+<ATC code="D06AA02" />
+<ATC code="J01AA03" />
+<ATC code="S01AA02" />
+</DRUG>
+<DRUG name="Demeclocycline " rxnorm="3154">
+<ATC code="D06AA01" />
+<ATC code="J01AA01" />
+</DRUG>
+<DRUG name="Doxycycline " rxnorm="3640">
+<ATC code="A01AB22" />
+<ATC code="J01AA02" />
+</DRUG>
+<DRUG name="Lymecycline " rxnorm="6513">
+<ATC code="J01AA04" />
+</DRUG>
+<DRUG name="Methylenecycline" rxnorm="">
+</DRUG>
+<DRUG name="Minocycline " rxnorm="6980">
+<ATC code="A01AB23" />
+<ATC code="J01AA08" />
+</DRUG>
+<DRUG name="Oxytetracycline " rxnorm="7821">
+<ATC code="D06AA03" />
+<ATC code="G01AA07" />
+<ATC code="J01AA06" />
+<ATC code="S01AA04" />
+</DRUG>
+<DRUG name="Tetracycline " rxnorm="10395">
+<ATC code="J01A" />
+<ATC code="D06AA" />
+<ATC code="J01AA" />
+<ATC code="A02BD08" />
+<ATC code="J01AA20" />
+<ATC code="A02BD02" />
+<ATC code="A01AB13" />
+<ATC code="D06AA04" />
+<ATC code="J01AA07" />
+<ATC code="S01AA09" />
+<ATC code="S02AA08" />
+<ATC code="S03AA02" />
+</DRUG>
+<DRUG name="Tigecycline " rxnorm="384455">
+<ATC code="J01AA1" />
+</DRUG>
+</CLASS>

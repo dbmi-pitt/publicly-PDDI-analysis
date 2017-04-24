@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="PROGESTIN CONTRACEPTIVES" code="G03-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>124</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Desogestrel" rxnorm="22656">
+<ATC code="G03AC09" />
+<ATC code="G03FB10" />
+<ATC code="G03AA09" />
+<ATC code="G03AB05" />
+</DRUG>
+<DRUG name="Dienogest" rxnorm="22968">
+<ATC code="G03DB08" />
+<ATC code="G03AB08" />
+<ATC code="G03FA15" />
+</DRUG>
+<DRUG name="Drospirenone " rxnorm="840781">
+<ATC code="G03FA17" />
+<ATC code="G03AA12" />
+</DRUG>
+<DRUG name="Etonogestrel" rxnorm="14584">
+<ATC code="G03AC08" />
+</DRUG>
+<DRUG name="Levonorgestrel" rxnorm="6373">
+<ATC code="G03AC03" />
+<ATC code="G03AD01" />
+<ATC code="G03FA11" />
+<ATC code="G03FB09" />
+<ATC code="G03AA07" />
+<ATC code="G03AB03" />
+</DRUG>
+<DRUG name="Medroxyprogesterone" rxnorm="6691">
+<ATC code="G03AC06" />
+<ATC code="G03DA02" />
+<ATC code="L02AB02" />
+<ATC code="G03FA12" />
+<ATC code="G03FB06" />
+<ATC code="G03AA08" />
+</DRUG>
+<DRUG name="Nomegestrol" rxnorm="31930">
+<ATC code="G03DB04" />
+<ATC code="G03AA14" />
+</DRUG>
+<DRUG name="Norelgestromin" rxnorm="326374">
+</DRUG>
+<DRUG name="Norethisterone" rxnorm="7514">
+<ATC code="G03AC01" />
+<ATC code="G03DC02" />
+<ATC code="G03FA01" />
+<ATC code="G03FB05" />
+<ATC code="G03AA05" />
+<ATC code="G03AB04" />
+</DRUG>
+<DRUG name="Norgestimate" rxnorm="31994">
+</DRUG>
+</CLASS>

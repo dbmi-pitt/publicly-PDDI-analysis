@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Risk of increase of the effect of the vitamin K antagonist and of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the tramadol and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tramadol due to decrease of its hepatic metabolism by the bupropion. In addition, risk of convulsions due to addition of the effects of the two medications</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of appearance of convulsions and/or a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ONDANSETRON" rxcui="26225">
+<ATC code="A04AA01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the intensity and of the duration of the analgesic effect of the tramadol and risk of decrease of the antiemitic effect of the ondansetron</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>527-TRAMADOL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VENLAFAXINE" rxcui="39786">
+<ATC code="N06AX16" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of convulsions and/or a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

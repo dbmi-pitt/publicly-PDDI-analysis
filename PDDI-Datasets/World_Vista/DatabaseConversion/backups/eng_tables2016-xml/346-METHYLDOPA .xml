@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>346-METHYLDOPA .html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the methyldopa (formation of complexes)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from the methyldopa (more than two hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>346-METHYLDOPA .html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the effects of the levodopa but equally of its undesirable effects. Increase of the antihypertensive effect of the methyldopa</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible decrease of the doses of levodopa.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>346-METHYLDOPA .html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="METHYLDOPA" rxcui="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia which can attain toxic values, with signs of overdose of lithium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of lithium. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

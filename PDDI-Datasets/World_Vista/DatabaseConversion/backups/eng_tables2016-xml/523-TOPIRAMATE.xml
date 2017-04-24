@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>523-TOPIRAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CARBAMAZEPINE" rxcui="2002">
+<ATC code="N03AF01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the topiramate with risk of lower effectiveness, due to increase of its hepatic metabolism by the carbamazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and if needed, adjustment of the dosage of the toprimate during the treatment with the carbamazepine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>523-TOPIRAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="COMBINED ESTROGEN-PROGESTIN CONTRACEPTIVES" code="G03AB-001" /></DRUG2>
+<DESCRIPTION>For doses of topiramate &gt;= 200 mg/day: Risk of decrease of the contraceptive effectiveness due to decrease of the concontrations of estrogen</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Another method of contraception, in particular a barrier type, should be used. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>523-TOPIRAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For doses of topiramate &gt;=200mg/day: increase of the lithemia that can reach toxic levels, with signs of overdose of lithium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical and biological monitoring. Adjustment of the dosage of lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>523-TOPIRAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the topiramate with risk of lower effectiveness, due to increase of its hepatic metabolism by the oxcarbazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, and if needed, adjustment of the dosage of the topiramate during the treatment with the oxcarbazepine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>523-TOPIRAMATE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="N03AX11" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VALPROIC (ACID) AND, BY EXTRAPOLATION, VALPROMIDE" code="N03AG0" /></DRUG2>
+<DESCRIPTION>Increase of the hyperammoniemia, with increased risk of encephalopathy</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

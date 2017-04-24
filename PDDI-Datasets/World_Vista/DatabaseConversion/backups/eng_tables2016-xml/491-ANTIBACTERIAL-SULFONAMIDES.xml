@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>491-ANTIBACTERIAL-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="ANTIBACTERIAL SULFONAMIDES" code="JO1E" /></DRUG1>
+<DRUG2>
+<DRUG name="METHOTREXATE" rxcui="6851">
+<ATC code="L01BA01" />
+<ATC code="L04AX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the hematological toxicity of the methotrexate</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Concentration dosage of methotrexate. Adjustment of the dosage if necessary during the administration of the substances together and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

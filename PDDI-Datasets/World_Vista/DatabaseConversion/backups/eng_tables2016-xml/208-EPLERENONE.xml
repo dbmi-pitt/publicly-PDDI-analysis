@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>208-EPLERENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hyperkalemia, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict testing of the kalemia and of the renal function during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>208-EPLERENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hyperkalemia, especially with older patients.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict testing of the kalemia and of the renal function during the administration of these substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>208-EPLERENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="EPLERENONE" rxcui="298869">
+<ATC code="C03DA04" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the plasma concentrations of the eplerenone by the inhibitor and of its undesirable effects, especially hyperkalemia</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)" code="A01AD" /></DRUG2>
+<DESCRIPTION>Serious ventricular arrhythmias due to increased cardiac sensitization
+
+.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Limit the amount of adrenaline, for example: less than 0.1 mg of adrenalin in 10 minutes or 0.3 mg in an hour for an adult </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BACLOFEN" rxcui="1292">
+<ATC code="M03BX01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the muscular hypotonia. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003" /></DRUG2>
+<DESCRIPTION>Vasodilator effect and risk of hypotension, especially orthostatic (additive effect)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CLONIDINE" rxcui="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+<ATC code="C02LC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Described for desipramine, imipramine: inhibition of the antihypertensive effect of the clonidine (antagonism at the level of the adrenergic receptors)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring and, if necessary, adjustment of the dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure in cases of concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>56-TRICYCLIC-ANTIDEPRESSANTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG1>
+<DRUG2>
+<CLASS name="ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)" code="C01CA" /></DRUG2>
+<DESCRIPTION>Paroxysmal hypertension with the possibility of arrhythmia (inhibition of the entry of the sympathomimetic into the sympathic fiber)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

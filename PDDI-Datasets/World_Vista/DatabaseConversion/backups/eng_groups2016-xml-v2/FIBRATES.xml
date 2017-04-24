@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="FIBRATES" code="C01AB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>58</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bezafibrate" rxnorm="1525">
+<ATC code="C10AB02" />
+</DRUG>
+<DRUG name="Ciprofibrate" rxnorm="21149">
+<ATC code="C10AB08" />
+</DRUG>
+<DRUG name="Fenofibrate" rxnorm="8703">
+<ATC code="C10AB05" />
+<ATC code="C10BA03" />
+<ATC code="C10BA04" />
+</DRUG>
+<DRUG name="Gemfibrozil" rxnorm="4719">
+<ATC code="C10AB04" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>198-DROSPIRENONE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DROSPIRENONE" rxcui="840781">
+<ATC code="G03AA12" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="BOCEPREVIR" rxcui="1102129">
+<ATC code="J05AE12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of more than double of the concentrations of drosperinone when taken with the boceprevir</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose a contraceptive with another progestin, especially in cases of hyperkalemia</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>281-IMATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IMATINIB" rxcui="282388">
+<ATC code="L01XE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Not reommended</SEVERITY>
+<COMMENT>If administering these together cannot be avoided, strict clinical monitorinig and frequent testing of the INR</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>281-IMATINIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IMATINIB" rxcui="282388">
+<ATC code="L01XE01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Risk of reduction of the effectiveness of the thyroid hormones</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

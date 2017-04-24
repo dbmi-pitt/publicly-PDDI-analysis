@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>226-FENTANYL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH51" />
+<ATC code="N02AB03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of fentanyl due to increase of its hepatic metabolism by the anticonvulsant
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose another opioid.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>226-FENTANYL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH51" />
+<ATC code="N02AB03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the opioid analgesic&#39;s effect of respiratory depression due to slight decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the opioid analgesic when there is treatment with a strong inhibitor of CYP3A4.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>226-FENTANYL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="FENTANYL" rxcui="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH51" />
+<ATC code="N02AB03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of fentanyl due to increase of its hepatic metabolism by the rifampicin</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Choose another opioid.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

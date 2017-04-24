@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>239-FOLATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FOLATES" code="V03-" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENOBARBITAL (AND, BY EXTRAPOLATION, PRIMIDONE)" code="N03AA-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of the phenobarbital, due to increase of its metabolism of which the folates represent one of the cofactors</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring, testing of the plasma concentrations, and adjustment, if there is reason for it, of the dosage of the phenobarbital during the folic supplementation and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>239-FOLATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="FOLATES" code="V03-" /></DRUG1>
+<DRUG2>
+<CLASS name="PHENYTOIN (AND, BY EXTRAPOLATION, FOSPHENYTOIN)" code="N03AB" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentrations of phenytoin due to increase of its metabolism of which the folates represent one of the cofactors</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations of phenytoin. Possible adjustment of the dosage of the phenytoin during the folic supplementation and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

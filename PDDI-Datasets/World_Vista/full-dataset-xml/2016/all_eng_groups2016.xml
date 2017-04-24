@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASSES>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS  " code="NO6DA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ACETYLCHOLINESTERASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ambenonium" rxnorm="623">
+<ATC code="N07AA30" />
+</DRUG>
+<DRUG name="Donepezil" rxnorm="135447">
+<ATC code="N06DA02" />
+<ATC code="N06DA52" />
+</DRUG>
+<DRUG name="Galantamine" rxnorm="4637">
+<ATC code="N06DA04" />
+</DRUG>
+<DRUG name="Neostigmine" rxnorm="7315">
+<ATC code="N07AA01" />
+<ATC code="S01EB06" />
+<ATC code="N07AA51" />
+</DRUG>
+<DRUG name="Pyridostigmine" rxnorm="9000">
+<ATC code="N07AA02" />
+</DRUG>
+<DRUG name="Rivastigmine" rxnorm="183379">
+<ATC code="N06DA03" />
+</DRUG>
+</CLASS>
+<CLASS name="ADRENALINE (ORAL-DENTAL OR SUB-CUTANEOUS)  " code="A01AD">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ADRENALINE-(ORAL-DENTAL-OR-SUB-CUTANEOUS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Adrenaline " rxnorm="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+</DRUG>
+</CLASS>
+<CLASS name="AGONIST-ANTAGONIST OPIOIDS  " code="NO2A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>AGONIST-ANTAGONIST OPIOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Buprenorphine" rxnorm="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC51" />
+</DRUG>
+<DRUG name="Nalbuphine" rxnorm="7238">
+<ATC code="N02AF02" />
+</DRUG>
+</CLASS>
+<CLASS name="AGONIST OPIOID ANALGESICS" code="N01A-N02A">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>AGONIST OPIOID ANALGESICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfentanil" rxnorm="480">
+<ATC code="N01AH02" />
+</DRUG>
+<DRUG name="Codeine " rxnorm="2670">
+<ATC code="R05DA04" />
+<ATC code="N02AA59" />
+<ATC code="N02AA79" />
+</DRUG>
+<DRUG name="Dihydrocodeine" rxnorm="23088">
+<ATC code="N02AA08" />
+<ATC code="N02AA58" />
+</DRUG>
+<DRUG name="Fentanyl" rxnorm="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH5" />
+<ATC code="N02AB03" />
+</DRUG>
+<DRUG name="Hydromorphone " rxnorm="3423">
+<ATC code="N02AA03" />
+<ATC code="N02AG04" />
+</DRUG>
+<DRUG name="Morphine" rxnorm="7052">
+<ATC code="A07DA52" />
+<ATC code="N02AA01" />
+<ATC code="N02AA51" />
+<ATC code="N02AG01" />
+<ATC code="R05DA05" />
+</DRUG>
+<DRUG name="Oxycodone" rxnorm="7804">
+<ATC code="N02AA05" />
+<ATC code="N02AA55" />
+</DRUG>
+<DRUG name="Pethidine" rxnorm="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+<DRUG name="Remifentanil" rxnorm="73032">
+<ATC code="N01AH06" />
+</DRUG>
+<DRUG name="Sufentanil" rxnorm="56795">
+<ATC code="N01AH03" />
+</DRUG>
+<DRUG name="Tapentadol " rxnorm="787390">
+<ATC code="N02AX06" />
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</CLASS>
+<CLASS name="ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES)" code="C01CA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ALPHA AND BETA SYMPATHOMIMETICS (IM AND IV ROUTES).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Epinephrine is the name for Adrenaline searchable on the ATC search engine. " rxnorm="3992">
+<ATC code="A01AD01" />
+<ATC code="B02BC09" />
+<ATC code="C01CA24" />
+<ATC code="R01AA14" />
+<ATC code="R03AA01" />
+<ATC code="R03AK01" />
+<ATC code="S01EA01" />
+<ATC code="S01EA51" />
+</DRUG>
+<DRUG name="Dopamine" rxnorm="3628">
+<ATC code="C01CA04" />
+</DRUG>
+<DRUG name="Norepinephrine is the searchable name for Noradrenaline" rxnorm="7512">
+<ATC code="C01CA03" />
+</DRUG>
+</CLASS>
+<CLASS name="ALPHA BLOCKERS FOR UROLOGICAL USE" code="G04CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ALPHA-BLOCKERS-FOR-UROLOGICAL-USE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfuzosin" rxnorm="17300">
+<ATC code="G04CA01" />
+<ATC code="G04CA51" />
+</DRUG>
+<DRUG name="Doxazosin" rxnorm="49276">
+<ATC code="C02CA04" />
+</DRUG>
+<DRUG name="Prazosin" rxnorm="8629">
+<ATC code="C02CA01" />
+<ATC code="C02LE01" />
+</DRUG>
+<DRUG name="Silodosin" rxnorm="720825">
+<ATC code="G04CA04" />
+</DRUG>
+<DRUG name="Tamsulosin" rxnorm="77492">
+<ATC code="G04CA02" />
+<ATC code="G04CA52" />
+<ATC code="G04CA53" />
+</DRUG>
+<DRUG name="Terazosin" rxnorm="37798">
+<ATC code="G04CA03" />
+</DRUG>
+</CLASS>
+<CLASS name="ALPHA-SYMPATHOMIMETICS (ORAL AND/OR NASAL)" code="R01AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ALPHA-SYMPATHOMIMETICS-(ORAL-AND-OR-NASAL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Etilefrine" rxnorm="4169">
+<ATC code="C01CA01" />
+<ATC code="C01CA51" />
+</DRUG>
+<DRUG name="Midodrine" rxnorm="6963">
+<ATC code="C01CA17" />
+</DRUG>
+<DRUG name="Naphazoline" rxnorm="7247">
+<ATC code="R01AA08" />
+<ATC code="R01AB02" />
+<ATC code="S01GA01" />
+<ATC code="S01GA51" />
+</DRUG>
+<DRUG name="Oxymetazoline" rxnorm="7812">
+<ATC code="R01AA05" />
+<ATC code="R01AB07" />
+<ATC code="S01GA04" />
+</DRUG>
+<DRUG name="Phenylephrine" rxnorm="8163">
+<ATC code="C01CA06" />
+<ATC code="R01AA04" />
+<ATC code="R01AB01" />
+<ATC code="R01BA03" />
+<ATC code="S01FB01" />
+<ATC code="S01GA05" />
+<ATC code="R01BA53" />
+<ATC code="S01GA55" />
+</DRUG>
+<DRUG name="Synephrine" rxnorm="10288">
+</DRUG>
+<DRUG name="Tetryzoline" rxnorm="37935">
+<ATC code="R01AA06" />
+<ATC code="R01AB03" />
+<ATC code="S01GA02" />
+<ATC code="S01GA52" />
+</DRUG>
+<DRUG name="Tuaminoheptane" rxnorm="179753">
+<ATC code="R01AA11" />
+<ATC code="R01AB08" />
+</DRUG>
+</CLASS>
+<CLASS name="ALUMINUM (SALTS)" code="A02AD0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ALUMINUM-(SALTS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Aluminum Hydroxide / magnesium carbonate" rxnorm="17384">
+</DRUG>
+<DRUG name="Hydrotalcite" rxnorm="27221">
+<ATC code="A02AD04" />
+</DRUG>
+<DRUG name="Magaldrate" rxnorm="29151">
+<ATC code="A02AD02" />
+<ATC code="A02AF01" />
+</DRUG>
+</CLASS>
+<CLASS name="AMINOGLYCOSIDES  " code="J01GB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>AMINOGLYCOSIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amikacin " rxnorm="641">
+<ATC code="D06AX12" />
+<ATC code="J01GB06" />
+<ATC code="S01AA21" />
+</DRUG>
+<DRUG name="Gentamicin" rxnorm="142438">
+<ATC code="D06AX07" />
+<ATC code="J01GB03" />
+<ATC code="S01AA11" />
+<ATC code="S02AA14" />
+<ATC code="S03AA06" />
+</DRUG>
+<DRUG name="Isepamicin" rxnorm="51522">
+<ATC code="J01GB11" />
+</DRUG>
+<DRUG name="Netilmicin" rxnorm="7337">
+<ATC code="J01GB07" />
+<ATC code="S01AA23" />
+</DRUG>
+<DRUG name="Streptomycin " rxnorm="10109">
+<ATC code="A07AA04" />
+<ATC code="A07AA54" />
+<ATC code="J01GA" />
+<ATC code="J01GA01" />
+<ATC code="J04AM01" />
+<ATC code="S01AA15" />
+</DRUG>
+<DRUG name="Tobramycin" rxnorm="10627">
+<ATC code="J01GB01" />
+<ATC code="S01AA12" />
+</DRUG>
+</CLASS>
+<CLASS name="AMINOPENICILLINS" code="J01CA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>AMINOPENICILLINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amoxicillin" rxnorm="723">
+<ATC code="J01CA04" />
+<ATC code="J01CR02" />
+<ATC code="A02BD06" />
+<ATC code="A02BD07" />
+<ATC code="A02BD03" />
+<ATC code="A02BD05" />
+<ATC code="A02BD01" />
+<ATC code="A02BD04" />
+</DRUG>
+<DRUG name="Ampicillin" rxnorm="733">
+<ATC code="J01CA01" />
+</DRUG>
+<DRUG name="Ticarcillin" rxnorm="10591">
+<ATC code="J01CA13" />
+<ATC code="" />
+</DRUG>
+</CLASS>
+<CLASS name="ANDROGENS" code="A14AA0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANDROGENS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Androstanolone" rxnorm="10031">
+<ATC code="A14AA01" />
+<ATC code="G03BB02" />
+</DRUG>
+<DRUG name="Norethandrolone" rxnorm="7513">
+<ATC code="A14AA09" />
+</DRUG>
+<DRUG name="Testosterone" rxnorm="10379">
+<ATC code="G03BA03" />
+<ATC code="G03EA02" />
+</DRUG>
+</CLASS>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANGIOTENSIN-CONVERTING-ENZYME-INHIBITORS-(ACE-INHIBITORS).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Benazepril" rxnorm="18867">
+<ATC code="C09AA07" />
+</DRUG>
+<DRUG name="Captopril" rxnorm="1998">
+<ATC code="C09AA01" />
+</DRUG>
+<DRUG name="Cilazapril" rxnorm="21102">
+<ATC code="C09AA08" />
+<ATC code="C09BA08" />
+</DRUG>
+<DRUG name="Enalapril" rxnorm="3827">
+<ATC code="C09AA02" />
+<ATC code="C09BA02" />
+<ATC code="C09BB02" />
+<ATC code="C09BB06" />
+</DRUG>
+<DRUG name="Fosinopril" rxnorm="50166">
+<ATC code="C09AA09" />
+<ATC code="C09BA09" />
+</DRUG>
+<DRUG name="Lisinopril" rxnorm="29046">
+<ATC code="C09AA03" />
+</DRUG>
+<DRUG name="Moexipril" rxnorm="30131">
+<ATC code="C09AA13" />
+</DRUG>
+<DRUG name="Perindopril tert-butylamine" rxnorm="54552">
+<ATC code="C09AA04" />
+<ATC code="C09BB04" />
+<ATC code="C09BA04" />
+<ATC code="C09BX01" />
+</DRUG>
+<DRUG name="Quinapril" rxnorm="35208">
+<ATC code="C09AA06" />
+</DRUG>
+<DRUG name="Ramipril" rxnorm="35296">
+<ATC code="\C09AA05" />
+</DRUG>
+<DRUG name="Trandolapril" rxnorm="38454">
+<ATC code="C09AA10" />
+</DRUG>
+<DRUG name="Zofenopril" rxnorm="39990">
+<ATC code="C09AA15" />
+<ATC code="C09BA15" />
+</DRUG>
+</CLASS>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANGIOTENSIN-II-RECEPTOR-ANTAGONISTS-or-ANGIOTENSIN-RECEPTOR-BLOCKERS-(ARBs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Azilsartan" rxnorm="1091643">
+<ATC code="C09CA09" />
+</DRUG>
+<DRUG name="Candesartan cilexetil" rxnorm="214354">
+<ATC code="C09CA06" />
+</DRUG>
+<DRUG name="Eprosartan" rxnorm="83515">
+<ATC code="C09CA02" />
+<ATC code="C09DA02" />
+</DRUG>
+<DRUG name="Irbesartan" rxnorm="83818">
+<ATC code="C09CA04" />
+<ATC code="C09DB05" />
+<ATC code="C09DA04" />
+</DRUG>
+<DRUG name="Losartan" rxnorm="52175">
+<ATC code="C09CA01" />
+<ATC code="C09DB06" />
+<ATC code="C09DA01" />
+</DRUG>
+<DRUG name="Olmesartan" rxnorm="321064">
+<ATC code="C09CA08" />
+<ATC code="C09DB02" />
+<ATC code="C09DA08" />
+<ATC code="C09DX03" />
+</DRUG>
+<DRUG name="Telmisartan" rxnorm="73494">
+<ATC code="C09CA07" />
+<ATC code="C09DB04" />
+<ATC code="C09DA07" />
+</DRUG>
+<DRUG name="Valsartan" rxnorm="69749">
+<ATC code="C09CA03" />
+<ATC code="C09DX02" />
+<ATC code="C09DB01" />
+<ATC code="C09DA03" />
+<ATC code="C09DX01" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTABUSE (REACTION)  " code="123-ANT">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTABUSE-(REACTION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Cefamandole" rxnorm="2178">
+<ATC code="J01DC03" />
+</DRUG>
+<DRUG name="Disulfiram" rxnorm="3554">
+<ATC code="N07BB01" />
+</DRUG>
+<DRUG name="Glibenclamide" rxnorm="4815">
+<ATC code="A10BB01" />
+</DRUG>
+<DRUG name="Glipizide" rxnorm="4821">
+<ATC code="A10BB07" />
+</DRUG>
+<DRUG name="Griseofulvin" rxnorm="5021">
+<ATC code="D01AA08" />
+<ATC code="D01BA01" />
+</DRUG>
+<DRUG name="Ketoconazole" rxnorm="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+<DRUG name="Metronidazole" rxnorm="6922">
+<ATC code="A02BD08" />
+<ATC code="A02BD03" />
+<ATC code="A02BD02" />
+<ATC code="A01AB17" />
+<ATC code="D06BX01" />
+<ATC code="G01AF01" />
+<ATC code="J01XD01" />
+<ATC code="P01AB01" />
+<ATC code="A02BD01" />
+</DRUG>
+<DRUG name="Ornidazole" rxnorm="7701">
+<ATC code="G01AF06" />
+<ATC code="J01XD03" />
+<ATC code="P01AB03" />
+</DRUG>
+<DRUG name="Procarbazine" rxnorm="8702">
+<ATC code="L01XB01" />
+</DRUG>
+<DRUG name="Secnidazole " rxnorm="36314">
+<ATC code="P01AB07" />
+</DRUG>
+<DRUG name="Tenonitrozole" rxnorm="236186">
+<ATC code="P01AX08" />
+</DRUG>
+<DRUG name="Tinidazole " rxnorm="10612">
+<ATC code="J01XD02" />
+<ATC code="P01AB02" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIARRHYTHMIC AGENTS  " code="C01B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIARRHYTHMIC-AGENTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amiodarone" rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Cibenzoline" rxnorm="21099">
+<ATC code="C01BG07" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Flecainide" rxnorm="4441">
+<ATC code="C01BC04" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Lidocaine" rxnorm="6387">
+<ATC code="C01BB01" />
+<ATC code="C05AD01" />
+<ATC code="D04AB01" />
+<ATC code="N01BB02" />
+<ATC code="N01BB52" />
+<ATC code="R02AD02" />
+<ATC code="S01HA07" />
+<ATC code="S02DA01" />
+</DRUG>
+<DRUG name="Mexiletine" rxnorm="6926">
+<ATC code="C01BB02" />
+</DRUG>
+<DRUG name="Propafenone" rxnorm="8754">
+<ATC code="C01BC03" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIBACTERIAL SULFONAMIDES" code="JO1E">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIBACTERIAL-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acetylsulfafurazol" rxnorm="">
+</DRUG>
+<DRUG name="Sulfadiazine" rxnorm="10171">
+<ATC code="J01EC02" />
+<ATC code="J01EE06" />
+<ATC code="J01EE02" />
+</DRUG>
+<DRUG name="Sulfadoxine" rxnorm="10173">
+</DRUG>
+<DRUG name="Sulfafurazole " rxnorm="10207">
+<ATC code="J01EB05" />
+<ATC code="S01AB02" />
+</DRUG>
+<DRUG name="Sulfaguanidine" rxnorm="10174">
+<ATC code="A07AB03" />
+</DRUG>
+<DRUG name="Sulfamethizole " rxnorm="10179">
+<ATC code="B05CA04" />
+<ATC code="D06BA04" />
+<ATC code="J01EB02" />
+<ATC code="S01AB01" />
+</DRUG>
+<DRUG name="Sulfamethoxazole" rxnorm="10180">
+<ATC code="J01EC01" />
+<ATC code="J01EE01" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTICONVULSANT-ENZYMATIC-INDUCERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Carbamazepine" rxnorm="2002">
+<ATC code="N03AF01" />
+</DRUG>
+<DRUG name="Fosphenytoin" rxnorm="72236">
+<ATC code="N03AB05" />
+</DRUG>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Phenytoin" rxnorm="8183">
+<ATC code="N03AB02" />
+<ATC code="N03AB52" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIEMITIC NEUROLEPTICS" code="A03FA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIEMITIC-NEUROLEPTICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alizapride" rxnorm="17311">
+<ATC code="A03FA05" />
+</DRUG>
+<DRUG name="Metoclopramide" rxnorm="6915">
+<ATC code="A03FA01" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIHYPERTENSIVE ALPHA BLOCKERS" code="C02CA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIHYPERTENSIVE-ALPHA-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Doxazosin" rxnorm="49276">
+<ATC code="C02CA04" />
+</DRUG>
+<DRUG name="Prazosin" rxnorm="8629">
+<ATC code="C02CA01" />
+<ATC code="C02LE01" />
+</DRUG>
+<DRUG name="Urapidil" rxnorm="39230">
+<ATC code="C02CA06" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIHYPERTENSIVES EXCEPT ALPHA BLOCKERS" code="C0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIHYPERTENSIVES-EXCEPT-ALPHA-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="Aliskiren" rxnorm="325646">
+<ATC code="C09XA02" />
+<ATC code="C09XA52" />
+<ATC code="C09DX02" />
+</DRUG>
+<DRUG name="Altizide" rxnorm="17599">
+<ATC code="C03EA04" />
+</DRUG>
+<DRUG name="Amiloride" rxnorm="644">
+<ATC code="C03DB01" />
+</DRUG>
+<DRUG name="Amlodipine" rxnorm="17767">
+<ATC code="C08CA01" />
+<ATC code="C09BB04" />
+<ATC code="C09DB01" />
+<ATC code="C09DB02" />
+<ATC code="C10BX03" />
+<ATC code="C09BB03" />
+<ATC code="C09DB04" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="Azilsartan" rxnorm="1091643">
+<ATC code="C09CA09" />
+</DRUG>
+<DRUG name="Benazepril" rxnorm="18867">
+<ATC code="C09AA07" />
+</DRUG>
+<DRUG name="Bendroflumethiazide" rxnorm="1369">
+<ATC code="C03AA01" />
+<ATC code="C03AB01" />
+<ATC code="C03EA13" />
+</DRUG>
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+<ATC code="C07AB57" />
+</DRUG>
+<DRUG name="Bumetanide" rxnorm="1808">
+<ATC code="C03CA02" />
+<ATC code="C03CB02" />
+<ATC code="C03EB02" />
+</DRUG>
+<DRUG name="Candesartan cilexetil" rxnorm="214354">
+<ATC code="C09CA06" />
+</DRUG>
+<DRUG name="Potassium canrenoate" rxnorm="618970">
+<ATC code="C03DA02" />
+</DRUG>
+<DRUG name="Captopril" rxnorm="1998">
+<ATC code="C09AA01" />
+</DRUG>
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Chlortalidone" rxnorm="">
+<ATC code="C03BA04" />
+<ATC code="C03BB04" />
+<ATC code="C03EA06" />
+</DRUG>
+<DRUG name="Cicletanine" rxnorm="21914">
+<ATC code="C03BX03" />
+</DRUG>
+<DRUG name="Cilazapril" rxnorm="21102">
+<ATC code="C09AA08" />
+<ATC code="C09BA08" />
+</DRUG>
+<DRUG name="Clevidipine" rxnorm="233603">
+<ATC code="C08CA16" />
+</DRUG>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+<ATC code="C02LC51" />
+</DRUG>
+<DRUG name="Clopamide" rxnorm="2603">
+<ATC code="C03BA03" />
+<ATC code="C03BB03" />
+</DRUG>
+<DRUG name="Dihydralazine" rxnorm="3409">
+<ATC code="C02DB01" />
+<ATC code="C02LG01" />
+<ATC code="C02LG51" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Enalapril" rxnorm="3827">
+<ATC code="C09AA02" />
+<ATC code="C09BA02" />
+<ATC code="C09BB02" />
+<ATC code="C09BB06" />
+</DRUG>
+<DRUG name="Eplerenone" rxnorm="298869">
+<ATC code="C03DA04" />
+</DRUG>
+<DRUG name="Eprosartan" rxnorm="83515">
+<ATC code="C09CA02" />
+<ATC code="C09DA02" />
+</DRUG>
+<DRUG name="Felodipine " rxnorm="4316">
+<ATC code="C08CA02" />
+<ATC code="C09BB05" />
+</DRUG>
+<DRUG name="Fosinopril" rxnorm="50166">
+<ATC code="C09AA09" />
+<ATC code="C09BA09" />
+</DRUG>
+<DRUG name="Furosemide" rxnorm="460">
+<ATC code="C03CA01" />
+<ATC code="C03CB01" />
+<ATC code="C03EB01" />
+</DRUG>
+<DRUG name="Hydrochlorothiazide" rxnorm="5487">
+<ATC code="C09XA52" />
+<ATC code="C09XA54" />
+<ATC code="C03AA03" />
+<ATC code="C03AB03" />
+<ATC code="C03EA01" />
+<ATC code="C03AX01" />
+<ATC code="C09DX03" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Indapamide" rxnorm="5764">
+<ATC code="C03BA11" />
+</DRUG>
+<DRUG name="Irbesartan" rxnorm="83818">
+<ATC code="C09CA04" />
+<ATC code="C09DB05" />
+<ATC code="C09DA04" />
+</DRUG>
+<DRUG name="Isradipine " rxnorm="33910">
+<ATC code="C08CA03" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Lacidipine " rxnorm="28382">
+<ATC code="C08CA09" />
+</DRUG>
+<DRUG name="Lercanidipine" rxnorm="135056">
+<ATC code="C09BB02" />
+<ATC code="C08CA13" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Lisinopril" rxnorm="29046">
+<ATC code="C09AA03" />
+</DRUG>
+<DRUG name="Losartan" rxnorm="52175">
+<ATC code="C09CA01" />
+<ATC code="C09DB06" />
+<ATC code="C09DA01" />
+</DRUG>
+<DRUG name="Manidipine " rxnorm="29275">
+<ATC code="C09BB12" />
+<ATC code="C08CA11" />
+</DRUG>
+<DRUG name="Methyclothiazide" rxnorm="6860">
+<ATC code="C03AA08" />
+<ATC code="C03AB08" />
+</DRUG>
+<DRUG name="Methyldopa" rxnorm="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+<DRUG name="Moexipril" rxnorm="30131">
+<ATC code="C09AA13" />
+</DRUG>
+<DRUG name="Moxonidin" rxnorm="30257">
+<ATC code="C02AC05" />
+<ATC code="C02LC05" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Nicardipine" rxnorm="7396">
+<ATC code="C08CA04" />
+</DRUG>
+<DRUG name="Nifedipine" rxnorm="7417">
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+<DRUG name="Nimodipine" rxnorm="7426">
+<ATC code="C08CA06" />
+</DRUG>
+<DRUG name="Nitrendipine " rxnorm="7441">
+<ATC code="C09BB06" />
+<ATC code="C08CA08" />
+</DRUG>
+<DRUG name="Olmesartan" rxnorm="321064">
+<ATC code="C09CA08" />
+<ATC code="C09DB02" />
+<ATC code="C09DA08" />
+<ATC code="C09DX03" />
+</DRUG>
+<DRUG name="Perindopril tert-butylamine" rxnorm="">
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Piretanide" rxnorm="33770">
+<ATC code="C03CA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Quinapril" rxnorm="35208">
+<ATC code="C09AA06" />
+</DRUG>
+<DRUG name="Ramipril" rxnorm="35296">
+<ATC code="C09AA05" />
+</DRUG>
+<DRUG name="Rilmenidine" rxnorm="55679">
+<ATC code="C02AC06" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Spironolactone" rxnorm="9997">
+<ATC code="C03DA01" />
+</DRUG>
+<DRUG name="Telmisartan" rxnorm="73494">
+<ATC code="C09CA07" />
+<ATC code="C09DB04" />
+<ATC code="C09DA07" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+<DRUG name="Trandolapril" rxnorm="38454">
+<ATC code="C09AA10" />
+</DRUG>
+<DRUG name="Triamterene" rxnorm="10763">
+</DRUG>
+<DRUG name="Valsartan" rxnorm="69749">
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+</DRUG>
+<DRUG name="Zofenopril" rxnorm="39990">
+<ATC code="C09AA15" />
+<ATC code="C09BA15" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTI-LYMPHOCYTE GLOBULINS" code="L04AA0-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTI-LYMPHOCYTE-GLOBULINS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Antilymphocyte immunoglobulin (horse)" rxnorm="1431182">
+<ATC code="L04AA03" />
+</DRUG>
+<DRUG name="Antithymocyte immunoglobulin (rabbit) " rxnorm="1429944">
+<ATC code="L04AA04" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIPARASITICS THAT TEND TO INDUCE TORSADES DE POINTES" code="P01B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIPARASITICS-THAT-TEND-TO-INDUCE-TORSADES-DE-POINTES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Chloroquin" rxnorm="2393">
+<ATC code="P01BA01" />
+</DRUG>
+<DRUG name="Halofantrine" rxnorm="50749">
+<ATC code="P01BX01" />
+</DRUG>
+<DRUG name="Lumefantrine" rxnorm="847728">
+<ATC code="P01BF01" />
+</DRUG>
+<DRUG name="Pentamidine" rxnorm="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIPARKINSONIAN ANTICHOLINERGICS" code="N04AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIPARKINSONIAN-ANTICHOLINERGICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Biperiden" rxnorm="1589">
+<ATC code="N04AA02" />
+</DRUG>
+<DRUG name="Trihexyphenidyl" rxnorm="10811">
+<ATC code="N04AA01" />
+</DRUG>
+<DRUG name="Tropatepine" rxnorm="38876">
+<ATC code="N04AA12" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIPARKINSONIAN DOPAMINERGICS" code="N04B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIPARKINSONIAN-DOPAMINERGICS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amantadine " rxnorm="620">
+<ATC code="N04BB01" />
+</DRUG>
+<DRUG name="Apomorphine" rxnorm="1043">
+<ATC code="G04BE07" />
+<ATC code="N04BC0" />
+</DRUG>
+<DRUG name="Bromocriptine " rxnorm="1760">
+<ATC code="G02CB01" />
+<ATC code="N04BC01" />
+</DRUG>
+<DRUG name="Entacapone " rxnorm="60307">
+<ATC code="N04BX02" />
+</DRUG>
+<DRUG name="Lisuride" rxnorm="6446">
+<ATC code="G02CB02" />
+<ATC code="N02CA07" />
+</DRUG>
+<DRUG name="Pergolide" rxnorm="8047">
+<ATC code="N04BC02" />
+</DRUG>
+<DRUG name="Piribedil " rxnorm="8353">
+<ATC code="N04BC08" />
+</DRUG>
+<DRUG name="Pramipexole" rxnorm="746741">
+<ATC code="N04BC05" />
+</DRUG>
+<DRUG name="Rasagiline " rxnorm="134748">
+<ATC code="N04BD02" />
+</DRUG>
+<DRUG name="Ropinirole " rxnorm="72302">
+<ATC code="N04BC04" />
+</DRUG>
+<DRUG name="Rotigotine" rxnorm="616739">
+<ATC code="N04BC09" />
+</DRUG>
+<DRUG name="Selegiline" rxnorm="9639">
+<ATC code="N04BD01" />
+</DRUG>
+<DRUG name="Tolcapone" rxnorm="72937">
+<ATC code="N04BX01" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIPSYCHOTIC NEUROLEPTICS (EXCEPT CLOZAPINE)" code="N05A-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIPSYCHOTIC-NEUROLEPTICS-(EXCEPT-CLOZAPINE).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amisulpride" rxnorm="46303">
+<ATC code="N05AL05" />
+</DRUG>
+<DRUG name="Aripiprazole" rxnorm="89013">
+<ATC code="N05AX12" />
+</DRUG>
+<DRUG name="Asenapine" rxnorm="784649">
+<ATC code="N05AH05" />
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Droperidol" rxnorm="3648">
+<ATC code="N05AD08" />
+</DRUG>
+<DRUG name="Flupentixol" rxnorm="4495">
+<ATC code="N05AF01" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Haloperidol" rxnorm="5093">
+<ATC code="N05AD01" />
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Loxapine" rxnorm="6475">
+<ATC code="N05AH01" />
+</DRUG>
+<DRUG name="Olanzapine " rxnorm="61381">
+<ATC code="N05AH03" />
+</DRUG>
+<DRUG name="Paliperidone" rxnorm="679314">
+<ATC code="N05AX13" />
+</DRUG>
+<DRUG name="Penfluridol" rxnorm="7974">
+<ATC code="N05AG03" />
+</DRUG>
+<DRUG name="Pimozide" rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Pipamperone" rxnorm="33739">
+<ATC code="N05AD05" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Propericiazine" rxnorm="">
+</DRUG>
+<DRUG name="Quetiapine " rxnorm="51272">
+<ATC code="N05AH04" />
+</DRUG>
+<DRUG name="Risperidone " rxnorm="35636">
+<ATC code="N05AX08" />
+</DRUG>
+<DRUG name="Sulpiride" rxnorm="10239">
+<ATC code="N05AL01" />
+</DRUG>
+<DRUG name="Tiapride" rxnorm="10588">
+<ATC code="N05AL03" />
+</DRUG>
+<DRUG name="Zuclopenthixol" rxnorm="114176">
+<ATC code="N05AF05" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTIPURINES" code="ANTIPUR">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTIPURINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Azathioprine " rxnorm="1256">
+<ATC code="L04AX01" />
+</DRUG>
+<DRUG name="Mercaptopurine " rxnorm="103">
+<ATC code="L01BB02" />
+</DRUG>
+</CLASS>
+<CLASS name="ANTI-TNF ALPHA" code="4ABO">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ANTI-TNF-ALPHA.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Adalimumab" rxnorm="327361">
+<ATC code="L04AB04" />
+</DRUG>
+<DRUG name="Certolizumab pegol" rxnorm="709271">
+<ATC code="L04AB05" />
+</DRUG>
+<DRUG name="Etanercept " rxnorm="214555">
+<ATC code="L04AB01" />
+</DRUG>
+<DRUG name="Golimumab" rxnorm="819300">
+<ATC code="L04AB06" />
+</DRUG>
+<DRUG name="Infliximab" rxnorm="191831">
+<ATC code="L04AB02" />
+</DRUG>
+</CLASS>
+<CLASS name="ATROPINIC MEDICATIONS" code="R06AA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ATROPINIC-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alimemazine" rxnorm="10825">
+<ATC code="R06AD01" />
+</DRUG>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Amoxapine" rxnorm="722">
+</DRUG>
+<DRUG name="Atropine" rxnorm="1223">
+<ATC code="A03BA01" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Azelastine" rxnorm="18603">
+<ATC code="R01AC03" />
+<ATC code="R06AX19" />
+<ATC code="S01GX07" />
+</DRUG>
+<DRUG name="Biperiden" rxnorm="1589">
+<ATC code="N04AA02" />
+</DRUG>
+<DRUG name="Brompheniramine" rxnorm="1767">
+<ATC code="R06AB01" />
+<ATC code="R06AB5" />
+</DRUG>
+<DRUG name="Chlorphenamine" rxnorm="2400">
+<ATC code="R06AB04" />
+<ATC code="R06AB54" />
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Clidinium" rxnorm="1429809">
+<ATC code="A03CA02" />
+</DRUG>
+<DRUG name="Clomipramine" rxnorm="2597">
+<ATC code="N06AA04" />
+</DRUG>
+<DRUG name="Clozapine " rxnorm="2626">
+<ATC code="N05AH02" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Cyclopentolate" rxnorm="3001">
+<ATC code="S01FA04" />
+</DRUG>
+<DRUG name="Cyproheptadine " rxnorm="3013">
+<ATC code="R06AX02" />
+</DRUG>
+<DRUG name="Darifenacin " rxnorm="136198">
+<ATC code="G04BD10" />
+</DRUG>
+<DRUG name="Dexchlorpheniramine" rxnorm="22697">
+<ATC code="R06AB02" />
+<ATC code="" />
+</DRUG>
+<DRUG name="Diphenhydramine diacefylline" rxnorm="">
+</DRUG>
+<DRUG name="Dimenhydrinate" rxnorm="3444">
+</DRUG>
+<DRUG name="Diphenhydramine" rxnorm="3498">
+<ATC code="D04AA32" />
+<ATC code="R06AA02" />
+<ATC code="D04AA33" />
+<ATC code="R06AA52" />
+</DRUG>
+<DRUG name="Disopyramide " rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Dosulepin" rxnorm="3634">
+<ATC code="N06AA16" />
+</DRUG>
+<DRUG name="Doxepin" rxnorm="3638">
+<ATC code="N06AA12" />
+</DRUG>
+<DRUG name="Doxylamine" rxnorm="3642">
+<ATC code="R06AA09" />
+<ATC code="R06AA59" />
+</DRUG>
+<DRUG name="Fesoterodine " rxnorm="797195">
+<ATC code="G04BD11" />
+</DRUG>
+<DRUG name="Flunarizine" rxnorm="4459">
+<ATC code="N07CA03" />
+</DRUG>
+<DRUG name="Flupentixol" rxnorm="4495">
+<ATC code="N05AF01" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Glycopyrronium" rxnorm="1546438">
+<ATC code="as" />
+<ATC code="glycopyrronium" />
+<ATC code="bromide" />
+</DRUG>
+<DRUG name="Homatropine" rxnorm="27084">
+<ATC code="S01FA05" />
+</DRUG>
+<DRUG name="Hydroxyzine" rxnorm="5553">
+<ATC code="N05BB01" />
+<ATC code="N05BB51" />
+</DRUG>
+<DRUG name="Imipramine" rxnorm="5691">
+<ATC code="N06AA02" />
+</DRUG>
+<DRUG name="Ipratropium" rxnorm="7213">
+</DRUG>
+<DRUG name="Isothipendyl" rxnorm="28012">
+<ATC code="D04AA22" />
+<ATC code="R06AD09" />
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Loxapine" rxnorm="6475">
+<ATC code="N05AH01" />
+</DRUG>
+<DRUG name="Maprotiline" rxnorm="6646">
+<ATC code="N06AA21" />
+</DRUG>
+<DRUG name="Meclozine" rxnorm="6676">
+<ATC code="R06AE05" />
+<ATC code="R06AE55" />
+</DRUG>
+<DRUG name="Mepyramine" rxnorm="9009">
+<ATC code="D04AA02" />
+<ATC code="R06AC01" />
+</DRUG>
+<DRUG name="Mequitazine " rxnorm="29528">
+<ATC code="R06AD07" />
+</DRUG>
+<DRUG name="Metopimazine" rxnorm="29954">
+<ATC code="A04AD05" />
+</DRUG>
+<DRUG name="Mizolastine " rxnorm="61455">
+<ATC code="R06AX25" />
+</DRUG>
+<DRUG name="Nefopam" rxnorm="7285">
+<ATC code="N02BG06" />
+</DRUG>
+<DRUG name="Oxomemazine" rxnorm="234528">
+<ATC code="R06AD08" />
+</DRUG>
+<DRUG name="Oxybutynin" rxnorm="32675">
+<ATC code="G04BD04" />
+</DRUG>
+<DRUG name="Pheniramine" rxnorm="8132">
+<ATC code="R06AB05" />
+</DRUG>
+<DRUG name="Phenyltoloxamine" rxnorm="33408">
+</DRUG>
+<DRUG name="Pimethixene" rxnorm="33712">
+<ATC code="R06AX23" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Pizotifen" rxnorm="8373">
+<ATC code="N02CX01" />
+</DRUG>
+<DRUG name="Promethazine" rxnorm="8745">
+<ATC code="V03AB05" />
+<ATC code="D04AA10" />
+<ATC code="R06AD02" />
+<ATC code="R06AD52" />
+</DRUG>
+<DRUG name="Propericiazine" rxnorm="8766">
+<ATC code="N05AC01" />
+</DRUG>
+<DRUG name="Quetiapine" rxnorm="51272">
+<ATC code="N05AH04" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+<DRUG name="Scopolamine" rxnorm="9601">
+<ATC code="A04AD01" />
+<ATC code="N05CM05" />
+<ATC code="S01FA02" />
+<ATC code="A04AD51" />
+</DRUG>
+<DRUG name="Solifenacin " rxnorm="322167">
+<ATC code="G04BD08" />
+<ATC code="G04CA53" />
+</DRUG>
+<DRUG name="Tolterodine " rxnorm="">
+<ATC code="G04BD07" />
+</DRUG>
+<DRUG name="Trihexyphenidyl" rxnorm="10811">
+<ATC code="N04AA01" />
+</DRUG>
+<DRUG name="Trimipramine" rxnorm="10834">
+<ATC code="N06AA06" />
+</DRUG>
+<DRUG name="Tropatepine" rxnorm="38876">
+<ATC code="N04AA12" />
+</DRUG>
+<DRUG name="Tropicamide" rxnorm="10869">
+<ATC code="S01FA06" />
+<ATC code="S01FA56" />
+</DRUG>
+<DRUG name="Trospium" rxnorm="236778">
+<ATC code="G04BD09" />
+<ATC code="A03DA06" />
+</DRUG>
+<DRUG name="Zuclopenthixol" rxnorm="114176">
+<ATC code="N05AF05" />
+</DRUG>
+</CLASS>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>ATTENUATED-LIVE-VIRUS-VACCINES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="BCG Vaccine" rxnorm="1344">
+<ATC code="L03AX03" />
+</DRUG>
+<DRUG name="Rotavirus Vaccine, Live Attenuated" rxnorm="805573">
+<ATC code="J07BH01" />
+</DRUG>
+<DRUG name="Yellow Fever Vaccine" rxnorm="89890">
+<ATC code="J07BL" />
+<ATC code="J07BL01" />
+</DRUG>
+<DRUG name="Measles vaccine" rxnorm="235574">
+<ATC code="J07BD" />
+<ATC code="J07BD01" />
+<ATC code="J07BD51" />
+<ATC code="J07BD52" />
+<ATC code="J07BD53" />
+<ATC code="J07BD54" />
+</DRUG>
+<DRUG name="Mumps vaccine" rxnorm="68487">
+<ATC code="J07BE" />
+<ATC code="J07BE01" />
+</DRUG>
+<DRUG name="Rubella vaccine" rxnorm="9486">
+<ATC code="J07BJ" />
+<ATC code="J07BJ01" />
+</DRUG>
+<DRUG name="Varicella-Zoster Virus" rxnorm="11131">
+<ATC code="J07BK01" />
+</DRUG>
+<DRUG name="Live Attenuated Influenza Vaccine [LAIV] " rxnorm="">
+<ATC code="J07BB03" />
+</DRUG>
+</CLASS>
+<CLASS name="AZOLE ANTIFUNGALS" code="J02AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>AZOLE-ANTIFUNGALS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Fluconazole" rxnorm="4450">
+<ATC code="D01AC15" />
+<ATC code="J02AC01" />
+</DRUG>
+<DRUG name="Itraconazole" rxnorm="28031">
+<ATC code="J02AC02" />
+</DRUG>
+<DRUG name="Ketoconazole " rxnorm="6135">
+<ATC code="D01AC08" />
+<ATC code="G01AF11" />
+<ATC code="J02AB02" />
+</DRUG>
+<DRUG name="Posaconazole " rxnorm="282446">
+<ATC code="J02AC04" />
+</DRUG>
+<DRUG name="Voriconazole " rxnorm="121243">
+<ATC code="J02AC03" />
+</DRUG>
+</CLASS>
+<CLASS name="BARBITURATES" code="N05CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BARBITURATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+<DRUG name="Thiopental" rxnorm="10493">
+<ATC code="N01AF03" />
+<ATC code="N05CA19" />
+</DRUG>
+</CLASS>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BENZODIAZEPINES-AND-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alprazolam" rxnorm="596">
+<ATC code="N05BA12" />
+</DRUG>
+<DRUG name="Avizafone" rxnorm="">
+</DRUG>
+<DRUG name="Bromazepam" rxnorm="1749">
+<ATC code="N05BA08" />
+</DRUG>
+<DRUG name="Chlordiazepoxide" rxnorm="2356">
+<ATC code="N05BA02" />
+</DRUG>
+<DRUG name="Clobazam" rxnorm="21241">
+<ATC code="N05BA09" />
+</DRUG>
+<DRUG name="Clonazepam" rxnorm="2598">
+<ATC code="N03AE01" />
+</DRUG>
+<DRUG name="Clorazepate" rxnorm="2353">
+<ATC code="N05BA05" />
+</DRUG>
+<DRUG name="Clotiazepam" rxnorm="2622">
+<ATC code="N05BA21" />
+</DRUG>
+<DRUG name="Diazepam" rxnorm="3322">
+<ATC code="N05BA01" />
+</DRUG>
+<DRUG name="Estazolam" rxnorm="4077">
+<ATC code="N05CD04" />
+</DRUG>
+<DRUG name="Flunitrazepam" rxnorm="4460">
+<ATC code="N05CD03" />
+</DRUG>
+<DRUG name="Flurazepam" rxnorm="4501">
+<ATC code="N05CD01" />
+</DRUG>
+<DRUG name="Loflazepate" rxnorm="">
+<ATC code="N05BA18" />
+</DRUG>
+<DRUG name="Loprazolam" rxnorm="38555">
+<ATC code="N05CD11" />
+</DRUG>
+<DRUG name="Lorazepam" rxnorm="6470">
+<ATC code="N05BA06" />
+<ATC code="N05BA56" />
+</DRUG>
+<DRUG name="Lormetazepam" rxnorm="28894">
+<ATC code="N05CD06" />
+</DRUG>
+<DRUG name="Midazolam" rxnorm="6960">
+<ATC code="N05CD08" />
+</DRUG>
+<DRUG name="Nitrazepam" rxnorm="7440">
+<ATC code="N05CD02" />
+</DRUG>
+<DRUG name="Nordazepam" rxnorm="3155">
+<ATC code="N05BA16" />
+</DRUG>
+<DRUG name="Oxazepam" rxnorm="7781">
+<ATC code="N05BA04" />
+</DRUG>
+<DRUG name="Prazepam" rxnorm="8627">
+<ATC code="N05BA11" />
+</DRUG>
+<DRUG name="Tetrazepam" rxnorm="37985">
+<ATC code="M03BX07" />
+</DRUG>
+<DRUG name="Zolpidem" rxnorm="39993">
+</DRUG>
+<DRUG name="Zopiclone" rxnorm="40001">
+<ATC code="N05CF01" />
+</DRUG>
+</CLASS>
+<CLASS name="BETA-2 MIMETICS or BETA2 ADRENERGIC AGONISTS" code="R03C-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BETA-2-MIMETICS-or-BETA2-ADRENERGIC-AGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bambuterol" rxnorm="18751">
+<ATC code="R03CC12" />
+</DRUG>
+<DRUG name="Indacaterol" rxnorm="1114326">
+<ATC code="R03AC18" />
+</DRUG>
+<DRUG name="Olodaterol" rxnorm="1546059">
+<ATC code="R03AC19" />
+</DRUG>
+<DRUG name="Salbutamol" rxnorm="435">
+<ATC code="R03AC02" />
+<ATC code="R03CC02" />
+<ATC code="R03AK04" />
+</DRUG>
+<DRUG name="Terbutaline " rxnorm="10368">
+<ATC code="R03AC03" />
+<ATC code="R03CC03" />
+<ATC code="R03CC53" />
+</DRUG>
+<DRUG name="Vilanterol" rxnorm="1424884">
+<ATC code="only" />
+<ATC code="in" />
+<ATC code="combinations:" />
+</DRUG>
+</CLASS>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL AND SOTALOL)" code="C07AB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BETA-BLOCKING-AGENTS-(EXCEPT-ESMOLOL-AND-SOTALOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+<ATC code="C07AB57" />
+</DRUG>
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+</CLASS>
+<CLASS name="BETA BLOCKING AGENTS (EXCEPT ESMOLOL)" code="C07AB-002">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BETA-BLOCKING-AGENTS-(EXCEPT-ESMOLOL).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+<ATC code="C07AB57" />
+</DRUG>
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+</CLASS>
+<CLASS name="BETA-BLOCKING AGENTS IN HEART FAILURE" code="C07AB-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BETA-BLOCKING-AGENTS-IN-HEART-FAILURE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+<ATC code="C07AB57" />
+</DRUG>
+<DRUG name="Carvedilol" rxnorm="20352">
+<ATC code="C07AG02" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+</CLASS>
+<CLASS name="BILE ACIDS" code="A05AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BILE-ACIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Ursodesoxycholic acid" rxnorm="62427">
+<ATC code="A05AA" />
+</DRUG>
+</CLASS>
+<CLASS name="BISPHOSPHONATES" code="M05B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BISPHOSPHONATES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alendronic acid" rxnorm="236083">
+<ATC code="M05BA04" />
+<ATC code="M05BB06" />
+<ATC code="M05BB03" />
+<ATC code="M05BB05" />
+</DRUG>
+<DRUG name="Clodronic acid" rxnorm="3350">
+<ATC code="M05BA02" />
+</DRUG>
+<DRUG name="Etidronic acid" rxnorm="1356715">
+<ATC code="M05BB01" />
+</DRUG>
+<DRUG name="Ibandronic acid" rxnorm="115265">
+<ATC code="M05BA06" />
+</DRUG>
+<DRUG name="Oxidronic acid" rxnorm="1546448">
+</DRUG>
+<DRUG name="Pamidronic acid" rxnorm="11473">
+<ATC code="M05BA03" />
+</DRUG>
+<DRUG name="Risedronic acid" rxnorm="55685">
+<ATC code="M05BA07" />
+<ATC code="M05BB02" />
+<ATC code="M05BB04" />
+</DRUG>
+<DRUG name="Tiludronic acid" rxnorm="11476">
+<ATC code="M05BA05" />
+</DRUG>
+<DRUG name="Zoledronic acid" rxnorm="77655">
+<ATC code="M05BA08" />
+</DRUG>
+</CLASS>
+<CLASS name="BLOOD GLUCOSE LOWERING SULFONAMIDES" code="A10BB">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BLOOD-GLUCOSE-LOWERING-SULFONAMIDES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Glibenclamide" rxnorm="4815">
+<ATC code="A10BB01" />
+</DRUG>
+<DRUG name="Gliclazide" rxnorm="4816">
+<ATC code="A10BB09" />
+</DRUG>
+<DRUG name="Glimepiride" rxnorm="25789">
+<ATC code="A10BB12" />
+</DRUG>
+<DRUG name="Glipizide" rxnorm="4821">
+<ATC code="A10BB07" />
+</DRUG>
+</CLASS>
+<CLASS name="BRADYCARDIA INDUCING DRUGS" code="C0N0S0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>BRADYCARDIA-INDUCING-DRUGS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acebutolol " rxnorm="149">
+<ATC code="C07AB04" />
+</DRUG>
+<DRUG name="Ambenonium" rxnorm="623">
+<ATC code="N07AA30" />
+</DRUG>
+<DRUG name="Amiodarone" rxnorm="703">
+<ATC code="C01BD01" />
+</DRUG>
+<DRUG name="Atenolol" rxnorm="1202">
+<ATC code="C07AB03" />
+</DRUG>
+<DRUG name="Betaxolol" rxnorm="1520">
+<ATC code="C07AB05" />
+</DRUG>
+<DRUG name="Bisoprolol" rxnorm="19484">
+<ATC code="C07AB07" />
+</DRUG>
+<DRUG name="Carteolol" rxnorm="2116">
+<ATC code="C07AA15" />
+</DRUG>
+<DRUG name="Carvedilol" rxnorm="20352">
+<ATC code="C07AG02" />
+</DRUG>
+<DRUG name="Celiprolol" rxnorm="20498">
+<ATC code="C07AB08" />
+</DRUG>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+<ATC code="C02LC51" />
+</DRUG>
+<DRUG name="Crizotinib" rxnorm="1148495">
+<ATC code="L01XE16" />
+</DRUG>
+<DRUG name="Digoxin" rxnorm="3407">
+<ATC code="C01AA05" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Disopyramide" rxnorm="3541">
+<ATC code="C01BA03" />
+</DRUG>
+<DRUG name="Donepezil" rxnorm="135447">
+<ATC code="N06DA02" />
+<ATC code="N06DA52" />
+</DRUG>
+<DRUG name="Dronedarone" rxnorm="233698">
+<ATC code="C01BD07" />
+</DRUG>
+<DRUG name="Esmolol " rxnorm="49737">
+<ATC code="C07AB09" />
+</DRUG>
+<DRUG name="Fampridine" rxnorm="897018">
+<ATC code="N07XX07" />
+</DRUG>
+<DRUG name="Fingolimod" rxnorm="1012892">
+<ATC code="L04AA27" />
+</DRUG>
+<DRUG name="Galantamine" rxnorm="4637">
+<ATC code="N06DA04" />
+</DRUG>
+<DRUG name="Hydroquinidine" rxnorm="27220">
+</DRUG>
+<DRUG name="Ivabradine " rxnorm="77417">
+<ATC code="C01EB17" />
+</DRUG>
+<DRUG name="Labetalol" rxnorm="6185">
+<ATC code="C07AG01" />
+<ATC code="C07CG01" />
+<ATC code="C07BG01" />
+</DRUG>
+<DRUG name="Levobunolol" rxnorm="1813">
+<ATC code="S01ED03" />
+</DRUG>
+<DRUG name="Mefloquine" rxnorm="6694">
+<ATC code="P01BF02" />
+<ATC code="P01BC02" />
+</DRUG>
+<DRUG name="Metoprolol" rxnorm="6918">
+<ATC code="C07AB02" />
+<ATC code="C07FB02" />
+<ATC code="C07CB02" />
+<ATC code="C07BB02" />
+<ATC code="C07BB52" />
+<ATC code="C07AB52" />
+</DRUG>
+<DRUG name="Midodrine" rxnorm="6963">
+<ATC code="C01CA17" />
+</DRUG>
+<DRUG name="Nadolol" rxnorm="7226">
+<ATC code="C07AA12" />
+</DRUG>
+<DRUG name="Nebivolol" rxnorm="31555">
+<ATC code="C07AB12" />
+</DRUG>
+<DRUG name="Neostigmine" rxnorm="7315">
+<ATC code="N07AA01" />
+<ATC code="S01EB06" />
+<ATC code="N07AA51" />
+</DRUG>
+<DRUG name="Pasireotide" rxnorm="1364105">
+<ATC code="H01CB05" />
+</DRUG>
+<DRUG name="Pilocarpine" rxnorm="8328">
+<ATC code="N07AX01" />
+<ATC code="S01EB51" />
+</DRUG>
+<DRUG name="Pindolol" rxnorm="8332">
+<ATC code="C07AA03" />
+</DRUG>
+<DRUG name="Propranolol" rxnorm="8787">
+<ATC code="C07AA05" />
+</DRUG>
+<DRUG name="Pyridostigmine" rxnorm="9000">
+<ATC code="N07AA02" />
+</DRUG>
+<DRUG name="Quinidine" rxnorm="9068">
+<ATC code="C01BA01" />
+<ATC code="C01BA51" />
+<ATC code="C01BA71" />
+</DRUG>
+<DRUG name="Rivastigmine" rxnorm="183379">
+<ATC code="N06DA03" />
+</DRUG>
+<DRUG name="Sotalol" rxnorm="9947">
+<ATC code="C07AA07" />
+</DRUG>
+<DRUG name="Tertatolol" rxnorm="37840">
+<ATC code="C07AA16" />
+</DRUG>
+<DRUG name="Thalidomide" rxnorm="10432">
+<ATC code="L04AX02" />
+</DRUG>
+<DRUG name="Timolol" rxnorm="10600">
+<ATC code="C07AA06" />
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+</DRUG>
+</CLASS>
+<CLASS name="CALCIUM CHANNEL BLOCKERS  " code="CO8CA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>CALCIUM-CHANNEL-BLOCKERS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amlodipine" rxnorm="17767">
+<ATC code="C08CA01" />
+<ATC code="C09BB04" />
+<ATC code="C09DB01" />
+<ATC code="C09DB02" />
+<ATC code="C10BX03" />
+<ATC code="C09BB03" />
+<ATC code="C09DB04" />
+<ATC code="C09DX01" />
+<ATC code="C08GA02" />
+<ATC code="C09BX01" />
+<ATC code="C09DB07" />
+</DRUG>
+<DRUG name="Clevidipine" rxnorm="233603">
+<ATC code="C08CA16" />
+</DRUG>
+<DRUG name="Diltiazem " rxnorm="3443">
+<ATC code="C08DB01" />
+</DRUG>
+<DRUG name="Felodipine " rxnorm="4316">
+<ATC code="C08CA02" />
+<ATC code="C09BB05" />
+</DRUG>
+<DRUG name="Isradipine " rxnorm="33910">
+<ATC code="C08CA03" />
+</DRUG>
+<DRUG name="Lacidipine " rxnorm="28382">
+<ATC code="C08CA09" />
+</DRUG>
+<DRUG name="Lercanidipine" rxnorm="135056">
+<ATC code="C09BB02" />
+<ATC code="C08CA13" />
+</DRUG>
+<DRUG name="Manidipine " rxnorm="29275">
+<ATC code="C09BB12" />
+<ATC code="C08CA11" />
+</DRUG>
+<DRUG name="Nicardipine" rxnorm="7396">
+<ATC code="C08CA04" />
+</DRUG>
+<DRUG name="Nifedipine" rxnorm="7417">
+</DRUG>
+<DRUG name="Nimodipine" rxnorm="7426">
+<ATC code="C08CA06" />
+</DRUG>
+<DRUG name="Nitrendipine " rxnorm="7441">
+<ATC code="C09BB06" />
+<ATC code="C08CA08" />
+</DRUG>
+<DRUG name="Verapamil" rxnorm="11170">
+<ATC code="C09BB10" />
+<ATC code="C08DA01" />
+<ATC code="C08DA51" />
+</DRUG>
+</CLASS>
+<CLASS name="CENTRAL ANTIHYPERTENSIVES" code="C02AC-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>CENTRA- ANTIHYPERTENSIVES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+<ATC code="C02LC51" />
+</DRUG>
+<DRUG name="Guanfacine " rxnorm="40114">
+<ATC code="C02AC02" />
+</DRUG>
+<DRUG name="Methyldopa" rxnorm="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+<DRUG name="Moxonidin" rxnorm="30257">
+</DRUG>
+<DRUG name="Rilmenidine" rxnorm="55679">
+<ATC code="C02AC06" />
+</DRUG>
+</CLASS>
+<CLASS name="VINCA ALKALOIDS" code="L01CA">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>VINCA-ALKALOIDS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Vinblastine" rxnorm="11198">
+<ATC code="L01CA01" />
+</DRUG>
+<DRUG name="Vincristine" rxnorm="11202">
+<ATC code="L01CA02" />
+</DRUG>
+<DRUG name="Vindesine" rxnorm="11204">
+<ATC code="L01CA03" />
+</DRUG>
+<DRUG name="Vinflunine" rxnorm="194315">
+<ATC code="L01CA05" />
+</DRUG>
+<DRUG name="Vinorelbine" rxnorm="39541">
+<ATC code="L01CA04" />
+</DRUG>
+</CLASS>
+<CLASS name="VITAMIN D" code="A11CC">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>VITAMIN-D.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Alfacalcidol" rxnorm="12062">
+<ATC code="A11CC03" />
+</DRUG>
+<DRUG name="Calcitriol " rxnorm="1894">
+<ATC code="A11CC04" />
+<ATC code="D05AX03" />
+</DRUG>
+<DRUG name="Cholecalciferol " rxnorm="2418">
+<ATC code="A11CC05" />
+<ATC code="M05BB03" />
+<ATC code="M05BB05" />
+<ATC code="M05BB04" />
+<ATC code="M05BX53" />
+</DRUG>
+<DRUG name="Ergocalciferol" rxnorm="4018">
+<ATC code="A11CC01" />
+</DRUG>
+</CLASS>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>VITAMIN-K-ANTAGONISTS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Acenocoumarol" rxnorm="154">
+<ATC code="B01AA07" />
+</DRUG>
+<DRUG name="Fluindione" rxnorm="50097">
+<ATC code="B01AA12" />
+</DRUG>
+<DRUG name="Warfarin" rxnorm="11289">
+<ATC code="B01AA03" />
+</DRUG>
+</CLASS>
+<CLASS name="XANTHINE OXYDASE INHIBITORS" code="M04AA0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>XANTHINE-OXYDASE-INHIBITORS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Allopurinol" rxnorm="519">
+<ATC code="M04AA01" />
+</DRUG>
+<DRUG name="Febuxostat" rxnorm="73689">
+<ATC code="M04AA03" />
+</DRUG>
+</CLASS>
+</CLASSES>

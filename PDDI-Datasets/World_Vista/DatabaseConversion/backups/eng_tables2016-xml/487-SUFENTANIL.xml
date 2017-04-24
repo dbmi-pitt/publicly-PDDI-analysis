@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>487-SUFENTANIL.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="SUFENTANIL" rxcui="56795">
+<ATC code="N01AH03" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the opioid analgesic&#146;s effect of respiratory depression due to decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the opioid analgesic when there is also treatment with a strong inhibitor of CYP3A4. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

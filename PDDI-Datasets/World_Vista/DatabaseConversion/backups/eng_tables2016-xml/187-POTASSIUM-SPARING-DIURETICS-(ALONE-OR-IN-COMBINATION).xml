@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Contraindication unless there is hypokalemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN II RECEPTOR ANTAGONISTS or ANGIOTENSIN RECEPTOR BLOCKERS (ARBs)" code="C09CA0-001" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia (possibly lethal) especially when there is renal insufficiency (addition of the effects of the hyperkalemia inducing substances)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>--if administering these medications together is justified, strict testing of the kalemia and of the renal function.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<CLASS name="POTASSIUM LOWERING DIURETICS" code="C03" /></DRUG2>
+<DESCRIPTION>The rational choice of these two medications, useful for some patients, does not exclude the onset of hypokalemia or, in particular with patients having renal insufficiency and diabetes, of hyperkalemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitor the kalemia, possibly EKG and, if there is reason to, reconsider the treatment.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>Risk of hyperkalemia (potentially lethal) especially when there is renal insufficiency (addition of the hyperkalemia producing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-if the administration of the two medications together is justified, strict testing of the kalemia and of the renal function.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM " rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the lithemia with signs of overdose of lithium, as with a low sodium regimen (decrease of the urinary excretion of the lithium)</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<DRUG name="POTASSIUM" rxcui="8588">
+<ATC code="A12BA" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially with renal insufficiency (addition of the hyperkalemia producing effects)</DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-aside from hypokalemia or in case of parenteral use of the potassium salts</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>187-POTASSIUM-SPARING-DIURETICS-(ALONE-OR-IN-COMBINATION).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM SPARING DIURETICS (ALONE OR IN COMBINATION)" code="C0E-004" /></DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Potentially lethal hyperkalemia, especially when there is renal insufficiency (addition of the hyperkalemia inducing effects)</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

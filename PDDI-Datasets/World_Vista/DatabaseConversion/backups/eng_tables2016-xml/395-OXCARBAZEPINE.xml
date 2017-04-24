@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>395-OXCARBAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="NON-CONTRACEPTIVE ESTROGENS" code="G03C-001" /></DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the hormonal treatment, due to increase of its hepatic metabolism by the oxcarbazepine.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the hormonal treatment during the treatment with the oxcarbazepine and after it is stopped.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>395-OXCARBAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LAMOTRIGINE" rxcui="28439">
+<ATC code="N03AX09" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of the lamotrigine with risk of lower effectiveness, due to increase of its hepatic metabolism by the oxcarbazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and testing of the plasma concentrations, with adjustment of the dosage of the lamotrigine if needed.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>395-OXCARBAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PERAMPANEL" rxcui="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease by half of the concentrations of perampanel and slight increase of those of the oxcarbazepine.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>395-OXCARBAZEPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="OXCARBAZEPINE" rxcui="32624">
+<ATC code="N03AF02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TOPIRAMATE" rxcui="38404">
+<ATC code="38404" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the concentrations of the topiramate with risk of lower effectiveness, due to increase of its hepatic metabolism by the oxcarbazepine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if needed, adjustment of the dosage of the topiramate during the treatment with the oxcarbazepine and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="CALCIUM CHANNEL BLOCKERS " code="CO8CA-001" /></DRUG2>
+<DESCRIPTION>Increase of the undesirable effects of the calcium channel blocker, of the orthostatic hypotension sort, especially with older patients</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the calcium channel blocker during the treatment with idelalisib and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the plasma concentratioins of idelalisib due to increase of its hepatic metabolism by the anticonvulsant enzymatic inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of idelalisib due to decrease of its hepatic metabolism by the inhibitor</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of large decrease of the plasma concentrations of idelalisib due to increase of its hepatic metabolism by the St Johns wort</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decease of the plasma concentrations of idelalisib due to increase of its hepatic metabolism by the inducer.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>276-IDELALISIB.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="IDELALISIB" rxcui="1544460">
+<ATC code="L01XX47" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="SUBSTRATES AT RISK OF CYP3A4" code="L01N01" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the substrate due to decrease of its hepatic metabolism by the idelalisib.</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

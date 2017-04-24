@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>165-DEFEROXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFEROXAMINE" rxcui="3131">
+<ATC code="V03AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ASCORBIC ACID" rxcui="1151">
+<ATC code="A11GA" />
+<ATC code="A11GA01" />
+<ATC code="A11GA01" />
+<ATC code="A11GB" />
+<ATC code="A11GB01" />
+<ATC code="G01AD03" />
+<ATC code="S01XA15" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With large doses of the ascorbic acid and by intravenous route: 
+
+cardiac function anomalies, even acute heart failure (generally reversible by ending administration of the Vitamin C).</DESCRIPTION>
+<SEVERITY>Precaution for use:</SEVERITY>
+<COMMENT>In the case of hemochromatosis, only give Vitamin C after having started treatment with the deferoxamine. Monitor cardiac function when these substances are administered together.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>165-DEFEROXAMINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="DEFEROXAMINE" rxcui="3131">
+<ATC code="V03AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEFERASIROX" rxcui="614373">
+<ATC code="V03AC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hyperchelation</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

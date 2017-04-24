@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>273-POTASSIUM-LOWERING-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OTHER POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG2>
+<DESCRIPTION>Increased risk of hypokalemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Monitoring of kalemia with correction if needed.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>273-POTASSIUM-LOWERING-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Hypokaliemia that promotes the toxic effects of the digitalics.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Correct beforehand any hypokaliemia; maintain clinical monitoring, electrolite monitoring, and EKG.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>273-POTASSIUM-LOWERING-MEDICATIONS.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="POTASSIUM LOWERING AGENTS" code="C03-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SUBSTANCES THAT TEND TO INDUCE TORSADES DE POINTES" code="C01-N05" /></DRUG2>
+<DESCRIPTION>Increased risk of ventricular arrhythmias, especially torsades de pointes</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Correct any hypokalemia before administering the product and maintain clinical monitoring, electrolyte monitoring and electrocardiographic monitoring. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>145-NON-DEPOLARIZING-CURARES.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="NON-DEPOLARIZING CURARES" code="M03A-002" /></DRUG1>
+<DRUG2>
+<CLASS name="GLUCOCORTICOIDS (EXCEPT HYDROCORTISONE)" code="A0-H0-001" /></DRUG2>
+<DESCRIPTION>With the glucocorticoids by IV route: risk of severe myopathy, reversible after a possibly long period (several months).</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

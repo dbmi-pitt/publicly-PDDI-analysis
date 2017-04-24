@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>90-BENZODIAZEPINES-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="BARBITURATES" code="N05CA-001" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in the case of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>90-BENZODIAZEPINES-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BUPRENORPHINE" rxcui="1819">
+<ATC code="N02AE01" />
+<ATC code="N07BC01" />
+<ATC code="N07BC51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the buprenorphine used in replacement therapy: increased risk of respiratory depression, which can be fatal. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+<COMMENT>Evaluate carefully the risk /benefit relationship of administering these substances together. Inform the patient of the necessity of adhering to the prescribed doses. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>90-BENZODIAZEPINES-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG1>
+<DRUG2>
+<DRUG name="CLOZAPINE" rxcui="2626">
+<ATC code="N05AH02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Accrued risk of drop in blood pressure with respiratory and/or cardiac arrest.</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>90-BENZODIAZEPINES-RELATED.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="BENZODIAZEPINES AND RELATED" code="N05-001" /></DRUG1>
+<DRUG2>
+<CLASS name="OPIOIDS" code="N0-R0" /></DRUG2>
+<DESCRIPTION>Increased risk of respiratory depression, which can be fatal in case of overdose</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

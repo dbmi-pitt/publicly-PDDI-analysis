@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>513-THEOPHYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the lithemia with risk of reduction of the therapeutic effectiveness</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Strict monitoring of the lithemia and possible adjustment of the dosage of the lithium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>513-THEOPHYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the theophyllinemia due to decrease of its hepatic metabolism by the propafenone</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possibly monitoring of the theophyllinemia.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>513-THEOPHYLLINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="THEOPHYLLINE " rxcui="10438">
+<ATC code="R03DA04" />
+<ATC code="R03DB04" />
+<ATC code="R03DA54" />
+<ATC code="R03DA74" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VEMURAFENIB" rxcui="1147220">
+<ATC code="L01XE1" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of theophylline, with risks of increase of its undesirable effects.</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the theophylline during the treatment with vemurafenib and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DEXTROMETHORPHAN" rxcui="3289">
+<ATC code="N07XX59" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Very large increase of the plasma concentrations of dextromethorphan with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="FLECAINIDE" rxcui="4441">
+<ATC code="C01BC04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of flecanaide with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the flecainide during the treatment with cinacalcet.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEQUITAZINE" rxcui="29528">
+<ATC code="R06AD07" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the mequitazine, due to inhibition of its metabolism by the enzyme inhibitor</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="METOPROLOL" rxcui="6918">
+<ATC code="C07AB02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of metoprolol with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the metoprolol during the treatment with cinacalcet.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="PROPAFENONE" rxcui="8754">
+<ATC code="C01BC03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of propafenone with risk of overdose, due to decrease of its hepatic metabolism by the cinacalcet</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and reduction of the dosage of the propafenone during the treatment with cinacalcet.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>127-CINACALCET.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CINACALCET" rxcui="407990">
+<ATC code="H05BX01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="VORTIOXETINE" rxcui="1455099">
+<ATC code="N06AX26" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the vortioxetine due to large decrease of its hepatic metabolism</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and possible adjustment of the dosage of the vortioxetine during the treatment with the cinacalcet and after it is stopped. </COMMENT>
+</INTERACTION>
+</INTERACTIONS>

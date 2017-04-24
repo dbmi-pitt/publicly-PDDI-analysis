@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>417-PILOCARPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="PILOCARPINE" rxcui="8328">
+<ATC code="N07AX01" />
+<ATC code="S01EB01" />
+<ATC code="S01EB51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ACETYLCHOLINESTERASE INHIBITORS " code="NO6DA-001" /></DRUG2>
+<DESCRIPTION>Risk of addition of the undesirable cholinergic effects, especially digestive 
+
+</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

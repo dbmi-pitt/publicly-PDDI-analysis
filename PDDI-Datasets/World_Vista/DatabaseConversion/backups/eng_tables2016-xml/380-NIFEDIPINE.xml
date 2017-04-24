@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>380-NIFEDIPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NIFEDIPINE" rxcui="7417">
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of addition of undesirable effects of the gum disorders type</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Use another dihydropyridine</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>380-NIFEDIPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NIFEDIPINE" rxcui="7417">
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CIMETIDINE" rxcui="2541">
+<ATC code="A02BA01" />
+<ATC code="A02BA51" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the cimetidine used in doses greater than or equal to 800 mg/day: increase of the hypotensive effect of the nifedipine due to inhibition of its hepatic metabolism by the cimetidine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring: adjust the dosage of the nifedipine during the treatment with the cimetidine and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>380-NIFEDIPINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="NIFEDIPINE" rxcui="7417">
+<ATC code="C08CA05" />
+<ATC code="C08GA01" />
+<ATC code="C08CA55" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DILTIAZEM" rxcui="3443">
+<ATC code="C08DB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Large increase of the concentrations of nefedipine due to decrease of its hepatic metabolism by the diltiazem, with risk of severe hypotension</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

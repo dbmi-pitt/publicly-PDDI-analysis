@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>391-GOLD.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="GOLD" rxcui="">
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANGIOTENSIN CONVERTING ENZYME INHIBITORS (ACE INHIBITORS)" code="C09AA" /></DRUG2>
+<DESCRIPTION>With the gold salts administered by IV route: risk of &quot;nitritoid&quot; reaction when the ACE inhibitor is introduced (nausea, vomiting, vasomotor effects of the flushing type, hypotension, possibly sudden drop in blood pressure)</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

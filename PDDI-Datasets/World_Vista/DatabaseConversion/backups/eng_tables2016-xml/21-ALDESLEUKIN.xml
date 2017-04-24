@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>21-ALDESLEUKIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ALDESLEUKIN" rxcui="70223">
+<ATC code="L03AC01" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="IODINATED X-RAY CONTRAST MEDIA" code="VO8A-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of reaction to the contrast media in cases of previous treatment with interleukin2: skin rash or more rarely low blood pressure, oliguria, or even renal failure</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

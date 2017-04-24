@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="URINARY ANTISPASMODICS" code="DFST">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>155</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Darifenacin " rxnorm="136198">
+<ATC code="G04BD10" />
+</DRUG>
+<DRUG name="Fesoterodine" rxnorm="797195">
+<ATC code="G04BD11" />
+</DRUG>
+<DRUG name="Oxybutynin" rxnorm="32675">
+<ATC code="G04BD04" />
+</DRUG>
+<DRUG name="Solifenacin " rxnorm="322167">
+<ATC code="G04BD08" />
+</DRUG>
+<DRUG name="Tolterodine" rxnorm="119565">
+<ATC code="G04BD07" />
+</DRUG>
+</CLASS>

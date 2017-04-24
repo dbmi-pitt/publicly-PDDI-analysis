@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>78</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Iproniazide" rxnorm="1431471">
+<ATC code="N06AF05" />
+</DRUG>
+</CLASS>

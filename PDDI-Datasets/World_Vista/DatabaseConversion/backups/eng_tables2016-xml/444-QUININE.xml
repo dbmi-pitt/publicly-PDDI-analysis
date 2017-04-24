@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>444-QUININE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Risk of loss of the effectiveness of the quinine due to increase of its hepatic metabolism by the inducer. 
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and adjustment of the dosage of the quinine during the treatment with the inducer and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>444-QUININE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Moderate increase of the digoxinemia</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and EKG, if needed, with possible adjustment of the doses of digoxin.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>444-QUININE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="STRONG INHIBITORS OF CYP3A4" code="J02-J05" /></DRUG2>
+<DESCRIPTION>Risk of increase of the undesirable effects of the quinine, especially ventricular arrhythmias and neurosensory difficulties (cinchonism) </DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>-with the protease inhibitors </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>444-QUININE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="MEFLOQUINE" rxcui="6694">
+<ATC code="P01BC02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>For the quinine administered by IV route: increased risk of onset of epileptic crises due to addition of the convulsion producing effects</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>Wait at least 12 hours between the end of the administration via IV of the quinine and the beginning of the administration of the mefloquine. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>444-QUININE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="QUININE" rxcui="9071">
+<ATC code="P01BC01" />
+<ATC code="M09AA72" />
+<ATC code="M09AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="9384">
+<ATC code="J04AB02" />
+<ATC code="J04AM02" />
+<ATC code="J04AM05" />
+<ATC code="J04AM06" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of loss of the effectiveness of the quinine due to increase of its hepatic metabolism by the inducer</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

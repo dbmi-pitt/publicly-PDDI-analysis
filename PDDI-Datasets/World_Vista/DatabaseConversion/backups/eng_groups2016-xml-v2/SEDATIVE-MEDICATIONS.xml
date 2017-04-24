@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="SEDATIVE MEDICATIONS" code="N04-N05-N06">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>129</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Agomelatine " rxnorm="306718">
+<ATC code="N06AX22" />
+</DRUG>
+<DRUG name="Alfentanil " rxnorm="480">
+<ATC code="N01AH02" />
+</DRUG>
+<DRUG name="Alimemazine" rxnorm="10825">
+<ATC code="R06AD01" />
+</DRUG>
+<DRUG name="Alizapride" rxnorm="17311">
+<ATC code="A03FA05" />
+</DRUG>
+<DRUG name="Alprazolam" rxnorm="596">
+<ATC code="N05BA12" />
+</DRUG>
+<DRUG name="Amisulpride" rxnorm="46303">
+<ATC code="N05AL05" />
+</DRUG>
+<DRUG name="Amitriptyline" rxnorm="704">
+<ATC code="N06AA09" />
+<ATC code="N06CA01" />
+</DRUG>
+<DRUG name="Aripiprazole" rxnorm="89013">
+<ATC code="N05AX12" />
+</DRUG>
+<DRUG name="Avizafone" rxnorm="">
+</DRUG>
+<DRUG name="Azelastine" rxnorm="18603">
+<ATC code="R01AC03" />
+<ATC code="R06AX19" />
+<ATC code="S01GX07" />
+</DRUG>
+<DRUG name="Baclofen" rxnorm="1292">
+<ATC code="M03BX01" />
+</DRUG>
+<DRUG name="Bromazepam" rxnorm="1749">
+<ATC code="N05BA08" />
+</DRUG>
+<DRUG name="Brompheniramine" rxnorm="1767">
+<ATC code="R06AB01" />
+</DRUG>
+<DRUG name="Buprenorphine" rxnorm="1819">
+<ATC code="N02AE01" />
+</DRUG>
+<DRUG name="Captodiame" rxnorm="89812">
+<ATC code="N05BB02" />
+</DRUG>
+<DRUG name="Chlordiazepoxide " rxnorm="2356">
+<ATC code="N05BA02" />
+</DRUG>
+<DRUG name="Chlorphenamine" rxnorm="2400">
+<ATC code="R06AB04" />
+</DRUG>
+<DRUG name="Chlorpromazine " rxnorm="2403">
+<ATC code="N05AA01" />
+</DRUG>
+<DRUG name="Clobazam " rxnorm="21241">
+<ATC code="N05BA09" />
+</DRUG>
+<DRUG name="Clonazepam" rxnorm="2598">
+<ATC code="N03AE01" />
+</DRUG>
+<DRUG name="Clonidine" rxnorm="2599">
+<ATC code="C02AC01" />
+<ATC code="N02CX02" />
+<ATC code="S01EA04" />
+<ATC code="C02LC01" />
+</DRUG>
+<DRUG name="Clorazepate" rxnorm="2353">
+<ATC code="N05BA05" />
+</DRUG>
+<DRUG name="Clotiazepam" rxnorm="2622">
+<ATC code="N05BA21" />
+</DRUG>
+<DRUG name="Clozapine " rxnorm="2626">
+<ATC code="N05AH02" />
+</DRUG>
+<DRUG name="Codeine " rxnorm="2670">
+<ATC code="R05DA04" />
+</DRUG>
+<DRUG name="Cyamemazine" rxnorm="21877">
+<ATC code="N05AA06" />
+</DRUG>
+<DRUG name="Cyproheptadine " rxnorm="3013">
+<ATC code="R06AX02" />
+</DRUG>
+<DRUG name="Dapoxetine" rxnorm="69394">
+<ATC code="G04BX14" />
+</DRUG>
+<DRUG name="Dexchlorpheniramine" rxnorm="22697">
+<ATC code="R06AB02" />
+</DRUG>
+<DRUG name="Dexmedetomidine" rxnorm="48937">
+<ATC code="N05CM18" />
+</DRUG>
+<DRUG name="Dextromethorphane " rxnorm="3289">
+<ATC code="R05DA09" />
+</DRUG>
+<DRUG name="di(acefylline) diphenhydramine " rxnorm="236260">
+</DRUG>
+<DRUG name="Diazepam " rxnorm="3322">
+<ATC code="N05BA01" />
+</DRUG>
+<DRUG name="Dihydrocodeine" rxnorm="23088">
+<ATC code="N02AA08" />
+</DRUG>
+<DRUG name="Dimenhydrinate" rxnorm="3444">
+</DRUG>
+<DRUG name="e: Diphenhydramine" rxnorm="3498">
+<ATC code="D04AA32" />
+<ATC code="R06AA02" />
+<ATC code="D04AA33" />
+</DRUG>
+<DRUG name="Doxepin" rxnorm="3638">
+<ATC code="N06AA12" />
+</DRUG>
+<DRUG name="Doxylamine" rxnorm="3642">
+<ATC code="R06AA09" />
+</DRUG>
+<DRUG name="Droperidol" rxnorm="3648">
+<ATC code="N05AD08" />
+</DRUG>
+<DRUG name="Estazolam" rxnorm="4077">
+<ATC code="N05CD04" />
+</DRUG>
+<DRUG name="Ethylmorphine" rxnorm="4166">
+<ATC code="R05DA01" />
+<ATC code="S01XA06" />
+</DRUG>
+<DRUG name="Etifoxine" rxnorm="24441">
+<ATC code="N05BX03" />
+</DRUG>
+<DRUG name="Fenspiride" rxnorm="4335">
+<ATC code="R03BX01" />
+<ATC code="R03DX03" />
+</DRUG>
+<DRUG name="Fentanyl" rxnorm="4337">
+<ATC code="N01AH01" />
+<ATC code="N01AH5" />
+<ATC code="N02AB03" />
+</DRUG>
+<DRUG name="Flunarizine" rxnorm="4459">
+<ATC code="N07CA03" />
+</DRUG>
+<DRUG name="Flupentixol" rxnorm="4495">
+<ATC code="N05AF01" />
+</DRUG>
+<DRUG name="Fluphenazine" rxnorm="4496">
+<ATC code="N05AB02" />
+</DRUG>
+<DRUG name="Flurazepam" rxnorm="4501">
+<ATC code="N05CD01" />
+</DRUG>
+<DRUG name="Haloperidol" rxnorm="5093">
+<ATC code="N05AD01" />
+</DRUG>
+<DRUG name="Hydromorphone " rxnorm="3423">
+<ATC code="N02AA03" />
+<ATC code="N02AG04" />
+</DRUG>
+<DRUG name="Hydroxyzine" rxnorm="5553">
+<ATC code="N05BB01" />
+</DRUG>
+<DRUG name="Isothipendyl" rxnorm="28012">
+<ATC code="D04AA22" />
+<ATC code="R06AD09" />
+</DRUG>
+<DRUG name="Ketotifen" rxnorm="6146">
+<ATC code="R06AX17" />
+<ATC code="S01GX08" />
+</DRUG>
+<DRUG name="Levomepromazine" rxnorm="6852">
+<ATC code="N05AA02" />
+</DRUG>
+<DRUG name="Loflazepate" rxnorm="24524">
+<ATC code="N05BA18" />
+</DRUG>
+<DRUG name="Loprazolam" rxnorm="38555">
+<ATC code="N05CD11" />
+</DRUG>
+<DRUG name="Lorazepam" rxnorm="6470">
+<ATC code="N05BA06" />
+</DRUG>
+<DRUG name="Lormetazepam" rxnorm="28894">
+<ATC code="N05CD06" />
+</DRUG>
+<DRUG name="Loxapine" rxnorm="6475">
+<ATC code="N05AH01" />
+</DRUG>
+<DRUG name="Maprotiline" rxnorm="6646">
+<ATC code="N06AA21" />
+</DRUG>
+<DRUG name="Meclozine" rxnorm="6676">
+<ATC code="R06AE05" />
+</DRUG>
+<DRUG name="Mepyramine" rxnorm="9009">
+<ATC code="D04AA02" />
+<ATC code="R06AC01" />
+</DRUG>
+<DRUG name="Mequitazine " rxnorm="29528">
+<ATC code="R06AD07" />
+</DRUG>
+<DRUG name="Methadone " rxnorm="6813">
+<ATC code="N02AC52" />
+<ATC code="N07BC02" />
+</DRUG>
+<DRUG name="Methyldopa" rxnorm="6876">
+<ATC code="C02AB" />
+<ATC code="C02LB" />
+<ATC code="C02AB01" />
+<ATC code="C02LB01" />
+<ATC code="C02AB02" />
+</DRUG>
+<DRUG name="Metoclopramide" rxnorm="6915">
+<ATC code="A03FA01" />
+</DRUG>
+<DRUG name="Metopimazine" rxnorm="29954">
+<ATC code="A04AD05" />
+</DRUG>
+<DRUG name="Mianserin " rxnorm="6929">
+<ATC code="N06AX03" />
+</DRUG>
+<DRUG name="Midazolam " rxnorm="6960">
+<ATC code="N05CD08" />
+</DRUG>
+<DRUG name="Mirtazapine" rxnorm="15996">
+<ATC code="N06AX11" />
+</DRUG>
+<DRUG name="Mizolastine " rxnorm="61455">
+<ATC code="R06AX25" />
+</DRUG>
+<DRUG name="Morphine" rxnorm="7052">
+<ATC code="N02AA01" />
+<ATC code="N02AG01" />
+<ATC code="R05DA05" />
+</DRUG>
+<DRUG name="Moxonidin" rxnorm="30257">
+<ATC code="C02AC05" />
+<ATC code="C02LC05" />
+</DRUG>
+<DRUG name="Nalbuphine" rxnorm="7238">
+<ATC code="N02AF02" />
+</DRUG>
+<DRUG name="Naloxone" rxnorm="7242">
+<ATC code="V03AB15" />
+</DRUG>
+<DRUG name="Nefopam" rxnorm="7285">
+<ATC code="N02BG06" />
+</DRUG>
+<DRUG name="Nitrazepam" rxnorm="7440">
+<ATC code="N05CD02" />
+</DRUG>
+<DRUG name="Nordazepam" rxnorm="3155">
+<ATC code="N05BA16" />
+</DRUG>
+<DRUG name="Noscapine" rxnorm="7533">
+<ATC code="R05DA07" />
+</DRUG>
+<DRUG name="Olanzapine " rxnorm="61381">
+<ATC code="N05AH03" />
+</DRUG>
+<DRUG name="Oxazepam" rxnorm="7781">
+<ATC code="N05BA04" />
+</DRUG>
+<DRUG name="Oxetorone" rxnorm="32633">
+<ATC code="N02CX06" />
+</DRUG>
+<DRUG name="Oxomemazine" rxnorm="234528">
+<ATC code="R06AD08" />
+</DRUG>
+<DRUG name="Oxycodone" rxnorm="7804">
+<ATC code="N02AA05" />
+</DRUG>
+<DRUG name="Paliperidone" rxnorm="679314">
+<ATC code="N05AX13" />
+</DRUG>
+<DRUG name="Perampanel" rxnorm="1356552">
+<ATC code="N03AX22" />
+</DRUG>
+<DRUG name="Pethidine" rxnorm="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AG03" />
+</DRUG>
+<DRUG name="Pheniramine" rxnorm="8132">
+<ATC code="R06AB05" />
+</DRUG>
+<DRUG name="Phenobarbital" rxnorm="8134">
+<ATC code="N03AA02" />
+</DRUG>
+<DRUG name="Phenyltoloxamine" rxnorm="33408">
+</DRUG>
+<DRUG name="Pholcodine" rxnorm="33431">
+<ATC code="R05DA08" />
+</DRUG>
+<DRUG name="Pimethixene" rxnorm="33712">
+<ATC code="R06AX23" />
+</DRUG>
+<DRUG name="Pimozide" rxnorm="8331">
+<ATC code="N05AG02" />
+</DRUG>
+<DRUG name="Pipamperone" rxnorm="33739">
+<ATC code="N05AD05" />
+</DRUG>
+<DRUG name="Pipotiazine" rxnorm="8348">
+<ATC code="N05AC04" />
+</DRUG>
+<DRUG name="Pizotifen" rxnorm="8373">
+<ATC code="N02CX01" />
+</DRUG>
+<DRUG name="Prazepam" rxnorm="8627">
+<ATC code="N05BA11" />
+</DRUG>
+<DRUG name="Pregabalin" rxnorm="187832">
+<ATC code="N03AX16" />
+</DRUG>
+<DRUG name="Primidone" rxnorm="8691">
+<ATC code="N03AA03" />
+</DRUG>
+<DRUG name="Promethazine" rxnorm="8745">
+<ATC code="V03AB05" />
+<ATC code="D04AA10" />
+<ATC code="R06AD02" />
+</DRUG>
+<DRUG name="Propericiazine" rxnorm="8766">
+<ATC code="N05AC01" />
+</DRUG>
+<DRUG name="Quetiapine " rxnorm="51272">
+<ATC code="N05AH04" />
+</DRUG>
+<DRUG name="Remifentanil" rxnorm="703032">
+<ATC code="N01AH06" />
+</DRUG>
+<DRUG name="Rilmenidine" rxnorm="55679">
+<ATC code="C02AC06" />
+</DRUG>
+<DRUG name="Risperidone " rxnorm="35636">
+<ATC code="N05AX08" />
+</DRUG>
+<DRUG name="Ropinirole " rxnorm="72302">
+<ATC code="N04BC04" />
+</DRUG>
+<DRUG name="Rupatadine" rxnorm="138470">
+<ATC code="R06AX28" />
+</DRUG>
+<DRUG name="Sufentanil" rxnorm="56795">
+<ATC code="N01AH03" />
+</DRUG>
+<DRUG name="Sulpiride" rxnorm="10239">
+<ATC code="N05AL01" />
+</DRUG>
+<DRUG name="Tapentadol " rxnorm="787390">
+<ATC code="N02AX06" />
+</DRUG>
+<DRUG name="Tetrabenazine" rxnorm="10390">
+<ATC code="N07XX06" />
+</DRUG>
+<DRUG name="Thalidomide " rxnorm="10432">
+<ATC code="L04AX02" />
+</DRUG>
+<DRUG name="Tiapride" rxnorm="10588">
+<ATC code="N05AL03" />
+</DRUG>
+<DRUG name="Tramadol" rxnorm="10689">
+<ATC code="N02AX02" />
+</DRUG>
+<DRUG name="Trimipramine" rxnorm="10834">
+<ATC code="N06AA06" />
+</DRUG>
+<DRUG name="Ziconotide" rxnorm="68503">
+<ATC code="N02BG08" />
+</DRUG>
+<DRUG name="Zolpidem" rxnorm="39993">
+</DRUG>
+<DRUG name="Zopiclone" rxnorm="40001">
+<ATC code="N05CF01" />
+</DRUG>
+<DRUG name="Zuclopenthixol" rxnorm="114176">
+<ATC code="N05AF05" />
+</DRUG>
+</CLASS>

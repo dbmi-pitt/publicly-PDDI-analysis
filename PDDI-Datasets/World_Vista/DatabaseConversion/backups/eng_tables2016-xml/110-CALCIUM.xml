@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="BISPHOSPHONATES" code="M05B-001" /></DRUG2>
+<DESCRIPTION>For the calcium salts administered via oral route: decrease of the digestive absorption of the bisphosphonates</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take calcium salts and antacids at a different time from the bisphosphonates (from 30 minutes minimum to more than 2 hours apart, if possible, depending on the bisphosphonate).  </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="TETRACYCLINE ANTIBIOTICS" code="J01AA" /></DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the tetracycline antibiotics</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the tetracycline antibiotics (more than two hours apart if possible). </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DIGOXIN  " rxcui="3407">
+<ATC code="C01AA05" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of serious arrhythmias, even lethal ones, with the calcium salts administered by IV route. </DESCRIPTION>
+<SEVERITY>Contraindication</SEVERITY>
+<COMMENT>-with the calcium salts via IV, except for parenteral supplementation</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THIAZIDE DIURETICS AND RELATED" code="C03-003" /></DRUG2>
+<DESCRIPTION>Risk of hypercalcemia due to decrease of the urinary elimination of the calcium. </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ESTRAMUSTINE" rxcui="4089">
+<ATC code="L01XX11" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the estramustine</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the estramustine (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="IRON" rxcui="1431589">
+<ATC code="B03A" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the iron salts by oral route: decrease of the digestive absorption of the iron salts</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the iron salts at a different time from meals and in the absence of calcium.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="THYROID HORMONES" code="H03AA" /></DRUG2>
+<DESCRIPTION>Decrease of the absorption of the thyroid hormones</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the thyroid hormones (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="STRONTIUM" rxcui="81638">
+<ATC code="V10BX01" />
+<ATC code="M05BX03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>With the calcium salts administered by oral route: decrease of the digestive absorption of the strontium</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the strontium at a different time from the calcium salts (more than two hours apart, if possible).</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110-CALCIUM.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CALCIUM" rxcui="1428011">
+<ATC code="A12AA" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ZINC" >
+<ATC code="1431163" />
+<ATC code="A12CB" />
+<ATC code="A12CB01" />
+<ATC code="A12CB02" />
+<ATC code="A12CB03" />
+<ATC code="B05X" />
+<ATC code="B05XA" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+<ATC code="B05XA12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the digestive absorption of the zinc by the calcium </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Take the calcium salts at a different time from the zinc (more than 2 hours apart, if possible).</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

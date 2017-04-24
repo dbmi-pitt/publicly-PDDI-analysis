@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>1-ABATACEPT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ABATACEPT " rxcui="614391">
+<ATC code="L04AA24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="ANTI-TNF ALPHA" rxcui="">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of immunosupression</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>1-ABATACEPT.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="ABATACEPT " rxcui="614391">
+<ATC code="L04AA24" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="ATTENUATED LIVE VIRUS VACCINES" code="J07B-001" /></DRUG2>
+<DESCRIPTION>Risk of possibly fatal generalized vaccine disease 
+
+</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>as well as for the three months following the end of the treatment.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

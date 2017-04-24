@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="UNFRACTIONATED-HEPARIN-(PREVENTIVE-DOSES)" code="B01AB-004">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>152</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Heparin calcium" rxnorm="20044">
+</DRUG>
+<DRUG name="Heparin sodium" rxnorm="9877">
+</DRUG>
+</CLASS>

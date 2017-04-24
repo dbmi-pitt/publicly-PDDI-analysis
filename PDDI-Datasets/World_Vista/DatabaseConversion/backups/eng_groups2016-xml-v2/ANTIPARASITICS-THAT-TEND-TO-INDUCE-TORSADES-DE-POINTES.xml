@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="ANTIPARASITICS THAT TEND TO INDUCE TORSADES DE POINTES" code="P01B-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>21</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Chloroquin" rxnorm="2393">
+<ATC code="P01BA01" />
+</DRUG>
+<DRUG name="Halofantrine" rxnorm="50749">
+<ATC code="P01BX01" />
+</DRUG>
+<DRUG name="Lumefantrine" rxnorm="847728">
+<ATC code="P01BF01" />
+</DRUG>
+<DRUG name="Pentamidine" rxnorm="7994">
+<ATC code="P01CX01" />
+</DRUG>
+</CLASS>

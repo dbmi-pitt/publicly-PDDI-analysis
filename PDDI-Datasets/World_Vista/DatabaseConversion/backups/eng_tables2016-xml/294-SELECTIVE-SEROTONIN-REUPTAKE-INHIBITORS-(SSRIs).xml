@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="ACETYLSALICYLIC ACID" rxcui="1191">
+<ATC code="A01AD05" />
+<ATC code="B01AC06" />
+<ATC code="B01AC56" />
+<ATC code="C10BX01" />
+<ATC code="C10BX02" />
+<ATC code="C10BX04" />
+<ATC code="M01BA03" />
+<ATC code="N02BA01" />
+<ATC code="N02BA51" />
+<ATC code="N02BA71" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="ORAL ANTICOAGULANTS" code="B01A-001" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Clinical monitoring and, if the situation requires, more frequent testing of the INR. Possible adjustment of the dosage of the oral anticoagulant during the administration with the SSRI and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="TRICYCLIC ANTIDEPRESSANTS" code="N06AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the plasma concentrations of the tricyclic antidepressant with risk of convulsions and increase of the undesirable effects
+
+</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Increased clinical monitoring and, if necessary, adjustment of the dosage</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="NON STEROIDAL ANTI-INFLAMMATORY DRUGS" code="M01A-002" /></DRUG2>
+<DESCRIPTION>Increase of the risk of hemorrhage</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="CYPROHEPTADINE" rxcui="3013">
+<ATC code="R06AX02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of decrease of the effectiveness of the antidepressant</DESCRIPTION>
+<SEVERITY>Take into account </SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="IRREVERSIBLE MONOAMINE OXIDASE INHIBITORS (MAOI)" code="N06AF0" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+<COMMENT>Wait at least two weeks between the discontinuation of the irreversible MAOI and the start of treatment with the SSRI, and at least a week between the end of treatment with the SSRI (except fluoxetine: five weeks) and the beginning [sic]. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+<COMMENT>If administering these substances together cannot be avoided, very strict clinical monitoring. Begin the administration with minimum recommended dosages.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="LITHIUM" rxcui="6448">
+<ATC code="D11AX04" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="ST JOHNS WORT" rxcui="258326">
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Regular clinical and biological monitoring, especially at the beginning of the administration of the substances together. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of therapeutic failure when there is concomitant treatment with orlistat</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of convulsions and/or a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>294-SELECTIVE-SEROTONIN-REUPTAKE-INHIBITORS-(SSRIs).html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG1>
+<DRUG2>
+<CLASS name="TRIPTANS" code="N02CC-001" /></DRUG2>
+<DESCRIPTION>Risk of appearance of serotonin syndrome </DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

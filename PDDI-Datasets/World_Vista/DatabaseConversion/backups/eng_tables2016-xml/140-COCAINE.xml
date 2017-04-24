@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>140-COCAINE.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="COCAINE" rxcui="2653">
+<ATC code="S02DA02" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="DISULFIRAM" rxcui="3554">
+<ATC code="N07BB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increase of the concentrations of cocaine due to decrease of its metabolism by the disulfiram, with increased risk of torsades de pointes</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

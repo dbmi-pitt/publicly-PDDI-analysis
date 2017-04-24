@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="AMINOGLYCOSIDES  " code="J01GB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>8</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Amikacin " rxnorm="641">
+<ATC code="D06AX12" />
+<ATC code="J01GB06" />
+<ATC code="S01AA21" />
+</DRUG>
+<DRUG name="Gentamicin" rxnorm="142438">
+<ATC code="D06AX07" />
+<ATC code="J01GB03" />
+<ATC code="S01AA11" />
+<ATC code="S02AA14" />
+<ATC code="S03AA06" />
+</DRUG>
+<DRUG name="Isepamicin" rxnorm="51522">
+<ATC code="J01GB11" />
+</DRUG>
+<DRUG name="Netilmicin" rxnorm="7337">
+<ATC code="J01GB07" />
+<ATC code="S01AA23" />
+</DRUG>
+<DRUG name="Streptomycin " rxnorm="10109">
+<ATC code="A07AA04" />
+<ATC code="A07AA54" />
+<ATC code="J01GA" />
+<ATC code="J01GA01" />
+<ATC code="J04AM01" />
+<ATC code="S01AA15" />
+</DRUG>
+<DRUG name="Tobramycin" rxnorm="10627">
+<ATC code="J01GB01" />
+<ATC code="S01AA12" />
+</DRUG>
+</CLASS>

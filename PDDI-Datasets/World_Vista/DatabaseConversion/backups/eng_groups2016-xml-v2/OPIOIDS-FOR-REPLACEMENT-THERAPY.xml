@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="OPIOIDS FOR REPLACEMENT THERAPY" code="N07BC">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>110</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Buprenorphine" rxnorm="1819">
+<ATC code="N02AE01" />
+</DRUG>
+<DRUG name="Methadone " rxnorm="6813">
+<ATC code="N07BC02" />
+</DRUG>
+</CLASS>

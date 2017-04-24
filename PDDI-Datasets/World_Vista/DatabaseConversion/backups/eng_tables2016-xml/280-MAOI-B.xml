@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="BUPROPION" rxcui="42347">
+<ATC code="N06AX12" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of hypertensive crises</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="REVERSIBLE MAOI-A, INCLUDING LINEZOLIDE AND METHYLENE BLUE" code="NO6AG-001" /></DRUG2>
+<DESCRIPTION>Risk of rapid elevation of blood pressure, due to loss of selectivity on the monamine oydase, especially in case of consuming food rich in tyramine (cheese, beer,&#133;)</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIs)" code="N06AB" /></DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="LEVODOPA" rxcui="6375">
+<ATC code="N04BA01" />
+<ATC code="N04BA02" />
+<ATC code="N04BA03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Increased risk of orthostatic hypotension</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="PETHIDINE " rxcui="6754">
+<ATC code="N02AB02" />
+<ATC code="N02AB52" />
+<ATC code="N02AB72" />
+<ATC code="N02AG03" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Symptoms of central nervous system excitability, evoking a serotonin syndrome: diarrhea, tachycardia, sweats, trembling, confusion, even coma</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<DRUG name="TRAMADOL" rxcui="10689">
+<ATC code="N02AX02" />
+<ATC code="N02AX52" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Risk of appearance of a serotonin syndrome</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="TRIPTANS METABOLIZED BY THE MAO" code="N02CC-002" /></DRUG2>
+<DESCRIPTION>Risk of arterial hypertension, of constriction of the coronary arteries</DESCRIPTION>
+<SEVERITY>CONTRAINDICATION</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>280-MAOI-B.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="MAOI-B " code="N04BD0-001" /></DRUG1>
+<DRUG2>
+<CLASS name="TRIPTANS NOT METABOLIZED BY THE MAO" code="NO2CC-003" /></DRUG2>
+<DESCRIPTION>Risk of arterial hypertension, of constriction of the coronary arteries</DESCRIPTION>
+<SEVERITY>Not recommended</SEVERITY>
+</INTERACTION>
+</INTERACTIONS>

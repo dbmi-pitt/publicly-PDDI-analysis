@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="NON-CONTRACEPTIVE PROGESTOGENS, COMBINED WITH AN ESTROGEN OR NOT" code="G03-003">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>105</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Chlormadinone" rxnorm="78904">
+<ATC code="G03DB06" />
+<ATC code="G03FB03" />
+<ATC code="G03AA15" />
+<ATC code="G03AB07" />
+</DRUG>
+<DRUG name="Dydrogesterone" rxnorm="3706">
+<ATC code="G03DB01" />
+<ATC code="G03FA14" />
+<ATC code="G03FB08" />
+</DRUG>
+<DRUG name="Hydroxyprogesterone" rxnorm="5542">
+<ATC code="G03DA03" />
+<ATC code="G03FA02" />
+</DRUG>
+<DRUG name="Medrogestone" rxnorm="6690">
+<ATC code="G03DB03" />
+<ATC code="G03FB07" />
+</DRUG>
+<DRUG name="Medroxyprogesterone" rxnorm="6691">
+<ATC code="G03AC06" />
+<ATC code="G03DA02" />
+<ATC code="L02AB02" />
+<ATC code="G03FA12" />
+<ATC code="G03FB06" />
+<ATC code="G03AA08" />
+</DRUG>
+<DRUG name="Nomegestrol" rxnorm="31930">
+<ATC code="G03DB04" />
+<ATC code="G03AA14" />
+</DRUG>
+<DRUG name="Norethisterone" rxnorm="7514">
+<ATC code="G03AC01" />
+<ATC code="G03DC02" />
+<ATC code="G03FA01" />
+<ATC code="G03FB05" />
+<ATC code="G03AA05" />
+<ATC code="G03AB04" />
+</DRUG>
+<DRUG name="Progesterone" rxnorm="8727">
+<ATC code="G03DA04" />
+<ATC code="G03FA04" />
+</DRUG>
+<DRUG name="Promegestone" rxnorm="8744">
+<ATC code="G03DB07" />
+</DRUG>
+</CLASS>

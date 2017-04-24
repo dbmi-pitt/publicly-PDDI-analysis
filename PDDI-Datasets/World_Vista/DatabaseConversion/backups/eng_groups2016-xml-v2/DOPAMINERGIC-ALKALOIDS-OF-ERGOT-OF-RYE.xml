@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CLASS name="DOPAMINERGIC ALKALOIDS OF ERGOT OF RYE" code="G02CB-001">
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>54</SOURCE_FILE>
+</SOURCE>
+<DRUG name="Bromocriptine " rxnorm="1760">
+<ATC code="G02CB01" />
+<ATC code="N04BC01" />
+</DRUG>
+<DRUG name="Cabergoline" rxnorm="47579">
+<ATC code="G02CB03" />
+<ATC code="N04BC06" />
+</DRUG>
+<DRUG name="Lisuride" rxnorm="6446">
+</DRUG>
+<DRUG name="Pergolide" rxnorm="8047">
+<ATC code="N04BC02" />
+</DRUG>
+</CLASS>

@@ -1,0 +1,1320 @@
+T1	Id 0 1	0
+T2	ClinicalConsequence 58 63	edema
+T3	Id 282 283	2
+T4	ClinicalConsequence 340 345	edema
+T6	Id 413 414	3
+T7	ClinicalConsequence 471 476	edema
+#1	AnnotatorNotes T7	id:433595
+T8	Id 544 545	4
+T9	ClinicalConsequence 622 632	hemorrhage
+#2	AnnotatorNotes T9	id:4179955
+T10	Id 634 635	5
+T12	Id 848 849	7
+T13	ClinicalConsequence 863 874	hypotension
+#4	AnnotatorNotes T13	id:317002
+T14	ClinicalConsequence 879 900	loss of consciousness
+#5	AnnotatorNotes T14	id:372448
+T15	Id 974 975	8
+T16	ClinicalConsequence 982 990	Ergotism
+#6	AnnotatorNotes T16	id:4201303
+T17	ClinicalConsequence 1011 1038	necrosis of the extremities
+#7	AnnotatorNotes T17	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T18	Id 1111 1112	9
+T19	ClinicalConsequence 1196 1207	bradycardia
+#8	AnnotatorNotes T19	id:4169095
+T20	Id 1284 1286	11
+T21	ClinicalConsequence 1364 1378	rhabdomyolysis
+#9	AnnotatorNotes T21	id:4345578
+T22	SuspectedTypo 1293 1383	Increased risk of undesirable effects (concentration dependant) of the rhabdomyolysis type
+#10	AnnotatorNotes T22	comment: awkward; it would make more sense as "increased risk of rhabdomyolysis"
+T23	Id 1549 1551	13
+T24	ClinicalConsequence 1574 1585	digoxinemia
+#11	AnnotatorNotes T24	Comment: a more accurate term is "digitalis toxicity," but that only refers to levels/general toxicity (id:21003351; not SNOMED); the actual clinical finding would be a change in the EKG (id:4272343, "Digitalis toxicity by EKG").
+T25	Id 1930 1932	17
+T26	ClinicalConsequence 2026 2037	hypotension
+#12	AnnotatorNotes T26	id:317002
+T27	Id 2177 2179	19
+T28	ClinicalConsequence 2297 2305	sedation
+#13	AnnotatorNotes T28	id:4187714; Comment: "sedation" can be used to describe a procedure, whereas "drowsiness" or "somnolence" might be the clinical finding
+T29	ClinicalConsequence 1119 1172	Disorders of autoregulation and of cardiac conduction
+#14	AnnotatorNotes T29	id:44784217; comment: selected umbrella term of "cardiac arrhythmia"
+T30	Id 4234 4236	34
+T31	ClinicalConsequence 4272 4312	disorders of atrioventricular conduction
+#15	AnnotatorNotes T31	id:316999; comment: used "Conduction disorder of the heart"
+T32	Id 4369 4371	35
+T33	ClinicalConsequence 4407 4447	disorders of atrioventricular conduction
+#16	AnnotatorNotes T33	id:316999; comment: used "Conduction disorder of the heart"
+T34	Id 4619 4621	37
+T35	ClinicalConsequence 4684 4708	ventricular fibrillation
+#17	AnnotatorNotes T35	id:437894
+T36	Id 4984 4986	38
+T37	ClinicalConsequence 5062 5086	ventricular fibrillation
+#18	AnnotatorNotes T37	id:437894
+T38	Id 5365 5367	39
+T39	ClinicalConsequence 5443 5467	ventricular fibrillation
+#19	AnnotatorNotes T39	id:437894
+T41	Id 5746 5748	40
+T42	ClinicalConsequence 5782 5796	rhabdomyolysis
+#20	AnnotatorNotes T42	id:4345578
+T43	Id 5798 5800	41
+T44	ClinicalConsequence 5834 5845	the curares
+#21	AnnotatorNotes T44	id:440377; comment: used "paralysis" as term, as "the curares" may refer to muscle relaxation or paralysis
+T45	Id 5967 5969	42
+T46	ClinicalConsequence 6046 6056	hemorrhage
+#22	AnnotatorNotes T46	id:4179955
+T47	Id 6129 6131	44
+T5	ClinicalConsequence 6171 6181	tendinitis
+#23	AnnotatorNotes T5	id:4147145
+T40	ClinicalConsequence 6191 6212	rupture of the tendon
+#24	AnnotatorNotes T40	id:439907; comment: used "Non-traumatic tendon rupture"
+T48	SuspectedTypo 6273 6287	corticotherapy
+#25	AnnotatorNotes T48	comment: "corticosteroid therapy" is a more standard term
+T49	Id 6734 6736	50
+T50	ClinicalConsequence 6896 6914	Cushing's syndrome
+#26	AnnotatorNotes T50	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T51	Id 7096 7098	52
+T52	ClinicalConsequence 7258 7276	Cushing's syndrome
+#27	AnnotatorNotes T52	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T53	Id 7278 7280	53
+T54	ClinicalConsequence 7442 7460	Cushing's syndrome
+#28	AnnotatorNotes T54	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T55	Id 7462 7464	54
+T56	ClinicalConsequence 7624 7642	Cushing's syndrome
+#29	AnnotatorNotes T56	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T57	Id 7644 7646	55
+T58	ClinicalConsequence 7806 7824	Cushing's syndrome
+#30	AnnotatorNotes T58	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T59	Id 7826 7828	56
+T60	ClinicalConsequence 7988 8006	Cushing's syndrome
+#31	AnnotatorNotes T60	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T61	Id 8008 8010	57
+T62	ClinicalConsequence 8170 8188	Cushing's syndrome
+#32	AnnotatorNotes T62	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T63	Id 8727 8729	61
+T64	ClinicalConsequence 8889 8907	Cushing's syndrome
+#33	AnnotatorNotes T64	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T65	Id 8909 8911	62
+T66	ClinicalConsequence 9071 9089	Cushing's syndrome
+#34	AnnotatorNotes T66	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T67	Id 9091 9093	63
+T68	Id 9445 9447	64
+T69	ClinicalConsequence 9478 9488	hemorrhage
+#35	AnnotatorNotes T69	id:4179955
+T70	ClinicalConsequence 9195 9203	bleeding
+#36	AnnotatorNotes T70	id:437312
+T71	Id 9871 9873	68
+T72	ClinicalConsequence 9987 10006	withdrawal syndrome
+#37	AnnotatorNotes T72	id:441260; comment: used "drug withdrawal" as the SNOMED term, but may need to be more specific, such as "opioid withdrawal"
+T73	Id 10009 10011	69
+T74	ClinicalConsequence 10125 10144	withdrawal syndrome
+#38	AnnotatorNotes T74	id:441260; comment: used "drug withdrawal" as the SNOMED term, but may need to be more specific, such as "opioid withdrawal"
+T75	SuspectedTypo 9880 9911	Decrease of the antalgic effect
+#39	AnnotatorNotes T75	comment: should be "Decrease of analgesic effect"
+T76	Id 10146 10148	70
+T77	ClinicalConsequence 10292 10311	withdrawal syndrome
+#40	AnnotatorNotes T77	id:441260; comment: used "drug withdrawal" as the SNOMED term, but may need to be more specific, such as "opioid withdrawal"
+T78	Id 10408 10410	72
+T79	ClinicalConsequence 10483 10502	withdrawal syndrome
+#41	AnnotatorNotes T79	id:441260; comment: used "drug withdrawal" as the SNOMED term, but may need to be more specific, such as "opioid withdrawal"
+T80	Id 10504 10506	73
+T82	Id 10820 10822	76
+T83	ClinicalConsequence 10922 10933	hypotension
+#43	AnnotatorNotes T83	id:317002
+T84	Id 13912 13914	97
+T85	ClinicalConsequence 14036 14058	respiratory depression
+#44	AnnotatorNotes T85	id:4214898; comment: used "Decreased respiratory function" in SNOMED, but MedDRA had concept "Respiratory depression" (37219894)
+T86	Id 14102 14104	98
+T87	ClinicalConsequence 14252 14262	hemorrhage
+#45	AnnotatorNotes T87	id:4179955
+T88	Id 14950 14953	102
+T89	ClinicalConsequence 15047 15057	drowsiness
+#46	AnnotatorNotes T89	id:4152347; comment: used "drowsy"; SNOMED listed "Drowsiness" as an Observable Entity (id:4196193); "accrued risk" should be replaced by "increased risk"; cimetidine is misspelled
+T90	Id 15059 15062	103
+T91	ClinicalConsequence 15127 15135	overdose
+#47	AnnotatorNotes T91	id:4176511; comment: used "Chloroquine overdose"
+T92	Id 15271 15274	105
+T93	ClinicalConsequence 15368 15378	drowsiness
+#48	AnnotatorNotes T93	id:4152347; comment: used "drowsy"; SNOMED listed "Drowsiness" as an Observable Entity (id:4196193); "accrued risk" should be replaced by "increased risk"
+T94	Id 15788 15791	108
+T95	ClinicalConsequence 15962 15981	torsades de pointes
+#49	AnnotatorNotes T95	id:4135823
+T96	ClinicalConsequence 15885 15915	lengthening of the QT interval
+#50	AnnotatorNotes T96	id:4008859; comment: used "Prolonged QT interval"
+T97	ClinicalConsequence 15923 15945	ventricular arrhythmia
+#51	AnnotatorNotes T97	id:4185572
+T98	Id 12696 12698	89
+T99	ClinicalConsequence 12981 12990	pregnancy
+#52	AnnotatorNotes T99	id:36818833; comment: used MedDRA term "Pregnancy," since SNOMED did not classify as a clinical finding
+T100	Id 16461 16464	111
+T101	ClinicalConsequence 16542 16576	increase of the hypotensive effect
+#53	AnnotatorNotes T101	id:317002; comment: used SNOMED clinical finding "hypotension"
+T102	Id 16857 16860	113
+T103	ClinicalConsequence 16983 16991	overdose
+#54	AnnotatorNotes T103	id:4175080; comment: used SNOMED term "theophylline overdose"
+T104	Id 16658 16661	112
+T105	ClinicalConsequence 16847 16855	overdose
+#55	AnnotatorNotes T105	id:4170017; comment: used SNOMED term "phenytoin overdose"
+T106	Id 17042 17045	114
+T107	ClinicalConsequence 17121 17129	ergotism
+#56	AnnotatorNotes T107	id:4201303
+T108	ClinicalConsequence 17138 17171	rapid elevation of blood pressure
+#57	AnnotatorNotes T108	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T109	Id 17348 17351	116
+T110	ClinicalConsequence 17422 17436	rhabdomyolysis
+#58	AnnotatorNotes T110	id:4345578
+T111	Id 17625 17628	118
+T112	ClinicalConsequence 17788 17805	Cushings syndrome
+#59	AnnotatorNotes T112	id:195212; comment: used "hypercortisolism" as the SNOMED term, which is synonymous with Cushing syndrome
+T113	Id 17807 17810	119
+T114	ClinicalConsequence 17833 17844	digoxinemia
+#60	AnnotatorNotes T114	Comment: a more accurate term is "digitalis toxicity," but that only refers to levels/general toxicity (id:21003351; not SNOMED); the actual clinical finding would be a change in the EKG (id:4272343, "Digitalis toxicity by EKG").
+T115	Id 18008 18011	121
+T116	ClinicalConsequence 18121 18132	hypotension
+#61	AnnotatorNotes T116	id:317002
+T117	Id 18339 18342	123
+T118	ClinicalConsequence 18405 18424	torsades de pointes
+#62	AnnotatorNotes T118	id:4135823
+T119	ClinicalConsequence 18367 18389	ventricular arrhythmia
+#63	AnnotatorNotes T119	id:4185572
+T120	Id 18621 18624	125
+T121	ClinicalConsequence 18693 18707	rhabdomyolysis
+#64	AnnotatorNotes T121	id:4345578
+T122	Id 18865 18868	127
+T123	ClinicalConsequence 18934 18942	overdose
+#65	AnnotatorNotes T123	id:4177003; comment: used SNOMED term "Venlafaxine overdose"
+T124	Id 18785 18788	126
+T125	ClinicalConsequence 18855 18863	overdose
+#66	AnnotatorNotes T125	id:4311238; comment: used SNOMED term "Accidental poisoning by anticholinergics"
+T126	Id 19070 19073	129
+T127	ClinicalConsequence 19087 19119	increase of the sedative effects
+#67	AnnotatorNotes T127	id:4196193; comment: used SNOMED term "Drowsiness"
+T128	Id 19137 19140	130
+T129	ClinicalConsequence 19154 19186	increase of the sedative effects
+#68	AnnotatorNotes T129	id:4196193; comment: used SNOMED term "Drowsiness"
+T130	Id 20619 20622	143
+T131	ClinicalConsequence 20723 20731	bleeding
+#69	AnnotatorNotes T131	id:437312
+T132	Id 20975 20978	144
+T133	ClinicalConsequence 21009 21019	hemorrhage
+#70	AnnotatorNotes T133	id:4179955
+T134	Id 21021 21024	145
+T135	ClinicalConsequence 21103 21113	hemorrhage
+#71	AnnotatorNotes T135	id:4179955
+T136	ClinicalConsequence 21135 21157	ventricular arrhythmia
+#72	AnnotatorNotes T136	id:4185572
+T137	Id 21203 21206	146
+T138	ClinicalConsequence 21221 21244	ventricular arrhythmias
+#73	AnnotatorNotes T138	id:4185572
+T139	Id 21287 21290	147
+T140	ClinicalConsequence 21338 21349	neutropenia
+#74	AnnotatorNotes T140	id:320073
+T141	ClinicalConsequence 21323 21333	infections
+#75	AnnotatorNotes T141	id:4010334; comment: used SNOMED term "Increased susceptibility to infections"
+T142	Id 21859 21862	153
+T143	ClinicalConsequence 21881 21897	immunosupression
+#76	AnnotatorNotes T143	id:4242843; comment: typo in spelling of "immunosuppression"
+T144	Id 22392 22395	158
+T145	ClinicalConsequence 22420 22443	ventricular arrhythmias
+#77	AnnotatorNotes T145	id:4185572
+T146	Id 22480 22483	159
+T147	ClinicalConsequence 22508 22530	ventricular arrhythmia
+#78	AnnotatorNotes T147	id:4185572
+T148	Id 22567 22570	160
+T149	ClinicalConsequence 22595 22618	ventricular arrhythmias
+#79	AnnotatorNotes T149	id:4185572
+T150	Id 22655 22658	161
+T151	ClinicalConsequence 22683 22706	ventricular arrhythmias
+#80	AnnotatorNotes T151	id:4185572
+T152	Id 22743 22746	162
+T153	ClinicalConsequence 22771 22794	ventricular arrhythmias
+#81	AnnotatorNotes T153	id:4185572
+T154	Id 22831 22834	163
+T155	ClinicalConsequence 22859 22882	ventricular arrhythmias
+#82	AnnotatorNotes T155	id:4185572
+T156	Id 22919 22922	164
+T157	ClinicalConsequence 22947 22970	ventricular arrhythmias
+#83	AnnotatorNotes T157	id:4185572
+T158	Id 23007 23010	165
+T159	ClinicalConsequence 23035 23058	ventricular arrhythmias
+#84	AnnotatorNotes T159	id:4185572
+T160	ClinicalConsequence 22459 22478	torsades de pointes
+#85	AnnotatorNotes T160	id:4135823
+T161	ClinicalConsequence 22546 22565	torsades de pointes
+#86	AnnotatorNotes T161	id:4135823
+T162	ClinicalConsequence 22634 22653	torsades de pointes
+#87	AnnotatorNotes T162	id:4135823
+T163	ClinicalConsequence 22722 22741	torsades de pointes
+#88	AnnotatorNotes T163	id:4135823
+T164	ClinicalConsequence 22810 22829	torsades de pointes
+#89	AnnotatorNotes T164	id:4135823
+T165	ClinicalConsequence 22898 22917	torsades de pointes
+#90	AnnotatorNotes T165	id:4135823
+T166	ClinicalConsequence 22986 23005	torsades de pointes
+#91	AnnotatorNotes T166	id:4135823
+T167	ClinicalConsequence 23074 23093	torsades de pointes
+#92	AnnotatorNotes T167	id:4135823
+T168	Id 23095 23098	166
+T169	ClinicalConsequence 23212 23231	withdrawal syndrome
+#93	AnnotatorNotes T169	id:441260; comment: used "drug withdrawal" as the SNOMED term, but may need to be more specific, such as "opioid withdrawal"
+T170	Id 23622 23625	171
+T171	Id 23762 23765	172
+T172	Id 23901 23904	173
+T173	Id 24042 24045	174
+T174	Id 24167 24170	175
+T175	ClinicalConsequence 23632 23640	Ergotism
+#94	AnnotatorNotes T175	id:4201303
+T176	ClinicalConsequence 23772 23780	Ergotism
+#95	AnnotatorNotes T176	id:4201303
+T177	ClinicalConsequence 23911 23919	Ergotism
+#96	AnnotatorNotes T177	id:4201303
+T178	ClinicalConsequence 24052 24060	Ergotism
+#97	AnnotatorNotes T178	id:4201303
+T179	ClinicalConsequence 24177 24185	Ergotism
+#98	AnnotatorNotes T179	id:4201303
+T180	Id 24300 24303	176
+T181	Id 24433 24436	177
+T182	Id 24577 24580	178
+T183	Id 24722 24725	179
+T184	Id 24866 24869	180
+T185	ClinicalConsequence 24310 24318	Ergotism
+#99	AnnotatorNotes T185	id:4201303
+T186	ClinicalConsequence 24443 24451	Ergotism
+#100	AnnotatorNotes T186	id:4201303
+T187	ClinicalConsequence 24587 24595	Ergotism
+#101	AnnotatorNotes T187	id:4201303
+T188	ClinicalConsequence 24732 24740	Ergotism
+#102	AnnotatorNotes T188	id:4201303
+T189	ClinicalConsequence 24876 24884	Ergotism
+#103	AnnotatorNotes T189	id:4201303
+T190	ClinicalConsequence 23661 23688	necrosis of the extremities
+#104	AnnotatorNotes T190	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T191	ClinicalConsequence 23801 23828	necrosis of the extremities
+#105	AnnotatorNotes T191	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T192	ClinicalConsequence 23940 23967	necrosis of the extremities
+#106	AnnotatorNotes T192	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T193	ClinicalConsequence 24081 24108	necrosis of the extremeties
+#107	AnnotatorNotes T193	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T194	ClinicalConsequence 24472 24499	necrosis of the extremities
+#108	AnnotatorNotes T194	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T195	ClinicalConsequence 24616 24643	necrosis of the extremities
+#109	AnnotatorNotes T195	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T196	ClinicalConsequence 24761 24788	necrosis of the extremities
+#110	AnnotatorNotes T196	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T197	ClinicalConsequence 24905 24932	necrosis of the extremities
+#111	AnnotatorNotes T197	comment: Necrosis was the closest general term (id:4280654, morphological abnormality), but gangrenous disorder (id:439928), peripheral gangrene (id:4108371) or gangrenous ergotism (id:4196093) may be more accurate
+T198	ClinicalConsequence 24201 24215	arterial spasm
+#112	AnnotatorNotes T198	id:4292397; comment: used SNOMED term "Arteriospasm"
+T199	ClinicalConsequence 24334 24348	arterial spasm
+#113	AnnotatorNotes T199	id:4292397; comment: used SNOMED term "Arteriospasm"
+T200	ClinicalConsequence 24221 24248	ischemia of the extremities
+#114	AnnotatorNotes T200	id:4124836; comment: used SNOMED term "Peripheral ischemia"
+T201	ClinicalConsequence 24354 24381	ischemia of the extremities
+#115	AnnotatorNotes T201	id:4124836; comment: used SNOMED term "Peripheral ischemia"
+T202	Id 25006 25009	181
+T203	ClinicalConsequence 25145 25155	hemorrhage
+#116	AnnotatorNotes T203	id:4179955
+T204	Id 25157 25160	182
+T205	ClinicalConsequence 25266 25278	hypoglycemia
+#117	AnnotatorNotes T205	id:24609
+T207	SuspectedTypo 263 266	the
+T210	SuspectedTypo 681 684	the
+#119	AnnotatorNotes T207	comment: remove
+#122	AnnotatorNotes T210	comment: remove
+T211	SuspectedTypo 1423 1426	the
+#123	AnnotatorNotes T211	comment: remove
+T212	Id 133 134	1
+T213	Id 1442 1444	12
+T214	SuspectedTypo 1498 1501	the
+#124	AnnotatorNotes T214	comment: remove
+T215	Id 1587 1589	14
+T216	SuspectedTypo 1629 1632	the
+#125	AnnotatorNotes T216	comment: remove
+T217	Id 1643 1645	15
+T218	SuspectedTypo 1779 1782	the
+#126	AnnotatorNotes T218	comment: remove
+T219	Id 1795 1797	16
+T220	SuspectedTypo 1914 1917	the
+#127	AnnotatorNotes T220	comment: remove
+T221	Id 2039 2041	18
+T222	SuspectedTypo 2082 2085	the
+#128	AnnotatorNotes T222	comment: remove
+T223	SuspectedTypo 2104 2107	the
+#129	AnnotatorNotes T223	comment: remove
+T224	SuspectedTypo 2124 2127	the
+#130	AnnotatorNotes T224	comment: remove
+T225	SuspectedTypo 1558 1573	Increase of the
+#131	AnnotatorNotes T225	comment: awkward; more appropriately "increased risk of digitalis toxicity"
+T226	SuspectedTypo 2351 2365	concentrations
+#132	AnnotatorNotes T226	comment: remove the "s" (should be "concentration")
+T227	Id 2307 2309	20
+T228	Id 2381 2383	21
+T229	SuspectedTypo 2417 2431	concentrations
+#133	AnnotatorNotes T229	comment: remove the "s" (should be "concentration"); may also want to include "risk of" prior to statement
+T230	Id 2447 2449	22
+T231	ClinicalConsequence 2527 2541	rhabdomyolysis
+#134	AnnotatorNotes T231	id:4345578
+T232	SuspectedTypo 2456 2546	Increased risk of undesirable effects (concentration dependant) of the rhabdomyolysis type
+#135	AnnotatorNotes T232	comment: awkward; it would make more sense as "increased risk of rhabdomyolysis"
+T233	SuspectedTypo 2586 2601	the simvastatin
+#136	AnnotatorNotes T233	comment: remove "the"; add ")" after simvastatin
+T234	Id 2603 2605	23
+T235	SuspectedTypo 2624 2671	, decrease of the progestin, with risk of lower
+#137	AnnotatorNotes T235	comment: awkward; possible alternative: "Risk of decreased progestin concentration, with reduction of"
+T236	Id 2701 2703	24
+T237	SuspectedTypo 2914 2917	the
+#138	AnnotatorNotes T237	comment: remove "the"
+T238	Id 3304 3306	28
+T239	SuspectedTypo 3483 3486	the
+#139	AnnotatorNotes T239	comment: remove "the"
+T240	Id 4508 4510	36
+T242	SuspectedTypo 4540 4543	the
+#141	AnnotatorNotes T242	comment: remove "the"
+T243	SuspectedTypo 4577 4617	antagonism at the level of the receptors
+#142	AnnotatorNotes T243	comment: awkward; perhaps "receptor antagonism" would work
+T244	SuspectedTypo 5807 5845	Increase of the effects of the curares
+#143	AnnotatorNotes T244	comment: "increased risk of paralysis" may be more appropriate
+T245	SuspectedTypo 5945 5965	the curarizing agent
+#144	AnnotatorNotes T245	comment: "curarizing agent" is not used; may be replaced by "curare" or "the curare agent," depending on the drug mentioned
+T246	SuspectedTypo 6214 6225	exceptional
+#145	AnnotatorNotes T246	comment: may be replaced by "rare"
+T247	Id 6289 6291	45
+T248	SuspectedTypo 6314 6328	concentrations
+#146	AnnotatorNotes T248	comment: remove the "s" (should be "concentration")
+T249	Id 6630 6632	49
+T250	SuspectedTypo 6672 6675	the
+#147	AnnotatorNotes T250	comment: remove "the"
+T251	SuspectedTypo 6784 6787	the
+#148	AnnotatorNotes T251	comment: remove "the"
+T252	SuspectedTypo 7146 7149	the
+#149	AnnotatorNotes T252	comment: remove "the"
+T253	SuspectedTypo 7328 7331	the
+#150	AnnotatorNotes T253	comment: remove "the"
+T254	SuspectedTypo 7512 7515	the
+#151	AnnotatorNotes T254	comment: remove "the"
+T255	SuspectedTypo 7694 7697	the
+#152	AnnotatorNotes T255	comment: remove "the"
+T256	SuspectedTypo 7876 7879	the
+#153	AnnotatorNotes T256	comment: remove "the"
+T257	SuspectedTypo 8058 8061	the
+#154	AnnotatorNotes T257	comment: remove "the"
+T258	SuspectedTypo 8240 8243	the
+#155	AnnotatorNotes T258	comment: remove "the"
+T259	Id 8190 8192	58
+T260	SuspectedTypo 8342 8345	the
+#156	AnnotatorNotes T260	comment: remove "the"
+T261	SuspectedTypo 8362 8365	the
+#157	AnnotatorNotes T261	comment: remove "the"
+T262	SuspectedTypo 8396 8412	the dexmethasone
+#158	AnnotatorNotes T262	comment: remove "the"; "dexamethasone" is misspelled
+T263	Id 8382 8384	59
+T264	Id 8555 8557	60
+T265	SuspectedTypo 8569 8585	the dexmethasone
+#159	AnnotatorNotes T265	comment: remove "the"; "dexamethasone" is misspelled
+T266	SuspectedTypo 8536 8539	the
+#160	AnnotatorNotes T266	comment: remove "the"
+T267	SuspectedTypo 8708 8711	the
+#161	AnnotatorNotes T267	comment: remove "the"
+T268	SuspectedTypo 8523 8532	metaolism
+#162	AnnotatorNotes T268	comment: misspelled; should be "metabolism"
+T269	SuspectedTypo 8695 8704	metaolism
+#163	AnnotatorNotes T269	comment: misspelled; should be "metabolism"
+T270	SuspectedTypo 8777 8780	the
+#164	AnnotatorNotes T270	comment: remove "the"
+T271	SuspectedTypo 8959 8962	the
+#165	AnnotatorNotes T271	comment: remove "the"
+T272	SuspectedTypo 6332 6335	the
+#166	AnnotatorNotes T272	comment: remove "the"
+T273	SuspectedTypo 6766 6780	concentrations
+#167	AnnotatorNotes T273	comment: remove the "s" (should be "concentration")
+T274	Id 6916 6918	51
+T275	SuspectedTypo 6930 6933	the
+#168	AnnotatorNotes T275	comment: remove "the"
+T276	SuspectedTypo 7128 7142	concentrations
+#169	AnnotatorNotes T276	comment: remove the "s" (should be "concentration")
+T277	SuspectedTypo 7310 7324	concentrations
+#170	AnnotatorNotes T277	comment: remove the "s" (should be "concentration")
+T278	SuspectedTypo 7494 7508	concentrations
+#171	AnnotatorNotes T278	comment: remove the "s" (should be "concentration")
+T279	SuspectedTypo 7676 7690	concentrations
+#172	AnnotatorNotes T279	comment: remove the "s" (should be "concentration")
+T280	SuspectedTypo 7858 7872	concentrations
+#173	AnnotatorNotes T280	comment: remove the "s" (should be "concentration")
+T281	SuspectedTypo 8040 8054	concentrations
+#174	AnnotatorNotes T281	comment: remove the "s" (should be "concentration")
+T282	SuspectedTypo 8222 8236	concentrations
+#175	AnnotatorNotes T282	comment: remove the "s" (should be "concentration")
+T283	SuspectedTypo 8462 8476	concentrations
+#176	AnnotatorNotes T283	comment: remove the "s" (should be "concentration")
+T284	SuspectedTypo 8635 8649	concentrations
+#177	AnnotatorNotes T284	comment: remove the "s" (should be "concentration")
+T285	SuspectedTypo 8759 8773	concentrations
+#178	AnnotatorNotes T285	comment: remove the "s" (should be "concentration")
+T286	SuspectedTypo 8941 8955	concentrations
+#179	AnnotatorNotes T286	comment: remove the "s" (should be "concentration")
+T287	Id 9584 9586	66
+T288	Id 9490 9492	65
+T289	SuspectedTypo 9609 9623	concentrations
+#180	AnnotatorNotes T289	comment: remove the "s" (should be "concentration")
+T290	SuspectedTypo 9535 9538	the
+#181	AnnotatorNotes T290	comment: remove "the"
+T291	Id 9725 9727	67
+T292	SuspectedTypo 9796 9799	the
+#182	AnnotatorNotes T292	comment: remove "the"
+T293	SuspectedTypo 10018 10049	Decrease of the antalgic effect
+#183	AnnotatorNotes T293	comment: should be "Decrease of analgesic effect"
+T294	Id 10313 10315	71
+T295	SuspectedTypo 10348 10351	the
+#184	AnnotatorNotes T295	comment: remove "the"
+T296	SuspectedTypo 10425 10456	decrease of the antalgic effect
+#185	AnnotatorNotes T296	comment: should be "decrease of analgesic effect"
+T297	SuspectedTypo 10167 10179	the antalgic
+#186	AnnotatorNotes T297	comment: remove "the"; replace with "analgesic"
+T298	SuspectedTypo 10658 10661	the
+#187	AnnotatorNotes T298	comment: remove "the"
+T299	Id 10609 10611	74
+T300	Id 10709 10711	75
+T301	SuspectedTypo 10529 10543	concentrations
+#188	AnnotatorNotes T301	comment: remove the "s" (should be "concentration")
+T302	SuspectedTypo 10640 10654	concentrations
+#189	AnnotatorNotes T302	comment: remove the "s" (should be "concentration")
+T303	SuspectedTypo 10740 10754	concentrations
+#190	AnnotatorNotes T303	comment: remove the "s" (should be "concentration")
+T304	SuspectedTypo 10834 10837	the
+#191	AnnotatorNotes T304	comment: remove "the"
+T305	Id 10935 10937	77
+T306	SuspectedTypo 11076 11079	the
+#192	AnnotatorNotes T306	comment: remove "the"
+T307	Id 11092 11094	78
+T308	SuspectedTypo 11201 11204	the
+#193	AnnotatorNotes T308	comment: remove "the"
+T309	SuspectedTypo 11360 11363	the
+#194	AnnotatorNotes T309	comment: remove "the"
+T310	Id 11328 11330	80
+T311	SuspectedTypo 11397 11437	antagonism at the level of the receptors
+#195	AnnotatorNotes T311	comment: awkward; perhaps "receptor antagonism" would work
+T312	Id 11439 11441	81
+T313	SuspectedTypo 11482 11485	the
+#196	AnnotatorNotes T313	comment: remove "the"
+T314	SuspectedTypo 11511 11526	the progestatif
+#197	AnnotatorNotes T314	comment: remove "the"; should be "progestogen" or "progestin," depending on the drug mentioned
+T315	Id 11577 11579	82
+T316	SuspectedTypo 11795 11798	the
+#198	AnnotatorNotes T316	comment: remove "the"
+T317	Id 11812 11814	83
+T318	SuspectedTypo 11859 11872	effectiveness
+#199	AnnotatorNotes T318	comment: may want to replace with "efficacy"
+T319	SuspectedTypo 11706 11719	effectiveness
+#200	AnnotatorNotes T319	comment: may want to replace with "efficacy"
+T320	SuspectedTypo 11561 11574	effectiveness
+#201	AnnotatorNotes T320	comment: may want to replace with "efficacy"
+T321	SuspectedTypo 10694 10707	effectiveness
+#202	AnnotatorNotes T321	comment: may want to replace with "efficacy"
+T322	SuspectedTypo 9704 9723	lower effectiveness
+#203	AnnotatorNotes T322	comment: may want to replace with " reduced efficacy"
+T323	SuspectedTypo 6408 6421	effectiveness
+#204	AnnotatorNotes T323	comment: may want to replace with "efficacy"
+T324	SuspectedTypo 3351 3364	effectiveness
+#205	AnnotatorNotes T324	comment: may want to replace with "efficacy"
+T325	SuspectedTypo 2963 2976	effectiveness
+#206	AnnotatorNotes T325	comment: may want to replace with "efficacy"
+T326	SuspectedTypo 3083 3096	effectiveness
+#207	AnnotatorNotes T326	comment: may want to replace with "efficacy"
+T327	SuspectedTypo 3209 3222	effectiveness
+#208	AnnotatorNotes T327	comment: may want to replace with "efficacy"
+T328	SuspectedTypo 2686 2699	effectiveness
+#209	AnnotatorNotes T328	comment: may want to replace with "efficacy"
+T329	SuspectedTypo 1612 1625	effectiveness
+#210	AnnotatorNotes T329	comment: may want to replace with "efficacy"
+T330	SuspectedTypo 1690 1703	effectiveness
+#211	AnnotatorNotes T330	comment: may want to replace with "efficacy"
+T331	SuspectedTypo 172 186	concentrations
+#212	AnnotatorNotes T331	comment: remove the "s" (should be "concentration")
+T332	SuspectedTypo 245 259	concentrations
+#213	AnnotatorNotes T332	comment: remove the "s" (should be "concentration")
+T333	SuspectedTypo 763 777	concentrations
+#214	AnnotatorNotes T333	comment: remove the "s" (should be "concentration")
+T334	SuspectedTypo 1253 1267	concentrations
+#215	AnnotatorNotes T334	comment: remove the "s" (should be "concentration")
+T335	SuspectedTypo 1827 1841	concentrations
+#216	AnnotatorNotes T335	comment: remove the "s" (should be "concentration")
+T336	SuspectedTypo 1968 1982	concentrations
+#217	AnnotatorNotes T336	comment: remove the "s" (should be "concentration")
+T337	SuspectedTypo 2209 2223	concentrations
+#218	AnnotatorNotes T337	comment: remove the "s" (should be "concentration")
+T338	Id 2930 2932	25
+T339	Id 3050 3052	26
+T340	Id 3170 3172	27
+T341	SuspectedTypo 2825 2838	effectiveness
+#219	AnnotatorNotes T341	comment: may want to replace with "efficacy"
+T342	Id 3498 3500	29
+T343	SuspectedTypo 3530 3544	concentrations
+#220	AnnotatorNotes T343	comment: remove the "s" (should be "concentration")
+T344	SuspectedTypo 3666 3679	effectiveness
+#221	AnnotatorNotes T344	comment: may want to replace with "efficacy"
+T345	SuspectedTypo 3703 3713	the effect
+#222	AnnotatorNotes T345	comment: remove "the"; may want to specify "contraceptive effect"
+T346	ClinicalConsequence 3761 3770	pregnancy
+#223	AnnotatorNotes T346	id:36818833; comment: used MedDRA term "Pregnancy," since SNOMED did not classify as a clinical finding
+T347	SuspectedTypo 3574 3638	, by reason of the enzymatic inducer effect of the St Johns wort
+#224	AnnotatorNotes T347	comment: awkward; possibly "due to enzymatic induction by St. John's wort"
+T348	SuspectedTypo 12772 12836	, by reason of the enzymatic inducer effect of the St Johns Wort
+#225	AnnotatorNotes T348	comment: awkward; possibly "due to enzymatic induction by St. John's wort"
+T349	SuspectedTypo 12864 12877	effectiveness
+#226	AnnotatorNotes T349	comment: may want to replace with "efficacy"
+T350	SuspectedTypo 12901 12933	the effect, of the contraceptive
+#227	AnnotatorNotes T350	comment: may want to replace with "contraceptive effect"
+T351	SuspectedTypo 12545 12548	the
+#228	AnnotatorNotes T351	comment: remove "the"
+T352	Id 12363 12365	87
+T353	Id 12561 12563	88
+T354	Id 12221 12223	86
+T355	Id 12117 12119	85
+T356	Id 11946 11948	84
+T357	SuspectedTypo 12040 12053	effectiveness
+#229	AnnotatorNotes T357	comment: may want to replace with "efficacy"
+T358	SuspectedTypo 12164 12177	effectiveness
+#230	AnnotatorNotes T358	comment: may want to replace with "efficacy"
+T359	SuspectedTypo 12260 12273	effectiveness
+#231	AnnotatorNotes T359	comment: may want to replace with "efficacy"
+T360	SuspectedTypo 12410 12423	effectiveness
+#232	AnnotatorNotes T360	comment: may want to replace with "efficacy"
+T361	SuspectedTypo 12590 12633	the concentrations and of the effectiveness
+#233	AnnotatorNotes T361	comment: awkward; "plasma concentration and efficacy"
+T362	SuspectedTypo 12637 12640	the
+#234	AnnotatorNotes T362	comment: remove "the"
+T363	SuspectedTypo 13041 13054	effectiveness
+#235	AnnotatorNotes T363	comment: may want to replace with "efficacy"
+T364	Id 12994 12996	90
+T365	Id 13182 13184	91
+T366	Id 13312 13314	92
+T367	Id 13382 13384	93
+T368	Id 13530 13532	94
+T369	Id 13680 13682	95
+T370	Id 13828 13830	96
+T371	SuspectedTypo 13229 13242	effectiveness
+#236	AnnotatorNotes T371	comment: may want to replace with "efficacy"
+T372	SuspectedTypo 13429 13442	effectiveness
+#237	AnnotatorNotes T372	comment: may want to replace with "efficacy"
+T373	SuspectedTypo 13615 13628	effectiveness
+#238	AnnotatorNotes T373	comment: may want to replace with "efficacy"
+T374	SuspectedTypo 13023 13026	the
+#239	AnnotatorNotes T374	comment: remove "the"
+T375	SuspectedTypo 13127 13130	the
+#240	AnnotatorNotes T375	comment: remove "the"
+T376	SuspectedTypo 13063 13066	the
+#241	AnnotatorNotes T376	comment: remove "the"
+T377	SuspectedTypo 13108 13111	the
+#242	AnnotatorNotes T377	comment: remove "the"
+T378	SuspectedTypo 13211 13214	the
+#243	AnnotatorNotes T378	comment: remove "the"
+T379	SuspectedTypo 13411 13414	the
+#244	AnnotatorNotes T379	comment: remove "the"
+T380	SuspectedTypo 13597 13600	the
+#245	AnnotatorNotes T380	comment: remove "the"
+T381	SuspectedTypo 13514 13517	the
+#246	AnnotatorNotes T381	comment: remove "the"
+T382	SuspectedTypo 13878 13881	the
+#247	AnnotatorNotes T382	comment: remove "the"
+T383	SuspectedTypo 13896 13899	the
+#248	AnnotatorNotes T383	comment: remove "the"
+T384	SuspectedTypo 13926 13929	the
+#249	AnnotatorNotes T384	comment: remove "the"
+T385	SuspectedTypo 14116 14119	the
+#250	AnnotatorNotes T385	comment: remove "the"
+T386	SuspectedTypo 14315 14318	the
+#251	AnnotatorNotes T386	comment: remove "the"
+T387	Id 14301 14303	99
+T388	Id 14530 14533	100
+T389	Id 14692 14695	101
+T390	SuspectedTypo 14545 14548	the
+#252	AnnotatorNotes T390	comment: remove "the"
+T391	SuspectedTypo 14965 14968	the
+#253	AnnotatorNotes T391	comment: remove "the"
+T392	SuspectedTypo 15031 15038	accrued
+#254	AnnotatorNotes T392	comment: may need to replace with "additive" or "increased"
+T393	SuspectedTypo 14707 14710	the
+#255	AnnotatorNotes T393	comment: remove "the"
+T394	SuspectedTypo 15099 15102	the
+#256	AnnotatorNotes T394	comment: remove "the"
+T395	Id 15137 15140	104
+T396	SuspectedTypo 15152 15155	the
+#257	AnnotatorNotes T396	comment: remove "the"
+T397	Id 15380 15383	106
+T398	Id 15627 15630	107
+T399	SuspectedTypo 15642 15645	the
+#258	AnnotatorNotes T399	comment: remove "the"
+T400	SuspectedTypo 15395 15398	the
+#259	AnnotatorNotes T400	comment: remove "the"
+T401	SuspectedTypo 15286 15289	the
+#260	AnnotatorNotes T401	comment: remove "the"
+T402	SuspectedTypo 15258 15269	ciclosporin
+#261	AnnotatorNotes T402	comment: may want to replace with "cyclosporine (ciclosporin)"
+T403	SuspectedTypo 15611 15614	the
+#262	AnnotatorNotes T403	comment: remove "the"
+T404	SuspectedTypo 11124 11138	concentrations
+#263	AnnotatorNotes T404	comment: remove the "s" (should be "concentration")
+T405	SuspectedTypo 11464 11478	concentrations
+#264	AnnotatorNotes T405	comment: remove the "s" (should be "concentration")
+T406	SuspectedTypo 11841 11844	the
+#265	AnnotatorNotes T406	comment: remove "the"
+T407	SuspectedTypo 11971 11985	concentrations
+#266	AnnotatorNotes T407	comment: remove the "s" (should be "concentration")
+T408	SuspectedTypo 12084 12098	concentrations
+#267	AnnotatorNotes T408	comment: remove the "s" (should be "concentration")
+T409	SuspectedTypo 12102 12105	the
+#268	AnnotatorNotes T409	comment: remove "the"
+T410	SuspectedTypo 12146 12149	the
+#269	AnnotatorNotes T410	comment: remove "the"
+T411	SuspectedTypo 12242 12245	the
+#270	AnnotatorNotes T411	remove "the"
+T412	SuspectedTypo 12447 12461	concentrations
+#271	AnnotatorNotes T412	comment: remove the "s" (should be "concentration")
+T413	SuspectedTypo 12728 12742	concentrations
+#272	AnnotatorNotes T413	comment: remove the "s" (should be "concentration")
+T414	SuspectedTypo 13266 13280	concentrations
+#273	AnnotatorNotes T414	comment: remove the "s" (should be "concentration")
+T415	SuspectedTypo 13346 13360	concentrations
+#274	AnnotatorNotes T415	comment: remove the "s" (should be "concentration")
+T416	SuspectedTypo 13652 13666	concentrations
+#275	AnnotatorNotes T416	comment: remove the "s" (should be "concentration")
+T417	SuspectedTypo 13713 13727	concentrations
+#276	AnnotatorNotes T417	comment: remove the "s" (should be "concentration")
+T418	SuspectedTypo 14435 14449	concentrations
+#277	AnnotatorNotes T418	comment: remove the "s" (should be "concentration")
+T419	SuspectedTypo 14675 14678	the
+#278	AnnotatorNotes T419	comment: remove "the"
+T420	SuspectedTypo 14789 14803	concentrations
+#279	AnnotatorNotes T420	comment: remove the "s" (should be "concentration")
+T421	SuspectedTypo 14934 14937	the
+#280	AnnotatorNotes T421	comment: remove "the"
+T422	SuspectedTypo 15240 15254	concentrations
+#281	AnnotatorNotes T422	comment: remove the "s" (should be "concentration")
+T423	SuspectedTypo 15484 15498	concentrations
+#282	AnnotatorNotes T423	comment: remove the "s" (should be "concentration")
+T424	SuspectedTypo 15772 15775	the
+#283	AnnotatorNotes T424	comment: remove "the"
+T425	SuspectedTypo 15821 15835	concentrations
+#284	AnnotatorNotes T425	comment: remove the "s" (should be "concentration")
+T426	SuspectedTypo 16124 16138	concentrations
+#285	AnnotatorNotes T426	comment: remove the "s" (should be "concentration")
+T427	Id 15984 15987	109
+T428	SuspectedTypo 16270 16273	the
+#286	AnnotatorNotes T428	comment: remove "the"
+T429	SuspectedTypo 15999 16002	the
+#287	AnnotatorNotes T429	comment: remove "the"
+T430	SuspectedTypo 16042 16045	the
+#288	AnnotatorNotes T430	comment: remove "the"
+T431	SuspectedTypo 16274 16284	cimetadine
+#289	AnnotatorNotes T431	comment: misspelled; should be "cimetidine"
+T432	Id 16286 16289	110
+T433	SuspectedTypo 16383 16397	concentrations
+#290	AnnotatorNotes T433	comment: remove the "s" (should be "concentration")
+T434	SuspectedTypo 16401 16404	the
+#291	AnnotatorNotes T434	comment: remove "the"
+T435	SuspectedTypo 16301 16304	the
+#292	AnnotatorNotes T435	comment: remove "the"
+T436	SuspectedTypo 16476 16479	the
+#293	AnnotatorNotes T436	comment: remove "the"
+T437	SuspectedTypo 16580 16583	the
+#294	AnnotatorNotes T437	comment: remove "the"
+T438	SuspectedTypo 16642 16645	the
+#295	AnnotatorNotes T438	comment: remove "the"
+T439	SuspectedTypo 117 131	dihyropyridine
+#296	AnnotatorNotes T439	comment: misspelling; should be "dihydropyridine"
+T206	SuspectedTypo 396 411	dihydorpyridine
+#118	AnnotatorNotes T206	comment: misspelling; should be "dihydropyridine"
+T208	SuspectedTypo 527 542	dihydropyridine
+#120	AnnotatorNotes T208	comment: misspelling; should be "dihydropyridine"
+T209	Id 733 734	6
+T440	SuspectedTypo 3820 3833	effectiveness
+#121	AnnotatorNotes T440	comment: may want to replace with "efficacy"
+T441	SuspectedTypo 4015 4040	antagonism of the effects
+#297	AnnotatorNotes T441	comment: may want to replace with "decreased efficacy"
+T442	Id 3773 3775	30
+T443	Id 3899 3901	31
+T444	SuspectedTypo 3983 3996	effectiveness
+#298	AnnotatorNotes T444	comment: may want to replace with "efficacy"
+T445	Id 3998 4000	32
+T446	Id 4073 4075	33
+T447	SuspectedTypo 4165 4168	the
+#299	AnnotatorNotes T447	comment: remove "the"
+T11	Id 1209 1211	10
+T448	SuspectedTypo 9631 9640	cytotoxic
+#3	AnnotatorNotes T448	comment: "cytotoxic agent" may be more appropriate
+T449	SuspectedTypo 1672 1675	the
+#300	AnnotatorNotes T449	comment: remove "the"
+T450	SuspectedTypo 3802 3805	the
+#301	AnnotatorNotes T450	comment: remove "the"
+T451	SuspectedTypo 3965 3968	the
+#302	AnnotatorNotes T451	comment: remove "the"
+T241	SuspectedTypo 4320 4352	addition of the negative effects
+#140	AnnotatorNotes T241	comment: instead of "the addition of the negative effects," would "negative additive effects" be appropriate?
+T452	SuspectedTypo 4455 4491	the addition of the negative effects
+#303	AnnotatorNotes T452	comment: remove "the"; instead of "the addition of the negative effects," would "negative additive effects" be appropriate?
+T453	SuspectedTypo 4714 4724	constantly
+#304	AnnotatorNotes T453	comment: awkward; remove
+T454	SuspectedTypo 4633 4636	the
+#305	AnnotatorNotes T454	comment: remove "the"
+T455	SuspectedTypo 4998 5001	the
+#306	AnnotatorNotes T455	comment: remove "the"
+T456	SuspectedTypo 5379 5382	the
+#307	AnnotatorNotes T456	comment: remove "the"
+T457	SuspectedTypo 5092 5102	constantly
+#308	AnnotatorNotes T457	comment: awkward; remove
+T458	SuspectedTypo 5473 5483	constantly
+#309	AnnotatorNotes T458	comment: awkward; remove
+T459	Id 6424 6426	46
+T460	SuspectedTypo 6473 6476	the
+#310	AnnotatorNotes T460	comment: remove "the"
+T461	SuspectedTypo 6655 6668	effectiveness
+#311	AnnotatorNotes T461	comment: may want to replace with "efficacy"
+T462	SuspectedTypo 9131 9172	acting at different levels of hemeostasis
+#312	AnnotatorNotes T462	comment: misspelling (should be "hemostasis"); awkward - perhaps "with different hemostatic mechanisms"
+T81	SuspectedTypo 11688 11691	the
+#42	AnnotatorNotes T81	comment: remove "the"
+T463	SuspectedTypo 13861 13874	effectiveness
+#313	AnnotatorNotes T463	comment: may want to replace with "efficacy"
+T464	SuspectedTypo 13811 13826	ineffectiveness
+#314	AnnotatorNotes T464	comment: may want to replace with "inefficacy"
+T465	ClinicalConsequence 14621 14641	bone marrow toxicity
+#315	AnnotatorNotes T465	id:35104104; comment: used MedDRA term ("bone marrow toxicity" as a condition)
+T466	ClinicalConsequence 15718 15738	bone marrow toxicity
+#316	AnnotatorNotes T466	id:35104104; comment: used MedDRA term ("bone marrow toxicity" as a condition)
+T467	SuspectedTypo 16673 16676	the
+#317	AnnotatorNotes T467	comment: remove "the"
+T468	SuspectedTypo 16762 16776	concentrations
+#318	AnnotatorNotes T468	comment: remove the "s" (should be "concentration")
+T469	SuspectedTypo 16950 16969	the theophyllinemia
+#319	AnnotatorNotes T469	comment: remove "the"; "theophyllinemia" is not a commonly used term; "theophylline toxicity" or "theophylline overdose" may be more appropriate
+T470	SuspectedTypo 17023 17026	the
+#320	AnnotatorNotes T470	comment: remove "the"
+T471	Id 17173 17176	115
+T472	SuspectedTypo 17206 17220	concentrations
+#321	AnnotatorNotes T472	comment: remove the "s" (should be "concentration")
+T473	SuspectedTypo 17338 17346	inducerr
+#322	AnnotatorNotes T473	comment: misspelling; should be "inducer"
+T474	SuspectedTypo 9556 9582	decrease of its metabolism
+#323	AnnotatorNotes T474	comment:  awkward; perhaps "decreased metabolism" or "its decreased metabolism"
+T475	SuspectedTypo 17104 17119	the extremities
+#324	AnnotatorNotes T475	comment: incomplete; may need to refer to "constriction of blood vessels in the extremities"
+T476	SuspectedTypo 17366 17441	increase of undesirable effects (dose dependent) of the rhabdomyolysis type
+#325	AnnotatorNotes T476	comment: awkward; it would make more sense as "increased risk of rhabdomyolysis"
+T477	SuspectedTypo 17506 17516	medication
+#326	AnnotatorNotes T477	comment: add ")"
+T478	SuspectedTypo 17544 17558	concentrations
+#327	AnnotatorNotes T478	comment: remove the "s" (should be "concentration")
+T479	Id 17518 17521	117
+T480	SuspectedTypo 17676 17679	the
+#328	AnnotatorNotes T480	comment: remove "the"
+T481	SuspectedTypo 18063 18100	inhibitor of type 5 phosphodiesterase
+#329	AnnotatorNotes T481	comment: "phosphodiesterase type 5 inhibitor"
+T482	Id 18134 18137	122
+T483	SuspectedTypo 18185 18188	the
+#330	AnnotatorNotes T483	comment: remove "the"
+T484	SuspectedTypo 18488 18491	the
+#331	AnnotatorNotes T484	comment: remove "the"
+T485	Id 18426 18429	124
+T486	SuspectedTypo 17658 17672	concentrations
+#332	AnnotatorNotes T486	comment: remove the "s" (should be "concentration")
+T487	SuspectedTypo 17923 17937	concentrations
+#333	AnnotatorNotes T487	comment: remove the "s" (should be "concentration")
+T488	Id 17880 17883	120
+T489	SuspectedTypo 18041 18055	concentrations
+#334	AnnotatorNotes T489	comment: remove the "s" (should be "concentration")
+T490	SuspectedTypo 18167 18181	concentrations
+#335	AnnotatorNotes T490	comment: remove the "s" (should be "concentration")
+T491	SuspectedTypo 18470 18484	concentrations
+#336	AnnotatorNotes T491	comment: remove the "s" (should be "concentration")
+T492	SuspectedTypo 18811 18825	concentrations
+#337	AnnotatorNotes T492	comment: remove the "s" (should be "concentration")
+T493	SuspectedTypo 18891 18905	concentrations
+#338	AnnotatorNotes T493	comment: remove the "s" (should be "concentration")
+T494	SuspectedTypo 19232 19246	concentrations
+#339	AnnotatorNotes T494	comment: remove the "s" (should be "concentration")
+T495	Id 19206 19209	131
+T496	Id 19313 19316	132
+T497	Id 19421 19424	133
+T498	Id 19569 19572	134
+T499	Id 19676 19679	135
+T500	Id 19783 19786	136
+T501	Id 19890 19893	137
+T502	Id 20042 20045	138
+T503	Id 20149 20152	139
+T504	Id 20256 20259	140
+T505	Id 20405 20408	141
+T506	Id 20512 20515	142
+T507	SuspectedTypo 19339 19353	concentrations
+#340	AnnotatorNotes T507	comment: remove the "s" (should be "concentration")
+T508	SuspectedTypo 19454 19468	concentrations
+#341	AnnotatorNotes T508	comment: remove the "s" (should be "concentration")
+T509	SuspectedTypo 19472 19482	felcainide
+#342	AnnotatorNotes T509	comment: misspelling; should be "flecainide"
+T510	SuspectedTypo 19595 19609	concentrations
+#343	AnnotatorNotes T510	comment: remove the "s" (should be "concentration")
+T511	SuspectedTypo 19702 19716	concentrations
+#344	AnnotatorNotes T511	comment: remove the "s" (should be "concentration")
+T512	SuspectedTypo 19809 19823	concentrations
+#345	AnnotatorNotes T512	comment: remove the "s" (should be "concentration")
+T513	SuspectedTypo 19923 19937	concentrations
+#346	AnnotatorNotes T513	comment: remove the "s" (should be "concentration")
+T514	SuspectedTypo 20068 20082	concentrations
+#347	AnnotatorNotes T514	comment: remove the "s" (should be "concentration")
+T515	SuspectedTypo 20175 20189	concentrations
+#348	AnnotatorNotes T515	comment: remove the "s" (should be "concentration")
+T516	SuspectedTypo 20289 20303	concentrations
+#349	AnnotatorNotes T516	comment: remove the "s" (should be "concentration")
+T517	SuspectedTypo 20431 20445	concentrations
+#350	AnnotatorNotes T517	comment: remove the "s" (should be "concentration")
+T518	SuspectedTypo 20538 20552	concentrations
+#351	AnnotatorNotes T518	comment: remove the "s" (should be "concentration")
+T519	SuspectedTypo 20025 20028	the
+#352	AnnotatorNotes T519	comment: remove "the"
+T520	SuspectedTypo 20388 20391	the
+#353	AnnotatorNotes T520	comment: remove "the"
+T521	SuspectedTypo 18299 18302	the
+#354	AnnotatorNotes T521	comment: remove "the"
+T522	SuspectedTypo 18320 18323	the
+#355	AnnotatorNotes T522	comment: remove "the"
+T523	SuspectedTypo 18602 18605	the
+#356	AnnotatorNotes T523	comment: remove "the"
+T524	SuspectedTypo 18631 18712	Increased risk of undesirable effects (dose dependent) of the rhabdomyolysis type
+#357	AnnotatorNotes T524	comment: awkward; it would make more sense as "increased risk of rhabdomyolysis"
+T525	SuspectedTypo 19051 19054	the
+#358	AnnotatorNotes T525	comment: remove "the"
+T526	SuspectedTypo 19552 19555	the
+#359	AnnotatorNotes T526	comment: remove "the"
+T527	SuspectedTypo 21844 21847	the
+#360	AnnotatorNotes T527	comment: remove "the"
+T528	SuspectedTypo 21777 21780	the
+#361	AnnotatorNotes T528	comment: remove "the"
+T529	SuspectedTypo 22043 22046	the
+#362	AnnotatorNotes T529	comment: remove "the"
+T530	SuspectedTypo 22165 22168	the
+#363	AnnotatorNotes T530	comment: remove "the"
+T531	SuspectedTypo 22327 22330	the
+#364	AnnotatorNotes T531	comment: remove "the"
+T532	SuspectedTypo 23449 23452	the
+#365	AnnotatorNotes T532	comment: remove "the"
+T533	SuspectedTypo 23540 23543	the
+#366	AnnotatorNotes T533	comment: remove "the"
+T534	SuspectedTypo 23606 23609	the
+#367	AnnotatorNotes T534	comment: remove "the"
+T535	SuspectedTypo 25061 25064	the
+#368	AnnotatorNotes T535	comment: remove "the"
+T536	SuspectedTypo 25216 25219	the
+#369	AnnotatorNotes T536	comment: remove "the"
+T537	SuspectedTypo 25338 25341	the
+#370	AnnotatorNotes T537	comment: remove "the"
+T538	SuspectedTypo 25398 25401	the
+#371	AnnotatorNotes T538	comment: remove "the"
+T539	SuspectedTypo 25542 25545	the
+#372	AnnotatorNotes T539	comment: remove "the"
+T540	SuspectedTypo 25615 25618	the
+#373	AnnotatorNotes T540	comment: remove "the"
+T541	SuspectedTypo 25675 25678	the
+#374	AnnotatorNotes T541	comment: remove "the"
+T542	SuspectedTypo 25749 25752	the
+#375	AnnotatorNotes T542	comment: remove "the"
+T543	SuspectedTypo 25956 25959	the
+#376	AnnotatorNotes T543	comment: remove "the"
+T544	SuspectedTypo 26102 26105	the
+#377	AnnotatorNotes T544	comment: remove "the"
+T545	SuspectedTypo 26248 26251	the
+#378	AnnotatorNotes T545	comment: remove "the"
+T546	SuspectedTypo 15352 15359	accrued
+#379	AnnotatorNotes T546	comment: may need to replace with "additive" or "increased"
+T547	SuspectedTypo 26274 26281	Accrued
+#380	AnnotatorNotes T547	comment: may need to replace with "Additive" or "Increased"
+T548	Id 26264 26267	190
+T549	SuspectedTypo 26656 26659	the
+#381	AnnotatorNotes T549	comment: remove "the"
+T550	SuspectedTypo 26761 26764	the
+#382	AnnotatorNotes T550	comment: remove "the"
+T551	SuspectedTypo 26824 26827	the
+#383	AnnotatorNotes T551	comment: remove "the"
+T552	SuspectedTypo 26894 26909	Increase of the
+#384	AnnotatorNotes T552	comment: awkward; perhaps "Increased risk of"
+T553	Id 26884 26887	198
+T554	Id 26774 26777	197
+T555	Id 26723 26726	196
+T556	Id 26618 26621	194
+T557	Id 26669 26672	195
+T558	SuspectedTypo 26697 26705	onset of
+#385	AnnotatorNotes T558	comment: unnecessary
+T559	Id 25281 25284	183
+T560	Id 25412 25415	184
+T561	Id 25558 25561	185
+T562	Id 25692 25695	186
+T563	Id 25826 25829	187
+T564	Id 25972 25975	188
+T565	Id 26118 26121	189
+T566	SuspectedTypo 26170 26173	the
+#386	AnnotatorNotes T566	comment: remove "the"
+T567	SuspectedTypo 14514 14517	the
+#387	AnnotatorNotes T567	comment: remove "the"
+T568	Id 21458 21461	149
+T569	Id 21529 21532	150
+T570	Id 21647 21650	151
+T571	Id 21794 21797	152
+T572	SuspectedTypo 21493 21507	concentrations
+#388	AnnotatorNotes T572	comment: remove the "s" (should be "concentration")
+T573	SuspectedTypo 21564 21578	concentrations
+#389	AnnotatorNotes T573	comment: remove the "s" (should be "concentration")
+T574	SuspectedTypo 21688 21702	concentrations
+#390	AnnotatorNotes T574	comment: remove the "s" (should be "concentration")
+T575	Id 21958 21961	155
+T576	Id 22251 22254	157
+T577	Id 22108 22111	156
+T578	SuspectedTypo 22000 22014	concentrations
+#391	AnnotatorNotes T578	comment: remove the "s" (should be "concentration")
+T579	SuspectedTypo 22284 22298	concentrations
+#392	AnnotatorNotes T579	comment: remove the "s" (should be "concentration")
+T580	SuspectedTypo 23431 23445	concentrations
+#393	AnnotatorNotes T580	comment: remove the "s" (should be "concentration")
+T581	Id 23384 23387	169
+T582	Id 23556 23559	170
+T583	SuspectedTypo 25198 25212	concentrations
+#394	AnnotatorNotes T583	comment: remove the "s" (should be "concentration")
+T584	SuspectedTypo 25445 25459	concentrations
+#395	AnnotatorNotes T584	comment: remove the "s" (should be "concentration")
+T585	SuspectedTypo 25859 25873	concentrations
+#396	AnnotatorNotes T585	comment: remove the "s" (should be "concentration")
+T586	SuspectedTypo 26005 26019	concentrations
+#397	AnnotatorNotes T586	comment: remove the "s" (should be "concentration")
+T587	SuspectedTypo 26455 26469	concentrations
+#398	AnnotatorNotes T587	comment: remove the "s" (should be "concentration")
+T588	Id 26422 26425	192
+T589	Id 26511 26514	193
+T590	SuspectedTypo 26543 26557	concentrations
+#399	AnnotatorNotes T590	comment: remove the "s" (should be "concentration")
+T591	SuspectedTypo 26806 26820	concentrations
+#400	AnnotatorNotes T591	comment: remove the "s" (should be "concentration")
+T592	ManagementOption 9381 9442	maintaining clinical monitoring and possibly laboratory tests
+T593	Id 18944 18947	128
+T594	ManagementOption 20912 20973	maintaining clinical monitoring and possibly laboratory tests
+T595	SuspectedTypo 21605 21609	with
+#401	AnnotatorNotes T595	comment: replace with "in"
+T596	Id 21899 21902	154
+T597	SuspectedTypo 21917 21955	possibly fatal general vaccine disease
+#402	AnnotatorNotes T597	comment: not sure if "general vaccine disease" refers to a hypersensitivity reaction
+T598	SuspectedTypo 21881 21897	immunosupression
+#403	AnnotatorNotes T598	comment: misspelling; should be "immunosuppression
+T599	SuspectedTypo 22210 22224	concentrations
+#404	AnnotatorNotes T599	comment: remove the "s" (should be "concentration")
+T600	ClinicalConsequence 23319 23330	digoxinemia
+#405	AnnotatorNotes T600	Comment: a more accurate term is "digitalis toxicity," but that only refers to levels/general toxicity (id:21003351; not SNOMED); the actual clinical finding would be a change in the EKG (id:4272343, "Digitalis toxicity by EKG").
+T601	SuspectedTypo 23368 23371	the
+#406	AnnotatorNotes T601	comment: remove "the"
+T602	Id 23233 23236	167
+T603	Id 23284 23287	168
+T604	SuspectedTypo 17817 17832	Increase of the
+#407	AnnotatorNotes T604	comment: awkward; more appropriately "increased risk of digitalis toxicity"
+T605	SuspectedTypo 23294 23318	Moderate increase of the
+#408	AnnotatorNotes T605	comment: awkward; more appropriately "moderately increased risk of digitalis toxicity"
+T606	SuspectedTypo 23105 23136	Decrease of the antalgic effect
+#409	AnnotatorNotes T606	comment: should be "Decrease of analgesic effect"
+T607	SuspectedTypo 23251 23282	decrease of the antalgic effect
+#410	AnnotatorNotes T607	comment: should be "decrease of analgesic effect"
+T608	SuspectedTypo 23588 23602	concentrations
+#411	AnnotatorNotes T608	comment: remove the "s" (should be "concentration")
+T609	Id 26303 26306	191
+T610	ClinicalConsequence 26337 26347	hemorrhage
+#412	AnnotatorNotes T610	id:4179955
+T611	SuspectedTypo 26313 26336	Increase of the risk of
+#413	AnnotatorNotes T611	comment: awkward; perhaps "Increased risk of"
+T612	SuspectedTypo 26561 26572	ciclosporin
+#414	AnnotatorNotes T612	comment: may want to replace with "cyclosporine (ciclosporin)"
+T613	SuspectedTypo 27840 27851	ciclosporin
+#415	AnnotatorNotes T613	comment: may want to replace with "cyclosporine (ciclosporin)"
+T614	ClinicalConsequence 26706 26720	rhabdomyolysis
+#416	AnnotatorNotes T614	id:4345578
+T615	ClinicalConsequence 26733 26757	Diabetes inducing effect
+#417	AnnotatorNotes T615	id:4202383; comment: used SNOMED term "Drug-induced diabetes melitus"
+T616	ClinicalConsequence 26628 26652	Diabetes inducing effect
+#418	AnnotatorNotes T616	id:4202383; comment: used SNOMED term "Drug-induced diabetes melitus"
+T617	ClinicalConsequence 26501 26509	overdose
+#419	AnnotatorNotes T617	id:4177136; comment: used SNOMED term "Overdose of carbamazepine"
+T618	ClinicalConsequence 26290 26301	convulsions
+#420	AnnotatorNotes T618	id:377091; comment: used SNOMED term "seizure"
+T619	SuspectedTypo 27822 27836	concentrations
+#421	AnnotatorNotes T619	comment: remove the "s" (should be "concentration")
+T620	SuspectedTypo 27886 27900	concentrations
+#422	AnnotatorNotes T620	comment: remove the "s" (should be "concentration")
+T621	Id 27790 27793	206
+T622	Id 27853 27856	207
+T623	Id 27986 27989	208
+T624	ClinicalConsequence 28041 28049	overdose
+#423	AnnotatorNotes T624	id:4175080; comment: used SNOMED term "Theophylline overdose"
+T625	SuspectedTypo 28008 28027	the theophyllinemia
+#424	AnnotatorNotes T625	comment: remove "the"; "theophyllinemia" is not a commonly used term; "theophylline toxicity" or "theophylline overdose" may be more appropriate
+T626	Id 28914 28917	215
+T627	Id 29004 29007	216
+T628	Id 29144 29147	217
+T629	Id 29282 29285	218
+T630	Id 29420 29423	219
+T631	Id 29559 29562	220
+T632	Id 29698 29701	221
+T633	Id 29836 29839	222
+T634	Id 29974 29977	223
+T635	Id 30311 30314	225
+T636	Id 30449 30452	226
+T637	Id 30543 30546	227
+T638	Id 30775 30778	229
+T639	Id 30997 31000	231
+T640	ClinicalConsequence 28969 29002	rapid elevation of blood pressure
+#425	AnnotatorNotes T640	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T641	ClinicalConsequence 29109 29142	rapid elevation of blood pressure
+#426	AnnotatorNotes T641	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T642	ClinicalConsequence 29247 29280	rapid elevation of blood pressure
+#427	AnnotatorNotes T642	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T643	ClinicalConsequence 29385 29418	rapid elevation of blood pressure
+#428	AnnotatorNotes T643	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T644	ClinicalConsequence 29523 29556	rapid elevation of blood pressure
+#429	AnnotatorNotes T644	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T645	ClinicalConsequence 29662 29695	rapid elevation of blood pressure
+#430	AnnotatorNotes T645	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T646	ClinicalConsequence 29801 29834	rapid elevation of blood pressure
+#431	AnnotatorNotes T646	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T647	ClinicalConsequence 29939 29972	rapid elevation of blood pressure
+#432	AnnotatorNotes T647	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T648	ClinicalConsequence 30077 30110	rapid elevation of blood pressure
+#433	AnnotatorNotes T648	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T649	ClinicalConsequence 30414 30447	rapid elevation of blood pressure
+#434	AnnotatorNotes T649	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T650	ClinicalConsequence 30507 30540	rapid elevation of blood pressure
+#435	AnnotatorNotes T650	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T651	ClinicalConsequence 30601 30634	rapid elevation of blood pressure
+#436	AnnotatorNotes T651	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T652	ClinicalConsequence 30882 30915	rapid elevation of blood pressure
+#437	AnnotatorNotes T652	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T653	ClinicalConsequence 31104 31137	rapid elevation of blood pressure
+#438	AnnotatorNotes T653	id:4086587; comment: used SNOMED term "elevated blood pressure"
+T654	ClinicalConsequence 29093 29101	ergotism
+#439	AnnotatorNotes T654	id:4201303
+T655	ClinicalConsequence 29230 29238	ergotism
+#440	AnnotatorNotes T655	id:4201303
+T656	Id 28107 28110	209
+T657	Id 28206 28209	210
+T659	Id 28475 28478	212
+T660	SuspectedTypo 28173 28204	addition of undesirable effects
+#441	AnnotatorNotes T660	comment: instead of "addition of undesirable effects," would "additive effects" be appropriate?
+T661	SuspectedTypo 28272 28303	addition of undesirable effects
+#442	AnnotatorNotes T661	comment: instead of "addition of undesirable effects," would "additive effects" be appropriate?
+T662	SuspectedTypo 28541 28572	addition of undesirable effects
+#443	AnnotatorNotes T662	comment: instead of "addition of undesirable effects," would "additive effects" be appropriate?
+T663	ClinicalConsequence 29368 29376	ergotism
+#444	AnnotatorNotes T663	id:4201303
+T664	ClinicalConsequence 29506 29514	ergotism
+#445	AnnotatorNotes T664	id:4201303
+T665	ClinicalConsequence 29645 29653	ergotism
+#446	AnnotatorNotes T665	id:4201303
+T666	ClinicalConsequence 29784 29792	ergotism
+#447	AnnotatorNotes T666	id:4201303
+T667	ClinicalConsequence 29922 29930	ergotism
+#448	AnnotatorNotes T667	id:4201303
+T668	ClinicalConsequence 30060 30068	ergotism
+#449	AnnotatorNotes T668	id:4201303
+T669	ClinicalConsequence 30397 30405	ergotism
+#450	AnnotatorNotes T669	id:4201303
+T670	ClinicalConsequence 30865 30873	ergotism
+#451	AnnotatorNotes T670	id:4201303
+T671	ClinicalConsequence 31087 31095	ergotism
+#452	AnnotatorNotes T671	id:4201303
+T672	ClinicalConsequence 31218 31226	overdose
+#453	AnnotatorNotes T672	id:4177136; comment: used SNOMED term "Overdose of carbamazepine"
+T673	Id 31139 31142	232
+T674	ClinicalConsequence 31352 31363	creatinemia
+#454	AnnotatorNotes T674	id:36468416; comment: used MedDRA term "Hypercreatinemia"; not sure if "creatinemia" should be replaced
+T675	Id 31271 31274	233
+T676	SuspectedTypo 31348 31351	the
+#455	AnnotatorNotes T676	comment: remove "the"
+T677	SuspectedTypo 31172 31186	concentrations
+#456	AnnotatorNotes T677	comment: remove the "s" (should be "concentration")
+T678	SuspectedTypo 31329 31340	ciclosporin
+#457	AnnotatorNotes T678	comment: may want to replace with "cyclosporine (ciclosporin)"
+T679	SuspectedTypo 31311 31325	concentrations
+#458	AnnotatorNotes T679	comment: remove the "s" (should be "concentration")
+T680	Id 31365 31368	234
+T681	ClinicalConsequence 31549 31568	torsades de pointes
+#459	AnnotatorNotes T681	id:4135823
+T682	SuspectedTypo 31545 31573	the torsades de pointes type
+#460	AnnotatorNotes T682	comment: remove "the" and "type"; should just be "torsades de pointes"
+T683	Id 31682 31685	236
+T684	Id 31938 31941	238
+T685	Id 32526 32529	244
+T686	Id 32614 32617	245
+T687	Id 32702 32705	246
+T688	Id 32790 32793	247
+T689	Id 32878 32881	248
+T690	Id 32966 32969	249
+T691	Id 33054 33057	250
+T692	Id 33142 33145	251
+T693	Id 33382 33385	253
+T694	Id 33470 33473	254
+T695	Id 33558 33561	255
+T696	Id 33646 33649	256
+T697	Id 33734 33737	257
+T698	ClinicalConsequence 31749 31768	torsades de pointes
+#461	AnnotatorNotes T698	id:4135823
+T699	ClinicalConsequence 32005 32024	torsades de pointes
+#462	AnnotatorNotes T699	id:4135823
+T700	ClinicalConsequence 32593 32612	torsades de pointes
+#463	AnnotatorNotes T700	id:4135823
+T701	ClinicalConsequence 32681 32700	torsades de pointes
+#464	AnnotatorNotes T701	id:4135823
+T702	ClinicalConsequence 32769 32788	torsades de pointes
+#465	AnnotatorNotes T702	id:4135823
+T703	ClinicalConsequence 32857 32876	torsades de pointes
+#466	AnnotatorNotes T703	id:4135823
+T704	ClinicalConsequence 32945 32964	torsades de pointes
+#467	AnnotatorNotes T704	id:4135823
+T705	ClinicalConsequence 33033 33052	torsades de pointes
+#468	AnnotatorNotes T705	id:4135823
+T706	ClinicalConsequence 33121 33140	torsades de pointes
+#469	AnnotatorNotes T706	id:4135823
+T707	ClinicalConsequence 33209 33228	torsades de pointes
+#470	AnnotatorNotes T707	id:4135823
+T708	ClinicalConsequence 33449 33468	torsades de pointes
+#471	AnnotatorNotes T708	id:4135823
+T709	ClinicalConsequence 33537 33556	torsades de pointes
+#472	AnnotatorNotes T709	id:4135823
+T710	ClinicalConsequence 33625 33644	torsades de pointes
+#473	AnnotatorNotes T710	id:4135823
+T711	ClinicalConsequence 33713 33732	torsades de pointes
+#474	AnnotatorNotes T711	id:4135823
+T712	ClinicalConsequence 33801 33820	torsades de pointes
+#475	AnnotatorNotes T712	id:4135823
+T713	ClinicalConsequence 31506 31529	ventricular arrhythmias
+#476	AnnotatorNotes T713	id:4185572
+T714	Id 31575 31578	235
+T715	ClinicalConsequence 31603 31626	ventricular arrhythmias
+#477	AnnotatorNotes T715	id:4185572
+T716	ClinicalConsequence 31710 31733	ventricular arrhythmias
+#478	AnnotatorNotes T716	id:4185572
+T717	ClinicalConsequence 31966 31989	ventricular arrhythmias
+#479	AnnotatorNotes T717	id:4185572
+T718	ClinicalConsequence 32554 32577	ventricular arrhythmias
+#480	AnnotatorNotes T718	id:4185572
+T719	ClinicalConsequence 32642 32665	ventricular arrhythmias
+#481	AnnotatorNotes T719	id:4185572
+T720	ClinicalConsequence 32730 32753	ventricular arrhythmias
+#482	AnnotatorNotes T720	id:4185572
+T721	ClinicalConsequence 32818 32841	ventricular arrhythmias
+#483	AnnotatorNotes T721	id:4185572
+T722	ClinicalConsequence 32906 32929	ventricular arrhythmias
+#484	AnnotatorNotes T722	id:4185572
+T723	ClinicalConsequence 32994 33017	ventricular arrhythmias
+#485	AnnotatorNotes T723	id:4185572
+T724	ClinicalConsequence 33082 33105	ventricular arrhythmias
+#486	AnnotatorNotes T724	id:4185572
+T725	ClinicalConsequence 33170 33193	ventricular arrhythmias
+#487	AnnotatorNotes T725	id:4185572
+T726	ClinicalConsequence 33410 33433	ventricular arrhythmias
+#488	AnnotatorNotes T726	id:4185572
+T727	ClinicalConsequence 33498 33521	ventricular arrhythmias
+#489	AnnotatorNotes T727	id:4185572
+T728	ClinicalConsequence 33586 33609	ventricular arrhythmias
+#490	AnnotatorNotes T728	id:4185572
+T729	ClinicalConsequence 33674 33697	ventricular arrhythmias
+#491	AnnotatorNotes T729	id:4185572
+T730	ClinicalConsequence 33762 33785	ventricular arrhythmias
+#492	AnnotatorNotes T730	id:4185572
+T731	Id 31770 31773	237
+T732	SuspectedTypo 31803 31817	concentrations
+#493	AnnotatorNotes T732	comment: remove the "s" (should be "concentration")
+T733	Id 32026 32029	239
+T734	Id 32115 32118	240
+T735	SuspectedTypo 32059 32073	concentrations
+#494	AnnotatorNotes T735	comment: remove the "s" (should be "concentration")
+T736	SuspectedTypo 32147 32161	concentrations
+#495	AnnotatorNotes T736	comment: remove the "s" (should be "concentration")
+T737	ClinicalConsequence 32485 32503	pulmonary toxicity
+#496	AnnotatorNotes T737	id:36211185; comment: used MedDRA term "pulmonary toxicity"
+T738	Id 32451 32454	243
+T739	ClinicalConsequence 28012 28027	theophyllinemia
+#497	AnnotatorNotes T739	comment: "theophylline overdose" may be more appropriate (id:4175080)
+T740	ClinicalConsequence 32314 32329	theophyllinemia
+#498	AnnotatorNotes T740	comment: "theophylline overdose" may be more appropriate (id:4175080)
+T741	SuspectedTypo 32310 32329	the theophyllinemia
+#499	AnnotatorNotes T741	comment: remove "the"; "theophyllinemia" is not a commonly used term; "theophylline toxicity" or "theophylline overdose" may be more appropriate
+T742	ClinicalConsequence 16954 16969	theophyllinemia
+#500	AnnotatorNotes T742	comment: "theophylline overdose" may be more appropriate (id:4175080)
+T743	ClinicalConsequence 31447 31460	hypoglyclemia
+#501	AnnotatorNotes T743	id:24609
+T744	SuspectedTypo 31447 31460	hypoglyclemia
+#502	AnnotatorNotes T744	comment: misspelling; should be "hypoglycemia"
+T745	ClinicalConsequence 31462 31492	lengthening of the QT interval
+#503	AnnotatorNotes T745	id:4008859; comment: used SNOMED term "Prolonged QT interval"
+T746	ClinicalConsequence 26910 26921	ototoxicity
+#504	AnnotatorNotes T746	id:4236623
+T747	ClinicalConsequence 27724 27734	hemorrhage
+#505	AnnotatorNotes T747	id:4179955
+T748	SuspectedTypo 27700 27723	Increase of the risk of
+#506	AnnotatorNotes T748	comment: awkward; perhaps "Increased risk of"
+T749	Id 27690 27693	205
+T750	SuspectedTypo 27742 27788	addition of the platelet antiagregation action
+#507	AnnotatorNotes T750	comment: awkward; replace with "additive inhibition of platelet aggregation"
+T751	ClinicalConsequence 27928 27936	overdose
+#508	AnnotatorNotes T751	id:4170017; comment: used SNOMED term "phenytoin overdose"
+T752	ClinicalConsequence 30646 30654	Ergotism
+#509	AnnotatorNotes T752	id:4201303
+T753	Id 30636 30639	228
+T754	ClinicalConsequence 28144 28165	peripheral neuropathy
+#510	AnnotatorNotes T754	id:4117779; comment: used SNOMED term "Peripheral nerve disease"
+T755	ClinicalConsequence 28243 28264	peripheral neuropathy
+#511	AnnotatorNotes T755	id:4117779; comment: used SNOMED term "Peripheral nerve disease"
+T756	ClinicalConsequence 28512 28533	peripheral neuropathy
+#512	AnnotatorNotes T756	id:4117779; comment: used SNOMED term "Peripheral nerve disease"
+T757	ClinicalConsequence 32439 32449	hemorrhage
+#513	AnnotatorNotes T757	id:4179955
+T758	Id 32280 32283	241
+T759	Id 32359 32362	242
+T760	ClinicalConsequence 17060 17097	constriction of the coronary arteries
+#514	AnnotatorNotes T760	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T761	ClinicalConsequence 26941 26979	constriction of coronary blood vessels
+#515	AnnotatorNotes T761	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T762	Id 26923 26926	199
+T763	ClinicalConsequence 27612 27667	disorders of sinoatrial and atrioventricular conduction
+#516	AnnotatorNotes T763	id:316999; comment: used SNOMED term "Conduction disorder of the heart"
+T764	Id 27535 27538	204
+T765	ClinicalConsequence 27331 27386	disorders of sinoatrial and atrioventricular conduction
+#517	AnnotatorNotes T765	id:316999; comment: used SNOMED term "Conduction disorder of the heart"
+T766	ClinicalConsequence 27392 27406	cardiac arrest
+#518	AnnotatorNotes T766	id:321042
+T767	ClinicalConsequence 27673 27688	cardiac failure
+#519	AnnotatorNotes T767	id:321042; comment: used SNOMED term "Cardiac arrest"
+T768	Id 27254 27257	202
+T658	ClinicalConsequence 28932 28961	constriction of blood vessels
+#520	AnnotatorNotes T658	id:37320340; comment: used MedDRA term "Vasoconstriction"; based on following entries, should perhaps be "Coronary vasospasm" (id:35227537)
+T769	ClinicalConsequence 29022 29060	constriction of coronary blood vessels
+#521	AnnotatorNotes T769	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T770	ClinicalConsequence 29162 29200	constriction of coronary blood vessels
+#522	AnnotatorNotes T770	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T771	ClinicalConsequence 29300 29338	constriction of coronary blood vessels
+#523	AnnotatorNotes T771	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T772	ClinicalConsequence 29438 29476	constriction of coronary blood vessels
+#524	AnnotatorNotes T772	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T773	ClinicalConsequence 29577 29615	constriction of coronary blood vessels
+#525	AnnotatorNotes T773	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T774	ClinicalConsequence 29716 29754	constriction of coronary blood vessels
+#526	AnnotatorNotes T774	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T775	ClinicalConsequence 29854 29892	constriction of coronary blood vessels
+#527	AnnotatorNotes T775	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T776	ClinicalConsequence 29992 30030	constriction of coronary blood vessels
+#528	AnnotatorNotes T776	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T777	SuspectedTypo 30145 30159	concentrations
+#529	AnnotatorNotes T777	comment: remove the "s" (should be "concentration")
+T778	Id 30112 30115	224
+T779	ClinicalConsequence 30329 30367	constriction of coronary blood vessels
+#530	AnnotatorNotes T779	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T780	ClinicalConsequence 30962 30995	constriction of coronary arteries
+#531	AnnotatorNotes T780	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T781	ClinicalConsequence 31015 31057	constriction of the coronary blood vessels
+#532	AnnotatorNotes T781	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T782	ClinicalConsequence 30793 30835	constriction of the coronary blood vessels
+#533	AnnotatorNotes T782	id:35227537; comment: used MedDRA term "Coronary vasospasm"
+T783	ClinicalConsequence 30467 30496	constriction of blood vessels
+#534	AnnotatorNotes T783	id:37320340; comment: used MedDRA term "Vasoconstriction"; based on previous entries, should perhaps be "Coronary vasospasm" (id:35227537)
+T784	ClinicalConsequence 30561 30590	constriction of blood vessels
+#535	AnnotatorNotes T784	id:37320340; comment: used MedDRA term "Vasoconstriction"; based on previous entries, should perhaps be "Coronary vasospasm" (id:35227537)
+T785	Id 30918 30921	230

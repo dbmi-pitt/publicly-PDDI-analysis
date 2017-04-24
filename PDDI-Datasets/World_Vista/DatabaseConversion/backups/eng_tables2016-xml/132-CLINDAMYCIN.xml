@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>132-CLINDAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+<ATC code="D10AF51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<CLASS name="VITAMIN K ANTAGONISTS" code="B01AA-001" /></DRUG2>
+<DESCRIPTION>Increase of the effect of the Vitamin K antagonist and of the risk of hemorrhage. </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>More frequent testing of the INR. Possible adjustment of the dosage of the vitamin K antagonist during the treatment with the clindamycin and after it is stopped. </COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>132-CLINDAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+<ATC code="D10AF51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="CICLOSPORIN" rxcui="3008">
+<ATC code="L04AD01" />
+<ATC code="S01XA18" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of the immunosuppressant with risk of loss of immunosuppressive activity</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforced testing of the blood dosages of ciclosporin and possible increase of its dosage.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>132-CLINDAMYCIN.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<DRUG name="CLINDAMYCIN" rxcui="2582">
+<ATC code="D10AF01" />
+<ATC code="G01AA10" />
+<ATC code="J01FF01" />
+<ATC code="D10AF51" />
+</DRUG>
+</DRUG1>
+<DRUG2>
+<DRUG name="TACROLIMUS" rxcui="42316">
+<ATC code="D11AH01" />
+<ATC code="L04AD02" />
+<ATC code="L04AD02" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the blood concentrations of the immunosuppressant with risk of loss of immunosuppressive activity</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Reinforced testing of the blood dosages of tacrolimus and possible increase of its dosage.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>

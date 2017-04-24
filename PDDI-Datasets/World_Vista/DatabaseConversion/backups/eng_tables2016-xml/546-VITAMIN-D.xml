@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<INTERACTIONS>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>546-VITAMIN-D.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG1>
+<DRUG2>
+<CLASS name="ANTICONVULSANT ENZYMATIC INDUCERS" code="N03A-001" /></DRUG2>
+<DESCRIPTION>Decrease of the concentrations of vitamin D more noticeable than in the absence of the inducer</DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Concentration dosage of vitamin D and supplementation if necessary.</COMMENT>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>546-VITAMIN-D.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG1>
+<DRUG2>
+<DRUG name="ORLISTAT" rxcui="37925">
+<ATC code="A08AB01" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the absorption of the vitamin D</DESCRIPTION>
+<SEVERITY>Take into account</SEVERITY>
+</INTERACTION>
+<INTERACTION>
+<SOURCE>
+<CLINICAL_SOURCE>ANSM</CLINICAL_SOURCE>
+<SOURCE_FILE>546-VITAMIN-D.html
+</SOURCE_FILE>
+</SOURCE>
+<DRUG1>
+<CLASS name="VITAMIN D" code="A11CC" /></DRUG1>
+<DRUG2>
+<DRUG name="RIFAMPICIN" rxcui="">
+<ATC code="9384" />
+</DRUG>
+</DRUG2>
+<DESCRIPTION>Decrease of the concentrations of vitamin D more noticeable than in the absence of treatment with the rifampacin </DESCRIPTION>
+<SEVERITY>Precaution for use</SEVERITY>
+<COMMENT>Concentration dosage of vitamin D and supplementation if necessary.</COMMENT>
+</INTERACTION>
+</INTERACTIONS>
