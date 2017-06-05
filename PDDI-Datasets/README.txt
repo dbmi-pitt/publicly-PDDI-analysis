@@ -659,6 +659,39 @@ TODO (04/04/2014):
 
 - Bring in Hassanzadeh's mappings once tested and re-export the mappings
 
+
+------------------------------------------------------------
+French DDI Referrals
+------------------------------------------------------------
+
+Date retrieved: Dec 17, 2016
+
+* Dataset and Source Location
+ The dataset was developed by  national drugs institute (ANSM). It can be found at:
+ http://ansm.sante.fr/Dossiers/Interactions-medicamenteuses/Interactions-medicamenteuses/(offset)/0
+
+
+
+The Drugbank Mappings of the dataset was kindly provided by Dr. Sebastien Cossin in December 2016.
+
+* Following are the descriptions for fields used in the FrenchDB drug Interactions:
+# mol2 : drug1
+# mol1 : drug2
+# prota2 : drug2 or therapeutic class of drug2
+# prota1 : drug1 or class of drug1
+# description_interaction : DDI description (associated sometimes with action to be taken)
+# mecanisme : mecanism
+# niveau : level of severity  
+# DB1 : DB code of drug1
+# DB2 : DB code of drug2
+ 
+The initials in Severity level(niveau) column refer to: 
+  # CI (contre indiquee) : Contraindicated
+  # AD (association deconseillee) : avoid if possible
+  # PE (precaution d'emploi) : precaution for use, mainly pharmacocinetic interaction
+  # PC (prendre en compte) : take into account, mainly pharmacodynamic interaction
+
+
 -----------------------------------------------------------------
 HEP, HIV Drug Interactions (January 2016):
 -----------------------------------------------------------------
@@ -670,6 +703,8 @@ HEP, HIV Drug Interactions (January 2016):
 4) A page with the specific interaction will appear. A link at the bottom of the page will be present in a statement like "View all available interactions with <drug> by clicking here." Click on the "here" link.
 5) This will bring a page of all interactions for the drug. Select "view source" in your browser and save the HTML file to the appropriate folder. 
 6) Give the file a name like <drug>_interactions_<drug id>_all.html where <drug> is the drug you selected and <drug id> is and identifier for the drug within the website
+
+
 
 Same process done for HIV-Insite-Drug-Interactions (url: arv.ucsf.edu/insite?page=ar-00-02) but word documents were also created through copying and pasting the tables for each drug under "Search by Antiretroviral Drug". File names were simply the drug name before the parentheses.
 
